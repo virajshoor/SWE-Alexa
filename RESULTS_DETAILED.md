@@ -1,8 +1,12 @@
 # SWE-Alexa detailed results
 
+## System name
+
+**Alexa-Rufus-1** — canonical `model_name` / `model_name_or_path` / `system_name` for all benchmark artifacts in this repo.
+
 ## Goal
 
-Run **at least 40** SWE-bench Verified instances against **Alexa for Shopping** through the **amazon.com web interface**, in parallel, and record code + results in this repository.
+Run **at least 40** SWE-bench Verified instances (and GPQA Diamond) against **Alexa-Rufus-1** (Alexa for Shopping / Rufus on amazon.com) in parallel, and record code + results in this repository.
 
 ## Probe findings (amazon.com)
 
@@ -65,3 +69,20 @@ Same first-40 Verified slice as before (astropy + django IDs listed in `results/
 - `results/run40_live/trajectories/*.json`
 - `results/run40_live/grade/offline_grade.json`
 - `results/run40_live/bootstrap.json`
+
+## GPQA Diamond (`results/gpqa_diamond_merged`)
+
+Quiz-style prompts (`Practice quiz (not shopping)… Reply ONLY A/B/C/D`) via the same Alexa-Rufus-1 web chat.
+
+| Field | Value |
+| --- | --- |
+| System | Alexa-Rufus-1 |
+| Instances | 198 |
+| OK replies / parsed | 198 / 198 |
+| Correct | 76 |
+| Accuracy | 38.4% |
+| Physics | 33 / 86 (38.4%) |
+| Chemistry | 37 / 93 (39.8%) |
+| Biology | 6 / 19 (31.6%) |
+
+Artifacts: `results/gpqa_diamond_merged/{summary.json,preds.jsonl,raw_results.json,trajectories/}`.

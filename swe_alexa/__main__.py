@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from swe_alexa import SYSTEM_NAME
 from swe_alexa.evaluate import grade
 from swe_alexa.gpqa import run_gpqa
 from swe_alexa.runner import bootstrap_session, run_parallel
@@ -37,12 +38,12 @@ def main() -> None:
     r.add_argument("--storage", default="artifacts/amazon_storage.json")
     r.add_argument("--local-json", default="data/verified_50.json")
     r.add_argument("--headed", action="store_true")
-    r.add_argument("--model-name", default="Alexa-Rufus-1")
+    r.add_argument("--model-name", default=SYSTEM_NAME)
 
     g = sub.add_parser("grade", help="Grade SWE-bench preds.jsonl")
     g.add_argument("--preds", required=True)
     g.add_argument("--out", default="results/grade")
-    g.add_argument("--run-id", default="swe-alexa")
+    g.add_argument("--run-id", default=SYSTEM_NAME)
 
     q = sub.add_parser("gpqa", help="Run GPQA Diamond via Alexa for Shopping web chat")
     q.add_argument("--limit", type=int, default=None, help="Max questions (default: all)")

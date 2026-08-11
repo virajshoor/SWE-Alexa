@@ -1,0 +1,20 @@
+{
+  "idx": 170,
+  "record_id": "recGee5m84dg5FZkc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Substances 1-6 undergo an electrophilic substitution reaction with an excess of bromine (it is assumed that only one monobromo derivative is formed): 1) \u04216H5-CH3 2) C6H5-COOC2H5 3) C6H5-Cl 4) C6H5-NO2 5) C6H5-C2H5 6) C6H5-COOH C6H5 - means benzene ring Arrange the substances in order of increasing the weight fraction of the yield of the para-isomer. A)6<2<4<5<1<3 B)4<6<2<1<5<3 C)3<5<1<6<2<4 D)4<2<6<3<1<5 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Substances 1-6 undergo an electrophilic substitution reaction with an excess of bromine (it is assumed that only one monobromo derivative is formed): 1) \u04216H5-CH3 2) C6H5-COOC2H5 3) C6H5-Cl 4) C6H5-NO2 5) C6H5-C2H5 6) C6H5-COOH C6H5 - means benzene ring Arrange the substances in order of increasing the weight fraction of the yield of the para-isomer.\nA)6<2<4<5<1<3\nB)4<6<2<1<5<3\nC)3<5<1<6<2<4\nD)4<2<6<3<1<5\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "6<2<4<5<1<3",
+    "4<6<2<1<5<3",
+    "3<5<1<6<2<4",
+    "4<2<6<3<1<5"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

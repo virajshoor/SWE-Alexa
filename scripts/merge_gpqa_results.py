@@ -65,6 +65,7 @@ def main() -> None:
                     {
                         "idx": r["idx"],
                         "record_id": r.get("record_id"),
+                        "model_name_or_path": r.get("model_name_or_path") or "Alexa-Rufus-1",
                         "predicted_letter": r.get("predicted_letter"),
                         "correct_letter": r.get("correct_letter"),
                         "correct": r.get("correct"),

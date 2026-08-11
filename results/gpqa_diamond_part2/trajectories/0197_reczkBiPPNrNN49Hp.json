@@ -1,0 +1,20 @@
+{
+  "idx": 197,
+  "record_id": "reczkBiPPNrNN49Hp",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:We have a solution containing Co(II) ions and thiocyanate, where the total cobalt concentration is c(Co) = 10^-2 M and the [SCN-] concentration is 0.1 M. The stability constants of the cobalt(II) thiocyanato complexes are \u03b21=9, \u03b22=40, \u03b23=63 and \u03b24=16. What will be the percentage of the blue dithiocyanato cobalt(II) complexes among all cobalt containing species in the solution? A)16.9% B)42.3% C)25.6% D)38.1% ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:We have a solution containing Co(II) ions and thiocyanate, where the total cobalt concentration is c(Co) = 10^-2 M and the [SCN-] concentration is 0.1 M. The stability constants of the cobalt(II) thiocyanato complexes are \u03b21=9, \u03b22=40, \u03b23=63 and \u03b24=16. What will be the percentage of the blue dithiocyanato cobalt(II) complexes among all cobalt containing species in the solution?\nA)16.9%\nB)42.3%\nC)25.6%\nD)38.1%\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "16.9%",
+    "42.3%",
+    "25.6%",
+    "38.1%"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 164,
+  "record_id": "rec47oNPXudlTIk4y",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In an industrial research lab, a scientist performs ethylene polymerization with a homogeneous organometallic catalyst system, generating a polymer of high density. He intends to add a second catalyst system to introduce regular branches in the polymer backbone, also only using ethylene as the reactant. He consults a senior scientist, who gives the following stateme\u2026 A)Certain nob\u2026 B)One can use\u2026 C)Aluminum-ba\u2026 D)Such combin\u2026 ANSWER:\nI'm not able to help with quizzes or academic exercises \u2014 I'm here to assist with your Amazon shopping needs. Is there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In an industrial research lab, a scientist performs ethylene polymerization with a homogeneous organometallic catalyst system, generating a polymer of high density. He intends to add a second catalyst system to introduce regular branches in the polymer backbone, also only using ethylene as the reactant. He consults a senior scientist, who gives the following stateme\u2026\nA)Certain nob\u2026\nB)One can use\u2026\nC)Aluminum-ba\u2026\nD)Such combin\u2026\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "Certain noble metal catalysts can be used but are too expensive.",
+    "One can use a catalyst of a group VIa transition metal in combination with specific activators.",
+    "Aluminum-based activators do not work for the essential additional reaction step.",
+    "Such combined systems are already implemented on an industrial scale in the US."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

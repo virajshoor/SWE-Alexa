@@ -1,0 +1,20 @@
+{
+  "idx": 171,
+  "record_id": "recINGR1z01Fh1Z3A",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two stars are being studied. It has been observed that iron atoms in the photosphere of star_1 are twice as excited in a specific energy level when compared to the iron atoms in star_2. In fact, the energy difference between the considered energy levels was determined to be approximately 1.38 x 10^(-23) J. Assuming that the stellar photospheres are in LTE, which of \u2026 A)ln(2) = [ (\u2026 B)ln(2) = [ (\u2026 C)ln(2) = [ (\u2026 D)ln(2) = [ T\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two stars are being studied. It has been observed that iron atoms in the photosphere of star_1 are twice as excited in a specific energy level when compared to the iron atoms in star_2. In fact, the energy difference between the considered energy levels was determined to be approximately 1.38 x 10^(-23) J. Assuming that the stellar photospheres are in LTE, which of \u2026\nA)ln(2) = [ (\u2026\nB)ln(2) = [ (\u2026\nC)ln(2) = [ (\u2026\nD)ln(2) = [ T\u2026\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "ln(2) = [ (T_1 - T_2) / (T1*T2)^2 ]\n",
+    "ln(2) = [ (T_1 - T_2) / (T1*T2)]\n",
+    "ln(2) = [ (T_1 + T_2) / (T1*T2)]\n",
+    "ln(2) = [ T_2 / T_1]\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

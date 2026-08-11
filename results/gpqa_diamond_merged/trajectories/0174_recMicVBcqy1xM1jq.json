@@ -1,0 +1,20 @@
+{
+  "idx": 174,
+  "record_id": "recMicVBcqy1xM1jq",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider an oscillating charge distribution, which is spheroid in shape (with the symmetry axis along z-axis). Because it oscillates, it would radiate at a wavelength \\lambda. In the radiation zone, the radiated power per unit solid angle will be a function f of \\lambda and the angle \\theta (with z-axis), along which the power is measured. If the maximum power thus \u2026 A)1/4, \\lambd\u2026 B)1/2, \\lambd\u2026 C)3/4, \\lambd\u2026 D)1/4, \\lambd\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider an oscillating charge distribution, which is spheroid in shape (with the symmetry axis along z-axis). Because it oscillates, it would radiate at a wavelength \\lambda. In the radiation zone, the radiated power per unit solid angle will be a function f of \\lambda and the angle \\theta (with z-axis), along which the power is measured. If the maximum power thus \u2026\nA)1/4, \\lambd\u2026\nB)1/2, \\lambd\u2026\nC)3/4, \\lambd\u2026\nD)1/4, \\lambd\u2026\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "1/4, \\lambda^(-3)",
+    "1/2, \\lambda^(-4)",
+    "3/4, \\lambda^(-6)",
+    "1/4, \\lambda^(-4)"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 176,
+  "record_id": "recRZjaElf8ft7xTq",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are interested in the luminosities of two stars. Star_1 has a radius 1.5 times larger than that of Star_2. The mass of Star_1 is also larger by the same factor (1.5 times). Through spectroscopy, the astronomers managed to determine the wavelengths at which the stars appeared brightest, and found that they are the same. Astronomers also calculated the radial velocities of the two st\u2026 A)~2.23 B)~2.35 C)~2.32 D)~2.25 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are interested in the luminosities of two stars. Star_1 has a radius 1.5 times larger than that of Star_2. The mass of Star_1 is also larger by the same factor (1.5 times). Through spectroscopy, the astronomers managed to determine the wavelengths at which the stars appeared brightest, and found that they are the same. Astronomers also calculated the radial velocities of the two st\u2026\nA)~2.23\nB)~2.35\nC)~2.32\nD)~2.25\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "~2.23\n",
+    "~2.35",
+    "~2.32",
+    "~2.25"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

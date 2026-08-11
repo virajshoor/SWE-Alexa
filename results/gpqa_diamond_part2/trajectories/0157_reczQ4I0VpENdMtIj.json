@@ -1,0 +1,20 @@
+{
+  "idx": 157,
+  "record_id": "reczQ4I0VpENdMtIj",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In an inactive state, a transcription factor subunit awaits an activation signal from the membrane phosphorylation cascade. Upon phosphorylation on the Ser residues in the transactivation domain, it dimerizes, shuttles into the nucleus, and serves in gene transcription. A missense mutation X in the transactivation domain is a recessive loss-of-function mutation. You\u2026 A)loss of pro\u2026 B)change of p\u2026 C)protein deg\u2026 D)protein agg\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In an inactive state, a transcription factor subunit awaits an activation signal from the membrane phosphorylation cascade. Upon phosphorylation on the Ser residues in the transactivation domain, it dimerizes, shuttles into the nucleus, and serves in gene transcription. A missense mutation X in the transactivation domain is a recessive loss-of-function mutation. You\u2026\nA)loss of pro\u2026\nB)change of p\u2026\nC)protein deg\u2026\nD)protein agg\u2026\nANSWER:",
+  "subdomain": "Genetics",
+  "domain": "Biology",
+  "choices": [
+    "loss of protein dimerization and wild-type phenotype",
+    "change of protein conformation and gain-of-function phenotype",
+    "protein degradation and loss-of-function of the wild-type allele",
+    "protein aggregation and loss-of-function phenotype"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

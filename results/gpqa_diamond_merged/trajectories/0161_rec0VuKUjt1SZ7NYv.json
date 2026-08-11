@@ -1,0 +1,20 @@
+{
+  "idx": 161,
+  "record_id": "rec0VuKUjt1SZ7NYv",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider the following metric: ds^{2}=\\frac{32}{\\left(4-x^{2}-y^{2}\\right)}\\left(dx^{2}+dy^{2}\\right) What is the area of the pseudosphere of radius r=2? PS: for the maths use a LaTeX editor. A)4\\pi\\left(x^{2}-y^{2}\\right) B)4\\pi\\left(x^{2}+y^{2}\\right) C)+\\infty D)0 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider the following metric: ds^{2}=\\frac{32}{\\left(4-x^{2}-y^{2}\\right)}\\left(dx^{2}+dy^{2}\\right) What is the area of the pseudosphere of radius r=2? PS: for the maths use a LaTeX editor.\nA)4\\pi\\left(x^{2}-y^{2}\\right)\nB)4\\pi\\left(x^{2}+y^{2}\\right)\nC)+\\infty\nD)0\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "4\\pi\\left(x^{2}-y^{2}\\right)",
+    "4\\pi\\left(x^{2}+y^{2}\\right)",
+    "+\\infty",
+    "0"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

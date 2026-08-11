@@ -1,0 +1,20 @@
+{
+  "idx": 195,
+  "record_id": "recywRj5a8EEjj2Ib",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a 1-dimensional relativistic harmonic oscillator with mass $m$ and maximum amplitude $A$ obeying Hook's law ($F=-kx$). What is the maximum speed $v_max$ of the mass? The speed of light is $c$. A)$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2mc^2})}}$ B)$v_{max}=\\sqrt{\\frac{kA^2}{m}}$ C)$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2m})^2}}$ D)$v_{max}=c\\sqrt{1-\\frac{1}{(1+\\frac{kA^2}{2mc^2})^2}}$ ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a 1-dimensional relativistic harmonic oscillator with mass $m$ and maximum amplitude $A$ obeying Hook's law ($F=-kx$). What is the maximum speed $v_max$ of the mass? The speed of light is $c$.\nA)$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2mc^2})}}$\nB)$v_{max}=\\sqrt{\\frac{kA^2}{m}}$\nC)$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2m})^2}}$\nD)$v_{max}=c\\sqrt{1-\\frac{1}{(1+\\frac{kA^2}{2mc^2})^2}}$\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2mc^2})}}$",
+    "$v_{max}=\\sqrt{\\frac{kA^2}{m}}$",
+    "$v_{max}=c\\sqrt{1+\\frac{1}{(1-\\frac{kA^2}{2m})^2}}$",
+    "$v_{max}=c\\sqrt{1-\\frac{1}{(1+\\frac{kA^2}{2mc^2})^2}}$"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

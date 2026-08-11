@@ -1,0 +1,20 @@
+{
+  "idx": 179,
+  "record_id": "recUc29lMDBEvurYo",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider an isolated system of 13 identical particles each with charge 2e and negligible mass. 12 of these charges are constrained to stay at 2 m from a point P. The 13th charge is fixed at P. What is the minimum energy (in Joules) of this system correct to three decimals? A)7.056 x 10^-27 B)5.645 x 10^-26 C)2.822 x 10^-26 D)122.330 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider an isolated system of 13 identical particles each with charge 2e and negligible mass. 12 of these charges are constrained to stay at 2 m from a point P. The 13th charge is fixed at P. What is the minimum energy (in Joules) of this system correct to three decimals?\nA)7.056 x 10^-27\nB)5.645 x 10^-26\nC)2.822 x 10^-26\nD)122.330\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "7.056 x 10^-27",
+    "5.645 x 10^-26",
+    "2.822 x 10^-26",
+    "122.330"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

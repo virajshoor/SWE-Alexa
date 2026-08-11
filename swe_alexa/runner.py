@@ -13,6 +13,7 @@ from typing import Any
 from datasets import load_dataset
 from tqdm import tqdm
 
+from swe_alexa import SYSTEM_NAME
 from swe_alexa.alexa_client import AlexaShoppingClient
 from swe_alexa.patch_extract import extract_patch
 from swe_alexa.prompts import build_prompt
@@ -155,7 +156,7 @@ def run_parallel(
     headless: bool = True,
     wait_s: float = 45.0,
     out_dir: str = "results",
-    model_name: str = "Alexa-Rufus-1",
+    model_name: str = SYSTEM_NAME,
     local_json: str | None = "data/verified_50.json",
     storage_state: str = "artifacts/amazon_storage.json",
 ) -> dict[str, Any]:

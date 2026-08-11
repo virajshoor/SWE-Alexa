@@ -1,0 +1,20 @@
+{
+  "idx": 154,
+  "record_id": "recyPffUDqC2k7ZZO",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Imagine an operator $\\vec{P}$ of a system have components $P_x, P_y$ and $P_z$. The matrix form of the operator $P_x$ has components in the first row as $(0, \\hbar/\\sqrt{2}, 0)$, that in the second row as $(\\hbar/\\sqrt{2}, 0, \\hbar/\\sqrt{2})$ and that in the third row as $(0,\\hbar/\\sqrt{2},0)$. The matrix form of the operator $P_y$ has components in the first row as $(0, -i \\hb\u2026 A)\\hbar/2 B)\\sqrt{2}\\hb\u2026 C)\\hbar/\\sqrt\u2026 D)\\hbar ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Imagine an operator $\\vec{P}$ of a system have components $P_x, P_y$ and $P_z$. The matrix form of the operator $P_x$ has components in the first row as $(0, \\hbar/\\sqrt{2}, 0)$, that in the second row as $(\\hbar/\\sqrt{2}, 0, \\hbar/\\sqrt{2})$ and that in the third row as $(0,\\hbar/\\sqrt{2},0)$. The matrix form of the operator $P_y$ has components in the first row as $(0, -i \\hb\u2026\nA)\\hbar/2\nB)\\sqrt{2}\\hb\u2026\nC)\\hbar/\\sqrt\u2026\nD)\\hbar\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "\\hbar/2",
+    "\\sqrt{2}\\hbar",
+    "\\hbar/\\sqrt{2}\n",
+    "\\hbar\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

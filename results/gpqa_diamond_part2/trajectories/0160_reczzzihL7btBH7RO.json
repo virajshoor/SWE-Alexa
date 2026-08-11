@@ -1,0 +1,20 @@
+{
+  "idx": 160,
+  "record_id": "reczzzihL7btBH7RO",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:While designing a high-resolution transmission electron microscope operating at an accelerating voltage of 1000 kV, Mike connected vacuum pumps to create an ultra-high vacuum state (< 10^-9 Torr) in the sample compartment, aiming to minimize the presence of gas molecules for improved electron microscopy. However, as expected, some gas particles remained inside the compar\u2026 A)\u03bb2 >= 1.22*\u2026 B)\u03bb2 < \u03bb1 C)\u03bb2 = \u03bb1, in\u2026 D)\u03bb1 < \u03bb2 < 1\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, general knowledge, and more \u2014 but I'm not able to assist with quiz questions or academic exercises. If there's something I can help you find on Amazon, I'm happy to help!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:While designing a high-resolution transmission electron microscope operating at an accelerating voltage of 1000 kV, Mike connected vacuum pumps to create an ultra-high vacuum state (< 10^-9 Torr) in the sample compartment, aiming to minimize the presence of gas molecules for improved electron microscopy. However, as expected, some gas particles remained inside the compar\u2026\nA)\u03bb2 >= 1.22*\u2026\nB)\u03bb2 < \u03bb1\nC)\u03bb2 = \u03bb1, in\u2026\nD)\u03bb1 < \u03bb2 < 1\u2026\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "\u03bb2 >= 1.22*\u03bb1",
+    "\u03bb2 < \u03bb1",
+    "\u03bb2 = \u03bb1, indicating a discrepancy in Mike's observation",
+    "\u03bb1 < \u03bb2 < 1.22*\u03bb1"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

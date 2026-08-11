@@ -1,0 +1,20 @@
+{
+  "idx": 188,
+  "record_id": "recgC4GJ8wUemlUQD",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following (effective) particles is not associated with a spontaneously-broken symmetry? A)Phonon B)Pion C)Magnon D)Skyrmion ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following (effective) particles is not associated with a spontaneously-broken symmetry?\nA)Phonon\nB)Pion\nC)Magnon\nD)Skyrmion\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "Phonon",
+    "Pion",
+    "Magnon",
+    "Skyrmion"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

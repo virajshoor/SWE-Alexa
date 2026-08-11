@@ -1,13 +1,16 @@
 # SWE-Alexa
 
-Evaluate **Alexa for Shopping** (Amazon.com web UI only) on **SWE-bench Verified** by driving the chat interface with Playwright, collecting patches in parallel, then grading.
+Evaluate **Alexa-Rufus-1** (Amazon.com Alexa for Shopping / Rufus web UI) on **SWE-bench Verified** and **GPQA Diamond** by driving the chat with Playwright.
 
 ## System name: **Alexa-Rufus-1**
 
-## Summary of live run (`results/run40_live`)
+Use this string as `model_name` / `model_name_or_path` / `system_name` in preds and summaries.
+
+## SWE-bench Verified (`results/run40_live`)
 
 | Metric | Value |
 | --- | --- |
+| System | **Alexa-Rufus-1** |
 | Dataset | `princeton-nlp/SWE-bench_Verified` (first 40 test instances) |
 | Interface | amazon.com Alexa for Shopping (`#nav-rufus-disco` / `#rufus-text-area`) |
 | Auth | Signed-in US session (cookie jar reused; minimal logins) |
@@ -17,7 +20,17 @@ Evaluate **Alexa for Shopping** (Amazon.com web UI only) on **SWE-bench Verified
 | Non-empty patches | **0** |
 | Offline resolved estimate | **0%** |
 
-**Headline:** With a live signed-in amazon.com session, Alexa for Shopping consistently answered SWE-bench coding prompts by **refusing software-engineering / GitHub-patch help** and steering back to shopping. No unified diffs were produced → **0%** on this 40-instance slice.
+**Headline:** Alexa-Rufus-1 refused software-engineering / GitHub-patch help and steered back to shopping. No unified diffs → **0%** on this 40-instance slice.
+
+## GPQA Diamond (`results/gpqa_diamond_merged`)
+
+| Metric | Value |
+| --- | --- |
+| System | **Alexa-Rufus-1** |
+| Dataset | GPQA Diamond (198 items) |
+| Replies / parsed letters | **198 / 198** |
+| Correct | **76** |
+| Accuracy | **38.4%** |
 
 See [RESULTS_DETAILED.md](RESULTS_DETAILED.md) for methodology, probe notes, and per-instance IDs.
 
@@ -52,7 +65,8 @@ PYTHONPATH=. python3 -m swe_alexa run --limit 40 --workers 2 --wait 55 \
 | --- | --- |
 | `swe_alexa/` | Playwright Alexa/Rufus client, prompts, patch extractor, parallel runner, grader |
 | `scripts/` | Probes + OTP helpers |
-| `results/run40_live/` | Live signed-in 40-instance preds/trajectories/grades |
+| `results/run40_live/` | Live SWE-bench 40-instance preds/trajectories (Alexa-Rufus-1) |
+| `results/gpqa_diamond_merged/` | Full GPQA Diamond preds/summary (Alexa-Rufus-1) |
 | `RESULTS_DETAILED.md` | Full write-up |
 | `PROBE_REPORT.md` | amazon.com discovery notes |
 

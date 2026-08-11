@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 artifacts/amazon_storage.json
+artifacts/amazon_storage*.json
 artifacts/probe/*.html
 results/**/screenshots/
 *.png

@@ -14,6 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 from swe_alexa.alexa_client import AlexaShoppingClient
+from . import SYSTEM_NAME
 
 GPQA_CSV_DEFAULT = "data/gpqa_diamond.csv"
 ANSWER_PATTERNS = [
@@ -135,7 +136,7 @@ class GPQAResult:
     prompt: str
     subdomain: str
     domain: str
-    model_name: str = "Alexa-Rufus-1"
+    model_name: str = SYSTEM_NAME
 
 
 def _worker(
@@ -328,8 +329,8 @@ def run_gpqa(
     n_pred = sum(1 for r in results if r.predicted_letter)
     summary = {
         "benchmark": "GPQA-Diamond",
-        "system_name": "Alexa-Rufus-1",
-        "model_name": "Alexa-Rufus-1",
+        "system_name": SYSTEM_NAME,
+        "model_name": SYSTEM_NAME,
         "n_instances": n,
         "n_ok_replies": sum(1 for r in results if r.ok),
         "n_parsed_letters": n_pred,
@@ -363,6 +364,7 @@ def run_gpqa(
                     {
                         "idx": r.idx,
                         "record_id": r.record_id,
+                        "model_name_or_path": SYSTEM_NAME,
                         "predicted_letter": r.predicted_letter,
                         "correct_letter": r.correct_letter,
                         "correct": r.correct,

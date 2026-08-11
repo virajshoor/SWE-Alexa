@@ -1,0 +1,38 @@
+{
+  "benchmark": "GPQA-Diamond",
+  "n_instances": 144,
+  "n_ok_replies": 144,
+  "n_parsed_letters": 144,
+  "n_correct": 53,
+  "accuracy": 0.3680555555555556,
+  "accuracy_among_parsed": 0.3680555555555556,
+  "workers": 2,
+  "bootstrap": {
+    "storage_state": "artifacts/amazon_storage.json",
+    "account": "Hello, Viraj",
+    "logged_in": true,
+    "alexa_opened": true,
+    "probe_ok": true,
+    "probe_pred": "B",
+    "probe_text": " while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). 2+2=? A)3 B)4 C)5 D)6 Reply ONLY one letter A/B/C/D. ANSWER:\nB\n2 + 2 = 4. Is there anything else I can help you with today \u2014 perhaps finding a product on Amazon?\nScheduled actions\nAutomate shopping, discovery, and savings"
+  },
+  "by_domain": {
+    "Chemistry": {
+      "n": 66,
+      "correct": 27,
+      "accuracy": 0.4090909090909091
+    },
+    "Physics": {
+      "n": 65,
+      "correct": 23,
+      "accuracy": 0.35384615384615387
+    },
+    "Biology": {
+      "n": 13,
+      "correct": 3,
+      "accuracy": 0.23076923076923078
+    }
+  },
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1"
+}

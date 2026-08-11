@@ -1,0 +1,20 @@
+{
+  "idx": 178,
+  "record_id": "recRhwQwHijW0gCLo",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The study of quantum mechanics deals with a lot of matrices. Consider the following matrices. W = (0, 0, 1; 0, 1, 0; 1, 0, 0), X = (i, -1, 2i; 1, 0, 1; 2i, -1, -i), Y = (0.5, 0.1, 0.2; 0.1, 0.25, 0.1; 0.2, 0.1, 0.25) Z - (3, 2i, 5; -2i, -2, -4i; 5, 4i, 4) Note. The matrices are formatted such that each row of the matrix is separated by a semicolon. Based on these ma\u2026 A)Z and X rep\u2026 B)There exist\u2026 C)W and X rep\u2026 D)(e^X)*Y*(e^\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The study of quantum mechanics deals with a lot of matrices. Consider the following matrices. W = (0, 0, 1; 0, 1, 0; 1, 0, 0), X = (i, -1, 2i; 1, 0, 1; 2i, -1, -i), Y = (0.5, 0.1, 0.2; 0.1, 0.25, 0.1; 0.2, 0.1, 0.25) Z - (3, 2i, 5; -2i, -2, -4i; 5, 4i, 4) Note. The matrices are formatted such that each row of the matrix is separated by a semicolon. Based on these ma\u2026\nA)Z and X rep\u2026\nB)There exist\u2026\nC)W and X rep\u2026\nD)(e^X)*Y*(e^\u2026\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "Z and X represent observables.",
+    "There exists a vector to which if one multiplies e^X, the norm of the vector changes.",
+    "W and X represent the evolution operator of some quantum system.",
+    "(e^X)*Y*(e^{-X}) represents a quantum state."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 177,
+  "record_id": "recReg13iV2HwJTaA",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Given the following Lagrangian \\mathcal{L}_{int}=\\kappa\\bar{\\psi}\\sigma_{\\mu\\nu}\\psi F^{\\mu\\nu} where \\sigma_{\\mu\\nu}=\\frac{i}{2}\\left[\\gamma_{\\mu},\\gamma_{\\nu}\\right]. What is the mass dimension of \\kappa? Is the theory renormalizable? A)The mass dimension \\left[\\kappa\\right]_{M}\u2026 B)The mass dimension \\left[\\kappa\\right]_{M}\u2026 C)The mass dimension \\left[\\kappa\\right]_{M}\u2026 D)The mass dimension \\left[\\kappa\\right]_{M}\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Given the following Lagrangian \\mathcal{L}_{int}=\\kappa\\bar{\\psi}\\sigma_{\\mu\\nu}\\psi F^{\\mu\\nu} where \\sigma_{\\mu\\nu}=\\frac{i}{2}\\left[\\gamma_{\\mu},\\gamma_{\\nu}\\right]. What is the mass dimension of \\kappa? Is the theory renormalizable?\nA)The mass dimension \\left[\\kappa\\right]_{M}\u2026\nB)The mass dimension \\left[\\kappa\\right]_{M}\u2026\nC)The mass dimension \\left[\\kappa\\right]_{M}\u2026\nD)The mass dimension \\left[\\kappa\\right]_{M}\u2026\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "The mass dimension \\left[\\kappa\\right]_{M}=-1. The theory is renormalizable.",
+    "The mass dimension \\left[\\kappa\\right]_{M}=1. The theory is renormalizable.",
+    "The mass dimension \\left[\\kappa\\right]_{M}=1. The theory is not renormalizable.",
+    "The mass dimension \\left[\\kappa\\right]_{M}=-1. The theory is not renormalizable."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 180,
+  "record_id": "recVE8cUNHpHZIAvL",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Very large number of neutrinos produced by the Sun reach the Earth (very large flux of neutrinos, defined as the number of neutrinos per cm^2, per second). Let us assume that, hypothetically, the pp-III branch suddenly stopped in the core of the Sun about 8 and a half minutes ago, while all other reactions remained as they were. What would be the approximate ratio of the flux between \u2026 A)0.1 (10^-1). B)0.01 (10^-2\u2026 C)1. D)10. ANSWER:\nI'm happy to direct you to Amazon Customer Service. Visit the following page to get started.\nCustomer Service\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Very large number of neutrinos produced by the Sun reach the Earth (very large flux of neutrinos, defined as the number of neutrinos per cm^2, per second). Let us assume that, hypothetically, the pp-III branch suddenly stopped in the core of the Sun about 8 and a half minutes ago, while all other reactions remained as they were. What would be the approximate ratio of the flux between \u2026\nA)0.1 (10^-1).\nB)0.01 (10^-2\u2026\nC)1.\nD)10.\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "0.1 (10^-1).",
+    "0.01 (10^-2).",
+    "1.",
+    "10."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

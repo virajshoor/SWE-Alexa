@@ -1,0 +1,20 @@
+{
+  "idx": 192,
+  "record_id": "recwW1A85nfyQpReG",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In a specific region of the sky, astronomers have observed that the number of stars varies with parallax as 1/plx^5. How does the number of stars in that region of the sky change with distance (per unit range of distance, r)? A)~ r^2 B)~ r^3 C)~ r^4 D)~ r^5 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In a specific region of the sky, astronomers have observed that the number of stars varies with parallax as 1/plx^5. How does the number of stars in that region of the sky change with distance (per unit range of distance, r)?\nA)~ r^2\nB)~ r^3\nC)~ r^4\nD)~ r^5\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~ r^2",
+    "~ r^3",
+    "~ r^4",
+    "~ r^5"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

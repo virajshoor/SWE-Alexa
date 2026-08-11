@@ -1,0 +1,28 @@
+{
+  "benchmark": "GPQA-Diamond",
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "n_instances": 54,
+  "n_ok_replies": 54,
+  "n_parsed_letters": 54,
+  "n_correct": 23,
+  "accuracy": 0.42592592592592593,
+  "accuracy_among_parsed": 0.42592592592592593,
+  "by_domain": {
+    "Physics": {
+      "n": 21,
+      "correct": 10,
+      "accuracy": 0.47619047619047616
+    },
+    "Chemistry": {
+      "n": 27,
+      "correct": 10,
+      "accuracy": 0.37037037037037035
+    },
+    "Biology": {
+      "n": 6,
+      "correct": 3,
+      "accuracy": 0.5
+    }
+  }
+}
