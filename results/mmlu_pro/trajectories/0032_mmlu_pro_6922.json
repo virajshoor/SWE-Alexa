@@ -1,0 +1,23 @@
+{
+  "idx": 32,
+  "record_id": "mmlu_pro_6922",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "They can reflect large differences in potential output",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Why are slight differences in growth rate percentages so important? A)They can reflect large differences in potential output B)They represent the country's GDP C)They determine the exact size of the workforce D)They indicate the rate of technological innovation ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Why are slight differences in growth rate percentages so important?\nA)They can reflect large differences in potential output\nB)They represent the country's GDP\nC)They determine the exact size of the workforce\nD)They indicate the rate of technological innovation\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "They can reflect large differences in potential output",
+    "They represent the country's GDP",
+    "They determine the exact size of the workforce",
+    "They indicate the rate of technological innovation"
+  ]
+}

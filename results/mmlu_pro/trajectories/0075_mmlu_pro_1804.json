@@ -1,0 +1,23 @@
+{
+  "idx": 75,
+  "record_id": "mmlu_pro_1804",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Neither burglary nor attempted violation of the statute.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student was a practical joker who liked to perform zany antics. Late at night after studying, he would often walk around the campus dressed only in a raincoat and boxers. As he approached young women, he would flash them by opening his raincoat and exposing himself in his shorts. The student believed that he was committing a crime by flashing himself in front of t\u2026 A)Neither bur\u2026 B)Trespassing\u2026 C)Both indece\u2026 D)Both burgla\u2026 ANSWER:\nA\nIs there anything else I can help you with today, like finding products on Amazon?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student was a practical joker who liked to perform zany antics. Late at night after studying, he would often walk around the campus dressed only in a raincoat and boxers. As he approached young women, he would flash them by opening his raincoat and exposing himself in his shorts. The student believed that he was committing a crime by flashing himself in front of t\u2026\nA)Neither bur\u2026\nB)Trespassing\u2026\nC)Both indece\u2026\nD)Both burgla\u2026\nANSWER:",
+  "domain": "law",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Neither burglary nor attempted violation of the statute.",
+    "Trespassing only.",
+    "Both indecent exposure and attempted violation of the statute.",
+    "Both burglary and trespassing."
+  ]
+}

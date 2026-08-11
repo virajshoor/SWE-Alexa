@@ -1,0 +1,23 @@
+{
+  "idx": 63,
+  "record_id": "7-787",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct_answer": "plant reproduction parts",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:what are eaten by honey producing insects? A)plant reproduction parts B)they eat cows C)they consume plants D)they eat flowers ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:what are eaten by honey producing insects?\nA)plant reproduction parts\nB)they eat cows\nC)they consume plants\nD)they eat flowers\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "plant reproduction parts",
+    "they eat cows",
+    "they consume plants",
+    "they eat flowers"
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://virajshoor.github.io/SWE-Alexa/sitemap.xml

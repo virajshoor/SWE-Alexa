@@ -1,0 +1,22 @@
+{
+  "steps": [
+    {
+      "url": "https://www.amazon.com/",
+      "candidates": []
+    },
+    {
+      "url": "https://www.amazon.com/?language=en_US",
+      "candidates": []
+    },
+    {
+      "url": "https://www.amazon.com/alexa-shopping",
+      "candidates": []
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G202211260",
+      "candidates": []
+    }
+  ],
+  "search_url": "https://www.amazon.com/s?k=What+is+a+good+wireless+mouse+under+%2430%3F&crid=3F83GXDU21AQA&sprefix=what+is+a+good+wireless+mouse+under+%2430+%2Caps%2C66&ref=nb_sb_noss",
+  "search_candidates": []
+}

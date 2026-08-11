@@ -1,0 +1,23 @@
+{
+  "idx": 61,
+  "record_id": "9-1030",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct_answer": "sensing views",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The viewing oriented sensor of a prairie creature are for what? A)viewing sounds B)sensing views C)sensing tastes D)reproductive purposes ANSWER:\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The viewing oriented sensor of a prairie creature are for what?\nA)viewing sounds\nB)sensing views\nC)sensing tastes\nD)reproductive purposes\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "viewing sounds",
+    "sensing views",
+    "sensing tastes",
+    "reproductive purposes"
+  ]
+}

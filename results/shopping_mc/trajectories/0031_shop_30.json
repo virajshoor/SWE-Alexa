@@ -1,0 +1,23 @@
+{
+  "idx": 31,
+  "record_id": "shop_30",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Buyer ratings of seller transactions",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is a seller 'feedback' score mainly about? A)Buyer ratings of seller transactions B)UPS truck paint color C)Warehouse temperature D)Prime Video ratings only ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is a seller 'feedback' score mainly about?\nA)Buyer ratings of seller transactions\nB)UPS truck paint color\nC)Warehouse temperature\nD)Prime Video ratings only\nANSWER:",
+  "domain": "seller",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Buyer ratings of seller transactions",
+    "UPS truck paint color",
+    "Warehouse temperature",
+    "Prime Video ratings only"
+  ]
+}

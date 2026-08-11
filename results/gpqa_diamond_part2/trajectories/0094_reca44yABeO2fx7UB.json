@@ -1,0 +1,20 @@
+{
+  "idx": 94,
+  "record_id": "reca44yABeO2fx7UB",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:3,3,6-trimethylhepta-1,5-dien-4-one is treated with 1 equivalent of meta-chloroperbenzoic acid. Two different products are formed, in approximately a 1:1 ratio. In a separate vessel, Methyllithium is treated with copper(I)iodide. an excess of the resulting solution is slowly added to the product mixture of the first reaction. Name one product that will be formed by \u2026 A)4,4,5,7,7-p\u2026 B)2,3,4,5,5-p\u2026 C)5-hydroxy-3\u2026 D)6-hydroxy-2\u2026 ANSWER:\nI'm not able to help with that, but I'd love to assist you with any shopping questions you have on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:3,3,6-trimethylhepta-1,5-dien-4-one is treated with 1 equivalent of meta-chloroperbenzoic acid. Two different products are formed, in approximately a 1:1 ratio. In a separate vessel, Methyllithium is treated with copper(I)iodide. an excess of the resulting solution is slowly added to the product mixture of the first reaction. Name one product that will be formed by \u2026\nA)4,4,5,7,7-p\u2026\nB)2,3,4,5,5-p\u2026\nC)5-hydroxy-3\u2026\nD)6-hydroxy-2\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "4,4,5,7,7-pentamethyloctane-3,5-diol",
+    "2,3,4,5,5-pentamethylhept-6-ene-2,4-diol",
+    "5-hydroxy-3,3,6,6-tetramethylhept-1-en-4-one",
+    "6-hydroxy-2,2,5,5-tetramethyloctan-4-one"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

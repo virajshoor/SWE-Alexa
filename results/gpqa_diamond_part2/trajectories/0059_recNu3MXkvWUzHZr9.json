@@ -1,0 +1,20 @@
+{
+  "idx": 59,
+  "record_id": "recNu3MXkvWUzHZr9",
+  "correct_letter": "D",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An intelligent civilization in the Large Magellanic Cloud has engineered an extraordinary spacecraft capable of traveling at a substantial fraction of the speed of light. The average lifetime of these aliens is roughly 150 solar years. Now, having Earth as their destination in mind, they are determined to travel with this spacecraft at a constant speed of 0.99999987*c, where c \u2026 A)77 years B)The astrona\u2026 C)72 years D)81 years ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An intelligent civilization in the Large Magellanic Cloud has engineered an extraordinary spacecraft capable of traveling at a substantial fraction of the speed of light. The average lifetime of these aliens is roughly 150 solar years. Now, having Earth as their destination in mind, they are determined to travel with this spacecraft at a constant speed of 0.99999987*c, where c \u2026\nA)77 years\nB)The astrona\u2026\nC)72 years\nD)81 years\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "77 years",
+    "The astronaut will die before reaching to the Earth.\n",
+    "72 years",
+    "81 years"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

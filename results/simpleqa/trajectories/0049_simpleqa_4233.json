@@ -1,0 +1,18 @@
+{
+  "idx": 49,
+  "record_id": "simpleqa_4233",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "17",
+  "predicted_answer": "I don't have a verified specific number of stitches for that incident in my knowledge base. I wouldn't want to guess and give you an inaccurate quiz answer \u2014 you may want to double-check a reliable source for that one!",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:How many stitches did John Lennon get as a result of his Aston Martin crash? ANSWER:\nI don't have a verified specific number of stitches for that incident in my knowledge base. I wouldn't want to guess and give you an inaccurate quiz answer \u2014 you may want to double-check a reliable source for that one!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:How many stitches did John Lennon get as a result of his Aston Martin crash?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

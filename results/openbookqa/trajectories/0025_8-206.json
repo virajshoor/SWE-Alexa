@@ -1,0 +1,23 @@
+{
+  "idx": 25,
+  "record_id": "8-206",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Seeing a solar eclipse",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What can cause people to crash their car? A)Seeing a solar eclipse B)Using their turn signals C)Driving the speed limit D)Keeping their eyes on the road ANSWER:\nA\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What can cause people to crash their car?\nA)Seeing a solar eclipse\nB)Using their turn signals\nC)Driving the speed limit\nD)Keeping their eyes on the road\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Seeing a solar eclipse",
+    "Using their turn signals",
+    "Driving the speed limit",
+    "Keeping their eyes on the road"
+  ]
+}

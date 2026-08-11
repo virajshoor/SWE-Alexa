@@ -1,0 +1,20 @@
+{
+  "idx": 100,
+  "record_id": "reccOKzFNmyqeJ6ry",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student performed an acid-catalyzed reaction of 3-methylpyrrolidine with compound A, the final product of the reaction is 1-(cyclohexylidenemethyl)-3-methylpyrrolidine. Select the suitable reagent (A) and catalyst (B) for the reaction. 3-methylpyrrolidine + A (B, Heat, solvent) ---> 1-(cyclohexylidenemethyl)-3-methylpyrrolidine A)A = vinylcyclohexan\u2026 B)A = cyclohexanecarb\u2026 C)A = cyclohexanecarb\u2026 D)A = vinylcyclohexan\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student performed an acid-catalyzed reaction of 3-methylpyrrolidine with compound A, the final product of the reaction is 1-(cyclohexylidenemethyl)-3-methylpyrrolidine. Select the suitable reagent (A) and catalyst (B) for the reaction. 3-methylpyrrolidine + A (B, Heat, solvent) ---> 1-(cyclohexylidenemethyl)-3-methylpyrrolidine\nA)A = vinylcyclohexan\u2026\nB)A = cyclohexanecarb\u2026\nC)A = cyclohexanecarb\u2026\nD)A = vinylcyclohexan\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = vinylcyclohexane, B = TsOH",
+    "A = cyclohexanecarbaldehyde, B = TsOH",
+    "A = cyclohexanecarbaldehyde, B = Acetic acid",
+    "A = vinylcyclohexane, B = Acetic acid"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

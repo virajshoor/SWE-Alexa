@@ -1,0 +1,18 @@
+{
+  "idx": 39,
+  "record_id": "gsm8k_1226",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "90",
+  "predicted_answer": "90",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:A basic manicure starts at $35 while a pedicure starts at $40. A certain salon offers 20% off if you get both. Suppose Karen chooses to do both and would also like to add nail art on each of her fingers, which costs $3 per nail. How much would she pay in all? ANSWER:\n$90\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:A basic manicure starts at $35 while a pedicure starts at $40. A certain salon offers 20% off if you get both. Suppose Karen chooses to do both and would also like to add nail art on each of her fingers, which costs $3 per nail. How much would she pay in all?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

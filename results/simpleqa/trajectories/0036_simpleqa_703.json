@@ -1,0 +1,18 @@
+{
+  "idx": 36,
+  "record_id": "simpleqa_703",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "What do you think I'm gonna do? Blow my brains out?",
+  "predicted_answer": "\"Don't worry, it's not loaded.\"",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What were Terry Kath's famously ironic last words? ANSWER:\n\"Don't worry, it's not loaded.\"\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What were Terry Kath's famously ironic last words?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

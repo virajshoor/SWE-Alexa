@@ -1,0 +1,23 @@
+{
+  "idx": 10,
+  "record_id": "mmlu_pro_11247",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct_answer": "59.2 Btu/hr-ft^2-\u00b0F",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A droplet of molten lead of average 1/8 india, at 750\u00b0F, falls froma height of 60 ft, and solidifies by the cooling effect of thesurrounding air. The surrounding temperature is 70\u00b0F. If thelead solidifies at 621\u00b0F, calculate the coefficient of heat transfer. For lead, C_p= 0.031 Btu/lbm-\u00b0F \\rho= 710lbm/ft^3 h_fusion= 10.6 Btu/lbm A)63.4 Btu/hr-ft^2-\u00b0F B)52.8 Btu/hr-ft^2-\u00b0F C)45.7 Btu/hr-ft^2-\u00b0F D)59.2 Btu/hr-ft^2-\u00b0F ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A droplet of molten lead of average 1/8 india, at 750\u00b0F, falls froma height of 60 ft, and solidifies by the cooling effect of thesurrounding air. The surrounding temperature is 70\u00b0F. If thelead solidifies at 621\u00b0F, calculate the coefficient of heat transfer. For lead, C_p= 0.031 Btu/lbm-\u00b0F \\rho= 710lbm/ft^3 h_fusion= 10.6 Btu/lbm\nA)63.4 Btu/hr-ft^2-\u00b0F\nB)52.8 Btu/hr-ft^2-\u00b0F\nC)45.7 Btu/hr-ft^2-\u00b0F\nD)59.2 Btu/hr-ft^2-\u00b0F\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "63.4 Btu/hr-ft^2-\u00b0F",
+    "52.8 Btu/hr-ft^2-\u00b0F",
+    "45.7 Btu/hr-ft^2-\u00b0F",
+    "59.2 Btu/hr-ft^2-\u00b0F"
+  ]
+}

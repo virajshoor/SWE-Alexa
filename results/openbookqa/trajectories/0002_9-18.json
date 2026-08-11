@@ -1,0 +1,23 @@
+{
+  "idx": 2,
+  "record_id": "9-18",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "given a large breakfast",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is A)breaks for birds on the road B)given a large breakfast C)given two apples to watch D)eats a few corn cobs ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is\nA)breaks for birds on the road\nB)given a large breakfast\nC)given two apples to watch\nD)eats a few corn cobs\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "breaks for birds on the road",
+    "given a large breakfast",
+    "given two apples to watch",
+    "eats a few corn cobs"
+  ]
+}

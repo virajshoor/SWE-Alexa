@@ -1,0 +1,18 @@
+{
+  "idx": 38,
+  "record_id": "simpleqa_3815",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Timothy Rowe",
+  "predicted_answer": "Michael J. Benton",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In a 1988 paper, which author defined Mammalia phylogenetically as the crown group of mammals\u2014the clade consisting of the most recent common ancestor of living monotremes and therian mammals? ANSWER:\nMichael J. Benton\nWait \u2014 let me correct that. The 1988 phylogenetic definition of Mammalia as a crown group is attributed to Jacques Gauthier (Gauthier et al., 1988).\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In a 1988 paper, which author defined Mammalia phylogenetically as the crown group of mammals\u2014the clade consisting of the most recent common ancestor of living monotremes and therian mammals?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

@@ -1,0 +1,64 @@
+{
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "benchmarks": {
+    "mmlu_pro": {
+      "n_instances": 80,
+      "n_correct": 65,
+      "accuracy": 0.8125,
+      "n_ok_replies": 80,
+      "out": "results/mmlu_pro"
+    },
+    "arc_challenge": {
+      "n_instances": 80,
+      "n_correct": 76,
+      "accuracy": 0.95,
+      "n_ok_replies": 80,
+      "out": "results/arc_challenge"
+    },
+    "openbookqa": {
+      "n_instances": 80,
+      "n_correct": 70,
+      "accuracy": 0.875,
+      "n_ok_replies": 80,
+      "out": "results/openbookqa"
+    },
+    "gsm8k": {
+      "n_instances": 80,
+      "n_correct": 50,
+      "accuracy": 0.625,
+      "n_ok_replies": 80,
+      "out": "results/gsm8k"
+    },
+    "truthfulqa_mc": {
+      "n_instances": 80,
+      "n_correct": 71,
+      "accuracy": 0.8875,
+      "n_ok_replies": 80,
+      "out": "results/truthfulqa_mc"
+    },
+    "simpleqa": {
+      "n_instances": 60,
+      "n_correct": 23,
+      "accuracy": 0.38333333333333336,
+      "n_ok_replies": 60,
+      "out": "results/simpleqa"
+    },
+    "shopping_mc": {
+      "n_instances": 40,
+      "n_correct": 38,
+      "accuracy": 0.95,
+      "n_ok_replies": 40,
+      "out": "results/shopping_mc"
+    }
+  },
+  "order": [
+    "mmlu_pro",
+    "arc_challenge",
+    "openbookqa",
+    "gsm8k",
+    "truthfulqa_mc",
+    "simpleqa",
+    "shopping_mc"
+  ]
+}

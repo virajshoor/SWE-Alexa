@@ -1,0 +1,23 @@
+{
+  "idx": 62,
+  "record_id": "Mercury_7166425",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "from the tea to the ice",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Molly was making iced tea by putting tea bags in boiling water. She needed to cool the hot tea quickly, so she poured it into a pitcher full of ice. Which best describes the flow of thermal energy? A)from the ice to the pitcher B)from the tea to the ice C)from the ice to the tea D)from the pitcher to the tea ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Molly was making iced tea by putting tea bags in boiling water. She needed to cool the hot tea quickly, so she poured it into a pitcher full of ice. Which best describes the flow of thermal energy?\nA)from the ice to the pitcher\nB)from the tea to the ice\nC)from the ice to the tea\nD)from the pitcher to the tea\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "from the ice to the pitcher",
+    "from the tea to the ice",
+    "from the ice to the tea",
+    "from the pitcher to the tea"
+  ]
+}

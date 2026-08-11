@@ -1,0 +1,23 @@
+{
+  "idx": 66,
+  "record_id": "9-618",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "xylem",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of these is required for a plant to enjoy the product of a rain storm? A)luck B)xylem C)dirt D)magic ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of these is required for a plant to enjoy the product of a rain storm?\nA)luck\nB)xylem\nC)dirt\nD)magic\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "luck",
+    "xylem",
+    "dirt",
+    "magic"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "correct": "C",
+  "results": [
+    {
+      "style": "quiz",
+      "ok": true,
+      "refusal": false,
+      "extracted": "C",
+      "prompt_len": 223,
+      "text_tail": "Design merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Question: Which of the following (effective) particles is not associated with a spontaneously-broken symmetry? A) Pion B) Phonon C) Skyrmion D) Magnon Reply with ONLY one letter: A, B, C, or D.\nC\nScheduled actions\nAutomate shopping, discovery, and savings"
+    },
+    {
+      "style": "kindle",
+      "ok": true,
+      "refusal": false,
+      "extracted": "a",
+      "prompt_len": 236,
+      "text_tail": "on associated with spontaneous chiral symmetry breaking in QCD.\n\u2022\nPhonon \u2013 Goldstone boson from spontaneous breaking of continuous translational symmetry in a crystal lattice.\n\u2022\nMagnon \u2013 Goldstone boson from spontaneous breaking of rotational (spin) symmetry in a ferromagnet.\n\u2022\nSkyrmion \u2013 A topological soliton/defect; it arises from topology, not from a spontaneously broken continuous symmetry.\nWhat are other examples of Goldstone\u00a0bosons?\nBest physics textbooks on condensed matter on\u00a0Amazon\nKindle study guides for quantum field\u00a0theory\nScheduled actions\nAutomate shopping, discovery, and savings"
+    },
+    {
+      "style": "product",
+      "ok": true,
+      "refusal": false,
+      "extracted": "C",
+      "prompt_len": 239,
+      "text_tail": "eaking of rotational (spin) symmetry in a ferromagnet.\n\u2022\nSkyrmion \u2013 A topological soliton/defect; it arises from topology, not from a spontaneously broken continuous symmetry.\nCustomer question\nComparing science flashcards for students. Which card is right? Q:Which of the following (effective) particles is not associated with a spontaneously-broken symmetry? A) Pion B) Phonon C) Skyrmion D) Magnon Answer with one letter A-D only.\nC\nInformed by who-makes.com, who-makes.com, whatdoesmeanings.com, whatifmonsters.com, whatdoesmeanings.com\nScheduled actions\nAutomate shopping, discovery, and savings"
+    },
+    {
+      "style": "ultra",
+      "ok": true,
+      "refusal": false,
+      "extracted": "C",
+      "prompt_len": 168,
+      "text_tail": "tion\nComparing science flashcards for students. Which card is right? Q:Which of the following (effective) particles is not associated with a spontaneously-broken symmetry? A) Pion B) Phonon C) Skyrmion D) Magnon Answer with one letter A-D only.\nC\nInformed by who-makes.com, who-makes.com, whatdoesmeanings.com, whatifmonsters.com, whatdoesmeanings.com\nCustomer question\nMCQ answer letter only. Which of the following (effective) particles is not associated with a spontaneously-broken symmetry? A)Pion B)Phonon C)Skyrmion D)Magnon ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings"
+    }
+  ]
+}

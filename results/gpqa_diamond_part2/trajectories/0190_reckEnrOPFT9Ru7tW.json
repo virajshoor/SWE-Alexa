@@ -1,0 +1,20 @@
+{
+  "idx": 190,
+  "record_id": "reckEnrOPFT9Ru7tW",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:3-(hydroxymethyl)-5-(prop-1-en-2-yl)cyclohexan-1-one is treated with sodium hydride, followed by benzyl bromide, forming product 1. 1 is treated with p-toluenesulfonyl hydrazide in the presence of a catalytic amount of HCl, forming product 2. 2 is treated at low temperature with n-butyllithium, followed by aqueous ammonium chloride, forming product 3. 3 is stirred w\u2026 A)N'-(3-(hydr\u2026 B)3-((benzylo\u2026 C)(3-isopropy\u2026 D)(((3-isopro\u2026 ANSWER:\nI'm not able to help with that, but I'd love to assist you with any shopping needs on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:3-(hydroxymethyl)-5-(prop-1-en-2-yl)cyclohexan-1-one is treated with sodium hydride, followed by benzyl bromide, forming product 1. 1 is treated with p-toluenesulfonyl hydrazide in the presence of a catalytic amount of HCl, forming product 2. 2 is treated at low temperature with n-butyllithium, followed by aqueous ammonium chloride, forming product 3. 3 is stirred w\u2026\nA)N'-(3-(hydr\u2026\nB)3-((benzylo\u2026\nC)(3-isopropy\u2026\nD)(((3-isopro\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "N'-(3-(hydroxymethyl)-5-isopropylcyclohexyl)-4-methylbenzenesulfonohydrazide",
+    "3-((benzyloxy)methyl)-1-butyl-5-isopropylcyclohexan-1-ol",
+    "(3-isopropylcyclohexyl)methanol",
+    "(((3-isopropylcyclohexyl)methoxy)methyl)benzene"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

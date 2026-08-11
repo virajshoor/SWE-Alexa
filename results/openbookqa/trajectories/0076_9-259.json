@@ -1,0 +1,23 @@
+{
+  "idx": 76,
+  "record_id": "9-259",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct_answer": "B and D",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How do polar bears survive the cold? A)Cold blooded B)B and D C)Compact ears D)Double Fur Coats ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How do polar bears survive the cold?\nA)Cold blooded\nB)B and D\nC)Compact ears\nD)Double Fur Coats\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Cold blooded",
+    "B and D",
+    "Compact ears",
+    "Double Fur Coats"
+  ]
+}

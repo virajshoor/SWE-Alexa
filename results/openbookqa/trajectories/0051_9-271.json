@@ -1,0 +1,23 @@
+{
+  "idx": 51,
+  "record_id": "9-271",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "the circulatory system",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:what system is needed for a body to get its needed supply of the gas humans breathe in? A)the circulatory system B)the digestive system C)central nervous system D)the school system ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:what system is needed for a body to get its needed supply of the gas humans breathe in?\nA)the circulatory system\nB)the digestive system\nC)central nervous system\nD)the school system\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the circulatory system",
+    "the digestive system",
+    "central nervous system",
+    "the school system"
+  ]
+}

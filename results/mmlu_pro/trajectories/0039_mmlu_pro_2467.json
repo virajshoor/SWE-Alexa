@@ -1,0 +1,23 @@
+{
+  "idx": 39,
+  "record_id": "mmlu_pro_2467",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Dysprosody",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:___________ is a communication disorder that is characterized by difficulties in regulating the rate, rhythm, pitch, and loudness of speech. A)Dyspraxia B)Aphasia C)Dysphagia D)Dysprosody ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:___________ is a communication disorder that is characterized by difficulties in regulating the rate, rhythm, pitch, and loudness of speech.\nA)Dyspraxia\nB)Aphasia\nC)Dysphagia\nD)Dysprosody\nANSWER:",
+  "domain": "psychology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Dyspraxia",
+    "Aphasia",
+    "Dysphagia",
+    "Dysprosody"
+  ]
+}

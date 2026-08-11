@@ -1,0 +1,20 @@
+{
+  "idx": 76,
+  "record_id": "recUOePh79cp4T2Bg",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Cope rearrangement is a chemical reaction where a 1,5-diene molecule undergoes rearrangement, resulting in a change in the positions of its carbon-carbon double bonds. This rearrangement can be initiated by heat or light and is valuable for creating complex organic compounds with changed structures. Select the major products from the following rearrangements. ((\u2026 A)A = (Z)-2-m\u2026 B)A = (Z)-2-m\u2026 C)A = 4-methy\u2026 D)A = 4-methy\u2026 ANSWER:\nI'm not able to help with quiz questions, but I'm happy to assist you with any shopping needs on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Cope rearrangement is a chemical reaction where a 1,5-diene molecule undergoes rearrangement, resulting in a change in the positions of its carbon-carbon double bonds. This rearrangement can be initiated by heat or light and is valuable for creating complex organic compounds with changed structures. Select the major products from the following rearrangements. ((\u2026\nA)A = (Z)-2-m\u2026\nB)A = (Z)-2-m\u2026\nC)A = 4-methy\u2026\nD)A = 4-methy\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = (Z)-2-methyl-5-phenylpent-2-en-1-ol, B = 2,3,4,6,7,8-hexamethyl-5,9,9a,10,11,11a-hexahydro-1H-benzo[3,4]azuleno[1,8,7,6-cdef]fluorene",
+    "A = (Z)-2-methyl-5-phenylpent-2-en-1-ol, B = 2,3,4,6,7,8-hexamethyl-5,9,10,11-tetrahydro-1H-benzo[3,4]azuleno[1,8,7,6-cdef]fluorine",
+    "A = 4-methyl-1-phenylpent-3-en-1-ol, B = 2,3,4,6,7,8-hexamethyl-5,9,10,11-tetrahydro-1H-benzo[3,4]azuleno[1,8,7,6-cdef]fluorine",
+    "A = 4-methyl-1-phenylpent-3-en-1-ol, B = 2,3,4,6,7,8-hexamethyl-5,9,9a,10,11,11a-hexahydro-1H-benzo[3,4]azuleno[1,8,7,6-cdef]fluorene"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

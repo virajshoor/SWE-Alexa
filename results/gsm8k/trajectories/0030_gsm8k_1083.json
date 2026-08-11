@@ -1,0 +1,18 @@
+{
+  "idx": 30,
+  "record_id": "gsm8k_1083",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "2",
+  "predicted_answer": "2.00",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:The bananas at the supermarket cost $0.80 each, or a bunch for $3.00. Jenny buys 10 bunches that average 4 bananas per bunch. How much money, in dollars, did she save by buying the bananas in bunches instead of individually? ANSWER:\n$2.00\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:The bananas at the supermarket cost $0.80 each, or a bunch for $3.00. Jenny buys 10 bunches that average 4 bananas per bunch. How much money, in dollars, did she save by buying the bananas in bunches instead of individually?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

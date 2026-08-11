@@ -1,0 +1,18 @@
+{
+  "idx": 2,
+  "record_id": "gsm8k_474",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "80",
+  "predicted_answer": "80",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:At a certain grade level, three-fourths of students have a desktop computer at home. If 20 students do not have desktop computers, how many students are there at that grade level? ANSWER:\n80\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:At a certain grade level, three-fourths of students have a desktop computer at home. If 20 students do not have desktop computers, how many students are there at that grade level?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

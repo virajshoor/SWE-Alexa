@@ -1,0 +1,23 @@
+{
+  "idx": 60,
+  "record_id": "mmlu_pro_1741",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct_answer": "The house painter's performance under the contract would be an express condition precedent to the homeowner's duty of payment of the $10,000.",
+  "predicted_answer": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pa\u2026 A)Payment of \u2026 B)The house p\u2026 C)The perform\u2026 D)The perform\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pa\u2026\nA)Payment of \u2026\nB)The house p\u2026\nC)The perform\u2026\nD)The perform\u2026\nANSWER:",
+  "domain": "law",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Payment of the $10,000 by the homeowner would be an express condition subsequent to the house painter's duty of performance.",
+    "The house painter's performance under the contract would be an express condition precedent to the homeowner's duty of payment of the $10,000.",
+    "The performances of the homeowner and the house painter were, in essence, independent conditions.",
+    "The performances of the homeowner and the house painter were, in essence, concurrent conditions."
+  ]
+}

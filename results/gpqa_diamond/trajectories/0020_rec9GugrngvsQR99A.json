@@ -1,0 +1,20 @@
+{
+  "idx": 20,
+  "record_id": "rec9GugrngvsQR99A",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Compounds that have the same molecular formula but are different in their structural arrangement are known as isomers. Isomers have two types, constitutional isomers and stereoisomers. Constitutional isomers have the same molecular formula but differ in their structures. In stereoisomers, molecules are connected in the same way, but their arrangements in space are d\u2026 A)A = cyclohe\u2026 B)A = benzoqu\u2026 C)A = benzoqu\u2026 D)A = cyclohe\u2026 ANSWER:\nI'm Alexa, Amazon's shopping assistant \u2014 I'm not able to help with quizzes or academic exercises. I'd be happy to help you find products, answer questions about Amazon, or assist with something else shopping-related!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Compounds that have the same molecular formula but are different in their structural arrangement are known as isomers. Isomers have two types, constitutional isomers and stereoisomers. Constitutional isomers have the same molecular formula but differ in their structures. In stereoisomers, molecules are connected in the same way, but their arrangements in space are d\u2026\nA)A = cyclohe\u2026\nB)A = benzoqu\u2026\nC)A = benzoqu\u2026\nD)A = cyclohe\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = cyclohexane-1,3,5-trione, B = dimethyl fumarate",
+    "A = benzoquinone, B = dimethyl fumarate",
+    "A = benzoquinone, B = methyl 2-hydroxypropanoate",
+    "A = cyclohexane-1,3,5-trione, B = methyl 2-hydroxypropanoate"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

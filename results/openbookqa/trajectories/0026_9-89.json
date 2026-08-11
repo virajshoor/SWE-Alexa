@@ -1,0 +1,23 @@
+{
+  "idx": 26,
+  "record_id": "9-89",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "impair its well being in some way",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Burning something that reproduces usually will: A)weed out weaker members of the species B)impair its well being in some way C)increase its population growth D)speed up its biological functions ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Burning something that reproduces usually will:\nA)weed out weaker members of the species\nB)impair its well being in some way\nC)increase its population growth\nD)speed up its biological functions\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "weed out weaker members of the species",
+    "impair its well being in some way",
+    "increase its population growth",
+    "speed up its biological functions"
+  ]
+}

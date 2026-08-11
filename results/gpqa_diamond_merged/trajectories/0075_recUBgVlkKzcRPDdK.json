@@ -1,0 +1,20 @@
+{
+  "idx": 75,
+  "record_id": "recUBgVlkKzcRPDdK",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You want to create a mouse embryonic chimera with induced pluripotent stem cells from somatic cells of various tissues. You are interested in the iPSCs fate in the embryo and their co-localization with apoptotic events. The iPSC cells are labeled with a mRaspberry fused under a lineage-specific promoter for each cell type. You inject the dedifferentiated cells into \u2026 A)there is no\u2026 B)cell line-s\u2026 C)green signa\u2026 D)cytoplasmic\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You want to create a mouse embryonic chimera with induced pluripotent stem cells from somatic cells of various tissues. You are interested in the iPSCs fate in the embryo and their co-localization with apoptotic events. The iPSC cells are labeled with a mRaspberry fused under a lineage-specific promoter for each cell type. You inject the dedifferentiated cells into \u2026\nA)there is no\u2026\nB)cell line-s\u2026\nC)green signa\u2026\nD)cytoplasmic\u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "there is no green signal",
+    "cell line-specific red signals label different organelles",
+    "green signal colocalizes with the red signal",
+    "cytoplasmic localization of the red signal"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

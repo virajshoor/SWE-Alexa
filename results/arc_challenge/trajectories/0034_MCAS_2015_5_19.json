@@ -1,0 +1,23 @@
+{
+  "idx": 34,
+  "record_id": "MCAS_2015_5_19",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "oxygen gas",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:At the beginning of a science class, the teacher opened a small sealed jar and placed it on a table. The contents of the jar spread throughout the room during class. Which of the following did the jar most likely contain? A)oxygen gas B)saltwater C)cloth fibers D)snowflakes ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:At the beginning of a science class, the teacher opened a small sealed jar and placed it on a table. The contents of the jar spread throughout the room during class. Which of the following did the jar most likely contain?\nA)oxygen gas\nB)saltwater\nC)cloth fibers\nD)snowflakes\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "oxygen gas",
+    "saltwater",
+    "cloth fibers",
+    "snowflakes"
+  ]
+}

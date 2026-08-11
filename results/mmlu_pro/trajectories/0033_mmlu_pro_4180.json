@@ -1,0 +1,23 @@
+{
+  "idx": 33,
+  "record_id": "mmlu_pro_4180",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct_answer": "1 mole of Na_2 SO_4, 0.25 moles of Na_2 SO_4",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:It has been found that the following sequence can be used to prepare sodium sulfate, Na_2 SO_4 : S (s) + O_2 (g)\\rightarrow SO_2 (g) 2SO_2 (g) + O_2 (g)\\rightarrow 2SO_3 (g) SO_3 (g) + H_2 O(l)\\rightarrow H_2 SO_4 (l) 2NaOH + H_2 SO_4\\rightarrow Na_2 SO_4 + 2H_2 O If you performed this sequence of reactions, how many moles of Na_2 SO_4 could possibly be produced if \u2026 A)1 mole of N\u2026 B)2 moles of \u2026 C)0.5 moles o\u2026 D)1 mole of N\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:It has been found that the following sequence can be used to prepare sodium sulfate, Na_2 SO_4 : S (s) + O_2 (g)\\rightarrow SO_2 (g) 2SO_2 (g) + O_2 (g)\\rightarrow 2SO_3 (g) SO_3 (g) + H_2 O(l)\\rightarrow H_2 SO_4 (l) 2NaOH + H_2 SO_4\\rightarrow Na_2 SO_4 + 2H_2 O If you performed this sequence of reactions, how many moles of Na_2 SO_4 could possibly be produced if \u2026\nA)1 mole of N\u2026\nB)2 moles of \u2026\nC)0.5 moles o\u2026\nD)1 mole of N\u2026\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "1 mole of Na_2 SO_4, 1 mole of Na_2 SO_4",
+    "2 moles of Na_2 SO_4, 0.25 moles of Na_2 SO_4",
+    "0.5 moles of Na_2 SO_4, 0.5 moles of Na_2 SO_4",
+    "1 mole of Na_2 SO_4, 0.25 moles of Na_2 SO_4"
+  ]
+}

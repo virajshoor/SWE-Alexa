@@ -1,0 +1,18 @@
+{
+  "idx": 57,
+  "record_id": "gsm8k_1050",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "655",
+  "predicted_answer": "655",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:It is approximately 1955 kilometers from San Diego, California to New York City, New York. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive? ANSWER:\n655\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:It is approximately 1955 kilometers from San Diego, California to New York City, New York. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

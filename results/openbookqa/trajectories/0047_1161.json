@@ -1,0 +1,23 @@
+{
+  "idx": 47,
+  "record_id": "1161",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "alter the way the moon's facade looks",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Moon phases A)change the moon into cheese B)alter the way the moon's facade looks C)cause lunar eclipse every day D)change moon lakes into vapor ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Moon phases\nA)change the moon into cheese\nB)alter the way the moon's facade looks\nC)cause lunar eclipse every day\nD)change moon lakes into vapor\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "change the moon into cheese",
+    "alter the way the moon's facade looks",
+    "cause lunar eclipse every day",
+    "change moon lakes into vapor"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 89,
+  "record_id": "recZSGUkn56v9kEp1",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Determine the product obtained when 3,4-dimethylhexanedial is reacted with the following set of reagents: 1. KOH, H2O, THF, Heat 2. CH3CH2MgBr, H3O+ 3. PCC, CH2Cl2 4. O3, H2O A)3,4-dimethyl-5,6-dioxooctanal B)3,4-dimethyl-5,6-dioxooctanoic acid C)4,5-dimethylnonane-2,6,7-trione D)4,5-dimethylnonane-2,6,7-trione ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Determine the product obtained when 3,4-dimethylhexanedial is reacted with the following set of reagents: 1. KOH, H2O, THF, Heat 2. CH3CH2MgBr, H3O+ 3. PCC, CH2Cl2 4. O3, H2O\nA)3,4-dimethyl-5,6-dioxooctanal\nB)3,4-dimethyl-5,6-dioxooctanoic acid\nC)4,5-dimethylnonane-2,6,7-trione\nD)4,5-dimethylnonane-2,6,7-trione\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "3,4-dimethyl-5,6-dioxooctanal",
+    "3,4-dimethyl-5,6-dioxooctanoic acid",
+    "4,5-dimethylnonane-2,6,7-trione",
+    "4,5-dimethylnonane-2,6,7-trione"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

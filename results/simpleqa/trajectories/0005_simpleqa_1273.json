@@ -1,0 +1,18 @@
+{
+  "idx": 5,
+  "record_id": "simpleqa_1273",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "1807",
+  "predicted_answer": "1758",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In which year was the municipality of Macanal, Boyac\u00e1, Colombia, founded? ANSWER:\n1758\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In which year was the municipality of Macanal, Boyac\u00e1, Colombia, founded?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

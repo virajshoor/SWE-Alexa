@@ -1,0 +1,23 @@
+{
+  "idx": 6,
+  "record_id": "mmlu_pro_6833",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct_answer": "Gosbank allocates resources in Soviet economy; allocation in market economy is based on expected returns",
+  "predicted_answer": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How are productive resources allocated in theSoviet econ-omy ? How does this differ from market allocation? A)Gosbank allocates resources in Soviet economy; allocation in market economy\u2026 B)A central planning committee allocates resources in the Soviet economy, whi\u2026 C)Resources are distributed equally among all industries in a Soviet Economy D)Resources are allocated by the public in a Soviet Economy ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How are productive resources allocated in theSoviet econ-omy ? How does this differ from market allocation?\nA)Gosbank allocates resources in Soviet economy; allocation in market economy\u2026\nB)A central planning committee allocates resources in the Soviet economy, whi\u2026\nC)Resources are distributed equally among all industries in a Soviet Economy\nD)Resources are allocated by the public in a Soviet Economy\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Gosbank allocates resources in Soviet economy; allocation in market economy is based on expected returns",
+    "A central planning committee allocates resources in the Soviet economy, while supply and demand dictate allocation in a market economy",
+    "Resources are distributed equally among all industries in a Soviet Economy",
+    "Resources are allocated by the public in a Soviet Economy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 78,
+  "record_id": "Mercury_400091",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "25%",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student's mother is heterozygous for attached earlobes, a recessive trait. The student's father is also heterozygous for that trait. What is the percent likelihood that this student has attached earlobes? A)75% B)25% C)0% D)50% ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student's mother is heterozygous for attached earlobes, a recessive trait. The student's father is also heterozygous for that trait. What is the percent likelihood that this student has attached earlobes?\nA)75%\nB)25%\nC)0%\nD)50%\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "75%",
+    "25%",
+    "0%",
+    "50%"
+  ]
+}

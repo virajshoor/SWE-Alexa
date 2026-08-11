@@ -1,0 +1,23 @@
+{
+  "idx": 62,
+  "record_id": "mmlu_pro_9838",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "531.2 lb",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An elevator is accelerated upward at 2 ft/sec^2. If the elevator weighs 500 lb, what is the tension in the supporting cable? A)600 lb B)560 lb C)500 lb D)531.2 lb ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An elevator is accelerated upward at 2 ft/sec^2. If the elevator weighs 500 lb, what is the tension in the supporting cable?\nA)600 lb\nB)560 lb\nC)500 lb\nD)531.2 lb\nANSWER:",
+  "domain": "physics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "600 lb",
+    "560 lb",
+    "500 lb",
+    "531.2 lb"
+  ]
+}

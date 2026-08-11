@@ -1,0 +1,20 @@
+{
+  "idx": 112,
+  "record_id": "rechtUKxC6G67H7Pr",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You have prepared an unknown compound. To identify the product, you have used the following characterisation techniques: FTIR, 1H NMR, and Mass Spectrometry. The FTIR spectrum shows a very broad absorption peak at 3000 wavenumbers. Two other strong absorption peaks are observed at 1700 and 1650 wavenumbers. Several peaks were observed in the 1H NMR spectrum including peaks corresponding \u2026 A)C6H12O2 B)C6H12O C)C6H10O2 D)C6H10O ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You have prepared an unknown compound. To identify the product, you have used the following characterisation techniques: FTIR, 1H NMR, and Mass Spectrometry. The FTIR spectrum shows a very broad absorption peak at 3000 wavenumbers. Two other strong absorption peaks are observed at 1700 and 1650 wavenumbers. Several peaks were observed in the 1H NMR spectrum including peaks corresponding \u2026\nA)C6H12O2\nB)C6H12O\nC)C6H10O2\nD)C6H10O\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "C6H12O2",
+    "C6H12O",
+    "C6H10O2",
+    "C6H10O"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

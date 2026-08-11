@@ -1,0 +1,23 @@
+{
+  "idx": 69,
+  "record_id": "Mercury_SC_416104",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "provide support",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What do stems do for plants? A)provide support B)attract pollinators C)absorb water D)make food ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What do stems do for plants?\nA)provide support\nB)attract pollinators\nC)absorb water\nD)make food\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "provide support",
+    "attract pollinators",
+    "absorb water",
+    "make food"
+  ]
+}

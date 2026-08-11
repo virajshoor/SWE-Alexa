@@ -1,0 +1,402 @@
+[
+  {
+    "instance_id": "astropy__astropy-12907",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13033",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13236",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13398",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13453",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13579",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-13977",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14096",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14182",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14309",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14365",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14369",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14508",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14539",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14598",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-14995",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-7166",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-7336",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-7606",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-7671",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-8707",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "astropy__astropy-8872",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10097",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10554",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10880",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10914",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10973",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-10999",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11066",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11087",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11095",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11099",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11119",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11133",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11138",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11141",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11149",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11163",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11179",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  },
+  {
+    "instance_id": "django__django-11206",
+    "model_name_or_path": "Alexa-Rufus-1",
+    "model_patch": "",
+    "raw_response": "",
+    "ok": false,
+    "error": "Alexa for Shopping chat not available without a signed-in amazon.com session (or chat failed to open). Set AMAZON_EMAIL / AMAZON_PASSWORD.",
+    "url": "https://www.amazon.com/",
+    "screenshot": ""
+  }
+]

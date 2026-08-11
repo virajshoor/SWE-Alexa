@@ -1,0 +1,18 @@
+{
+  "idx": 0,
+  "record_id": "simpleqa_1292",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "27 Nov 2023",
+  "predicted_answer": "Aseprite v1.3 was released on Wednesday, November 15, 2023.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What were the day, month, and year of release for Aseprite v1.3? ANSWER:\nAseprite v1.3 was released on Wednesday, November 15, 2023.\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What were the day, month, and year of release for Aseprite v1.3?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

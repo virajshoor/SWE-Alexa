@@ -1,0 +1,23 @@
+{
+  "idx": 9,
+  "record_id": "shop_20",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Size chart and return policy",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What should you check before buying apparel online? A)Size chart and return policy B)Only the warehouse ZIP C)Driver license barcode D)Seller shoe size ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What should you check before buying apparel online?\nA)Size chart and return policy\nB)Only the warehouse ZIP\nC)Driver license barcode\nD)Seller shoe size\nANSWER:",
+  "domain": "apparel",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Size chart and return policy",
+    "Only the warehouse ZIP",
+    "Driver license barcode",
+    "Seller shoe size"
+  ]
+}

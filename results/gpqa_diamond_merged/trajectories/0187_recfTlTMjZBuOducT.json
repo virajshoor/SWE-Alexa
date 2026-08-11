@@ -1,0 +1,20 @@
+{
+  "idx": 187,
+  "record_id": "recfTlTMjZBuOducT",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a rhombohedral crystal, with the interatomic distance of 10 Angstrom and the angles $\\quad\\alpha=\\beta=\\gamma=30^{0}$. What is the interplanar distance of the (111) plane of the crystal? A)9.08 Angstrom B)10.05 Angstrom C)9.54 Angstrom D)8.95 Angstrom ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a rhombohedral crystal, with the interatomic distance of 10 Angstrom and the angles $\\quad\\alpha=\\beta=\\gamma=30^{0}$. What is the interplanar distance of the (111) plane of the crystal?\nA)9.08 Angstrom\nB)10.05 Angstrom\nC)9.54 Angstrom\nD)8.95 Angstrom\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "9.08 Angstrom",
+    "10.05 Angstrom",
+    "9.54 Angstrom",
+    "8.95 Angstrom"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 61,
+  "record_id": "gsm8k_611",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "1450000",
+  "predicted_answer": "1850000",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:John decides to build a program capable of identifying cancer cells. He gets initial funding of $100,000 for the first 5 months of research. His research ends up taking 10 times that long and every month after those first 5 took 50% more funding per month. How much did his research cost? ANSWER:\n$1,850,000\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:John decides to build a program capable of identifying cancer cells. He gets initial funding of $100,000 for the first 5 months of research. His research ends up taking 10 times that long and every month after those first 5 took 50% more funding per month. How much did his research cost?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

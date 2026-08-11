@@ -1,0 +1,20 @@
+{
+  "idx": 47,
+  "record_id": "recJZ3QEfRKjYw9a7",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:cyclohexanone was treated with bromine, forming product 1. 1 was heated with sodium hydroxide, forming product 2. 2 was treated with thionyl chloride and pyridine, forming 3. 3 was treated with Lithium tri-tert-butoxyaluminum hydride, forming product 4. how many chemically distinct hydrogen atoms are there on product 4? A)7 B)8 C)10 D)6 ANSWER:\nI can't help with that \u2014 providing chemistry synthesis steps or reaction pathways isn't something I'm able to assist with, regardless of the context. I'd love to help you with any shopping questions you have on Amazon instead!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:cyclohexanone was treated with bromine, forming product 1. 1 was heated with sodium hydroxide, forming product 2. 2 was treated with thionyl chloride and pyridine, forming 3. 3 was treated with Lithium tri-tert-butoxyaluminum hydride, forming product 4. how many chemically distinct hydrogen atoms are there on product 4?\nA)7\nB)8\nC)10\nD)6\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "7",
+    "8",
+    "10",
+    "6"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

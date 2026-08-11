@@ -1,0 +1,23 @@
+{
+  "idx": 48,
+  "record_id": "Mercury_177870",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "the quantity of mass with which the star began",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:All stars in the universe go through a life cycle. What factor determines how stars progress through this cycle? A)the amount of energy the star consumes B)the radiation that is present in the star C)the quantity of mass with which the star began D)the location of the star in the universe ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:All stars in the universe go through a life cycle. What factor determines how stars progress through this cycle?\nA)the amount of energy the star consumes\nB)the radiation that is present in the star\nC)the quantity of mass with which the star began\nD)the location of the star in the universe\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the amount of energy the star consumes",
+    "the radiation that is present in the star",
+    "the quantity of mass with which the star began",
+    "the location of the star in the universe"
+  ]
+}

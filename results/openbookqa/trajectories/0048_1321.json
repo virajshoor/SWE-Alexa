@@ -1,0 +1,23 @@
+{
+  "idx": 48,
+  "record_id": "1321",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "because it's blanketed in crystalline ice water",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The arctic is white in coloring A)because it's overpopulated with polar bears B)because it's covered in white lilies C)because it's gets so little sunlight D)because it's blanketed in crystalline ice water ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The arctic is white in coloring\nA)because it's overpopulated with polar bears\nB)because it's covered in white lilies\nC)because it's gets so little sunlight\nD)because it's blanketed in crystalline ice water\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "because it's overpopulated with polar bears",
+    "because it's covered in white lilies",
+    "because it's gets so little sunlight",
+    "because it's blanketed in crystalline ice water"
+  ]
+}

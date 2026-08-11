@@ -1,0 +1,20 @@
+{
+  "idx": 68,
+  "record_id": "recQ8oxSY2aCwFRS8",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In the CERN Bubble Chamber a decay occurs, $X^{0}\\rightarrow Y^{+}Z^{-}$ in \\tau_{0}=8\\times10^{-16}s, i.e. the proper lifetime of X^{0}. What minimum resolution is needed to observe at least 30% of the decays? Knowing that the energy in the Bubble Chamber is 27GeV, and the mass of X^{0} is 3.41GeV. A)2.08*1e-6 m B)2.08*1e-3 m C)2.08*1e-1 m D)2.08*1e-9 m ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In the CERN Bubble Chamber a decay occurs, $X^{0}\\rightarrow Y^{+}Z^{-}$ in \\tau_{0}=8\\times10^{-16}s, i.e. the proper lifetime of X^{0}. What minimum resolution is needed to observe at least 30% of the decays? Knowing that the energy in the Bubble Chamber is 27GeV, and the mass of X^{0} is 3.41GeV.\nA)2.08*1e-6 m\nB)2.08*1e-3 m\nC)2.08*1e-1 m\nD)2.08*1e-9 m\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "2.08*1e-6 m",
+    "2.08*1e-3 m",
+    "2.08*1e-1 m",
+    "2.08*1e-9 m"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

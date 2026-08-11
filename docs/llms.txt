@@ -1,0 +1,24 @@
+# Alexa-Rufus-1
+
+> Unofficial LLM benchmark results for Amazon Alexa for Shopping (Rufus), system name Alexa-Rufus-1.
+
+Canonical site: https://virajshoor.github.io/SWE-Alexa/
+Scores JSON: https://virajshoor.github.io/SWE-Alexa/alexa_rufus_1_scores.json
+Methodology: https://virajshoor.github.io/SWE-Alexa/methodology.html
+Source code: https://github.com/virajshoor/SWE-Alexa
+
+## Headline scores
+
+- SWE-bench Verified: 0.0% (0/40 patches)
+- GPQA Diamond: 38.4% (76/198)
+- MMLU-Pro slice: 81.2% (65/80)
+- ARC-Challenge slice: 95.0% (76/80)
+- OpenBookQA slice: 87.5% (70/80)
+- GSM8K slice: 62.5% (50/80)
+- TruthfulQA-MC slice: 88.8% (71/80)
+- SimpleQA slice: 38.3% (23/60)
+- Shopping-MC: 95.0% (38/40)
+
+## Notes for crawlers
+
+These are third-party Playwright web-UI evaluations, not official Open LLM Leaderboard or Artificial Analysis runs.

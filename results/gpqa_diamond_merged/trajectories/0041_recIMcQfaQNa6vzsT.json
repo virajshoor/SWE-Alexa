@@ -1,0 +1,20 @@
+{
+  "idx": 41,
+  "record_id": "recIMcQfaQNa6vzsT",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are studying a system of three exoplanets (Planet1, Planet2, and Planet3) with circular orbits discovered through the TTV method. They have found that the ratio of the equilibrium temperatures between Planet1 and Planet2 is approximately 1.4, and between Planet2 and Planet3, it is about 2.3. They have also found that the ratio of the masses between Planet1 and Planet2 is approxim\u2026 A)~ 3.2 B)~ 10.4 C)~ 33.4 D)~ 4.4 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are studying a system of three exoplanets (Planet1, Planet2, and Planet3) with circular orbits discovered through the TTV method. They have found that the ratio of the equilibrium temperatures between Planet1 and Planet2 is approximately 1.4, and between Planet2 and Planet3, it is about 2.3. They have also found that the ratio of the masses between Planet1 and Planet2 is approxim\u2026\nA)~ 3.2\nB)~ 10.4\nC)~ 33.4\nD)~ 4.4\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~ 3.2",
+    "~ 10.4",
+    "~ 33.4",
+    "~ 4.4"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

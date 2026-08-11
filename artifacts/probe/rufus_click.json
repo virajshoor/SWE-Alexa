@@ -1,0 +1,32 @@
+{
+  "info": [
+    {
+      "tag": "DIV",
+      "id": "nav-rufus-disc-txt",
+      "cls": "",
+      "aria": null,
+      "placeholder": null,
+      "text": "Test: nav-rufus-disc-txt",
+      "visible": true,
+      "w": 1,
+      "h": 1
+    }
+  ],
+  "net": [
+    "https://m.media-amazon.com/images/I/51waPb-h-9L._RC%7C71rJTBWm2GL.css,41WcY5PbsbL.css,61p+Jc2B9kL.css,51G4QqYV3kL.css,41z1jkezPCL.css,01FcI3FsaiL.css,21y6uRBcF9L.css,01-Mnqi69mL.css,31YZpDCYJPL.css,21DwGGPS1eL.css,41vWFCvFunL.css,21CB9R4dxNL.css,111Bp55OByL.css,01Acb9NWohL.css,21KQnzhmfTL.css,41bqNBi+QSL.css,61f0dQ2ffRL.css,01NLp3ZKNoL.css_.css?AUIClients/NavDesktopUberAsset",
+    "https://m.media-amazon.com/images/I/512pGC7KuwL.css?AUIClients/GWMWebAssets",
+    "https://m.media-amazon.com/images/I/114toXLe6jL.css?AUIClients/AmazonEmberModernFontAssets",
+    "https://m.media-amazon.com/images/I/01rFHUwLouL.css?AUIClients/AmazonHomepageWindowDisplayAssets",
+    "https://m.media-amazon.com/images/I/31wW50PkmtL.css?AUIClients/AdPlacementStyleAssets",
+    "https://m.media-amazon.com/images/I/51ktBsU6IEL._RC%7C11f53RNuMpL.js,11NBZ7Qe33L.js_.js?AUIClients/GWMWebAssets",
+    "https://m.media-amazon.com/images/I/010ReP-mn8L.js?AUIClients/AmazonEmberModernFontAssets",
+    "https://m.media-amazon.com/images/I/0100CF15f2L.js?AUIClients/AmazonHomepageWindowDisplayAssets",
+    "https://m.media-amazon.com/images/I/51rG04VN8cL._RC%7C71ETp2zKjHL.js,41InaEL-ZPL.js,01QvReFeJyL.js,01kC46b9vjL.js,81p2R-qXJWL.js,01m0EuyLqIL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,31WkIJjh9AL.js,51D+BomCJLL.js,41GvVRH6GqL.js,31yCF4ftzxL.js,11lw6J7z8iL.js,31COIUU385L.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset",
+    "https://m.media-amazon.com/images/I/71oZ4bQq5dL._RC%7C81kCF8wuZEL.js,410X6e4fxpL.js_.js?AUIClients/IdentityBaseAssets",
+    "https://m.media-amazon.com/images/I/41UqG0Va6AL.js?AUIClients/BotCXMetricsCollectionJSAsset",
+    "https://m.media-amazon.com/images/I/417KocFVlOL.js?AUIClients/LatencyInteractiveAsset",
+    "https://m.media-amazon.com/images/I/31GtEQnCWeL.js?AUIClients/LoadMonitoringAsset",
+    "https://m.media-amazon.com/images/I/31da309R+5L.js?AUIClients/PuffAuiAssets",
+    "https://m.media-amazon.com/images/I/518dRCZrPeL.js?AUIClients/AmazonLightsaberPageAssets"
+  ]
+}

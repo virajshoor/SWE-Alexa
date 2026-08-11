@@ -1,0 +1,23 @@
+{
+  "idx": 65,
+  "record_id": "9-554",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "their mother teaches them to keep their distance",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A bear cub learns to stay away from unknown bears because A)the other bears look like its mother B)their mother teaches them to keep their distance C)the unknown bears look harmless D)they are much bigger than the cub ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A bear cub learns to stay away from unknown bears because\nA)the other bears look like its mother\nB)their mother teaches them to keep their distance\nC)the unknown bears look harmless\nD)they are much bigger than the cub\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the other bears look like its mother",
+    "their mother teaches them to keep their distance",
+    "the unknown bears look harmless",
+    "they are much bigger than the cub"
+  ]
+}

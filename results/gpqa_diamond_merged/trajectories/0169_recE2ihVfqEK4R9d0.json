@@ -1,0 +1,20 @@
+{
+  "idx": 169,
+  "record_id": "recE2ihVfqEK4R9d0",
+  "correct_letter": "C",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An electron is in the spin state (3i, 4). Find the expectation value of its spin along y-direction, S_y. Note: \\sigma_y (in latex format) is: \\begin{pmatrix} 0 & -i \\\\ i & 0 \\end{pmatrix} A)25*hbar/2 B)12*hbar/25 C)-12*hbar/25 D)-25*hbar/2 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An electron is in the spin state (3i, 4). Find the expectation value of its spin along y-direction, S_y. Note: \\sigma_y (in latex format) is: \\begin{pmatrix} 0 & -i \\\\ i & 0 \\end{pmatrix}\nA)25*hbar/2\nB)12*hbar/25\nC)-12*hbar/25\nD)-25*hbar/2\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "25*hbar/2\n",
+    "12*hbar/25",
+    "-12*hbar/25\n\n",
+    "-25*hbar/2\n\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

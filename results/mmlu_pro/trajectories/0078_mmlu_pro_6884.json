@@ -1,0 +1,23 @@
+{
+  "idx": 78,
+  "record_id": "mmlu_pro_6884",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "the supply curve will shift to the right.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If the government subsidizes the production of halogen headlights, A)the demand curve will shift to the left. B)both the supply and demand curves will shift to the right. C)the quantity of halogen headlights demanded will decrease. D)the supply curve will shift to the right. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If the government subsidizes the production of halogen headlights,\nA)the demand curve will shift to the left.\nB)both the supply and demand curves will shift to the right.\nC)the quantity of halogen headlights demanded will decrease.\nD)the supply curve will shift to the right.\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the demand curve will shift to the left.",
+    "both the supply and demand curves will shift to the right.",
+    "the quantity of halogen headlights demanded will decrease.",
+    "the supply curve will shift to the right."
+  ]
+}

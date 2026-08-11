@@ -1,0 +1,1282 @@
+[
+  {
+    "record_id": "9-461",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of",
+    "choices": [
+      "ice forming on the road",
+      "a sudden fog moving into the area",
+      "a dog running across the highway behind Steve's car",
+      "reports of tornadoes in the area"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "a sudden fog moving into the area",
+    "domain": "science",
+    "idx": 0
+  },
+  {
+    "record_id": "1457",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What happens as water levels rise?",
+    "choices": [
+      "beaches shrink",
+      "land is taller",
+      "homes are built",
+      "fish swim more"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "beaches shrink",
+    "domain": "science",
+    "idx": 1
+  },
+  {
+    "record_id": "9-18",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is",
+    "choices": [
+      "breaks for birds on the road",
+      "given a large breakfast",
+      "given two apples to watch",
+      "eats a few corn cobs"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "given a large breakfast",
+    "domain": "science",
+    "idx": 2
+  },
+  {
+    "record_id": "8-471",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The appropriate place to put this item is the recycling bin",
+    "choices": [
+      "used Styrofoam plates",
+      "used soda can",
+      "left over medicine",
+      "used motor oil"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "used soda can",
+    "domain": "science",
+    "idx": 3
+  },
+  {
+    "record_id": "9-686",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What is an example of reproduction?",
+    "choices": [
+      "walking",
+      "egg depositing",
+      "flying",
+      "farming"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "egg depositing",
+    "domain": "science",
+    "idx": 4
+  },
+  {
+    "record_id": "8-35",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "which of these would stop a car quicker?",
+    "choices": [
+      "a wheel with worn brake pads",
+      "a wheel without brake pads",
+      "a wheel with wet brake pads",
+      "a wheel with dry brake pads"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "a wheel with dry brake pads",
+    "domain": "science",
+    "idx": 5
+  },
+  {
+    "record_id": "9-390",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which source provides the safest water?",
+    "choices": [
+      "Rain",
+      "Sea",
+      "Ocean",
+      "River"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Rain",
+    "domain": "science",
+    "idx": 6
+  },
+  {
+    "record_id": "7-49",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A rabbit may enjoy",
+    "choices": [
+      "pebbles",
+      "compost",
+      "peas",
+      "meat"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "peas",
+    "domain": "science",
+    "idx": 7
+  },
+  {
+    "record_id": "1774",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What is an example of the digestive system digesting food for the body?",
+    "choices": [
+      "a horse licking a salt lick",
+      "a baby drinking formula then needing a diaper change",
+      "a cat eating food then throwing it up",
+      "a man eating nachos then getting food poisoning"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "a baby drinking formula then needing a diaper change",
+    "domain": "science",
+    "idx": 8
+  },
+  {
+    "record_id": "8-49",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by",
+    "choices": [
+      "turning on the hose",
+      "asking the child to stop",
+      "yelling at the mud",
+      "getting a new child"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "turning on the hose",
+    "domain": "science",
+    "idx": 9
+  },
+  {
+    "record_id": "178",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "During landslides there is often a lot of",
+    "choices": [
+      "air",
+      "mud",
+      "snow",
+      "wind"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "mud",
+    "domain": "science",
+    "idx": 10
+  },
+  {
+    "record_id": "9-550",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A light was off because the cord was",
+    "choices": [
+      "attached to the wall",
+      "sitting on the table",
+      "attached to an extension cord",
+      "attached to a battery pack"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "sitting on the table",
+    "domain": "science",
+    "idx": 11
+  },
+  {
+    "record_id": "9-230",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "How could we determine approximately how far a bird is from the ground?",
+    "choices": [
+      "Measure the altitude of the bird using a reference point, such as a tall building.",
+      "Ask the bird how high it was when it returns back to earth",
+      "Measure the bird's mass",
+      "Identify the species of bird"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Measure the altitude of the bird using a reference point, such as a tall building.",
+    "domain": "science",
+    "idx": 12
+  },
+  {
+    "record_id": "9-774",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "if the population in a habitat is on a steady decline, what condition is the habitat?",
+    "choices": [
+      "it is an ideal habitat",
+      "it is an unsustainable habitat",
+      "it is a thriving abode",
+      "it is a place to emigrate from"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "it is an unsustainable habitat",
+    "domain": "science",
+    "idx": 13
+  },
+  {
+    "record_id": "283",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The Grand Canyon was formed by",
+    "choices": [
+      "the Great Lakes drying up",
+      "a river named after the 38th state to join the union flowing over time",
+      "a river named after the 20th state to join the union flowing over time",
+      "a volcano erupting in 1782"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "a river named after the 38th state to join the union flowing over time",
+    "domain": "science",
+    "idx": 14
+  },
+  {
+    "record_id": "1500",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The leading cause of soil and rock erosion is",
+    "choices": [
+      "H2O",
+      "NaCl",
+      "CO2",
+      "Fe"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "H2O",
+    "domain": "science",
+    "idx": 15
+  },
+  {
+    "record_id": "385",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Prey are eaten by",
+    "choices": [
+      "animals known for their memory",
+      "an animal herded by sheep dogs",
+      "the fastest mammal with four legs",
+      "the animal with a starring role in Bambi"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "the fastest mammal with four legs",
+    "domain": "science",
+    "idx": 16
+  },
+  {
+    "record_id": "7-238",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Shining a light through a diamond can",
+    "choices": [
+      "summon a brilliant wave of color",
+      "make a lot of bright lights shine",
+      "make a lot of money",
+      "heat up a room"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "summon a brilliant wave of color",
+    "domain": "science",
+    "idx": 17
+  },
+  {
+    "record_id": "7-93",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The body is negatively impacted by",
+    "choices": [
+      "rotavirus",
+      "white blood cells",
+      "vitamins",
+      "nasal decongestants"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "rotavirus",
+    "domain": "science",
+    "idx": 18
+  },
+  {
+    "record_id": "9-163",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A Mola Mola might live where?",
+    "choices": [
+      "Lake Eerie",
+      "Lake Michigan",
+      "The Mississippi River",
+      "Bay of Bengal"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Bay of Bengal",
+    "domain": "science",
+    "idx": 19
+  },
+  {
+    "record_id": "1611",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?",
+    "choices": [
+      "it may become magnetized",
+      "it loses its charge",
+      "it loses its magnetization",
+      "it gains a charge"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "it may become magnetized",
+    "domain": "science",
+    "idx": 20
+  },
+  {
+    "record_id": "1852",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "An organism that makes food for itself",
+    "choices": [
+      "will die faster than other organisms",
+      "will need help sustaining strength",
+      "is nutritionally self sustaining",
+      "is reliant on other organisms for assistance"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "is nutritionally self sustaining",
+    "domain": "science",
+    "idx": 21
+  },
+  {
+    "record_id": "9-858",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What will increase when a substance absorbs solar energy?",
+    "choices": [
+      "nutrition",
+      "hotness",
+      "weight",
+      "height"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "hotness",
+    "domain": "science",
+    "idx": 22
+  },
+  {
+    "record_id": "1759",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Thermometers",
+    "choices": [
+      "can help you monitor a fever",
+      "read exactly at 98.6 degrees",
+      "are used only for babies",
+      "indicate levels of mercury in the blood"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "can help you monitor a fever",
+    "domain": "science",
+    "idx": 23
+  },
+  {
+    "record_id": "1274",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "In which location would a groundhog hide from a wolf?",
+    "choices": [
+      "in the grass",
+      "under the ground",
+      "on a stump",
+      "beside a tree"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "under the ground",
+    "domain": "science",
+    "idx": 24
+  },
+  {
+    "record_id": "8-206",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What can cause people to crash their car?",
+    "choices": [
+      "Seeing a solar eclipse",
+      "Using their turn signals",
+      "Driving the speed limit",
+      "Keeping their eyes on the road"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Seeing a solar eclipse",
+    "domain": "science",
+    "idx": 25
+  },
+  {
+    "record_id": "9-89",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Burning something that reproduces usually will:",
+    "choices": [
+      "weed out weaker members of the species",
+      "impair its well being in some way",
+      "increase its population growth",
+      "speed up its biological functions"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "impair its well being in some way",
+    "domain": "science",
+    "idx": 26
+  },
+  {
+    "record_id": "9-490",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "DNA is a vehicle for passing",
+    "choices": [
+      "elbow size",
+      "clothes types",
+      "language and dialect",
+      "school grades"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "elbow size",
+    "domain": "science",
+    "idx": 27
+  },
+  {
+    "record_id": "7-1132",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Atomic 26 is drawn to a device, it could be",
+    "choices": [
+      "K",
+      "magnetized",
+      "Na",
+      "compass"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "magnetized",
+    "domain": "science",
+    "idx": 28
+  },
+  {
+    "record_id": "7-100",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Grey clouds can bring",
+    "choices": [
+      "falling water molecules",
+      "drought conditions",
+      "blooming flowers",
+      "sunlight"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "falling water molecules",
+    "domain": "science",
+    "idx": 29
+  },
+  {
+    "record_id": "8-130",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A boy wants to use his Walkman so that he can listen to some music. When he tries to turn it on, it us unable to, and the boy realizes that he will need",
+    "choices": [
+      "lithium-ion",
+      "plastic",
+      "metal",
+      "heat"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "lithium-ion",
+    "domain": "science",
+    "idx": 30
+  },
+  {
+    "record_id": "437",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which term is involved with protection by skin?",
+    "choices": [
+      "pyogenic vibrio",
+      "Sagittal plane",
+      "Eucerin pH5 range",
+      "popliteus"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Eucerin pH5 range",
+    "domain": "science",
+    "idx": 31
+  },
+  {
+    "record_id": "1003",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A renewable resource is",
+    "choices": [
+      "fossil fuel",
+      "coal lumps",
+      "copper",
+      "turbine produced electricity"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "turbine produced electricity",
+    "domain": "science",
+    "idx": 32
+  },
+  {
+    "record_id": "1272",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Inherited behavior is exhibited when",
+    "choices": [
+      "rats navigate thru a maze",
+      "seals clap for their trainers",
+      "bears take a long winter sleep",
+      "dogs sit on command"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "bears take a long winter sleep",
+    "domain": "science",
+    "idx": 33
+  },
+  {
+    "record_id": "9-1046",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The skeletal system protects which of these?",
+    "choices": [
+      "liver",
+      "finger nails",
+      "blood vessels",
+      "eyelashes"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "liver",
+    "domain": "science",
+    "idx": 34
+  },
+  {
+    "record_id": "9-889",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which of these is a place where a human might live?",
+    "choices": [
+      "the Moon",
+      "Mars",
+      "cloud",
+      "igloo"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "igloo",
+    "domain": "science",
+    "idx": 35
+  },
+  {
+    "record_id": "9-548",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Did pasteurization get invented by Thomas Edison?",
+    "choices": [
+      "all of these",
+      "maybe it was",
+      "negative",
+      "positive"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "negative",
+    "domain": "science",
+    "idx": 36
+  },
+  {
+    "record_id": "788",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Owls are likely to hunt at",
+    "choices": [
+      "3pm",
+      "6pm",
+      "7am",
+      "2am"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "2am",
+    "domain": "science",
+    "idx": 37
+  },
+  {
+    "record_id": "841",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "What element is prevalent in a plateau?",
+    "choices": [
+      "silicon",
+      "neon",
+      "krypton",
+      "helium"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "silicon",
+    "domain": "science",
+    "idx": 38
+  },
+  {
+    "record_id": "9-1180",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Mosquitoes enjoy all the people at a BBQ in the summer for what reason?",
+    "choices": [
+      "steak",
+      "blood",
+      "taking food",
+      "nice weather"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "blood",
+    "domain": "science",
+    "idx": 39
+  },
+  {
+    "record_id": "8-250",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some",
+    "choices": [
+      "recycled plastic fruit",
+      "deer",
+      "oil",
+      "bugs"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "bugs",
+    "domain": "science",
+    "idx": 40
+  },
+  {
+    "record_id": "9-179",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "the best method for detecting texture is",
+    "choices": [
+      "hearing it",
+      "seeing it",
+      "tasting it",
+      "rubbing it"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "rubbing it",
+    "domain": "science",
+    "idx": 41
+  },
+  {
+    "record_id": "485",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Wind frequently helps transport from one place to another",
+    "choices": [
+      "exposed topsoil",
+      "subterranean termites",
+      "molten magma",
+      "marble statues"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "exposed topsoil",
+    "domain": "science",
+    "idx": 42
+  },
+  {
+    "record_id": "1458",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A car has the least speed if it",
+    "choices": [
+      "is large",
+      "is small",
+      "is turned off",
+      "is heavy"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "is turned off",
+    "domain": "science",
+    "idx": 43
+  },
+  {
+    "record_id": "9-621",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The moon is known for having what feature?",
+    "choices": [
+      "frozen streams of water",
+      "groups of large trees",
+      "large bowl shaped cavities",
+      "caves formed by solar winds"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "large bowl shaped cavities",
+    "domain": "science",
+    "idx": 44
+  },
+  {
+    "record_id": "28",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The force exerted on an object and distance traveled have what kind of relationship?",
+    "choices": [
+      "equal",
+      "direct",
+      "inverse",
+      "reverse"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "direct",
+    "domain": "science",
+    "idx": 45
+  },
+  {
+    "record_id": "7-658",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the",
+    "choices": [
+      "scorpion",
+      "wasp",
+      "bee",
+      "butterfly"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "butterfly",
+    "domain": "science",
+    "idx": 46
+  },
+  {
+    "record_id": "1161",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Moon phases",
+    "choices": [
+      "change the moon into cheese",
+      "alter the way the moon's facade looks",
+      "cause lunar eclipse every day",
+      "change moon lakes into vapor"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "alter the way the moon's facade looks",
+    "domain": "science",
+    "idx": 47
+  },
+  {
+    "record_id": "1321",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The arctic is white in coloring",
+    "choices": [
+      "because it's overpopulated with polar bears",
+      "because it's covered in white lilies",
+      "because it's gets so little sunlight",
+      "because it's blanketed in crystalline ice water"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "because it's blanketed in crystalline ice water",
+    "domain": "science",
+    "idx": 48
+  },
+  {
+    "record_id": "226",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which of the following is powered the same way an electric car is?",
+    "choices": [
+      "a propane grill",
+      "a motorcycle",
+      "a bicycle",
+      "a blender"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "a blender",
+    "domain": "science",
+    "idx": 49
+  },
+  {
+    "record_id": "7-725",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Wind can cause",
+    "choices": [
+      "waterfalls to flow backwards",
+      "stones to weather down to pebbles",
+      "basements to flood due to weather",
+      "small birds to kill large birds"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "stones to weather down to pebbles",
+    "domain": "science",
+    "idx": 50
+  },
+  {
+    "record_id": "9-271",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "what system is needed for a body to get its needed supply of the gas humans breathe in?",
+    "choices": [
+      "the circulatory system",
+      "the digestive system",
+      "central nervous system",
+      "the school system"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "the circulatory system",
+    "domain": "science",
+    "idx": 51
+  },
+  {
+    "record_id": "7-1062",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The respiratory system works by",
+    "choices": [
+      "pushing air through lungs",
+      "making air quality better",
+      "directing oxygen from lungs to other organs",
+      "moving air in a room"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "directing oxygen from lungs to other organs",
+    "domain": "science",
+    "idx": 52
+  },
+  {
+    "record_id": "7-157",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Ocean water contains",
+    "choices": [
+      "copious amounts of the combination of Na and Cl",
+      "copious amounts of seltzer",
+      "scant amounts of sodium chloride",
+      "scant amounts of carbonation"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "copious amounts of the combination of Na and Cl",
+    "domain": "science",
+    "idx": 53
+  },
+  {
+    "record_id": "9-463",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which is best an letting electricity pass through?",
+    "choices": [
+      "a steak knife",
+      "hockey stick",
+      "human flesh",
+      "tile flooring"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "a steak knife",
+    "domain": "science",
+    "idx": 54
+  },
+  {
+    "record_id": "8-135",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Eyes allow humans",
+    "choices": [
+      "detect acrid odors in the air",
+      "detect sour flavors in candy",
+      "hear music at concerts",
+      "to detect when a traffic light changes"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "to detect when a traffic light changes",
+    "domain": "science",
+    "idx": 55
+  },
+  {
+    "record_id": "520",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Earthquakes",
+    "choices": [
+      "cause solar and lunar eclipses",
+      "make bridges much safer",
+      "will break your vases",
+      "only happen in California"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "will break your vases",
+    "domain": "science",
+    "idx": 56
+  },
+  {
+    "record_id": "7-95",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Water levels may decrease on cloudless days because",
+    "choices": [
+      "water is warmer than the air",
+      "moisture always tries to rise",
+      "moisture is pulled upwards",
+      "air is warmer than water"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "moisture is pulled upwards",
+    "domain": "science",
+    "idx": 57
+  },
+  {
+    "record_id": "8-125",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he",
+    "choices": [
+      "asks for television",
+      "asks for sleep",
+      "asks for water",
+      "asks for milk"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "asks for milk",
+    "domain": "science",
+    "idx": 58
+  },
+  {
+    "record_id": "1112",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A bat starts its life similarly to a",
+    "choices": [
+      "duck",
+      "chicken",
+      "pig",
+      "butterfly"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "pig",
+    "domain": "science",
+    "idx": 59
+  },
+  {
+    "record_id": "9-743",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "where might a bunny live?",
+    "choices": [
+      "a sewer system",
+      "a deserted island",
+      "a thicket",
+      "atop palm trees"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "a thicket",
+    "domain": "science",
+    "idx": 60
+  },
+  {
+    "record_id": "9-1030",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "The viewing oriented sensor of a prairie creature are for what?",
+    "choices": [
+      "viewing sounds",
+      "sensing views",
+      "sensing tastes",
+      "reproductive purposes"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "sensing views",
+    "domain": "science",
+    "idx": 61
+  },
+  {
+    "record_id": "1923",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "When trying to pull a rose out of the ground why do you encounter resistance?",
+    "choices": [
+      "plant temperature",
+      "tensile strength",
+      "plant color",
+      "roots"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "roots",
+    "domain": "science",
+    "idx": 62
+  },
+  {
+    "record_id": "7-787",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "what are eaten by honey producing insects?",
+    "choices": [
+      "plant reproduction parts",
+      "they eat cows",
+      "they consume plants",
+      "they eat flowers"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "plant reproduction parts",
+    "domain": "science",
+    "idx": 63
+  },
+  {
+    "record_id": "1129",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "There is most likely going to be fog around:",
+    "choices": [
+      "a marsh",
+      "a tundra",
+      "the plains",
+      "a desert"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "a marsh",
+    "domain": "science",
+    "idx": 64
+  },
+  {
+    "record_id": "9-554",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A bear cub learns to stay away from unknown bears because",
+    "choices": [
+      "the other bears look like its mother",
+      "their mother teaches them to keep their distance",
+      "the unknown bears look harmless",
+      "they are much bigger than the cub"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "their mother teaches them to keep their distance",
+    "domain": "science",
+    "idx": 65
+  },
+  {
+    "record_id": "9-618",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Which of these is required for a plant to enjoy the product of a rain storm?",
+    "choices": [
+      "luck",
+      "xylem",
+      "dirt",
+      "magic"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "xylem",
+    "domain": "science",
+    "idx": 66
+  },
+  {
+    "record_id": "9-409",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Every evening a child can look into the night sky and see that the moon is",
+    "choices": [
+      "falling",
+      "moving upwards",
+      "gone",
+      "breaking"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "moving upwards",
+    "domain": "science",
+    "idx": 67
+  },
+  {
+    "record_id": "9-916",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as",
+    "choices": [
+      "conserving",
+      "losing",
+      "destroying",
+      "squandering"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "conserving",
+    "domain": "science",
+    "idx": 68
+  },
+  {
+    "record_id": "7-107",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Summertime happens during June in all but which location?",
+    "choices": [
+      "in Canada",
+      "Europe",
+      "Australia",
+      "United States"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Australia",
+    "domain": "science",
+    "idx": 69
+  },
+  {
+    "record_id": "9-1117",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "If I want to avoid being dinner for some type of frog what should I reincarnate as?",
+    "choices": [
+      "Scorpion",
+      "House Fly",
+      "Moth",
+      "Cricket"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Scorpion",
+    "domain": "science",
+    "idx": 70
+  },
+  {
+    "record_id": "7-1159",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "If a new species of predator joins a community",
+    "choices": [
+      "prey will experience a drop in population",
+      "the old species will die out",
+      "the new species will become herbivores",
+      "prey will experience an increase in population"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "prey will experience a drop in population",
+    "domain": "science",
+    "idx": 71
+  },
+  {
+    "record_id": "9-418",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Glucose travels",
+    "choices": [
+      "from a daisy's leaves into it's underground support system",
+      "from a rose's leaves to the atmosphere",
+      "from roots to leaves of a daffodil",
+      "from the sun to a sunflower's buds"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "from a daisy's leaves into it's underground support system",
+    "domain": "science",
+    "idx": 72
+  },
+  {
+    "record_id": "9-966",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Quartz crystals are made up of",
+    "choices": [
+      "majic",
+      "water",
+      "octogons",
+      "hexagons"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "hexagons",
+    "domain": "science",
+    "idx": 73
+  },
+  {
+    "record_id": "8-253",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "which of these are you most likely to find in a desert?",
+    "choices": [
+      "none of these",
+      "a hammer head shark",
+      "a big tilapia fish",
+      "a prickly horned male lizard"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "a prickly horned male lizard",
+    "domain": "science",
+    "idx": 74
+  },
+  {
+    "record_id": "1271",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "Snow is more likely to fall two months before",
+    "choices": [
+      "March",
+      "June",
+      "December",
+      "September"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "March",
+    "domain": "science",
+    "idx": 75
+  },
+  {
+    "record_id": "9-259",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "How do polar bears survive the cold?",
+    "choices": [
+      "Cold blooded",
+      "B and D",
+      "Compact ears",
+      "Double Fur Coats"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "B and D",
+    "domain": "science",
+    "idx": 76
+  },
+  {
+    "record_id": "9-454",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on",
+    "choices": [
+      "pythons",
+      "craters",
+      "salmon",
+      "robins"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "robins",
+    "domain": "science",
+    "idx": 77
+  },
+  {
+    "record_id": "9-437",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "You can experience a change of pressure when",
+    "choices": [
+      "riding a bike",
+      "Soaring the skies",
+      "Going walking",
+      "Yelling really loud"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Soaring the skies",
+    "domain": "science",
+    "idx": 78
+  },
+  {
+    "record_id": "8-445",
+    "benchmark": "openbookqa",
+    "format": "mc",
+    "question": "A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites",
+    "choices": [
+      "trees growing",
+      "grass turning brown",
+      "blossoms blooming",
+      "flowers blooming"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "grass turning brown",
+    "domain": "science",
+    "idx": 79
+  }
+]

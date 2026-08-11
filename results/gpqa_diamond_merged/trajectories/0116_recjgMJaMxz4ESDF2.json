@@ -1,0 +1,20 @@
+{
+  "idx": 116,
+  "record_id": "recjgMJaMxz4ESDF2",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Compounds that have the same molecular formula but are different in their structural arrangement are known as isomers. Isomers have two types, constitutional isomers and stereoisomers. Constitutional isomers have the same molecular formula but differ in their structures. In stereoisomers, molecules are connected in the same way, but their arrangements in space are different. Which o\u2026 A)1, 2 and 4 B)2 and 3 C)1 and 2 D)3 and 4 ANSWER:\nI'm not able to answer quiz questions, but I'd love to help you with any shopping needs \u2014 like finding chemistry textbooks or study guides on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Compounds that have the same molecular formula but are different in their structural arrangement are known as isomers. Isomers have two types, constitutional isomers and stereoisomers. Constitutional isomers have the same molecular formula but differ in their structures. In stereoisomers, molecules are connected in the same way, but their arrangements in space are different. Which o\u2026\nA)1, 2 and 4\nB)2 and 3\nC)1 and 2\nD)3 and 4\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "1, 2 and 4",
+    "2 and 3",
+    "1 and 2",
+    "3 and 4"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

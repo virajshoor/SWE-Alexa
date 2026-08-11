@@ -1,0 +1,20 @@
+{
+  "idx": 3,
+  "record_id": "rec0yTRmO1o1xCA6H",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In a parallel universe where a magnet can have an isolated North or South pole, Maxwell\u2019s equations look different. But, specifically, which of those equations are different? A)The ones related to the divergence and the curl of the mag\u2026 B)The one related to the divergence of the magnetic field. C)The ones related to the circulation of the electric field \u2026 D)The one related to the circulation of the magnetic field a\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In a parallel universe where a magnet can have an isolated North or South pole, Maxwell\u2019s equations look different. But, specifically, which of those equations are different?\nA)The ones related to the divergence and the curl of the mag\u2026\nB)The one related to the divergence of the magnetic field.\nC)The ones related to the circulation of the electric field \u2026\nD)The one related to the circulation of the magnetic field a\u2026\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "The ones related to the divergence and the curl of the magnetic field.",
+    "The one related to the divergence of the magnetic field. ",
+    "The ones related to the circulation of the electric field and the divergence of the magnetic field.  ",
+    "The one related to the circulation of the magnetic field and the flux of the electric field. "
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

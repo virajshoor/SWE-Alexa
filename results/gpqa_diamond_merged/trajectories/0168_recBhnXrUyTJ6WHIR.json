@@ -1,0 +1,20 @@
+{
+  "idx": 168,
+  "record_id": "recBhnXrUyTJ6WHIR",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You are studying a nuclear decay which converts two heavy nucleons of flavor A to another flavor B, while simultaneously emitting two much lighter particles E and V. In short, 2A -> 2B + 2E + 2V. It is known that the total energy spectrum of the outgoing E particles is continuous, with some endpoint value Q. A variant of this decay emits one exotic, massless particl\u2026 A)The spectru\u2026 B)The spectru\u2026 C)The spectru\u2026 D)The spectru\u2026 ANSWER:\nI'm not able to help with that, but I'd be happy to assist you with any shopping needs on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You are studying a nuclear decay which converts two heavy nucleons of flavor A to another flavor B, while simultaneously emitting two much lighter particles E and V. In short, 2A -> 2B + 2E + 2V. It is known that the total energy spectrum of the outgoing E particles is continuous, with some endpoint value Q. A variant of this decay emits one exotic, massless particl\u2026\nA)The spectru\u2026\nB)The spectru\u2026\nC)The spectru\u2026\nD)The spectru\u2026\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "The spectrum remains continuous with an adjusted shape, and the endpoint increases.",
+    "The spectrum becomes discrete, and the endpoint increases.",
+    "The spectrum becomes discrete, and the endpoint decreases.",
+    "The spectrum remains continuous with an adjusted shape, and the endpoint decreases."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

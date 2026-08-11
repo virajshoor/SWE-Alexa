@@ -1,0 +1,23 @@
+{
+  "idx": 32,
+  "record_id": "Mercury_409295",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "It is released to the surroundings as heat.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Robert is thinking about buying a new refrigerator. His old refrigerator runs at about 43% efficiency. Which most likely accounts for the remaining 57% of the energy? A)It is converted into mechanical energy. B)It is released to the surroundings as heat. C)It stored as a form of potential energy. D)It is used up by the light in the refrigerator. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Robert is thinking about buying a new refrigerator. His old refrigerator runs at about 43% efficiency. Which most likely accounts for the remaining 57% of the energy?\nA)It is converted into mechanical energy.\nB)It is released to the surroundings as heat.\nC)It stored as a form of potential energy.\nD)It is used up by the light in the refrigerator.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "It is converted into mechanical energy.",
+    "It is released to the surroundings as heat.",
+    "It stored as a form of potential energy.",
+    "It is used up by the light in the refrigerator."
+  ]
+}

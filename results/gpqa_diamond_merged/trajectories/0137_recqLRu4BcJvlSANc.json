@@ -1,0 +1,20 @@
+{
+  "idx": 137,
+  "record_id": "recqLRu4BcJvlSANc",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A chemical reaction for the synthesis of a product containing H+ ion was proceeding at room temperature and pH 1. Accidentally an unknown substance was fallen into the running reaction making the rate of the reaction slower for the product formation and the container got hot due to an exothermic reaction. The pH value of the solution changed to 4 after this accident\u2026 A)The increas\u2026 B)The increas\u2026 C)The increas\u2026 D)The increas\u2026 ANSWER:\nI'm not able to help with that. This assistant is designed for shopping assistance and general knowledge questions \u2014 not academic quizzes or chemistry coursework.\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A chemical reaction for the synthesis of a product containing H+ ion was proceeding at room temperature and pH 1. Accidentally an unknown substance was fallen into the running reaction making the rate of the reaction slower for the product formation and the container got hot due to an exothermic reaction. The pH value of the solution changed to 4 after this accident\u2026\nA)The increas\u2026\nB)The increas\u2026\nC)The increas\u2026\nD)The increas\u2026\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "The increased pressure of the solution",
+    "The increased temperature of the solution",
+    "The increased pH of the solution",
+    "The increased volume of the solution "
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

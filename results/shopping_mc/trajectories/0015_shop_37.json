@@ -1,0 +1,23 @@
+{
+  "idx": 15,
+  "record_id": "shop_37",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Sizing and fit uncertainty",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A high return rate on apparel often relates to: A)Sizing and fit uncertainty B)ASIN being too short C)Cart button color D)Wishlist icons ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A high return rate on apparel often relates to:\nA)Sizing and fit uncertainty\nB)ASIN being too short\nC)Cart button color\nD)Wishlist icons\nANSWER:",
+  "domain": "apparel",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Sizing and fit uncertainty",
+    "ASIN being too short",
+    "Cart button color",
+    "Wishlist icons"
+  ]
+}

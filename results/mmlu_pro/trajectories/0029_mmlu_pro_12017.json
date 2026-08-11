@@ -1,0 +1,23 @@
+{
+  "idx": 29,
+  "record_id": "mmlu_pro_12017",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "176\u00b0F",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A spherical shell of cast iron having an inside radius 2.5 in. and outside radius 6 in., contains a solution which liberates heat at the rate of 0.8 \u00d7 10^5 Btu/hr. The outside surface of the shell is held at 120\u00b0F. Assuming that the steady state conditions prevail and that the thermal conductivity of the cast iron 45 Btu/hr-ft-\u00b0F remains constant, determine the temperature distribution in the \u2026 A)160\u00b0F B)180\u00b0F C)176\u00b0F D)150\u00b0F ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A spherical shell of cast iron having an inside radius 2.5 in. and outside radius 6 in., contains a solution which liberates heat at the rate of 0.8 \u00d7 10^5 Btu/hr. The outside surface of the shell is held at 120\u00b0F. Assuming that the steady state conditions prevail and that the thermal conductivity of the cast iron 45 Btu/hr-ft-\u00b0F remains constant, determine the temperature distribution in the \u2026\nA)160\u00b0F\nB)180\u00b0F\nC)176\u00b0F\nD)150\u00b0F\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "160\u00b0F",
+    "180\u00b0F",
+    "176\u00b0F",
+    "150\u00b0F"
+  ]
+}

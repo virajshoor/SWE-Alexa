@@ -1,0 +1,20 @@
+{
+  "idx": 104,
+  "record_id": "receYQxnUBvxPcvbQ",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are currently observing a star with a radius equal to that of the Sun. One hemisphere of the star is covered in dark spots with a filling factor of 20%. The star has an effective temperature (Teff) of 6000K, and the spots exhibit a temperature difference of 1000K. As only one hemisphere is spotty, photometric time-series observations will reveal periodic variations in brightness du\u2026 A)~0.32 B)~0.11 C)~0.39 D)~0.07 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are currently observing a star with a radius equal to that of the Sun. One hemisphere of the star is covered in dark spots with a filling factor of 20%. The star has an effective temperature (Teff) of 6000K, and the spots exhibit a temperature difference of 1000K. As only one hemisphere is spotty, photometric time-series observations will reveal periodic variations in brightness du\u2026\nA)~0.32\nB)~0.11\nC)~0.39\nD)~0.07\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~0.32",
+    "~0.11",
+    "~0.39",
+    "~0.07"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

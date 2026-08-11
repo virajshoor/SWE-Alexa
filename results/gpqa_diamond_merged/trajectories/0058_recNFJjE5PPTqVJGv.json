@@ -1,0 +1,20 @@
+{
+  "idx": 58,
+  "record_id": "recNFJjE5PPTqVJGv",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Determine the pH of the solution of 500 mL of 0.1 M CH3COOH, 400 mL of 0.2 M HCl, and 300 mL of 0.3 M Ba(OH)2. A)12.62 B)1.38 C)8.68 D)8.92 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Determine the pH of the solution of 500 mL of 0.1 M CH3COOH, 400 mL of 0.2 M HCl, and 300 mL of 0.3 M Ba(OH)2.\nA)12.62\nB)1.38\nC)8.68\nD)8.92\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "12.62",
+    "1.38",
+    "8.68",
+    "8.92"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

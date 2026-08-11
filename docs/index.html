@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alexa-Rufus-1 LLM Benchmark Results | GPQA, MMLU-Pro, ARC, GSM8K, SWE-bench</title>
+  <meta name="description" content="Alexa-Rufus-1 unofficial LLM benchmark leaderboard: Amazon Alexa for Shopping (Rufus) scored 38.4% on GPQA Diamond, 81.2% on MMLU-Pro (slice), 95% ARC-Challenge, 62.5% GSM8K, 0% SWE-bench Verified via Playwright web UI." />
+  <meta name="keywords" content="Alexa-Rufus-1, Alexa for Shopping, Rufus, LLM benchmark, GPQA Diamond, MMLU-Pro, ARC-Challenge, OpenBookQA, GSM8K, TruthfulQA, SimpleQA, SWE-bench Verified, Amazon Alexa evaluation, LLM leaderboard" />
+  <meta name="author" content="SWE-Alexa / Viraj Shoor" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+  <meta name="googlebot" content="index, follow" />
+  <link rel="canonical" href="https://virajshoor.github.io/SWE-Alexa/" />
+  <link rel="alternate" type="application/json" href="https://virajshoor.github.io/SWE-Alexa/alexa_rufus_1_scores.json" title="Alexa-Rufus-1 scores JSON" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Alexa-Rufus-1 Benchmarks" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://virajshoor.github.io/SWE-Alexa/" />
+  <meta property="og:title" content="Alexa-Rufus-1 — Unofficial LLM Benchmark Leaderboard" />
+  <meta property="og:description" content="Amazon Alexa for Shopping (Rufus) as Alexa-Rufus-1: GPQA Diamond 38.4%, MMLU-Pro slice 81.2%, ARC 95%, GSM8K 62.5%, SWE-bench 0%. Playwright web-UI eval." />
+  <meta property="og:image" content="https://virajshoor.github.io/SWE-Alexa/og-cover.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Alexa-Rufus-1 unofficial LLM benchmark results cover" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Alexa-Rufus-1 LLM Benchmark Results" />
+  <meta name="twitter:description" content="Unofficial Rufus/Alexa for Shopping scores on GPQA, MMLU-Pro, ARC, GSM8K, SWE-bench and more." />
+  <meta name="twitter:image" content="https://virajshoor.github.io/SWE-Alexa/og-cover.jpg" />
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f6b5c'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-size='28' fill='white' font-family='Georgia,serif'%3EA%3C/text%3E%3C/svg%3E" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://virajshoor.github.io/SWE-Alexa/#website",
+        "url": "https://virajshoor.github.io/SWE-Alexa/",
+        "name": "Alexa-Rufus-1 Benchmarks",
+        "description": "Unofficial LLM benchmark results for Alexa-Rufus-1 (Amazon Alexa for Shopping / Rufus).",
+        "publisher": { "@id": "https://virajshoor.github.io/SWE-Alexa/#org" }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://virajshoor.github.io/SWE-Alexa/#org",
+        "name": "SWE-Alexa",
+        "url": "https://github.com/virajshoor/SWE-Alexa"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://virajshoor.github.io/SWE-Alexa/#webpage",
+        "url": "https://virajshoor.github.io/SWE-Alexa/",
+        "name": "Alexa-Rufus-1 LLM Benchmark Results",
+        "isPartOf": { "@id": "https://virajshoor.github.io/SWE-Alexa/#website" },
+        "description": "Leaderboard of unofficial Playwright web-UI evaluations of Alexa-Rufus-1 on GPQA Diamond, MMLU-Pro, ARC-Challenge, GSM8K, SWE-bench Verified and more.",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://virajshoor.github.io/SWE-Alexa/og-cover.jpg"
+        },
+        "datePublished": "2026-08-11",
+        "dateModified": "2026-08-11",
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://virajshoor.github.io/SWE-Alexa/#dataset",
+        "name": "Alexa-Rufus-1 unofficial benchmark scores",
+        "description": "Scores for Alexa-Rufus-1 (Amazon.com Alexa for Shopping / Rufus) evaluated via Playwright on SWE-bench Verified, GPQA Diamond, MMLU-Pro slice, ARC-Challenge, OpenBookQA, GSM8K, TruthfulQA-MC, SimpleQA, and Shopping-MC.",
+        "url": "https://virajshoor.github.io/SWE-Alexa/alexa_rufus_1_scores.json",
+        "license": "https://opensource.org/licenses/MIT",
+        "creator": { "@id": "https://virajshoor.github.io/SWE-Alexa/#org" },
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://virajshoor.github.io/SWE-Alexa/alexa_rufus_1_scores.json"
+        },
+        "variableMeasured": [
+          {"@type": "PropertyValue", "name": "GPQA Diamond accuracy", "value": 38.4, "unitText": "percent"},
+          {"@type": "PropertyValue", "name": "MMLU-Pro slice accuracy", "value": 81.2, "unitText": "percent"},
+          {"@type": "PropertyValue", "name": "ARC-Challenge slice accuracy", "value": 95.0, "unitText": "percent"},
+          {"@type": "PropertyValue", "name": "GSM8K slice accuracy", "value": 62.5, "unitText": "percent"},
+          {"@type": "PropertyValue", "name": "SWE-bench Verified resolved", "value": 0.0, "unitText": "percent"}
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "name": "Alexa-Rufus-1 benchmark leaderboard",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 9,
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "SWE-bench Verified — 0.0% (0/40)"},
+          {"@type": "ListItem", "position": 2, "name": "GPQA Diamond — 38.4% (76/198)"},
+          {"@type": "ListItem", "position": 3, "name": "MMLU-Pro slice — 81.2% (65/80)"},
+          {"@type": "ListItem", "position": 4, "name": "ARC-Challenge slice — 95.0% (76/80)"},
+          {"@type": "ListItem", "position": 5, "name": "OpenBookQA slice — 87.5% (70/80)"},
+          {"@type": "ListItem", "position": 6, "name": "GSM8K slice — 62.5% (50/80)"},
+          {"@type": "ListItem", "position": 7, "name": "TruthfulQA-MC slice — 88.8% (71/80)"},
+          {"@type": "ListItem", "position": 8, "name": "SimpleQA slice — 38.3% (23/60)"},
+          {"@type": "ListItem", "position": 9, "name": "Shopping-MC — 95.0% (38/40)"}
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Alexa-Rufus-1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Alexa-Rufus-1 is the system name used for evaluating Amazon.com Alexa for Shopping (Rufus) through the public web UI with a Playwright harness in the SWE-Alexa repository."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How did Alexa-Rufus-1 score on GPQA Diamond?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "On the full GPQA Diamond set of 198 questions, Alexa-Rufus-1 scored 76 correct for 38.4% accuracy via the Rufus web chat."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are these official Open LLM Leaderboard scores?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. These are unofficial third-party web-UI evaluations. Official Open LLM Leaderboard and Artificial Analysis boards require open model weights or their own harnesses, which Alexa for Shopping does not provide."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is SWE-bench Verified 0%?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In a live signed-in amazon.com session, Alexa-Rufus-1 refused software-engineering and GitHub patch tasks and produced zero unified diffs across 40 SWE-bench Verified instances."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --ink: #1a2421;
+      --muted: #4d5c57;
+      --paper: #f3f0e8;
+      --card: rgba(255,255,255,0.78);
+      --accent: #0f6b5c;
+      --accent-2: #c45c26;
+      --line: rgba(26,36,33,0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Source Sans 3", system-ui, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d9ebe4 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f0dcc8 0%, transparent 50%),
+        linear-gradient(180deg, #efece3, var(--paper));
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+    main { width: min(980px, calc(100% - 2rem)); margin: 0 auto; padding: 3rem 0 4rem; }
+    h1, h2, h3 { font-family: Fraunces, Georgia, serif; letter-spacing: -0.02em; line-height: 1.15; }
+    h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); margin: 0 0 0.5rem; }
+    h2 { font-size: 1.55rem; margin: 2.2rem 0 0.8rem; }
+    h3 { font-size: 1.15rem; margin: 1.2rem 0 0.4rem; }
+    .brand { color: var(--accent); }
+    .lede { font-size: 1.15rem; color: var(--muted); max-width: 44rem; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.4rem 0 1.6rem; }
+    .chip {
+      border: 1px solid var(--line);
+      background: var(--card);
+      backdrop-filter: blur(8px);
+      border-radius: 999px;
+      padding: 0.35rem 0.8rem;
+      font-size: 0.9rem;
+    }
+    .highlights {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 0.75rem;
+      margin: 0 0 1.75rem;
+    }
+    .stat {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 0.9rem 1rem;
+    }
+    .stat strong { display: block; font-size: 1.45rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+    .stat span { color: var(--muted); font-size: 0.9rem; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      backdrop-filter: blur(10px);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+    th, td { padding: 0.85rem 1rem; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+    tr:last-child td { border-bottom: 0; }
+    td.score { font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .note, .prose-box {
+      margin-top: 1.5rem;
+      padding: 1rem 1.1rem;
+      border-left: 3px solid var(--accent-2);
+      background: rgba(255,255,255,0.55);
+      color: var(--muted);
+    }
+    .prose-box { border-left-color: var(--accent); }
+    details { margin: 0.6rem 0; }
+    summary { cursor: pointer; font-weight: 600; color: var(--ink); }
+    a { color: var(--accent); }
+    nav.crumbs { font-size: 0.92rem; color: var(--muted); margin-bottom: 1.2rem; }
+    footer { margin-top: 2.5rem; color: var(--muted); font-size: 0.95rem; }
+    @media (max-width: 640px) {
+      th:nth-child(5), td:nth-child(5) { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="https://github.com/virajshoor/SWE-Alexa">SWE-Alexa</a> /
+      <span>Alexa-Rufus-1 benchmarks</span>
+    </nav>
+
+    <header>
+      <h1><span class="brand">Alexa-Rufus-1</span> LLM benchmark results</h1>
+      <p class="lede">
+        Unofficial third-party evaluation of Amazon.com <strong>Alexa for Shopping (Rufus)</strong>
+        driven with Playwright. Public system name: <strong>Alexa-Rufus-1</strong>.
+        Scores cover <strong>GPQA Diamond</strong>, <strong>MMLU-Pro</strong>, <strong>ARC-Challenge</strong>,
+        <strong>OpenBookQA</strong>, <strong>GSM8K</strong>, <strong>TruthfulQA</strong>,
+        <strong>SimpleQA</strong>, shopping MC, and <strong>SWE-bench Verified</strong>.
+      </p>
+      <div class="meta" aria-label="Tags">
+        <span class="chip">Alexa for Shopping / Rufus</span>
+        <span class="chip">amazon.com web UI</span>
+        <span class="chip">Composer ≤500 chars</span>
+        <span class="chip">Playwright harness</span>
+      </div>
+    </header>
+
+    <section class="highlights" aria-label="Headline scores">
+      <div class="stat"><strong>38.4%</strong><span>GPQA Diamond (198)</span></div>
+      <div class="stat"><strong>81.2%</strong><span>MMLU-Pro slice (80)</span></div>
+      <div class="stat"><strong>95.0%</strong><span>ARC-Challenge (80)</span></div>
+      <div class="stat"><strong>62.5%</strong><span>GSM8K slice (80)</span></div>
+      <div class="stat"><strong>0.0%</strong><span>SWE-bench Verified (40)</span></div>
+    </section>
+
+    <section id="leaderboard" aria-labelledby="leaderboard-heading">
+      <h2 id="leaderboard-heading">Leaderboard</h2>
+      <table>
+        <caption style="caption-side:bottom;padding:0.75rem 1rem;color:var(--muted);text-align:left;font-size:0.9rem;">
+          Alexa-Rufus-1 accuracy on each benchmark suite (static HTML for search indexing).
+        </caption>
+        <thead>
+          <tr>
+            <th scope="col">Benchmark</th>
+            <th scope="col">n</th>
+            <th scope="col">Correct</th>
+            <th scope="col">Accuracy</th>
+            <th scope="col">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>SWE-bench Verified</td><td>40</td><td>0</td>
+            <td class="score">0.0%</td>
+            <td>0 patches; coding refusal in live Rufus chat</td>
+          </tr>
+          <tr>
+            <td>GPQA Diamond</td><td>198</td><td>76</td>
+            <td class="score">38.4%</td>
+            <td>Full Diamond set</td>
+          </tr>
+          <tr>
+            <td>MMLU-Pro</td><td>80</td><td>65</td>
+            <td class="score">81.2%</td>
+            <td>80-item slice; options compacted to A–D</td>
+          </tr>
+          <tr>
+            <td>ARC-Challenge</td><td>80</td><td>76</td>
+            <td class="score">95.0%</td>
+            <td>80-item science MC slice</td>
+          </tr>
+          <tr>
+            <td>OpenBookQA</td><td>80</td><td>70</td>
+            <td class="score">87.5%</td>
+            <td>80-item slice</td>
+          </tr>
+          <tr>
+            <td>GSM8K</td><td>80</td><td>50</td>
+            <td class="score">62.5%</td>
+            <td>80-item numeric short-answer slice</td>
+          </tr>
+          <tr>
+            <td>TruthfulQA-MC</td><td>80</td><td>71</td>
+            <td class="score">88.8%</td>
+            <td>80-item MC1 slice</td>
+          </tr>
+          <tr>
+            <td>SimpleQA</td><td>60</td><td>23</td>
+            <td class="score">38.3%</td>
+            <td>60-item slice; normalized string match</td>
+          </tr>
+          <tr>
+            <td>Shopping-MC</td><td>40</td><td>38</td>
+            <td class="score">95.0%</td>
+            <td>Custom Amazon / shopping knowledge MC</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="about" aria-labelledby="about-heading">
+      <h2 id="about-heading">About this evaluation</h2>
+      <div class="prose-box">
+        <p>
+          <strong>Alexa-Rufus-1</strong> names the evaluated system: Amazon’s Alexa for Shopping assistant
+          (Rufus) on <code>amazon.com</code>, not an open-weight Hugging Face model.
+          The harness opens the Rufus panel, sends compacted prompts (composer <code>maxlength=500</code>),
+          and grades replies offline. Full trajectories live in the
+          <a href="https://github.com/virajshoor/SWE-Alexa">SWE-Alexa GitHub repository</a>.
+        </p>
+        <p>
+          Academic suites other than full <strong>GPQA Diamond</strong> use balanced sample slices
+          for wall-clock vs signal. This page is the public indexable leaderboard for those results.
+        </p>
+        <p>
+          Related pages:
+          <a href="./methodology.html">methodology</a> ·
+          <a href="./alexa_rufus_1_scores.json">machine-readable scores (JSON-LD Dataset)</a> ·
+          <a href="https://github.com/virajshoor/SWE-Alexa/blob/main/RESULTS_DETAILED.md">detailed write-up</a>
+        </p>
+      </div>
+    </section>
+
+    <section id="faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">FAQ</h2>
+      <details open>
+        <summary>What is Alexa-Rufus-1?</summary>
+        <p>The system name for Amazon.com Alexa for Shopping (Rufus) as evaluated by the SWE-Alexa Playwright harness.</p>
+      </details>
+      <details>
+        <summary>How did Alexa-Rufus-1 score on GPQA Diamond?</summary>
+        <p>76 / 198 correct → <strong>38.4%</strong> on the full Diamond set.</p>
+      </details>
+      <details>
+        <summary>Are these official Open LLM Leaderboard scores?</summary>
+        <p>No. Official boards need open weights or vendor APIs. These are unofficial web-UI results hosted on GitHub Pages.</p>
+      </details>
+      <details>
+        <summary>Why is SWE-bench Verified 0%?</summary>
+        <p>Live Rufus replies refused coding / GitHub patches; zero unified diffs on 40 instances.</p>
+      </details>
+    </section>
+
+    <div class="note" role="note">
+      Not affiliated with Amazon. Not an official Open LLM Leaderboard or Artificial Analysis run.
+      Slice scores are not substitutes for full official benchmark protocols (e.g. full 10-option MMLU-Pro).
+    </div>
+
+    <footer>
+      <p>
+        Source &amp; trajectories:
+        <a href="https://github.com/virajshoor/SWE-Alexa">github.com/virajshoor/SWE-Alexa</a>
+        · PR <a href="https://github.com/virajshoor/SWE-Alexa/pull/1">#1</a>
+        · <a href="./sitemap.xml">sitemap</a>
+        · <a href="./robots.txt">robots.txt</a>
+      </p>
+      <p>Canonical URL: <a href="https://virajshoor.github.io/SWE-Alexa/">https://virajshoor.github.io/SWE-Alexa/</a></p>
+    </footer>
+  </main>
+</body>
+</html>

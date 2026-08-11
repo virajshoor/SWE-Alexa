@@ -1,0 +1,23 @@
+{
+  "idx": 7,
+  "record_id": "Mercury_SC_400708",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "The remains of plants and animals were trapped.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Gas and oil come from deposits of petroleum deep within the earth. What caused these deposits to form? A)Rocks were dissolved by water. B)Air, water, and minerals combined. C)The remains of plants and animals were trapped. D)Lava deposited and then cooled. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Gas and oil come from deposits of petroleum deep within the earth. What caused these deposits to form?\nA)Rocks were dissolved by water.\nB)Air, water, and minerals combined.\nC)The remains of plants and animals were trapped.\nD)Lava deposited and then cooled.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Rocks were dissolved by water.",
+    "Air, water, and minerals combined.",
+    "The remains of plants and animals were trapped.",
+    "Lava deposited and then cooled."
+  ]
+}

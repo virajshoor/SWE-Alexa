@@ -1,0 +1,20 @@
+{
+  "idx": 6,
+  "record_id": "rec2UlKqC6RFHdcro",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The universe is filled with the Cosmic Microwave Background. Consider the annihilation of high energy \\gamma-rays with a photon from the CMB Radiation into electron-positron, i.e. $\\gamma\\gamma\\rightarrow e^{+}e^{-}$. From what energy \\gamma-rays would have their lifetimes in the universe limited by this process? Knowing that the average photon energy of the CMB is $10^\u2026 A)1.8*1e5 GeV B)3.9*1e5 GeV C)9.5*1e4 GeV D)2.6*1e5 GeV ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The universe is filled with the Cosmic Microwave Background. Consider the annihilation of high energy \\gamma-rays with a photon from the CMB Radiation into electron-positron, i.e. $\\gamma\\gamma\\rightarrow e^{+}e^{-}$. From what energy \\gamma-rays would have their lifetimes in the universe limited by this process? Knowing that the average photon energy of the CMB is $10^\u2026\nA)1.8*1e5 GeV\nB)3.9*1e5 GeV\nC)9.5*1e4 GeV\nD)2.6*1e5 GeV\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "1.8*1e5 GeV",
+    "3.9*1e5 GeV",
+    "9.5*1e4 GeV",
+    "2.6*1e5 GeV"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

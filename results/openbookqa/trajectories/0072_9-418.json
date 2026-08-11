@@ -1,0 +1,23 @@
+{
+  "idx": 72,
+  "record_id": "9-418",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "from a daisy's leaves into it's underground support system",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Glucose travels A)from a daisy's leaves into it's underground support system B)from a rose's leaves to the atmosphere C)from roots to leaves of a daffodil D)from the sun to a sunflower's buds ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Glucose travels\nA)from a daisy's leaves into it's underground support system\nB)from a rose's leaves to the atmosphere\nC)from roots to leaves of a daffodil\nD)from the sun to a sunflower's buds\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "from a daisy's leaves into it's underground support system",
+    "from a rose's leaves to the atmosphere",
+    "from roots to leaves of a daffodil",
+    "from the sun to a sunflower's buds"
+  ]
+}

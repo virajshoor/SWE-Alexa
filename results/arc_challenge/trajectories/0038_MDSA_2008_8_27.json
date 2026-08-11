@@ -1,0 +1,23 @@
+{
+  "idx": 38,
+  "record_id": "MDSA_2008_8_27",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "The frequency would decrease by half.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Rossby waves are slow-moving, long ocean waves. What feature of a Rossby wave would change if the wavelength was doubled? A)The amplitude would double. B)The frequency would double. C)The frequency would decrease by half. D)The amplitude would decrease by half. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Rossby waves are slow-moving, long ocean waves. What feature of a Rossby wave would change if the wavelength was doubled?\nA)The amplitude would double.\nB)The frequency would double.\nC)The frequency would decrease by half.\nD)The amplitude would decrease by half.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The amplitude would double.",
+    "The frequency would double.",
+    "The frequency would decrease by half.",
+    "The amplitude would decrease by half."
+  ]
+}

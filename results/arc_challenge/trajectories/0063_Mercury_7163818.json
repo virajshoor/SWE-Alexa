@@ -1,0 +1,23 @@
+{
+  "idx": 63,
+  "record_id": "Mercury_7163818",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "air density",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:When a speeding meteor enters Earth's atmosphere, it slows down and becomes very hot due to friction. Which factor most influences the amount of friction that a meteor encounters when it enters the atmosphere? A)air density B)solar energy C)magnetism D)the weather ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:When a speeding meteor enters Earth's atmosphere, it slows down and becomes very hot due to friction. Which factor most influences the amount of friction that a meteor encounters when it enters the atmosphere?\nA)air density\nB)solar energy\nC)magnetism\nD)the weather\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "air density",
+    "solar energy",
+    "magnetism",
+    "the weather"
+  ]
+}

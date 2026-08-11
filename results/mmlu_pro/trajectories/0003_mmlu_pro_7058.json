@@ -1,0 +1,23 @@
+{
+  "idx": 3,
+  "record_id": "mmlu_pro_7058",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "not in the labor force.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Imagine someone who is not looking for work because they are embarrassed in the interview process when their inability to read is revealed. However this person would take just about any job that was offered. According to the Bureau of Labor Statistics this person is A)not in the labor force. B)in the labor force but not counted \u2026 C)in the labor force but not actively\u2026 D)in the labor force but considered u\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Imagine someone who is not looking for work because they are embarrassed in the interview process when their inability to read is revealed. However this person would take just about any job that was offered. According to the Bureau of Labor Statistics this person is\nA)not in the labor force.\nB)in the labor force but not counted \u2026\nC)in the labor force but not actively\u2026\nD)in the labor force but considered u\u2026\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "not in the labor force.",
+    "in the labor force but not counted as unemployed.",
+    "in the labor force but not actively seeking employment.",
+    "in the labor force but considered underemployed."
+  ]
+}

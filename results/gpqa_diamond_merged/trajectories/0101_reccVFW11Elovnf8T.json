@@ -1,0 +1,20 @@
+{
+  "idx": 101,
+  "record_id": "reccVFW11Elovnf8T",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You identified a new ligand-receptor pair initially expressed in the neural crest cells and want to understand the developmental fate of their interaction. The receptor is a monomeric transmembrane barrel with eight alpha helices, four extracellular helices, and three beta sheets that create a binding site for the ligand. The ligand is a coiled-coil of two alpha hel\u2026 A)ligand and \u2026 B)the recepto\u2026 C)the recepto\u2026 D)the enhance\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, general knowledge, and more \u2014 but I'm not designed to answer academic quiz questions. I'd be happy to help you find study guides, biology textbooks, or other learning resources on Amazon if you're interested!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You identified a new ligand-receptor pair initially expressed in the neural crest cells and want to understand the developmental fate of their interaction. The receptor is a monomeric transmembrane barrel with eight alpha helices, four extracellular helices, and three beta sheets that create a binding site for the ligand. The ligand is a coiled-coil of two alpha hel\u2026\nA)ligand and \u2026\nB)the recepto\u2026\nC)the recepto\u2026\nD)the enhance\u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "ligand and the receptor are in a paracrine relationship",
+    "the receptor and the eGFP are not in the frame",
+    "the receptor-eGFP construct is stuck in the Golgi",
+    "the enhancer for the ligand and receptor expression is missing"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 158,
+  "record_id": "reczUoM8JsxU6pYxr",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Observations of a quasar across the electromagnetic spectrum are being carried out. Focusing on the near infrared and optical spectrum, there is a peak at wavelength of about 790 nm, and at shorter wavelengths < 790 nm the flux drops significantly. If we lived in a universe defined by Lambda-CDM model such that the current Hubble constant is 70 km s^-1 Mpc^-1, matter density parameter is 0.3, \u2026 A)9 Gpc B)7 Gpc C)6 Gpc D)8 Gpc ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Observations of a quasar across the electromagnetic spectrum are being carried out. Focusing on the near infrared and optical spectrum, there is a peak at wavelength of about 790 nm, and at shorter wavelengths < 790 nm the flux drops significantly. If we lived in a universe defined by Lambda-CDM model such that the current Hubble constant is 70 km s^-1 Mpc^-1, matter density parameter is 0.3, \u2026\nA)9 Gpc\nB)7 Gpc\nC)6 Gpc\nD)8 Gpc\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "9 Gpc",
+    "7 Gpc",
+    "6 Gpc",
+    "8 Gpc"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

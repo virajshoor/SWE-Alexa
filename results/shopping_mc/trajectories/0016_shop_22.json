@@ -1,0 +1,23 @@
+{
+  "idx": 16,
+  "record_id": "shop_22",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Sustainability / climate certifications",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A 'climate pledge friendly' badge relates to: A)Sustainability / climate certifications B)Larger pizza toppings C)Faster GPU clocks D)Free concert tickets ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A 'climate pledge friendly' badge relates to:\nA)Sustainability / climate certifications\nB)Larger pizza toppings\nC)Faster GPU clocks\nD)Free concert tickets\nANSWER:",
+  "domain": "sustainability",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Sustainability / climate certifications",
+    "Larger pizza toppings",
+    "Faster GPU clocks",
+    "Free concert tickets"
+  ]
+}

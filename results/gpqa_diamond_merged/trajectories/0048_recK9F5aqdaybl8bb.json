@@ -1,0 +1,20 @@
+{
+  "idx": 48,
+  "record_id": "recK9F5aqdaybl8bb",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Sigmatropic rearrangement is a class of pericyclic reactions. In these reactions, the terminal pi bond migrates into the sigma bond. Cope and Claisen rearrangements are also sigma tropic rearrangements. These reactions are usually thermodynamically favored. Complete the following reactions. 1,1-dimethoxyethan-1-amine + but-3-en-2-ol + (H+ + Heat) ---> A (3R,4S)-3,4-\u2026 A)A = 6-methy\u2026 B)A = (Z)-1-(\u2026 C)A = (Z)-1-(\u2026 D)A = 6-methy\u2026 ANSWER:\nI'm not able to help with quiz questions, but I'd love to assist you with any shopping needs on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Sigmatropic rearrangement is a class of pericyclic reactions. In these reactions, the terminal pi bond migrates into the sigma bond. Cope and Claisen rearrangements are also sigma tropic rearrangements. These reactions are usually thermodynamically favored. Complete the following reactions. 1,1-dimethoxyethan-1-amine + but-3-en-2-ol + (H+ + Heat) ---> A (3R,4S)-3,4-\u2026\nA)A = 6-methy\u2026\nB)A = (Z)-1-(\u2026\nC)A = (Z)-1-(\u2026\nD)A = 6-methy\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = 6-methyl-3,4-dihydro-2H-pyran-2-amine, B = (1Z,2E)-1,2-diethylidenecyclobutane, C = 4-methylenehexan-1-ol",
+    "A = (Z)-1-(but-2-en-2-yloxy)ethen-1-amine, B = (3Z,4E)-3,4-diethylidenecyclobut-1-ene, C = 4-methylenehexan-1-ol",
+    "A = (Z)-1-(but-2-en-2-yloxy)ethen-1-amine, B = (3Z,4E)-3,4-diethylidenecyclobut-1-ene, C = 4-methylenehexanal",
+    "A = 6-methyl-3,4-dihydro-2H-pyran-2-amine, B = (1Z,2E)-1,2-diethylidenecyclobutane, C = 4-methylenehexanal"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

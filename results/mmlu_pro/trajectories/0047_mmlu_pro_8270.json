@@ -1,0 +1,23 @@
+{
+  "idx": 47,
+  "record_id": "mmlu_pro_8270",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "6 boxes",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Rob uses 1 box of cat food every 5 days to feed his cats. Approximately how many boxes of cat food does he use per month? A)5 boxes B)3 boxes C)4 boxes D)6 boxes ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Rob uses 1 box of cat food every 5 days to feed his cats. Approximately how many boxes of cat food does he use per month?\nA)5 boxes\nB)3 boxes\nC)4 boxes\nD)6 boxes\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "5 boxes",
+    "3 boxes",
+    "4 boxes",
+    "6 boxes"
+  ]
+}

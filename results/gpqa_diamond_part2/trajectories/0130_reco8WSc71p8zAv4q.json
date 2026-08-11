@@ -1,0 +1,20 @@
+{
+  "idx": 130,
+  "record_id": "reco8WSc71p8zAv4q",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A dicarboxylic acid containing a cis-alkene was dehydrated to the corresponding anhydride. This anhydride, which has a single peak (7 ppm) in its 1H NMR spectrum and two peaks (137 ppm, 165 ppm) in its 13C spectrum, was reacted with 1,2,3,4-tetramethyl-1,3-cyclopentadiene to yield two products (a major and a minor product). Both products have a molecular formula of \u2026 A)A 1H double\u2026 B)A 6H single\u2026 C)A 6H single\u2026 D)A 6H single\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A dicarboxylic acid containing a cis-alkene was dehydrated to the corresponding anhydride. This anhydride, which has a single peak (7 ppm) in its 1H NMR spectrum and two peaks (137 ppm, 165 ppm) in its 13C spectrum, was reacted with 1,2,3,4-tetramethyl-1,3-cyclopentadiene to yield two products (a major and a minor product). Both products have a molecular formula of \u2026\nA)A 1H double\u2026\nB)A 6H single\u2026\nC)A 6H single\u2026\nD)A 6H single\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A 1H doublet at ~1.5 ppm and a 2H singlet at ~3.5 ppm",
+    "A 6H singlet at ~1.7 ppm and a 2H singlet at ~3.5 ppm",
+    "A 6H singlet at ~1 ppm and a 6H singlet at ~1.7 ppm",
+    "A 6H singlet at ~1 ppm and a 1H doublet at ~1.5 ppm"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

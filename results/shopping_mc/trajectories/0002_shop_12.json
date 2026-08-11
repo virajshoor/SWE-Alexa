@@ -1,0 +1,23 @@
+{
+  "idx": 2,
+  "record_id": "shop_12",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Start checkout quickly for that item",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is 'Buy Now' intended to do? A)Erase your cart history B)Open a bank account C)Start checkout quickly for that item D)Create a storefront ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is 'Buy Now' intended to do?\nA)Erase your cart history\nB)Open a bank account\nC)Start checkout quickly for that item\nD)Create a storefront\nANSWER:",
+  "domain": "buynow",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Erase your cart history",
+    "Open a bank account",
+    "Start checkout quickly for that item",
+    "Create a storefront"
+  ]
+}

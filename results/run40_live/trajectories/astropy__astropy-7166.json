@@ -1,0 +1,11 @@
+{
+  "prompt": "SWE-bench coding task astropy__astropy-7166 (astropy/astropy). Ignore shopping. Reply ONLY a unified diff (diff --git) or NO_PATCH.\nIssue: InheritDocstrings metaclass doesn't work for properties Inside the InheritDocstrings metaclass it uses `inspect.isfunction` which returns `False` for properties.",
+  "instance_id": "astropy__astropy-7166",
+  "model_name_or_path": "Alexa-Rufus-1",
+  "model_patch": "",
+  "raw_response": "Design merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nSWE-bench coding task astropy__astropy-7166 (astropy/astropy). Ignore shopping. Reply ONLY a unified diff (diff --git) or NO_PATCH. Issue: InheritDocstrings metaclass doesn't work for properties Inside the InheritDocstrings metaclass it uses `inspect.isfunction` which returns `False` for properties.\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "ok": true,
+  "error": "",
+  "url": "https://www.amazon.com/b?ie=UTF8&node=216450446011",
+  "screenshot": "results/run40_live/screenshots/astropy__astropy-7166/astropy__astropy-7166_ok.png"
+}

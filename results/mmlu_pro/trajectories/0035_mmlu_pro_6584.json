@@ -1,0 +1,23 @@
+{
+  "idx": 35,
+  "record_id": "mmlu_pro_6584",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Candidiasis",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A 19-year-old college student comes to the physician because of vaginal irritation and pain with urination for 5 days. Two weeks ago, she had streptococcal pharyngitis treated with amoxicillin. She has been sexually active with two partners over the past year; she uses condoms for contraception. Her last menstrual period was 1 week ago. Her temperature is 37.2\u00b0C (99\u00b0\u2026 A)Bacterial v\u2026 B)Escherichia\u2026 C)Chlamydia t\u2026 D)Candidiasis ANSWER:\nD\nInformed by Health AI\nWhy antibiotics cause yeast\u00a0infections\nCandidiasis symptoms\u00a0overview\nTreatment options for yeast\u00a0infections\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A 19-year-old college student comes to the physician because of vaginal irritation and pain with urination for 5 days. Two weeks ago, she had streptococcal pharyngitis treated with amoxicillin. She has been sexually active with two partners over the past year; she uses condoms for contraception. Her last menstrual period was 1 week ago. Her temperature is 37.2\u00b0C (99\u00b0\u2026\nA)Bacterial v\u2026\nB)Escherichia\u2026\nC)Chlamydia t\u2026\nD)Candidiasis\nANSWER:",
+  "domain": "health",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Bacterial vaginosis",
+    "Escherichia coli infection",
+    "Chlamydia trachomatis infection",
+    "Candidiasis"
+  ]
+}

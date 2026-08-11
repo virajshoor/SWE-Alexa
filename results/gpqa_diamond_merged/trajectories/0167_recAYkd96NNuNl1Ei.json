@@ -1,0 +1,20 @@
+{
+  "idx": 167,
+  "record_id": "recAYkd96NNuNl1Ei",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following issues are the most common sources of difficult-to-spot erroneous results generated in genomics data analysis: - Mutually incompatible data formats - The \"chr\" / \"no chr\" confusion - Reference assembly mismatch - Incorrect ID conversion A)2, 3 and 4 B)All of the above C)2 and 3 D)3 and 4 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following issues are the most common sources of difficult-to-spot erroneous results generated in genomics data analysis: - Mutually incompatible data formats - The \"chr\" / \"no chr\" confusion - Reference assembly mismatch - Incorrect ID conversion\nA)2, 3 and 4\nB)All of the above\nC)2 and 3\nD)3 and 4\nANSWER:",
+  "subdomain": "Genetics",
+  "domain": "Biology",
+  "choices": [
+    "2, 3 and 4",
+    "All of the above",
+    "2 and 3",
+    "3 and 4"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

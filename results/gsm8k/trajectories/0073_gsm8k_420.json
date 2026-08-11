@@ -1,0 +1,18 @@
+{
+  "idx": 73,
+  "record_id": "gsm8k_420",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "17000",
+  "predicted_answer": "17000",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now? ANSWER:\n$17,000\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

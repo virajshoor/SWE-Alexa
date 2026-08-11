@@ -1,0 +1,30 @@
+{
+  "benchmark": "arc_challenge",
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "n_instances": 80,
+  "n_ok_replies": 80,
+  "n_parsed": 80,
+  "n_correct": 76,
+  "accuracy": 0.95,
+  "accuracy_among_parsed": 0.95,
+  "workers": 2,
+  "limit": 80,
+  "seed": 0,
+  "bootstrap": {
+    "storage_state": "artifacts/amazon_storage.json",
+    "account": "Hello, Viraj",
+    "logged_in": true,
+    "alexa_opened": true,
+    "probe_ok": true,
+    "probe_pred": "B",
+    "probe_text": "gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). 2+2=? A)3 B)4 C)5 D)6 Reply ONLY one letter A/B/C/D. ANSWER:\nB\n2 + 2 = 4. Is there anything else I can help you with today \u2014 shopping or otherwise?\nScheduled actions\nAutomate shopping, discovery, and savings"
+  },
+  "by_domain": {
+    "science": {
+      "n": 80,
+      "correct": 76,
+      "accuracy": 0.95
+    }
+  }
+}

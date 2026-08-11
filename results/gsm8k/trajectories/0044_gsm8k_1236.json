@@ -1,0 +1,18 @@
+{
+  "idx": 44,
+  "record_id": "gsm8k_1236",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "84",
+  "predicted_answer": "84",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Madeline ate 6 grapes. Her brother wanted to make grape juice and used up 5 times as many grapes then Madeline to make a full glass. Their mother then used the remaining grapes to make 4 pies. How many grapes were there at the beginning if the pie recipe calls for 12 grapes per pie? ANSWER:\n84\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Madeline ate 6 grapes. Her brother wanted to make grape juice and used up 5 times as many grapes then Madeline to make a full glass. Their mother then used the remaining grapes to make 4 pies. How many grapes were there at the beginning if the pie recipe calls for 12 grapes per pie?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

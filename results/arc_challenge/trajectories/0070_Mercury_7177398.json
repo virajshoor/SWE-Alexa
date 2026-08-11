@@ -1,0 +1,23 @@
+{
+  "idx": 70,
+  "record_id": "Mercury_7177398",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "the ice cube in a glass of tea",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The particles within a substance are in constant motion. The particles in which of these substances have the lowest amount of kinetic energy? A)the water in a glass of ice water B)the steam from a cup of coffee C)the ice cube in a glass of tea D)the wax of a candle at room temperature ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The particles within a substance are in constant motion. The particles in which of these substances have the lowest amount of kinetic energy?\nA)the water in a glass of ice water\nB)the steam from a cup of coffee\nC)the ice cube in a glass of tea\nD)the wax of a candle at room temperature\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the water in a glass of ice water",
+    "the steam from a cup of coffee",
+    "the ice cube in a glass of tea",
+    "the wax of a candle at room temperature"
+  ]
+}

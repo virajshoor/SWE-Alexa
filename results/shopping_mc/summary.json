@@ -1,0 +1,215 @@
+{
+  "benchmark": "shopping_mc",
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "n_instances": 40,
+  "n_ok_replies": 40,
+  "n_parsed": 40,
+  "n_correct": 38,
+  "accuracy": 0.95,
+  "accuracy_among_parsed": 0.95,
+  "workers": 2,
+  "limit": 40,
+  "seed": 0,
+  "bootstrap": {
+    "storage_state": "artifacts/amazon_storage.json",
+    "account": "Hello, Viraj",
+    "logged_in": true,
+    "alexa_opened": true,
+    "probe_ok": true,
+    "probe_pred": "B",
+    "probe_text": "stions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). 2+2=? A)3 B)4 C)5 D)6 Reply ONLY one letter A/B/C/D. ANSWER:\nB\n2 + 2 = 4! Is there anything else I can help you with today \u2014 shopping related or otherwise?\nScheduled actions\nAutomate shopping, discovery, and savings"
+  },
+  "by_domain": {
+    "prime": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "delivery": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "buynow": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "grocery": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "electronics": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "fresh": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "photos": {
+      "n": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "gifting": {
+      "n": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "reviews": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "apparel": {
+      "n": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "wishlist": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "fba": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "tracking": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "asin": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "consumable": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "sustainability": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "rufus": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "condition": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "deals": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "stock": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "pharmacy": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "subscribe": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "bundle": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "returns": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "category": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "compare": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "giftcard": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "variation": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "qa": {
+      "n": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "filters": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "seller": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "attach": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "warranty": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "dietary": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "offers": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "cart": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "basics": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "price": {
+      "n": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    }
+  }
+}

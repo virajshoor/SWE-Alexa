@@ -1,0 +1,20 @@
+{
+  "idx": 60,
+  "record_id": "recNuT2oSnO86bxOx",
+  "correct_letter": "A",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:benzene is treated with HNO3 and H2SO4, forming product 1. product 1 is treated with Br2 and iron powder, forming product 2. product 2 is stirred with Pd/C under a hydrogen atmosphere, forming product 3. Product 3 is treated with NaNO2 and HBF4, forming product 4. Product 4 is heated and then treated with anisole, forming final product 5. A)3-bromo-4'-metho\u2026 B)3-bromo-4'-fluor\u2026 C)3'-bromo-2-metho\u2026 D)4-bromo-4'-metho\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:benzene is treated with HNO3 and H2SO4, forming product 1. product 1 is treated with Br2 and iron powder, forming product 2. product 2 is stirred with Pd/C under a hydrogen atmosphere, forming product 3. Product 3 is treated with NaNO2 and HBF4, forming product 4. Product 4 is heated and then treated with anisole, forming final product 5.\nA)3-bromo-4'-metho\u2026\nB)3-bromo-4'-fluor\u2026\nC)3'-bromo-2-metho\u2026\nD)4-bromo-4'-metho\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "3-bromo-4'-methoxy-1,1'-biphenyl",
+    "3-bromo-4'-fluoro-1,1'-biphenyl",
+    "3'-bromo-2-methoxy-1,1'-biphenyl",
+    "4-bromo-4'-methoxy-1,1'-biphenyl"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

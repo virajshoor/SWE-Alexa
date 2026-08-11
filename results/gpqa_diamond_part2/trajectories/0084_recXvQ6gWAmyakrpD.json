@@ -1,0 +1,20 @@
+{
+  "idx": 84,
+  "record_id": "recXvQ6gWAmyakrpD",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two planets have been detected orbiting a star using both the transit and radial velocity (RV) methods. The star has a mass of 1.5 times that of the Sun, a radius 1.2 times that of the Sun, and an effective temperature (Teff) of 6300 K. Planet1 has a mass equivalent to 7 Earth masses and a radius 1.7 times that of Earth, while Planet2 has a mass equivalent to 5 Earth masses and a radius 1.\u2026 A)~ 1.05 B)~ 0.53 C)~ 0.98 D)~ 1.30 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two planets have been detected orbiting a star using both the transit and radial velocity (RV) methods. The star has a mass of 1.5 times that of the Sun, a radius 1.2 times that of the Sun, and an effective temperature (Teff) of 6300 K. Planet1 has a mass equivalent to 7 Earth masses and a radius 1.7 times that of Earth, while Planet2 has a mass equivalent to 5 Earth masses and a radius 1.\u2026\nA)~ 1.05\nB)~ 0.53\nC)~ 0.98\nD)~ 1.30\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~ 1.05",
+    "~ 0.53",
+    "~ 0.98",
+    "~ 1.30"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

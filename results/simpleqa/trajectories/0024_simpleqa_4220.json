@@ -1,0 +1,18 @@
+{
+  "idx": 24,
+  "record_id": "simpleqa_4220",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "April 15, 2020",
+  "predicted_answer": "The second episode of Season 2 of What We Do in the Shadows (\"Paste\") originally aired on April 22, 2020.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:Which day, month, and year was the second episode of Season 2 of What We Do in the Shadows originally aired? ANSWER:\nThe second episode of Season 2 of What We Do in the Shadows (\"Paste\") originally aired on April 22, 2020.\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:Which day, month, and year was the second episode of Season 2 of What We Do in the Shadows originally aired?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

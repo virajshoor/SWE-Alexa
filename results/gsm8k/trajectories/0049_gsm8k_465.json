@@ -1,0 +1,18 @@
+{
+  "idx": 49,
+  "record_id": "gsm8k_465",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "30",
+  "predicted_answer": "37",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have? ANSWER:\n37\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

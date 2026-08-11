@@ -1,0 +1,23 @@
+{
+  "idx": 43,
+  "record_id": "mmlu_pro_2741",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Polyploidy",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly charac\u2026 A)Polyploidy B)Allopatric \u2026 C)Equilibrium D)Adaptive ra\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly charac\u2026\nA)Polyploidy\nB)Allopatric \u2026\nC)Equilibrium\nD)Adaptive ra\u2026\nANSWER:",
+  "domain": "biology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Polyploidy",
+    "Allopatric speciation",
+    "Equilibrium",
+    "Adaptive radiation"
+  ]
+}

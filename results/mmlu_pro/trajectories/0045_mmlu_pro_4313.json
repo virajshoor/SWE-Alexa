@@ -1,0 +1,23 @@
+{
+  "idx": 45,
+  "record_id": "mmlu_pro_4313",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "4.56 $\\mathrm{eV}$",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:For $\\mathrm{NaCl}, R_e=2.36 \u00c5$. The ionization energy of $\\mathrm{Na}$ is $5.14 \\mathrm{eV}$, and the electron affinity of $\\mathrm{Cl}$ is $3.61 \\mathrm{eV}$. Use the simple model of $\\mathrm{NaCl}$ as a pair of spherical ions in contact to estimate $D_e$. [One debye (D) is $3.33564 \\times 10^{-30} \\mathrm{C} \\mathrm{m}$.] A)4.56 $\\mathrm{eV}$ B)5.89 eV C)6.12 eV D)3.74 eV ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:For $\\mathrm{NaCl}, R_e=2.36 \u00c5$. The ionization energy of $\\mathrm{Na}$ is $5.14 \\mathrm{eV}$, and the electron affinity of $\\mathrm{Cl}$ is $3.61 \\mathrm{eV}$. Use the simple model of $\\mathrm{NaCl}$ as a pair of spherical ions in contact to estimate $D_e$. [One debye (D) is $3.33564 \\times 10^{-30} \\mathrm{C} \\mathrm{m}$.]\nA)4.56 $\\mathrm{eV}$\nB)5.89 eV\nC)6.12 eV\nD)3.74 eV\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "4.56 $\\mathrm{eV}$",
+    "5.89 eV",
+    "6.12 eV",
+    "3.74 eV"
+  ]
+}

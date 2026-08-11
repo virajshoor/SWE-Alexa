@@ -1,0 +1,23 @@
+{
+  "idx": 66,
+  "record_id": "Mercury_7026355",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "solar heating is greatest near the equator.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Hurricanes form over equatorial areas. This is because A)Earth's volcanic activity is clustered around the equator. B)solar heating is greatest near the equator. C)the Moon's plane of orbit is close to the equator. D)the rate of rotation of Earth's surface is less at the equator. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Hurricanes form over equatorial areas. This is because\nA)Earth's volcanic activity is clustered around the equator.\nB)solar heating is greatest near the equator.\nC)the Moon's plane of orbit is close to the equator.\nD)the rate of rotation of Earth's surface is less at the equator.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Earth's volcanic activity is clustered around the equator.",
+    "solar heating is greatest near the equator.",
+    "the Moon's plane of orbit is close to the equator.",
+    "the rate of rotation of Earth's surface is less at the equator."
+  ]
+}

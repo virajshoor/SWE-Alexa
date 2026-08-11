@@ -1,0 +1,11 @@
+{
+  "prompt": "SWE-bench coding task django__django-11179 (django/django). Ignore shopping. Reply ONLY a unified diff (diff --git) or NO_PATCH.\nIssue: delete() on instances of models without any dependencies doesn't clear PKs. Description Deleting any model with no dependencies not updates the PK on the model. It should be set to None after .delete() call. See Django.db.models.deletion:276-281. Should update the model line 280.",
+  "instance_id": "django__django-11179",
+  "model_name_or_path": "Alexa-Rufus-1",
+  "model_patch": "",
+  "raw_response": "Design merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nSWE-bench coding task django__django-11179 (django/django). Ignore shopping. Reply ONLY a unified diff (diff --git) or NO_PATCH. Issue: delete() on instances of models without any dependencies doesn't clear PKs. Description Deleting any model with no dependencies not updates the PK on the model. It should be set to None after .delete() call. See Django.db.models.deletion:276-281. Should update the model line 280.\nI'm happy to direct you to Amazon Customer Service. Visit the following page to get started.\nCustomer Service\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "ok": true,
+  "error": "",
+  "url": "https://www.amazon.com/b?ie=UTF8&node=216450446011",
+  "screenshot": "results/run40_live/screenshots/django__django-11179/django__django-11179_ok.png"
+}

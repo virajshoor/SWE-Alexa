@@ -1,0 +1,23 @@
+{
+  "idx": 18,
+  "record_id": "shop_23",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Pre-owned but described as nearly new",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If a listing says 'Used - Like New', condition is: A)Digital download only B)Pre-owned but described as nearly new C)Broken for parts only D)Brand-new sealed factory only ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If a listing says 'Used - Like New', condition is:\nA)Digital download only\nB)Pre-owned but described as nearly new\nC)Broken for parts only\nD)Brand-new sealed factory only\nANSWER:",
+  "domain": "condition",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Digital download only",
+    "Pre-owned but described as nearly new",
+    "Broken for parts only",
+    "Brand-new sealed factory only"
+  ]
+}

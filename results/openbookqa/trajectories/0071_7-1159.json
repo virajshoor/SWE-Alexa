@@ -1,0 +1,23 @@
+{
+  "idx": 71,
+  "record_id": "7-1159",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "prey will experience a drop in population",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If a new species of predator joins a community A)prey will experience a drop in population B)the old species will die out C)the new species will become herbivores D)prey will experience an increase in population ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If a new species of predator joins a community\nA)prey will experience a drop in population\nB)the old species will die out\nC)the new species will become herbivores\nD)prey will experience an increase in population\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "prey will experience a drop in population",
+    "the old species will die out",
+    "the new species will become herbivores",
+    "prey will experience an increase in population"
+  ]
+}

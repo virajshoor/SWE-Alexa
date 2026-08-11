@@ -1,0 +1,23 @@
+{
+  "idx": 77,
+  "record_id": "mmlu_pro_4334",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "0.44\u00b0",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The specific rotation [(\\alpha)^25\u00b0_D] of L-alanine is + 1.8. The specific rotation [(\\alpha)^25\u00b0_D] of L-alanine is + 1.8. Calculate the observed rotation of a 1.10 M solution in a 2.5-dm polarimeter tube at 25\u00b0C. A)2.64\u00b0 B)0.44\u00b0 C)1.10\u00b0 D)4.40\u00b0 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The specific rotation [(\\alpha)^25\u00b0_D] of L-alanine is + 1.8. The specific rotation [(\\alpha)^25\u00b0_D] of L-alanine is + 1.8. Calculate the observed rotation of a 1.10 M solution in a 2.5-dm polarimeter tube at 25\u00b0C.\nA)2.64\u00b0\nB)0.44\u00b0\nC)1.10\u00b0\nD)4.40\u00b0\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "2.64\u00b0",
+    "0.44\u00b0",
+    "1.10\u00b0",
+    "4.40\u00b0"
+  ]
+}

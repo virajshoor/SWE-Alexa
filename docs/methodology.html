@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Methodology — Alexa-Rufus-1 LLM Benchmark Evaluation</title>
+  <meta name="description" content="How Alexa-Rufus-1 was evaluated: Playwright on amazon.com Rufus chat, maxlength 500 prompts, GPQA Diamond full set, balanced slices for MMLU-Pro, ARC, GSM8K, and grading rules." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://virajshoor.github.io/SWE-Alexa/methodology.html" />
+  <meta property="og:title" content="Alexa-Rufus-1 evaluation methodology" />
+  <meta property="og:description" content="Playwright web-UI methodology for Alexa-Rufus-1 benchmarks on GPQA, MMLU-Pro, ARC, GSM8K, SWE-bench." />
+  <meta property="og:url" content="https://virajshoor.github.io/SWE-Alexa/methodology.html" />
+  <meta property="og:image" content="https://virajshoor.github.io/SWE-Alexa/og-cover.jpg" />
+  <meta property="og:type" content="article" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": "Alexa-Rufus-1 evaluation methodology",
+    "description": "Playwright harness methodology for evaluating Amazon Alexa for Shopping (Rufus) as Alexa-Rufus-1.",
+    "author": {"@type": "Organization", "name": "SWE-Alexa"},
+    "datePublished": "2026-08-11",
+    "dateModified": "2026-08-11",
+    "mainEntityOfPage": "https://virajshoor.github.io/SWE-Alexa/methodology.html",
+    "image": "https://virajshoor.github.io/SWE-Alexa/og-cover.jpg"
+  }
+  </script>
+  <style>
+    :root { --ink:#1a2421; --muted:#4d5c57; --paper:#f3f0e8; --accent:#0f6b5c; --line:rgba(26,36,33,.12); }
+    body { margin:0; font-family:"Source Sans 3",system-ui,sans-serif; color:var(--ink); background:linear-gradient(180deg,#efece3,var(--paper)); line-height:1.55; }
+    main { width:min(760px, calc(100% - 2rem)); margin:0 auto; padding:2.5rem 0 4rem; }
+    h1,h2 { font-family:Fraunces,Georgia,serif; letter-spacing:-0.02em; }
+    h1 { font-size:clamp(1.8rem,4vw,2.6rem); }
+    a { color:var(--accent); }
+    .muted { color:var(--muted); }
+    ul { padding-left:1.2rem; }
+    code { background:rgba(15,107,92,.08); padding:.1rem .35rem; border-radius:4px; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="muted"><a href="./">← Alexa-Rufus-1 leaderboard</a></p>
+    <h1>Methodology: evaluating Alexa-Rufus-1</h1>
+    <p class="muted">Unofficial third-party web-UI evaluation of Amazon Alexa for Shopping (Rufus).</p>
+
+    <h2>System under test</h2>
+    <ul>
+      <li><strong>Name:</strong> Alexa-Rufus-1</li>
+      <li><strong>Product:</strong> Alexa for Shopping / Rufus on <code>https://www.amazon.com</code></li>
+      <li><strong>Interface:</strong> signed-in desktop session, panel <code>#nav-flyout-rufus</code>, composer <code>#rufus-text-area</code> (<code>maxlength=500</code>)</li>
+      <li><strong>Driver:</strong> Playwright Chromium harness in <a href="https://github.com/virajshoor/SWE-Alexa">virajshoor/SWE-Alexa</a></li>
+    </ul>
+
+    <h2>Prompting &amp; grading</h2>
+    <ul>
+      <li>Multiple-choice tasks use a compact “practice quiz” framing and A/B/C/D extraction.</li>
+      <li>GSM8K uses numeric-only answers; SimpleQA uses normalized short-string match.</li>
+      <li>SWE-bench Verified asks for unified diffs; empty patches grade as unresolved (0%).</li>
+      <li>Parallel workers reuse a cookie jar to minimize Amazon logins.</li>
+    </ul>
+
+    <h2>Sample sizes</h2>
+    <ul>
+      <li><strong>GPQA Diamond:</strong> full 198 items</li>
+      <li><strong>SWE-bench Verified:</strong> first 40 Verified instances</li>
+      <li><strong>Other academic suites:</strong> balanced slices (typically 60–80) for time/accuracy tradeoff</li>
+      <li><strong>Shopping-MC:</strong> 40 custom Amazon/shopping items</li>
+    </ul>
+
+    <h2>Limitations</h2>
+    <ul>
+      <li>Not affiliated with Amazon; not an official model release.</li>
+      <li>Not comparable 1:1 with Open LLM Leaderboard / Artificial Analysis (different harness &amp; access).</li>
+      <li>MMLU-Pro slice uses ≤4 options after compaction — not the official 10-option full test protocol.</li>
+    </ul>
+
+    <p><a href="./alexa_rufus_1_scores.json">Download scores JSON</a> · <a href="https://github.com/virajshoor/SWE-Alexa/blob/main/RESULTS_DETAILED.md">Detailed results on GitHub</a></p>
+  </main>
+</body>
+</html>

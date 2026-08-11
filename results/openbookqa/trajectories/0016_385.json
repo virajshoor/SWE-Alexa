@@ -1,0 +1,23 @@
+{
+  "idx": 16,
+  "record_id": "385",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "the fastest mammal with four legs",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Prey are eaten by A)animals known for their memory B)an animal herded by sheep dogs C)the fastest mammal with four legs D)the animal with a starring role in Bambi ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Prey are eaten by\nA)animals known for their memory\nB)an animal herded by sheep dogs\nC)the fastest mammal with four legs\nD)the animal with a starring role in Bambi\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "animals known for their memory",
+    "an animal herded by sheep dogs",
+    "the fastest mammal with four legs",
+    "the animal with a starring role in Bambi"
+  ]
+}

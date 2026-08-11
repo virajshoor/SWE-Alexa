@@ -1,0 +1,23 @@
+{
+  "idx": 69,
+  "record_id": "mmlu_pro_8856",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "brightness measurements made during mutual eclipses of Pluto and Charon",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:We were first able to accurately measure the diameter of Pluto from: A)brightness measurements made during mutual eclipses of Pluto and Charon B)Images captured by the Kepler Space Telescope C)Hubble Space Telescope images that resolved Pluto's disk D)The Mars Rover's telescope observations of Pluto ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:We were first able to accurately measure the diameter of Pluto from:\nA)brightness measurements made during mutual eclipses of Pluto and Charon\nB)Images captured by the Kepler Space Telescope\nC)Hubble Space Telescope images that resolved Pluto's disk\nD)The Mars Rover's telescope observations of Pluto\nANSWER:",
+  "domain": "physics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "brightness measurements made during mutual eclipses of Pluto and Charon",
+    "Images captured by the Kepler Space Telescope",
+    "Hubble Space Telescope images that resolved Pluto's disk",
+    "The Mars Rover's telescope observations of Pluto"
+  ]
+}

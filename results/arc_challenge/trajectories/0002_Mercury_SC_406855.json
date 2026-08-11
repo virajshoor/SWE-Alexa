@@ -1,0 +1,23 @@
+{
+  "idx": 2,
+  "record_id": "Mercury_SC_406855",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Blow on a pile of sand through a straw.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the best way to model the effect of wind on sand dunes? A)Pour water over a pile of sand. B)Pour a bucket a sand through the air. C)Filter sand through a screen into water. D)Blow on a pile of sand through a straw. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the best way to model the effect of wind on sand dunes?\nA)Pour water over a pile of sand.\nB)Pour a bucket a sand through the air.\nC)Filter sand through a screen into water.\nD)Blow on a pile of sand through a straw.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Pour water over a pile of sand.",
+    "Pour a bucket a sand through the air.",
+    "Filter sand through a screen into water.",
+    "Blow on a pile of sand through a straw."
+  ]
+}

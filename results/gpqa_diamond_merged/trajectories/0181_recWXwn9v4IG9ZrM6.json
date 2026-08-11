@@ -1,0 +1,20 @@
+{
+  "idx": 181,
+  "record_id": "recWXwn9v4IG9ZrM6",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Mott-Gurney equation describes the dark current (J) versus voltage (V) behavior of a semiconductor device in the space-charge-limited current (SCLC) regime. The equation can be expressed as $ J = \\frac{9}{8} \\epsilon \\mu \\frac{V^2}{L^3}$ where $\\epsilon$ is the dielectric constant, $\\mu$ is the charge carrier mobility, and L is the length of the device. Which of\u2026 A)The Mott-Gu\u2026 B)The Mott-Gu\u2026 C)The Mott-Gu\u2026 D)The Mott-Gu\u2026 ANSWER:\nI'm not able to see the full answer choices or the complete question \u2014 the options appear to be cut off. Could you share the full text of the question and all four answer choices so I can help?\nThat said, I'm primarily here to help with shopping on Amazon. Is there anything I can assist you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Mott-Gurney equation describes the dark current (J) versus voltage (V) behavior of a semiconductor device in the space-charge-limited current (SCLC) regime. The equation can be expressed as $ J = \\frac{9}{8} \\epsilon \\mu \\frac{V^2}{L^3}$ where $\\epsilon$ is the dielectric constant, $\\mu$ is the charge carrier mobility, and L is the length of the device. Which of\u2026\nA)The Mott-Gu\u2026\nB)The Mott-Gu\u2026\nC)The Mott-Gu\u2026\nD)The Mott-Gu\u2026\nANSWER:",
+  "subdomain": "Condensed Matter Physics",
+  "domain": "Physics",
+  "choices": [
+    "The Mott-Gurney equation is valid for a two-carrier device with an Ohmic contact and negligible diffusion current.",
+    "The Mott-Gurney equation is valid for a single-carrier device with a Schottky contact and negligible diffusion current.",
+    "The Mott-Gurney equation is valid for a trap-free single-carrier device with an Ohmic contact and negligible drift current.",
+    "The Mott-Gurney equation is valid for a trap-free single-carrier device with no carrier injection barrier and negligible diffusion current."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

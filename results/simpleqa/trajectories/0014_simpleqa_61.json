@@ -1,0 +1,18 @@
+{
+  "idx": 14,
+  "record_id": "simpleqa_61",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Marjorie and James Sanger Center for the Sciences.",
+  "predicted_answer": "The Beloit College Center for the Sciences was renamed the Sanger Center for the Sciences in 2017.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What was Beloit College's Center for the Sciences renamed in 2017? ANSWER:\nThe Beloit College Center for the Sciences was renamed the Sanger Center for the Sciences in 2017.\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What was Beloit College's Center for the Sciences renamed in 2017?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

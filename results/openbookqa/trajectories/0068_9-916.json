@@ -1,0 +1,23 @@
+{
+  "idx": 68,
+  "record_id": "9-916",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "conserving",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as A)conserving B)losing C)destroying D)squandering ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as\nA)conserving\nB)losing\nC)destroying\nD)squandering\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "conserving",
+    "losing",
+    "destroying",
+    "squandering"
+  ]
+}

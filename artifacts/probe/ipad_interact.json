@@ -1,0 +1,30 @@
+{
+  "clickables": [],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "aria": null,
+      "ph": null,
+      "cls": "",
+      "visible": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "aria": null,
+      "ph": null,
+      "cls": "",
+      "visible": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "aria": null,
+      "ph": null,
+      "cls": "",
+      "visible": false
+    }
+  ],
+  "net": []
+}

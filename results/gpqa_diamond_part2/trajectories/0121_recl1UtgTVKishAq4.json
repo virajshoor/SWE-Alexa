@@ -1,0 +1,20 @@
+{
+  "idx": 121,
+  "record_id": "recl1UtgTVKishAq4",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:acetic acid is treated with bromine, pyridine, and acetic anhydride with heating, forming product 1. 1 is heated with ethanol and a small amount of sulfuric acid, forming product 2. 2 is treated with sodium cyanide, forming product 3. 3 is then treated with excess sodium hydride and 1,5-dibromopentane, forming final product 4. how many distinct hydrogen signals will be observable in the 1H NMR spectrum of 4\u2026 A)12 B)5 C)8 D)10 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:acetic acid is treated with bromine, pyridine, and acetic anhydride with heating, forming product 1. 1 is heated with ethanol and a small amount of sulfuric acid, forming product 2. 2 is treated with sodium cyanide, forming product 3. 3 is then treated with excess sodium hydride and 1,5-dibromopentane, forming final product 4. how many distinct hydrogen signals will be observable in the 1H NMR spectrum of 4\u2026\nA)12\nB)5\nC)8\nD)10\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "12",
+    "5",
+    "8",
+    "10"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

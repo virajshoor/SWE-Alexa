@@ -1,0 +1,77 @@
+{
+  "system_name": "Alexa-Rufus-1",
+  "interface": "amazon.com Alexa for Shopping (Rufus) web UI via Playwright",
+  "methodology_notes": [
+    "Unofficial third-party web-UI evaluation; not Amazon official.",
+    "Rufus composer maxlength=500; prompts compacted.",
+    "Non-code suites use balanced sample slices (not always full official test sets).",
+    "SWE-bench: live refusals, 0 patches.",
+    "GPQA Diamond: full 198."
+  ],
+  "repo": "https://github.com/virajshoor/SWE-Alexa",
+  "scores": {
+    "mmlu_pro": {
+      "name": "MMLU-Pro",
+      "n": 80,
+      "correct": 65,
+      "accuracy": 0.8125,
+      "ok": 80
+    },
+    "arc_challenge": {
+      "name": "ARC-Challenge",
+      "n": 80,
+      "correct": 76,
+      "accuracy": 0.95,
+      "ok": 80
+    },
+    "openbookqa": {
+      "name": "OpenBookQA",
+      "n": 80,
+      "correct": 70,
+      "accuracy": 0.875,
+      "ok": 80
+    },
+    "gsm8k": {
+      "name": "GSM8K",
+      "n": 80,
+      "correct": 50,
+      "accuracy": 0.625,
+      "ok": 80
+    },
+    "truthfulqa_mc": {
+      "name": "TruthfulQA-MC",
+      "n": 80,
+      "correct": 71,
+      "accuracy": 0.8875,
+      "ok": 80
+    },
+    "simpleqa": {
+      "name": "SimpleQA",
+      "n": 60,
+      "correct": 23,
+      "accuracy": 0.38333333333333336,
+      "ok": 60
+    },
+    "shopping_mc": {
+      "name": "Shopping-MC",
+      "n": 40,
+      "correct": 38,
+      "accuracy": 0.95,
+      "ok": 40
+    },
+    "gpqa_diamond": {
+      "name": "GPQA-Diamond",
+      "n": 198,
+      "correct": 76,
+      "accuracy": 0.3838383838383838,
+      "ok": 198
+    },
+    "swe_bench_verified": {
+      "name": "SWE-bench Verified",
+      "n": 40,
+      "correct": 0,
+      "accuracy": 0.0,
+      "ok": 40
+    }
+  }
+}

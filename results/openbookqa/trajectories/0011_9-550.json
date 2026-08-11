@@ -1,0 +1,23 @@
+{
+  "idx": 11,
+  "record_id": "9-550",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct_answer": "sitting on the table",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A light was off because the cord was A)attached to the wall B)sitting on the table C)attached to an extension cord D)attached to a battery pack ANSWER:\nI'm not able to answer quiz questions, but I'd love to help you with any shopping needs on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A light was off because the cord was\nA)attached to the wall\nB)sitting on the table\nC)attached to an extension cord\nD)attached to a battery pack\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "attached to the wall",
+    "sitting on the table",
+    "attached to an extension cord",
+    "attached to a battery pack"
+  ]
+}

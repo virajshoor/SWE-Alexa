@@ -1,0 +1,23 @@
+{
+  "idx": 42,
+  "record_id": "mmlu_pro_6664",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "includes structural and frictional unemployment",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The natural rate of unemployment A)does not include structural, frictional, or cyclical unemployment B)includes structural and frictional unemployment C)only includes cyclical unemployment D)includes structural frictional and cyclical unemployment ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The natural rate of unemployment\nA)does not include structural, frictional, or cyclical unemployment\nB)includes structural and frictional unemployment\nC)only includes cyclical unemployment\nD)includes structural frictional and cyclical unemployment\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "does not include structural, frictional, or cyclical unemployment",
+    "includes structural and frictional unemployment",
+    "only includes cyclical unemployment",
+    "includes structural frictional and cyclical unemployment"
+  ]
+}

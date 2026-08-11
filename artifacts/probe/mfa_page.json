@@ -1,0 +1,93 @@
+{
+  "title": "Amazon",
+  "els": [
+    {
+      "tag": "A",
+      "id": "",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "INPUT",
+      "id": "input-box-otp",
+      "name": "otpCode",
+      "type": "tel",
+      "aria": null,
+      "text": "",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "id": "resend-approval-link",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "Resend code",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "name": null,
+      "type": "submit",
+      "aria": null,
+      "text": "",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "try a different way",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "Conditions of Use",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "Privacy Notice",
+      "ph": null,
+      "value": null,
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "name": null,
+      "type": null,
+      "aria": null,
+      "text": "Help",
+      "ph": null,
+      "value": null,
+      "visible": true
+    }
+  ]
+}

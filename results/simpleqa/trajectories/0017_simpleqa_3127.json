@@ -1,0 +1,18 @@
+{
+  "idx": 17,
+  "record_id": "simpleqa_3127",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Puyallup",
+  "predicted_answer": "Thinking...",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In what city did Ciara perform for her Beauty Marks Tour on September 13, 2019? ANSWER:\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In what city did Ciara perform for her Beauty Marks Tour on September 13, 2019?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

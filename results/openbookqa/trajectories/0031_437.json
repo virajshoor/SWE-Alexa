@@ -1,0 +1,23 @@
+{
+  "idx": 31,
+  "record_id": "437",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Eucerin pH5 range",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which term is involved with protection by skin? A)pyogenic vibrio B)Sagittal plane C)Eucerin pH5 range D)popliteus ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which term is involved with protection by skin?\nA)pyogenic vibrio\nB)Sagittal plane\nC)Eucerin pH5 range\nD)popliteus\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "pyogenic vibrio",
+    "Sagittal plane",
+    "Eucerin pH5 range",
+    "popliteus"
+  ]
+}

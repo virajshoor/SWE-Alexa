@@ -1,0 +1,20 @@
+{
+  "idx": 129,
+  "record_id": "recnjViFrqlZNL3fY",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Large clouds of neutral hydrogen in deep space absorb the light from background quasars at Lyman alpha wavelength ~1216 Angstrom. Estimate the lower limit on the redshift of this objects such that they can be detected with optical ground-based telescopes? A)1.9 B)1.2 C)2.4 D)3 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Large clouds of neutral hydrogen in deep space absorb the light from background quasars at Lyman alpha wavelength ~1216 Angstrom. Estimate the lower limit on the redshift of this objects such that they can be detected with optical ground-based telescopes?\nA)1.9\nB)1.2\nC)2.4\nD)3\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "1.9\n\n",
+    "1.2\n\n",
+    "2.4",
+    "3"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 9,
+  "record_id": "rec4JrWy7Il8ho5vk",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Among the following exoplanets, which one has the highest density? a) An Earth-mass and Earth-radius planet. b) A planet with 2 Earth masses and a density of approximately 5.5 g/cm^3. c) A planet with the same composition as Earth but 5 times more massive than Earth. d) A planet with the same composition as Earth but half the mass of Earth. A)d B)c C)b D)a ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Among the following exoplanets, which one has the highest density? a) An Earth-mass and Earth-radius planet. b) A planet with 2 Earth masses and a density of approximately 5.5 g/cm^3. c) A planet with the same composition as Earth but 5 times more massive than Earth. d) A planet with the same composition as Earth but half the mass of Earth.\nA)d\nB)c\nC)b\nD)a\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "d",
+    "c",
+    "b",
+    "a"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

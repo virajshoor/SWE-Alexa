@@ -1,0 +1,20 @@
+{
+  "idx": 182,
+  "record_id": "recXsYa3i2UhGF5fe",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the index of hydrogen deficiency of the product obtained when 2-formyl-5-vinylcyclohex-3-enecarboxylic acid is reacted with red phosphorus and excess of HI? A)5 B)0 C)3 D)1 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the index of hydrogen deficiency of the product obtained when 2-formyl-5-vinylcyclohex-3-enecarboxylic acid is reacted with red phosphorus and excess of HI?\nA)5\nB)0\nC)3\nD)1\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "5",
+    "0",
+    "3",
+    "1"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

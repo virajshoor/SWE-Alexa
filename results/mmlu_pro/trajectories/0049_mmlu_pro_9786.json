@@ -1,0 +1,23 @@
+{
+  "idx": 49,
+  "record_id": "mmlu_pro_9786",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "19.9 w/m^2",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A light wave is traveling in glass of index of refraction 1.5. If the amplitude of the electric field of thelightwaveis 100 volts/meter, what is the magnitude of thePoyntingvector? A)10 w/m^2 B)30 w/m^2 C)25 w/m^2 D)19.9 w/m^2 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A light wave is traveling in glass of index of refraction 1.5. If the amplitude of the electric field of thelightwaveis 100 volts/meter, what is the magnitude of thePoyntingvector?\nA)10 w/m^2\nB)30 w/m^2\nC)25 w/m^2\nD)19.9 w/m^2\nANSWER:",
+  "domain": "physics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "10 w/m^2",
+    "30 w/m^2",
+    "25 w/m^2",
+    "19.9 w/m^2"
+  ]
+}

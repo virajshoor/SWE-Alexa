@@ -1,0 +1,23 @@
+{
+  "idx": 50,
+  "record_id": "Mercury_SC_400401",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "deep, bowl-shaped lake",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which land feature is most likely the result of a glacier? A)large, arid desert B)long crack in the ground C)volcanic mountain range D)deep, bowl-shaped lake ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which land feature is most likely the result of a glacier?\nA)large, arid desert\nB)long crack in the ground\nC)volcanic mountain range\nD)deep, bowl-shaped lake\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "large, arid desert",
+    "long crack in the ground",
+    "volcanic mountain range",
+    "deep, bowl-shaped lake"
+  ]
+}

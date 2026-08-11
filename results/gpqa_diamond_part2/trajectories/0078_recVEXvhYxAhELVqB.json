@@ -1,0 +1,20 @@
+{
+  "idx": 78,
+  "record_id": "recVEXvhYxAhELVqB",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In an experiment, compound X (C11H12O) was subjected to a reaction with 1,4-diazabicyclo[2.2.2]octane in nonpolar solvent at a temperature of 403 K for a duration of 1 day. The theoretical 1H-NMR and 13C-NMR spectra of the resulting product reveal the following signal patterns. 1H NMR: \u03b4 2.28 (3H, s), 2.31 (3H, s), 6.75 (1H, d), 7.08 (2H, d), 7.68 (1H, d), 7.71 (2H,\u2026 A)2-styrylepo\u2026 B)2-(4-methyl\u2026 C)2-(1-phenyl\u2026 D)2-methyl-3-\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In an experiment, compound X (C11H12O) was subjected to a reaction with 1,4-diazabicyclo[2.2.2]octane in nonpolar solvent at a temperature of 403 K for a duration of 1 day. The theoretical 1H-NMR and 13C-NMR spectra of the resulting product reveal the following signal patterns. 1H NMR: \u03b4 2.28 (3H, s), 2.31 (3H, s), 6.75 (1H, d), 7.08 (2H, d), 7.68 (1H, d), 7.71 (2H,\u2026\nA)2-styrylepo\u2026\nB)2-(4-methyl\u2026\nC)2-(1-phenyl\u2026\nD)2-methyl-3-\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "2-styrylepoxide",
+    "2-(4-methylstyryl)oxirane",
+    "2-(1-phenylprop-1-en-2-yl)oxirane",
+    "2-methyl-3-styryloxirane"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

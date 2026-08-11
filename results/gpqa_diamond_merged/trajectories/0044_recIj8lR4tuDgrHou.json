@@ -1,0 +1,20 @@
+{
+  "idx": 44,
+  "record_id": "recIj8lR4tuDgrHou",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Four identical spin-1/2 particles are placed in a one-dimensional infinite potential well of length L. Calculate the energies of the ground state, first excited state, and second excited state of the system in terms of energy E. (Here E= pi^2 \\hbar^2 /2mL^2 ) A)10E, 15E, 18E B)4E, 10E, 50E C)30E, 39E, 50E D)4E, 10E, 15E ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Four identical spin-1/2 particles are placed in a one-dimensional infinite potential well of length L. Calculate the energies of the ground state, first excited state, and second excited state of the system in terms of energy E. (Here E= pi^2 \\hbar^2 /2mL^2 )\nA)10E, 15E, 18E\nB)4E, 10E, 50E\nC)30E, 39E, 50E\nD)4E, 10E, 15E\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "10E, 15E, 18E\n",
+    "4E, 10E, 50E",
+    "30E, 39E, 50E",
+    "4E, 10E, 15E"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

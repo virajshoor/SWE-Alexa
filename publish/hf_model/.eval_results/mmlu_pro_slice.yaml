@@ -1,0 +1,16 @@
+- dataset:
+    id: TIGER-Lab/MMLU-Pro
+    task_id: mmlu_pro_slice80_webui_alexa_rufus_1
+  value: 81.25
+  measure: accuracy
+  sampled_n: 80
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    interface: amazon.com Alexa for Shopping (Rufus) web UI
+    notes: UNOFFICIAL 80-item random slice; options compacted to A-D for Rufus maxlength=500. Not comparable to full official MMLU-Pro leaderboard (10-option, full test).
+    n_correct: 65
+    n_ok_replies: 80

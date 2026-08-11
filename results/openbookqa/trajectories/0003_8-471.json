@@ -1,0 +1,23 @@
+{
+  "idx": 3,
+  "record_id": "8-471",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "used soda can",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The appropriate place to put this item is the recycling bin A)used Styrofoam plates B)used soda can C)left over medicine D)used motor oil ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The appropriate place to put this item is the recycling bin\nA)used Styrofoam plates\nB)used soda can\nC)left over medicine\nD)used motor oil\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "used Styrofoam plates",
+    "used soda can",
+    "left over medicine",
+    "used motor oil"
+  ]
+}

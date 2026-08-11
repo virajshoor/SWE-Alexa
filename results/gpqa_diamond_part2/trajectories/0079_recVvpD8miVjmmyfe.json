@@ -1,0 +1,20 @@
+{
+  "idx": 79,
+  "record_id": "recVvpD8miVjmmyfe",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You come across an algorithm that gives the following output (written as input -> output): AGG -> 115 TGCTGA -> 176 What value does ACAGTGACC give? A)333 B)185 C)315 D)351 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You come across an algorithm that gives the following output (written as input -> output): AGG -> 115 TGCTGA -> 176 What value does ACAGTGACC give?\nA)333\nB)185\nC)315\nD)351\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "333",
+    "185",
+    "315",
+    "351"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

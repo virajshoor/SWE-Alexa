@@ -1,0 +1,23 @@
+{
+  "idx": 49,
+  "record_id": "226",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "a blender",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following is powered the same way an electric car is? A)a propane grill B)a motorcycle C)a bicycle D)a blender ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following is powered the same way an electric car is?\nA)a propane grill\nB)a motorcycle\nC)a bicycle\nD)a blender\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a propane grill",
+    "a motorcycle",
+    "a bicycle",
+    "a blender"
+  ]
+}

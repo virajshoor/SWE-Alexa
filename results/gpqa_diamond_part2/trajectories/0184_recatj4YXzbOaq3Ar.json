@@ -1,0 +1,20 @@
+{
+  "idx": 184,
+  "record_id": "recatj4YXzbOaq3Ar",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a system with Hamiltonian operator $H = \\varepsilon \\vec{\\sigma}.\\vec{n}$. Here, $\\vec{n}$ is an arbitrary unit vector, $\\varepsilon $ is a constant of dimension energy, and components of $\\vec{\\sigma}$ are the Pauli spin matrices. What are the eigenvalues of the Hamiltonian operator? A)+ \\varepsilon, -\\varepsilon B)+\\varepsilon \\hbar/2, - \\varepsilon \\hbar/2 C)+\\hbar/2, -\\hbar/2 D)+1, -1 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a system with Hamiltonian operator $H = \\varepsilon \\vec{\\sigma}.\\vec{n}$. Here, $\\vec{n}$ is an arbitrary unit vector, $\\varepsilon $ is a constant of dimension energy, and components of $\\vec{\\sigma}$ are the Pauli spin matrices. What are the eigenvalues of the Hamiltonian operator?\nA)+ \\varepsilon, -\\varepsilon\nB)+\\varepsilon \\hbar/2, - \\varepsilon \\hbar/2\nC)+\\hbar/2, -\\hbar/2\nD)+1, -1\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "+ \\varepsilon, -\\varepsilon\n",
+    "+\\varepsilon \\hbar/2, - \\varepsilon \\hbar/2",
+    "+\\hbar/2, -\\hbar/2",
+    "+1, -1"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

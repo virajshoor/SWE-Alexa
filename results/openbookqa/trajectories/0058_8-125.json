@@ -1,0 +1,23 @@
+{
+  "idx": 58,
+  "record_id": "8-125",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "asks for milk",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he A)asks for television B)asks for sleep C)asks for water D)asks for milk ANSWER:\nD\nMilk is commonly fortified with vitamin D, making it a dietary source when sunlight isn't available. Is there anything I can help you shop for today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he\nA)asks for television\nB)asks for sleep\nC)asks for water\nD)asks for milk\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "asks for television",
+    "asks for sleep",
+    "asks for water",
+    "asks for milk"
+  ]
+}

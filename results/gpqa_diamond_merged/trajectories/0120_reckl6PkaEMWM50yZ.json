@@ -1,0 +1,20 @@
+{
+  "idx": 120,
+  "record_id": "reckl6PkaEMWM50yZ",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:When saturated epoxides are reacted with organocuprates, the alkyl group of the reagent is always introduced at less hindered carbon of the epoxide ring. In the disubstituted epoxides, inversion of configuration occurs at a carbon to which Nu is added. Identify the product when (1R,3R,4R,6S)-1,3,4-trimethyl-7-oxabicyclo [4.1.0] heptane is reacted with Me2CuLi: A)(1S,4R,5S)-\u2026 B)(1R,2S,4R,5\u2026 C)(1R,4R,5R)-\u2026 D)(1R,2R,4R,5\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:When saturated epoxides are reacted with organocuprates, the alkyl group of the reagent is always introduced at less hindered carbon of the epoxide ring. In the disubstituted epoxides, inversion of configuration occurs at a carbon to which Nu is added. Identify the product when (1R,3R,4R,6S)-1,3,4-trimethyl-7-oxabicyclo [4.1.0] heptane is reacted with Me2CuLi:\nA)(1S,4R,5S)-\u2026\nB)(1R,2S,4R,5\u2026\nC)(1R,4R,5R)-\u2026\nD)(1R,2R,4R,5\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "(1S,4R,5S)-2,2,4,5-tetramethylcyclohexan-1-ol",
+    "(1R,2S,4R,5R)-1,2,4,5-tetramethylcyclohexan-1-ol ",
+    "(1R,4R,5R)-2,2,4,5-tetramethylcyclohexan-1-ol ",
+    "(1R,2R,4R,5R)-1,2,4,5-tetramethylcyclohexan-1-ol "
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

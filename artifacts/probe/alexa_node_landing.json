@@ -1,0 +1,26 @@
+{
+  "title": "Page Not Found",
+  "url": "https://www.amazon.com/b?ie=UTF8&node=21645044460",
+  "body": "",
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "id": "e",
+      "name": "field-keywords",
+      "ph": "Search",
+      "aria": null,
+      "type": null,
+      "visible": true
+    },
+    {
+      "tag": "INPUT",
+      "id": "f",
+      "name": null,
+      "ph": null,
+      "aria": null,
+      "type": "submit",
+      "visible": true
+    }
+  ],
+  "ask": []
+}

@@ -1,0 +1,95 @@
+{
+  "benchmark": "mmlu_pro",
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "n_instances": 80,
+  "n_ok_replies": 80,
+  "n_parsed": 80,
+  "n_correct": 65,
+  "accuracy": 0.8125,
+  "accuracy_among_parsed": 0.8125,
+  "workers": 2,
+  "limit": 80,
+  "seed": 0,
+  "bootstrap": {
+    "storage_state": "artifacts/amazon_storage.json",
+    "account": "Hello, Viraj",
+    "logged_in": true,
+    "alexa_opened": true,
+    "probe_ok": true,
+    "probe_pred": "B",
+    "probe_text": "? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). 2+2=? A)3 B)4 C)5 D)6 Reply ONLY one letter A/B/C/D. ANSWER:\nB\n2 + 2 = 4! Let me know if there's anything else I can help you with \u2014 including finding great products on Amazon.\nScheduled actions\nAutomate shopping, discovery, and savings"
+  },
+  "by_domain": {
+    "health": {
+      "n": 6,
+      "correct": 6,
+      "accuracy": 1.0
+    },
+    "chemistry": {
+      "n": 7,
+      "correct": 4,
+      "accuracy": 0.5714285714285714
+    },
+    "math": {
+      "n": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    "economics": {
+      "n": 11,
+      "correct": 10,
+      "accuracy": 0.9090909090909091
+    },
+    "business": {
+      "n": 3,
+      "correct": 2,
+      "accuracy": 0.6666666666666666
+    },
+    "history": {
+      "n": 2,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "other": {
+      "n": 3,
+      "correct": 3,
+      "accuracy": 1.0
+    },
+    "engineering": {
+      "n": 7,
+      "correct": 4,
+      "accuracy": 0.5714285714285714
+    },
+    "biology": {
+      "n": 3,
+      "correct": 3,
+      "accuracy": 1.0
+    },
+    "computer science": {
+      "n": 3,
+      "correct": 2,
+      "accuracy": 0.6666666666666666
+    },
+    "law": {
+      "n": 6,
+      "correct": 3,
+      "accuracy": 0.5
+    },
+    "physics": {
+      "n": 8,
+      "correct": 8,
+      "accuracy": 1.0
+    },
+    "philosophy": {
+      "n": 6,
+      "correct": 5,
+      "accuracy": 0.8333333333333334
+    },
+    "psychology": {
+      "n": 5,
+      "correct": 5,
+      "accuracy": 1.0
+    }
+  }
+}

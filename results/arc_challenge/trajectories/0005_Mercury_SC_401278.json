@@ -1,0 +1,23 @@
+{
+  "idx": 5,
+  "record_id": "Mercury_SC_401278",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct_answer": "kinetic energy.",
+  "predicted_answer": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A thermometer is best used to measure A)wind movement. B)potential energy. C)air pressure. D)kinetic energy. ANSWER:\nB\nWait \u2014 the correct answer is actually B) potential energy... No, let me reconsider.\nRESPONSE:\nB\nHmm, I need to give you the right answer. A thermometer measures temperature, which relates to the average kinetic energy of particles.\nRESPONSE:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A thermometer is best used to measure\nA)wind movement.\nB)potential energy.\nC)air pressure.\nD)kinetic energy.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "wind movement.",
+    "potential energy.",
+    "air pressure.",
+    "kinetic energy."
+  ]
+}

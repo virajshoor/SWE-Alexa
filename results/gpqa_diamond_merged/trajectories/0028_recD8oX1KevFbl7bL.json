@@ -1,0 +1,20 @@
+{
+  "idx": 28,
+  "record_id": "recD8oX1KevFbl7bL",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You have an interesting drought-resistant cultivar of barley, which, unfortunately, contains an anti-nutritional compound. This compound makes it impossible to use this cultivar for food purposes. After an extensive investigation, you discover the gene responsible for the synthesis of this compound. This gene consists of five exons and four introns. You decide to use old-school app\u2026 A)Mutant 1 B)Mutant 4 C)Mutant 3 D)Mutant 2 ANSWER:\nI'm here to help with Amazon shopping questions, not academic quizzes. I'd be happy to help you find science or genetics textbooks, study guides, or other educational materials on Amazon if you're interested!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You have an interesting drought-resistant cultivar of barley, which, unfortunately, contains an anti-nutritional compound. This compound makes it impossible to use this cultivar for food purposes. After an extensive investigation, you discover the gene responsible for the synthesis of this compound. This gene consists of five exons and four introns. You decide to use old-school app\u2026\nA)Mutant 1\nB)Mutant 4\nC)Mutant 3\nD)Mutant 2\nANSWER:",
+  "subdomain": "Genetics",
+  "domain": "Biology",
+  "choices": [
+    "Mutant 1",
+    "Mutant 4",
+    "Mutant 3",
+    "Mutant 2"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

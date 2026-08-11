@@ -1,0 +1,18 @@
+{
+  "idx": 74,
+  "record_id": "gsm8k_1274",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "38",
+  "predicted_answer": "38",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:A family of parents and a child go to the cinema. The cost of an adult ticket is $12 and a child ticket is $8. Then they buy 2 popcorns for $3 each. How many dollars do they pay in total? ANSWER:\n38\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:A family of parents and a child go to the cinema. The cost of an adult ticket is $12 and a child ticket is $8. Then they buy 2 popcorns for $3 each. How many dollars do they pay in total?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

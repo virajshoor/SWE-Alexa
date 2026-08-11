@@ -1,0 +1,23 @@
+{
+  "idx": 52,
+  "record_id": "7-1062",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "directing oxygen from lungs to other organs",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The respiratory system works by A)pushing air through lungs B)making air quality better C)directing oxygen from lungs to other organs D)moving air in a room ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The respiratory system works by\nA)pushing air through lungs\nB)making air quality better\nC)directing oxygen from lungs to other organs\nD)moving air in a room\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "pushing air through lungs",
+    "making air quality better",
+    "directing oxygen from lungs to other organs",
+    "moving air in a room"
+  ]
+}

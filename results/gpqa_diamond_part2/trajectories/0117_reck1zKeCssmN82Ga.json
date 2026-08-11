@@ -1,0 +1,20 @@
+{
+  "idx": 117,
+  "record_id": "reck1zKeCssmN82Ga",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the major outcome of the reaction between 4,4-dimethylcyclopent-1-enol and bromine? A)4-bromo-4,4-dimethylcyclopentanone B)(1R,2R)-1,2-dibromo-4,4-dimethylcyclopentanol C)2-bromo-4,4-dimethylcyclopentanone D)(1R,2S)-1,2-dibromo-4,4-dimethylcyclopentanol ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the major outcome of the reaction between 4,4-dimethylcyclopent-1-enol and bromine?\nA)4-bromo-4,4-dimethylcyclopentanone\nB)(1R,2R)-1,2-dibromo-4,4-dimethylcyclopentanol\nC)2-bromo-4,4-dimethylcyclopentanone\nD)(1R,2S)-1,2-dibromo-4,4-dimethylcyclopentanol\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "4-bromo-4,4-dimethylcyclopentanone",
+    "(1R,2R)-1,2-dibromo-4,4-dimethylcyclopentanol",
+    "2-bromo-4,4-dimethylcyclopentanone",
+    "(1R,2S)-1,2-dibromo-4,4-dimethylcyclopentanol"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

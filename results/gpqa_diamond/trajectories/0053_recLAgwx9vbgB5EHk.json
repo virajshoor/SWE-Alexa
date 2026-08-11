@@ -1,0 +1,20 @@
+{
+  "idx": 53,
+  "record_id": "recLAgwx9vbgB5EHk",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Determine the starting material needed to synthesize 5-isopropyl-3,4-dimethylcyclohex-1-ene via ring-closing metathesis. A)4-isopropyl-5,6-dimethylocta-1,7-diene B)5-isopropyl-3,4-dimethylocta-1,6-diene C)5-isopropyl-3,4-dimethylocta-2,6-diene D)5-isopropyl-3,4-dimethylocta-1,7-diene ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Determine the starting material needed to synthesize 5-isopropyl-3,4-dimethylcyclohex-1-ene via ring-closing metathesis.\nA)4-isopropyl-5,6-dimethylocta-1,7-diene\nB)5-isopropyl-3,4-dimethylocta-1,6-diene\nC)5-isopropyl-3,4-dimethylocta-2,6-diene\nD)5-isopropyl-3,4-dimethylocta-1,7-diene\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "4-isopropyl-5,6-dimethylocta-1,7-diene",
+    "5-isopropyl-3,4-dimethylocta-1,6-diene",
+    "5-isopropyl-3,4-dimethylocta-2,6-diene",
+    "5-isopropyl-3,4-dimethylocta-1,7-diene"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

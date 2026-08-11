@@ -1,0 +1,20 @@
+{
+  "idx": 35,
+  "record_id": "recGFKDUd8qgz81Zl",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Observations of structures located at a distance of about 2.1 gigaparsecs (2.1 Gpc) are being carried out. The detected absorption line energy equivalent is about 3.9 micro electron volts (3.9 * 10^-6 eV). What is most likely to be observed with this absorption line in the Milky Way? A)Cold molecular interstellar me\u2026 B)Warm atomic interstellar mediu\u2026 C)Warm molecular interstellar me\u2026 D)Cold atomic interstellar mediu\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Observations of structures located at a distance of about 2.1 gigaparsecs (2.1 Gpc) are being carried out. The detected absorption line energy equivalent is about 3.9 micro electron volts (3.9 * 10^-6 eV). What is most likely to be observed with this absorption line in the Milky Way?\nA)Cold molecular interstellar me\u2026\nB)Warm atomic interstellar mediu\u2026\nC)Warm molecular interstellar me\u2026\nD)Cold atomic interstellar mediu\u2026\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "Cold molecular interstellar medium.",
+    "Warm atomic interstellar medium.",
+    "Warm molecular interstellar medium.",
+    "Cold atomic interstellar medium."
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

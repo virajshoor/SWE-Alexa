@@ -1,0 +1,23 @@
+{
+  "idx": 41,
+  "record_id": "9-179",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "rubbing it",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:the best method for detecting texture is A)hearing it B)seeing it C)tasting it D)rubbing it ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:the best method for detecting texture is\nA)hearing it\nB)seeing it\nC)tasting it\nD)rubbing it\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "hearing it",
+    "seeing it",
+    "tasting it",
+    "rubbing it"
+  ]
+}

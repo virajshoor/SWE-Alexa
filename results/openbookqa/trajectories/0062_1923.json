@@ -1,0 +1,23 @@
+{
+  "idx": 62,
+  "record_id": "1923",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "roots",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:When trying to pull a rose out of the ground why do you encounter resistance? A)plant temperature B)tensile strength C)plant color D)roots ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:When trying to pull a rose out of the ground why do you encounter resistance?\nA)plant temperature\nB)tensile strength\nC)plant color\nD)roots\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "plant temperature",
+    "tensile strength",
+    "plant color",
+    "roots"
+  ]
+}

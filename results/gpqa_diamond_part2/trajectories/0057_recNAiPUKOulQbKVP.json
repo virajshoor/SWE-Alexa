@@ -1,0 +1,20 @@
+{
+  "idx": 57,
+  "record_id": "recNAiPUKOulQbKVP",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following physical theories never requires regularization at high energies? A)Quantum Chromodynamics B)Quantum Electrodynamics C)Superstring Theory D)Classical Electrodynamics ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following physical theories never requires regularization at high energies?\nA)Quantum Chromodynamics\nB)Quantum Electrodynamics\nC)Superstring Theory\nD)Classical Electrodynamics\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "Quantum Chromodynamics",
+    "Quantum Electrodynamics",
+    "Superstring Theory",
+    "Classical Electrodynamics"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

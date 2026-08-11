@@ -1,0 +1,23 @@
+{
+  "idx": 14,
+  "record_id": "Mercury_7016800",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct_answer": "which materials are safe to use for cleaning.",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:When there is an accidental spill in the lab, it is most important to know A)where the safety goggles are stored. B)what number to call for poison control. C)which materials are safe to use for cleaning. D)where the fire extinguisher is located. ANSWER:\nI'm happy to direct you to Amazon Customer Service. Visit the following page to get started.\nCustomer Service\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:When there is an accidental spill in the lab, it is most important to know\nA)where the safety goggles are stored.\nB)what number to call for poison control.\nC)which materials are safe to use for cleaning.\nD)where the fire extinguisher is located.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "where the safety goggles are stored.",
+    "what number to call for poison control.",
+    "which materials are safe to use for cleaning.",
+    "where the fire extinguisher is located."
+  ]
+}

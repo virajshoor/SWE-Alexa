@@ -1,0 +1,23 @@
+{
+  "idx": 57,
+  "record_id": "AIMS_2009_8_14",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "The boiling point of oxygen is colder than room temperature.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Bromine (Br) is a liquid at room temperature. Oxygen (O) is a gas at room temperature. Room temperature is 25\u00b0 C. Which of the following statements is true? A)The boiling point of oxygen is colder than room temperature. B)The boiling point of bromine is colder than room temperature. C)The melting point of oxygen is warmer than room temperature. D)The melting point of bromine is warmer than room temperature. ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Bromine (Br) is a liquid at room temperature. Oxygen (O) is a gas at room temperature. Room temperature is 25\u00b0 C. Which of the following statements is true?\nA)The boiling point of oxygen is colder than room temperature.\nB)The boiling point of bromine is colder than room temperature.\nC)The melting point of oxygen is warmer than room temperature.\nD)The melting point of bromine is warmer than room temperature.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The boiling point of oxygen is colder than room temperature.",
+    "The boiling point of bromine is colder than room temperature.",
+    "The melting point of oxygen is warmer than room temperature.",
+    "The melting point of bromine is warmer than room temperature."
+  ]
+}

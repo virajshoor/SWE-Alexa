@@ -1,0 +1,20 @@
+{
+  "idx": 82,
+  "record_id": "recWzUUYBN0NuXO2k",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:We dilute 20.00 cm3 0.05 M acetic acid with 20.00 cm3 water, then titrate the resulting solution with 0.1M NaOH (25 \u00b0C). What will be the value of pH at 25% titration and at the equivalence point? The Ka of acetic acid is 1.85x10^-5. A)4.73; 7.00 B)4.26; 8.52 C)3.17; 6.73 D)4.57; 6.92 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:We dilute 20.00 cm3 0.05 M acetic acid with 20.00 cm3 water, then titrate the resulting solution with 0.1M NaOH (25 \u00b0C). What will be the value of pH at 25% titration and at the equivalence point? The Ka of acetic acid is 1.85x10^-5.\nA)4.73; 7.00\nB)4.26; 8.52\nC)3.17; 6.73\nD)4.57; 6.92\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "4.73; 7.00",
+    "4.26; 8.52",
+    "3.17; 6.73  ",
+    "4.57; 6.92  "
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

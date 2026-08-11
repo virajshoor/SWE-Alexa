@@ -1,0 +1,23 @@
+{
+  "idx": 0,
+  "record_id": "9-461",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "a sudden fog moving into the area",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of A)ice forming on the road B)a sudden fog moving into the area C)a dog running across the highway behind Steve's car D)reports of tornadoes in the area ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of\nA)ice forming on the road\nB)a sudden fog moving into the area\nC)a dog running across the highway behind Steve's car\nD)reports of tornadoes in the area\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "ice forming on the road",
+    "a sudden fog moving into the area",
+    "a dog running across the highway behind Steve's car",
+    "reports of tornadoes in the area"
+  ]
+}

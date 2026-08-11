@@ -1,0 +1,23 @@
+{
+  "idx": 7,
+  "record_id": "mmlu_pro_322",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct_answer": "$546.57",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the tax on a house with a market value of $18,400, if theassessed value is at 65% and the tax rate is $4.57 per $100. A)$580.99 B)$546.57 C)$700.90 D)$650.75 ANSWER:\nA) $580.99\n($18,400 \u00d7 0.65 = $11,960 assessed value \u2192 $11,960 \u00f7 $100 \u00d7 $4.57 = $546.57)\nWait \u2014 that's B) $546.57.\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the tax on a house with a market value of $18,400, if theassessed value is at 65% and the tax rate is $4.57 per $100.\nA)$580.99\nB)$546.57\nC)$700.90\nD)$650.75\nANSWER:",
+  "domain": "business",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "$580.99",
+    "$546.57",
+    "$700.90",
+    "$650.75"
+  ]
+}

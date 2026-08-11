@@ -1,0 +1,20 @@
+{
+  "idx": 97,
+  "record_id": "recakFKZioXUuldcd",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Identify the starting material, A, in the following reaction. A + a methyleneruthenium compound + 1-propene ---> 1-(prop-1-en-1-yl)-2-vinylcyclopentane A)2-methylbicyclo[3.1.0]hex-2-ene B)2-methyl-3-methylenebicyclo[2.1.0]pentane C)bicyclo[3.2.0]hept-6-ene D)1,2-dimethylenecyclopentane ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Identify the starting material, A, in the following reaction. A + a methyleneruthenium compound + 1-propene ---> 1-(prop-1-en-1-yl)-2-vinylcyclopentane\nA)2-methylbicyclo[3.1.0]hex-2-ene\nB)2-methyl-3-methylenebicyclo[2.1.0]pentane\nC)bicyclo[3.2.0]hept-6-ene\nD)1,2-dimethylenecyclopentane\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "2-methylbicyclo[3.1.0]hex-2-ene",
+    "2-methyl-3-methylenebicyclo[2.1.0]pentane",
+    "bicyclo[3.2.0]hept-6-ene",
+    "1,2-dimethylenecyclopentane"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

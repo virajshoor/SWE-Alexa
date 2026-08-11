@@ -1,0 +1,20 @@
+{
+  "idx": 166,
+  "record_id": "rec9W28HgpEUeUN8k",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Calculate the amount of non-Gaussianity(nG) in the Schr\u00f6dinger cat state using relative entropy measure. The state is defined as, |psi> =( cos(phi)|alpha> + sin(phi)|-alpha> )/ N; Here, alpha is the amplitude, phi is the phase and N is the normalisation constant. N = sqrt(1+ sin(2*phi)*exp(-2*alpha^2)). The relative entropy measure is given as, del_b = [trace(rho* ln(rho))-trace(tau* ln(tau))] where \u2026 A)0.25 B)2.48 C)1.38 D)0 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Calculate the amount of non-Gaussianity(nG) in the Schr\u00f6dinger cat state using relative entropy measure. The state is defined as, |psi> =( cos(phi)|alpha> + sin(phi)|-alpha> )/ N; Here, alpha is the amplitude, phi is the phase and N is the normalisation constant. N = sqrt(1+ sin(2*phi)*exp(-2*alpha^2)). The relative entropy measure is given as, del_b = [trace(rho* ln(rho))-trace(tau* ln(tau))] where \u2026\nA)0.25\nB)2.48\nC)1.38\nD)0\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "0.25",
+    "2.48",
+    "1.38",
+    "0"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

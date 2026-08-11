@@ -1,0 +1,23 @@
+{
+  "idx": 0,
+  "record_id": "mmlu_pro_6005",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "contraction of contralateral limb musculature.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Primary motor cortex activity results in A)bilateral contraction of limb musculature. B)bilateral contraction of antigravity limb muscles. C)contraction of contralateral limb musculature. D)contraction of ipsilateral limb musculature. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Primary motor cortex activity results in\nA)bilateral contraction of limb musculature.\nB)bilateral contraction of antigravity limb muscles.\nC)contraction of contralateral limb musculature.\nD)contraction of ipsilateral limb musculature.\nANSWER:",
+  "domain": "health",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "bilateral contraction of limb musculature.",
+    "bilateral contraction of antigravity limb muscles.",
+    "contraction of contralateral limb musculature.",
+    "contraction of ipsilateral limb musculature."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 6,
+  "record_id": "simpleqa_1441",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "2013",
+  "predicted_answer": "I wasn't able to find the exact year Alexandra Park (Haringey, London) was officially declared a Local Nature Reserve. The available records show:",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In which year was Alexandra Park declared a local nature reserve? ANSWER:\nI wasn't able to find the exact year Alexandra Park (Haringey, London) was officially declared a Local Nature Reserve. The available records show:\n\u2022\n2010: The proposal was first considered, following Haringey Council's Biodiversity Action Plan\n\u2022\nNovember 2012: The Board approved officers to conclude the LNR declaration\n\u2022\nThe declaration was completed sometime after 2012, most likely 2013\nI'm not confident enough to give a definitive single year. I'd recommend checking Natural England's LNR register or the Haringey Council website for the exact declaration date.\nInformed by haringey.gov.uk, hastings.gov.uk, haringey.gov.uk, wikipedia.org, haringey.gov.uk, wikipedia.org, haringey.gov.uk, haringey.gov.uk, haringey.gov.uk, haringey.gov.uk\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In which year was Alexandra Park declared a local nature reserve?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

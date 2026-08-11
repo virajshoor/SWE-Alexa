@@ -1,0 +1,20 @@
+{
+  "idx": 183,
+  "record_id": "recYCMJWH7IpcdqwE",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which sequence of reactions from the following options would lead to the high-yield synthesis of 2-(tert-butyl)-1-ethoxy-3-nitrobenzene, beginning with benzene? A)i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 ; iii) Fe/HCl ;\u2026 B)i) tert-butyl chloride/AlCl3 ; ii) SO3/H2SO4 ; iii) HNO3/H2SO\u2026 C)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) tert-butyl chloride/AlCl3 ;\u2026 D)i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 iv) ; iii) SO3/\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which sequence of reactions from the following options would lead to the high-yield synthesis of 2-(tert-butyl)-1-ethoxy-3-nitrobenzene, beginning with benzene?\nA)i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 ; iii) Fe/HCl ;\u2026\nB)i) tert-butyl chloride/AlCl3 ; ii) SO3/H2SO4 ; iii) HNO3/H2SO\u2026\nC)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) tert-butyl chloride/AlCl3 ;\u2026\nD)i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 iv) ; iii) SO3/\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 ; iii) Fe/HCl ; iv) HNO3/H2SO4 ; v) NaNO2/HCl ; vi) H3O+, H2O/Heat ; vii) NaOH/EtBr ; viii) SO3/H2SO4 ; ix) dilute H2SO4",
+    "i) tert-butyl chloride/AlCl3 ; ii) SO3/H2SO4 ; iii) HNO3/H2SO4 iv) Fe/HCl ; v) NaNO2/HCl ; vi) HNO3/H2SO4 ; vii) H3O+, H2O/Heat ; viii) dilute H2SO4 ix) NaOH/EtBr",
+    "i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) tert-butyl chloride/AlCl3 ; iv) HNO3/H2SO4 ; v) NaNO2/HCl ; vi) SO3/H2SO4 ; vii) dilute H2SO4 ; viii) H3O+, H2O/Heat ; ix) NaOH/EtBr",
+    "i) tert-butyl chloride/AlCl3 ; ii) HNO3/H2SO4 iv) ; iii) SO3/H2SO4 ; iv) NaNO2/HCl ; v) dilute H2SO4 ; vi) H3O+, H2O/Heat ; vii) NaOH/EtBr ; viii) Fe/HCl ; ix) HNO3/H2SO4"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,20 @@
+{
+  "idx": 162,
+  "record_id": "rec1oj2DveQWl9Rpw",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:We would like to dissolve (at 25\u00b0\u0421) 0.1 g Fe(OH)3 in 100 cm3 total volume. What is the minimum volume (cm3) of a 0.1 M monobasic strong acid that is needed to prepare the solution and what is the pH of the resulting solution? A)pH 4.94; 20.40 cm3 B)pH 3.16; 32.14 cm3 C)pH 2.04; 28.05 cm3 D)pH 2.69; 30.09 cm3 ANSWER:\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:We would like to dissolve (at 25\u00b0\u0421) 0.1 g Fe(OH)3 in 100 cm3 total volume. What is the minimum volume (cm3) of a 0.1 M monobasic strong acid that is needed to prepare the solution and what is the pH of the resulting solution?\nA)pH 4.94; 20.40 cm3\nB)pH 3.16; 32.14 cm3\nC)pH 2.04; 28.05 cm3\nD)pH 2.69; 30.09 cm3\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "pH 4.94; 20.40 cm3",
+    "pH 3.16; 32.14 cm3",
+    "pH 2.04; 28.05 cm3",
+    "pH 2.69; 30.09 cm3"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

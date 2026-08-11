@@ -1,0 +1,20 @@
+{
+  "idx": 163,
+  "record_id": "rec32C1ZEapBnCC0E",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are studying two binary star systems: system_1 and system_2. Observations reveal that both systems exhibit eclipses with periods of 2 years and 1 year, respectively, for system_1 and system_2. These periods are calculated as the time between two consecutive primary eclipses. Further spectroscopic observations indicate that in system_1, the two stars display sinusoidal variations of\u2026 A)~ 1.2 B)~ 0.4 C)~ 0.7 D)~ 0.6 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are studying two binary star systems: system_1 and system_2. Observations reveal that both systems exhibit eclipses with periods of 2 years and 1 year, respectively, for system_1 and system_2. These periods are calculated as the time between two consecutive primary eclipses. Further spectroscopic observations indicate that in system_1, the two stars display sinusoidal variations of\u2026\nA)~ 1.2\nB)~ 0.4\nC)~ 0.7\nD)~ 0.6\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~ 1.2",
+    "~ 0.4",
+    "~ 0.7",
+    "~ 0.6\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

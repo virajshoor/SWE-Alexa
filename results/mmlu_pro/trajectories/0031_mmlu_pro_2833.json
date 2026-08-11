@@ -1,0 +1,23 @@
+{
+  "idx": 31,
+  "record_id": "mmlu_pro_2833",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Indiscriminate use of antibiotics selected for drug-resistant bacteria which can then pass their resistance to potentially harmful strains.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In Japan, the frequency of the R-governed multiple drug-resistant strain ofShigella, which causes dysentery, rose from 0.2 percent in 1953 to 58 percent in 1965. Also, 84 percent of the E. coli and 90 percent of Proteus collected from affected hospital patients showed similar resistance. How could such an increase happen? A)The bacteria develope\u2026 B)Natural selection fav\u2026 C)Over-prescription of \u2026 D)Indiscriminate use of\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In Japan, the frequency of the R-governed multiple drug-resistant strain ofShigella, which causes dysentery, rose from 0.2 percent in 1953 to 58 percent in 1965. Also, 84 percent of the E. coli and 90 percent of Proteus collected from affected hospital patients showed similar resistance. How could such an increase happen?\nA)The bacteria develope\u2026\nB)Natural selection fav\u2026\nC)Over-prescription of \u2026\nD)Indiscriminate use of\u2026\nANSWER:",
+  "domain": "biology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The bacteria developed immunity to antibiotics",
+    "Natural selection favored bacteria that were inherently resistant to antibiotics",
+    "Over-prescription of antibiotics in livestock agriculture leading to cross-species transfer of resistance",
+    "Indiscriminate use of antibiotics selected for drug-resistant bacteria which can then pass their resistance to potentially harmful strains."
+  ]
+}

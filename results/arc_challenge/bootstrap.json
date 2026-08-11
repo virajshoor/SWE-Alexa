@@ -1,0 +1,9 @@
+{
+  "storage_state": "artifacts/amazon_storage.json",
+  "account": "Hello, Viraj",
+  "logged_in": true,
+  "alexa_opened": true,
+  "probe_ok": true,
+  "probe_pred": "B",
+  "probe_text": "gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). 2+2=? A)3 B)4 C)5 D)6 Reply ONLY one letter A/B/C/D. ANSWER:\nB\n2 + 2 = 4. Is there anything else I can help you with today \u2014 shopping or otherwise?\nScheduled actions\nAutomate shopping, discovery, and savings"
+}

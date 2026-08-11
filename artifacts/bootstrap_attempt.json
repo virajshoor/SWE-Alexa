@@ -1,0 +1,9 @@
+{
+  "logged_in": false,
+  "alexa_opened": false,
+  "probe_ok": false,
+  "probe_text": "",
+  "probe_error": "skipped",
+  "storage_state": "artifacts/amazon_storage.json",
+  "has_email": false
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 10,
+  "record_id": "shop_7",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Saving items you may want later or share",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is a wishlist on Amazon for? A)Booking airline seats B)Saving items you may want later or share C)Filing tax returns D)Deleting seller accounts ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is a wishlist on Amazon for?\nA)Booking airline seats\nB)Saving items you may want later or share\nC)Filing tax returns\nD)Deleting seller accounts\nANSWER:",
+  "domain": "wishlist",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Booking airline seats",
+    "Saving items you may want later or share",
+    "Filing tax returns",
+    "Deleting seller accounts"
+  ]
+}

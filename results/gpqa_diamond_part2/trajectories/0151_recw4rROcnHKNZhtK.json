@@ -1,0 +1,20 @@
+{
+  "idx": 151,
+  "record_id": "recw4rROcnHKNZhtK",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You identified a new quorum-sensing peptide in the bacteria Lactobacillus acidophilus. You are highly interested if its role in intercellular communication is conserved among the eukaryotes. You treat yeast Saccharomyces cerevisiae with the peptide and interestingly observe the formation of the shmoo. You want to learn about the proteome of the active chromatin in t\u2026 A)enhancer pr\u2026 B)pre-initiat\u2026 C)nucleosome \u2026 D)pre-replica\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You identified a new quorum-sensing peptide in the bacteria Lactobacillus acidophilus. You are highly interested if its role in intercellular communication is conserved among the eukaryotes. You treat yeast Saccharomyces cerevisiae with the peptide and interestingly observe the formation of the shmoo. You want to learn about the proteome of the active chromatin in t\u2026\nA)enhancer pr\u2026\nB)pre-initiat\u2026\nC)nucleosome \u2026\nD)pre-replica\u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "enhancer protein complex",
+    "pre-initiation complex",
+    "nucleosome histone complex",
+    "pre-replication complex"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

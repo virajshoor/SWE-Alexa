@@ -1,0 +1,18 @@
+{
+  "idx": 55,
+  "record_id": "gsm8k_217",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "15",
+  "predicted_answer": "19",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:There are 4 roses in the vase. There are 7 more dahlias than roses in the vase. How many flowers are there in the vase in total? ANSWER:\n19\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:There are 4 roses in the vase. There are 7 more dahlias than roses in the vase. How many flowers are there in the vase in total?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 65,
+  "record_id": "mmlu_pro_2387",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Compliance, identification, and internalization",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:based upon rewardor punishment or based upon a need to know. Distinguish on a more specific plane between the three kinds ofresponses to social influence. A)Cooperation, imitation, and assimilation B)Adherence, affiliation, and incorporation C)Compliance, identification, and internalization D)Coordination, assimilation, and conformation ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:based upon rewardor punishment or based upon a need to know. Distinguish on a more specific plane between the three kinds ofresponses to social influence.\nA)Cooperation, imitation, and assimilation\nB)Adherence, affiliation, and incorporation\nC)Compliance, identification, and internalization\nD)Coordination, assimilation, and conformation\nANSWER:",
+  "domain": "psychology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Cooperation, imitation, and assimilation",
+    "Adherence, affiliation, and incorporation",
+    "Compliance, identification, and internalization",
+    "Coordination, assimilation, and conformation"
+  ]
+}

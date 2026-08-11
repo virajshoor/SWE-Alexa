@@ -1,0 +1,23 @@
+{
+  "idx": 73,
+  "record_id": "MCAS_2006_8_31",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "sugar",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Students are studying the process of photosynthesis in plants. Which of the following is a product of photosynthesis? A)carbon dioxide B)sugar C)sodium chloride D)nitrogen ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Students are studying the process of photosynthesis in plants. Which of the following is a product of photosynthesis?\nA)carbon dioxide\nB)sugar\nC)sodium chloride\nD)nitrogen\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "carbon dioxide",
+    "sugar",
+    "sodium chloride",
+    "nitrogen"
+  ]
+}

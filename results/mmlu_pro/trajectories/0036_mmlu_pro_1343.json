@@ -1,0 +1,23 @@
+{
+  "idx": 36,
+  "record_id": "mmlu_pro_1343",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "recover against the carpeting company only.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A husband and wife were about to leave on vacation for one month. They thought it would be a great idea to have new carpeting installed in their home while they were away. They contacted a reputable carpeting company, which offered to do the job for $7,000. The husband and wife agreed, gave a set of house keys to the carpeting company, and left on vacation. A week l\u2026 A)recover aga\u2026 B)not recover\u2026 C)not recover\u2026 D)not recover\u2026 ANSWER:\nI'm here to help with shopping and Amazon-related questions, but I'm not able to assist with quizzes or academic exercises. Is there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A husband and wife were about to leave on vacation for one month. They thought it would be a great idea to have new carpeting installed in their home while they were away. They contacted a reputable carpeting company, which offered to do the job for $7,000. The husband and wife agreed, gave a set of house keys to the carpeting company, and left on vacation. A week l\u2026\nA)recover aga\u2026\nB)not recover\u2026\nC)not recover\u2026\nD)not recover\u2026\nANSWER:",
+  "domain": "law",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "recover against the carpeting company only.",
+    "not recover, because the carpeting company already received payment.",
+    "not recover, because he agreed to perform the services without a direct contract with the husband and wife.",
+    "not recover, because he did not have a written contract."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 38,
+  "record_id": "shop_26",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Amazon\u2019s private-label everyday products",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Amazon Basics typically refers to: A)Airline cockpit parts B)Only luxury jewelry C)Government bonds D)Amazon\u2019s private-label everyday products ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Amazon Basics typically refers to:\nA)Airline cockpit parts\nB)Only luxury jewelry\nC)Government bonds\nD)Amazon\u2019s private-label everyday products\nANSWER:",
+  "domain": "basics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Airline cockpit parts",
+    "Only luxury jewelry",
+    "Government bonds",
+    "Amazon\u2019s private-label everyday products"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 51,
+  "record_id": "mmlu_pro_11224",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "- 53.4eu",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Ti(s) + 2Cl_2(g) \\rightharpoonupTiCl_4(l) Using the following standard entropy data, calculate the entropychange for the system @ 298 K. Standard entropy data (@ 25\u00b0C) Ti(s)----S^0 = 7.2eu/mole Cl_2(g)----S^0 = 53.3eu/mole TiCl_4(l)----S^0 = 60.4eu/mole A)53.4eu B)0eu C)-10.2eu D)- 53.4eu ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Ti(s) + 2Cl_2(g) \\rightharpoonupTiCl_4(l) Using the following standard entropy data, calculate the entropychange for the system @ 298 K. Standard entropy data (@ 25\u00b0C) Ti(s)----S^0 = 7.2eu/mole Cl_2(g)----S^0 = 53.3eu/mole TiCl_4(l)----S^0 = 60.4eu/mole\nA)53.4eu\nB)0eu\nC)-10.2eu\nD)- 53.4eu\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "53.4eu",
+    "0eu",
+    "-10.2eu",
+    "- 53.4eu"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 18,
+  "record_id": "Mercury_7085278",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "is heated by nearby magma.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Some regions produce large amounts of geothermal energy. This energy production indicates that the crust in these regions A)is heated by nearby magma. B)is rich in precious metals. C)reaches deep into Earth. D)has large oil reserves. ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Some regions produce large amounts of geothermal energy. This energy production indicates that the crust in these regions\nA)is heated by nearby magma.\nB)is rich in precious metals.\nC)reaches deep into Earth.\nD)has large oil reserves.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "is heated by nearby magma.",
+    "is rich in precious metals.",
+    "reaches deep into Earth.",
+    "has large oil reserves."
+  ]
+}

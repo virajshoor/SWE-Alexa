@@ -1,0 +1,20 @@
+{
+  "idx": 153,
+  "record_id": "recxsX66ktJ1Lwt4f",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In the lab, a chemist discovers an unnamed bottle with a white solid inside. He gathers the following spectral information in order to identify the liquid. Make a reasonable structural suggestion for the unidentified drug using the information provided. Mass: molecular ion peak at m/z = 156 (100%) a peak at m/z = 158 (32%) IR : broad peak from 3500-2700 cm^-1, stron\u2026 A)4-chloroben\u2026 B)Phenyl chlo\u2026 C)2-chloroben\u2026 D)3-Chloro-2-\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In the lab, a chemist discovers an unnamed bottle with a white solid inside. He gathers the following spectral information in order to identify the liquid. Make a reasonable structural suggestion for the unidentified drug using the information provided. Mass: molecular ion peak at m/z = 156 (100%) a peak at m/z = 158 (32%) IR : broad peak from 3500-2700 cm^-1, stron\u2026\nA)4-chloroben\u2026\nB)Phenyl chlo\u2026\nC)2-chloroben\u2026\nD)3-Chloro-2-\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "4-chlorobenzoic acid",
+    "Phenyl chloroformate",
+    "2-chlorobenzoic acid",
+    "3-Chloro-2-hydroxybenzaldehyde\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

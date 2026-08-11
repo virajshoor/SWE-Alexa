@@ -1,0 +1,23 @@
+{
+  "idx": 53,
+  "record_id": "7-157",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "copious amounts of the combination of Na and Cl",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Ocean water contains A)copious amounts of the combination of Na and Cl B)copious amounts of seltzer C)scant amounts of sodium chloride D)scant amounts of carbonation ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Ocean water contains\nA)copious amounts of the combination of Na and Cl\nB)copious amounts of seltzer\nC)scant amounts of sodium chloride\nD)scant amounts of carbonation\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "copious amounts of the combination of Na and Cl",
+    "copious amounts of seltzer",
+    "scant amounts of sodium chloride",
+    "scant amounts of carbonation"
+  ]
+}

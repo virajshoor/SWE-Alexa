@@ -1,0 +1,23 @@
+{
+  "idx": 38,
+  "record_id": "mmlu_pro_8561",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "3",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:\\lim_{x \\to 1}(1/(x - 1) - c/(x^3 - 1)) exists. What is the value of c? A)5 B)2 C)-1 D)3 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:\\lim_{x \\to 1}(1/(x - 1) - c/(x^3 - 1)) exists. What is the value of c?\nA)5\nB)2\nC)-1\nD)3\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "5",
+    "2",
+    "-1",
+    "3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 44,
+  "record_id": "Mercury_7230405",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "steep drop in ocean volume and area",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Evidence of extensive glaciation has been suggested as an explanation for extinctions at the end of the Permian period. Such glaciation could have disrupted ocean ecosystems by producing which effect? A)increased exposure of oceans to ultraviolet radiation B)steep drop in ocean salinity and density C)steep drop in ocean volume and area D)increased exposure of tsunamis to ocean life ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Evidence of extensive glaciation has been suggested as an explanation for extinctions at the end of the Permian period. Such glaciation could have disrupted ocean ecosystems by producing which effect?\nA)increased exposure of oceans to ultraviolet radiation\nB)steep drop in ocean salinity and density\nC)steep drop in ocean volume and area\nD)increased exposure of tsunamis to ocean life\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "increased exposure of oceans to ultraviolet radiation",
+    "steep drop in ocean salinity and density",
+    "steep drop in ocean volume and area",
+    "increased exposure of tsunamis to ocean life"
+  ]
+}

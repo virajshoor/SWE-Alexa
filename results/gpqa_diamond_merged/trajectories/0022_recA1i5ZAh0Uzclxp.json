@@ -1,0 +1,20 @@
+{
+  "idx": 22,
+  "record_id": "recA1i5ZAh0Uzclxp",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In an experiment, a researcher reacted ((2,2-dimethylbut-3-en-1-yl)oxy)benzene with hydrogen bromide. After some time, they checked the progress of the reaction using TLC. They found that the reactant spot had diminished, and two new spots were formed. Which of the following could be the structures of the products? A)2-(2,2-dimethylbutyl)p\u2026 B)3,3,4-trimethylchroman\u2026 C)(4-bromo-2,2-dimethylb\u2026 D)(4-bromo-2,2-dimethylb\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In an experiment, a researcher reacted ((2,2-dimethylbut-3-en-1-yl)oxy)benzene with hydrogen bromide. After some time, they checked the progress of the reaction using TLC. They found that the reactant spot had diminished, and two new spots were formed. Which of the following could be the structures of the products?\nA)2-(2,2-dimethylbutyl)p\u2026\nB)3,3,4-trimethylchroman\u2026\nC)(4-bromo-2,2-dimethylb\u2026\nD)(4-bromo-2,2-dimethylb\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "2-(2,2-dimethylbutyl)phenol and 4-(2,2-dimethylbutyl)phenol",
+    "3,3,4-trimethylchromane and 3-isopropyl-3-methyl-2,3-dihydrobenzofuran",
+    "(4-bromo-2,2-dimethylbutoxy)benzene and ((2,3-dimethylbut-2-en-1-yl)oxy)benzene",
+    "(4-bromo-2,2-dimethylbutoxy)benzene and (3-bromo-2,2-dimethylbutoxy)benzene"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

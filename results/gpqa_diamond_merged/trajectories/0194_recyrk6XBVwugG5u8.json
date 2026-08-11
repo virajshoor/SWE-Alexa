@@ -1,0 +1,20 @@
+{
+  "idx": 194,
+  "record_id": "recyrk6XBVwugG5u8",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are observing a planet with a radius of 1 Earth radius in a circular orbit, with a transit impact parameter of 0.2, around a star that has a radius 1.5 times that of the Sun. This planet has an orbital period of 3 days. What is the maximum orbital period of a second planet, with a radius of 2.5 times that of Earth, in the same system that will exhibit both transit and occultatio\u2026 A)~ 12.5 B)~ 7.5 C)~ 37.5 D)~ 33.5 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are observing a planet with a radius of 1 Earth radius in a circular orbit, with a transit impact parameter of 0.2, around a star that has a radius 1.5 times that of the Sun. This planet has an orbital period of 3 days. What is the maximum orbital period of a second planet, with a radius of 2.5 times that of Earth, in the same system that will exhibit both transit and occultatio\u2026\nA)~ 12.5\nB)~ 7.5\nC)~ 37.5\nD)~ 33.5\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~ 12.5",
+    "~ 7.5",
+    "~ 37.5",
+    "~ 33.5"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

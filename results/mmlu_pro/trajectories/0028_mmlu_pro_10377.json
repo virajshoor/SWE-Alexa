@@ -1,0 +1,23 @@
+{
+  "idx": 28,
+  "record_id": "mmlu_pro_10377",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct_answer": "An e-mail from your bank asks you to call the number on your card to verify a transaction",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following is LEAST likely to indicate a phishing attack? A)An e-mail from your bank asks you to call the number on your card to verify a transa\u2026 B)An e-mail from a social networking site asks you to click on a link to view a photo \u2026 C)An e-mail from your bank asks you to reply with your password to confirm a recent tr\u2026 D)An e-mail from your company's IT department asks you to enter your login details to \u2026 ANSWER:\nI'm happy to direct you to Amazon Customer Service. Visit the following page to get started.\nCustomer Service\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following is LEAST likely to indicate a phishing attack?\nA)An e-mail from your bank asks you to call the number on your card to verify a transa\u2026\nB)An e-mail from a social networking site asks you to click on a link to view a photo \u2026\nC)An e-mail from your bank asks you to reply with your password to confirm a recent tr\u2026\nD)An e-mail from your company's IT department asks you to enter your login details to \u2026\nANSWER:",
+  "domain": "computer science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "An e-mail from your bank asks you to call the number on your card to verify a transaction",
+    "An e-mail from a social networking site asks you to click on a link to view a photo or video",
+    "An e-mail from your bank asks you to reply with your password to confirm a recent transaction.",
+    "An e-mail from your company's IT department asks you to enter your login details to upgrade your system"
+  ]
+}

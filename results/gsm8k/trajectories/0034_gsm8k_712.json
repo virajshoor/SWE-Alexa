@@ -1,0 +1,18 @@
+{
+  "idx": 34,
+  "record_id": "gsm8k_712",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "14",
+  "predicted_answer": "14",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Ginger and Amy both start with 100 pieces of Halloween candy. Ginger eats 4 pieces a day and Amy eats 3 pieces a day. How much more candy does Amy have after two weeks? ANSWER:\n14\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Ginger and Amy both start with 100 pieces of Halloween candy. Ginger eats 4 pieces a day and Amy eats 3 pieces a day. How much more candy does Amy have after two weeks?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

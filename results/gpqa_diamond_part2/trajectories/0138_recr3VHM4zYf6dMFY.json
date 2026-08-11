@@ -1,0 +1,20 @@
+{
+  "idx": 138,
+  "record_id": "recr3VHM4zYf6dMFY",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two compounds A and B are treated separately with hydrochloric acid, sodium nitrite, and water. Through the mentioned treatment two different diketones are produced. Select the proper starting materials A and B for the reactions. A + (NaNO2, HCl, H2O) ---> 4-isopropylcyclohexane-1,2-dione B + (NaNO2, HCl, H2O) ---> 5-methylhexane-2,3-dione A)A = 4-isopropyl-\u2026 B)A = 4-isopropylc\u2026 C)A = 4-isopropyl-\u2026 D)A = 4-isopropylc\u2026 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant \u2014 I'm here to help with product searches, Amazon account questions, and more. Is there anything shopping-related I can assist you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two compounds A and B are treated separately with hydrochloric acid, sodium nitrite, and water. Through the mentioned treatment two different diketones are produced. Select the proper starting materials A and B for the reactions. A + (NaNO2, HCl, H2O) ---> 4-isopropylcyclohexane-1,2-dione B + (NaNO2, HCl, H2O) ---> 5-methylhexane-2,3-dione\nA)A = 4-isopropyl-\u2026\nB)A = 4-isopropylc\u2026\nC)A = 4-isopropyl-\u2026\nD)A = 4-isopropylc\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = 4-isopropyl-2-methoxycyclohexan-1-ol, 5-methylhexane-2,3-diol",
+    "A = 4-isopropylcyclohexan-1-one, B = 5-methylhexane-2,3-diol",
+    "A = 4-isopropyl-2-methoxycyclohexan-1-ol, B = 5-methylhexan-2-one",
+    "A = 4-isopropylcyclohexan-1-one, B = 5-methylhexan-2-one"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

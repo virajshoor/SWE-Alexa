@@ -1,0 +1,20 @@
+{
+  "idx": 172,
+  "record_id": "recJpyGtGIsxulevT",
+  "correct_letter": "D",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If uncertainty in space of electron's location, which is travelling with speed v= 2* 10^8 m/s along x-direction is \u0394x=0.1 nm . Based on the infromation estimate the minimum uncertainty in the energy \u0394E of electron. A)~10^(-19) J B)~10^(-18) J C)~10^(-17) J D)~10^(-16) J ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If uncertainty in space of electron's location, which is travelling with speed v= 2* 10^8 m/s along x-direction is \u0394x=0.1 nm . Based on the infromation estimate the minimum uncertainty in the energy \u0394E of electron.\nA)~10^(-19) J\nB)~10^(-18) J\nC)~10^(-17) J\nD)~10^(-16) J\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "~10^(-19) J",
+    "~10^(-18) J",
+    "~10^(-17) J",
+    "~10^(-16) J"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

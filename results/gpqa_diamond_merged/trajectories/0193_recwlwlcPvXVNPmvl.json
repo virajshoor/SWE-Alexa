@@ -1,0 +1,20 @@
+{
+  "idx": 193,
+  "record_id": "recwlwlcPvXVNPmvl",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a system of three spins S1, S2 and S3. Each of which can take spin +1 and -1. The energy of the system is given by, E= -J[ S1S2 +S1S3+S2S3 ]. Find the partition function Z of the system. (\\beta = 1/kT , k= boltzmann constant and T= temperature) A)Z= 2e^(2J\\beta)+6e^(-2J\\beta) B)Z= 2 e^(-3J\\beta)+6e^(J\\beta) C)Z= 6e^(2J\\beta)+2e^(-2J\\beta) D)Z= 2 e^(3J\\beta)+6e^(-J\\beta) ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a system of three spins S1, S2 and S3. Each of which can take spin +1 and -1. The energy of the system is given by, E= -J[ S1S2 +S1S3+S2S3 ]. Find the partition function Z of the system. (\\beta = 1/kT , k= boltzmann constant and T= temperature)\nA)Z= 2e^(2J\\beta)+6e^(-2J\\beta)\nB)Z= 2 e^(-3J\\beta)+6e^(J\\beta)\nC)Z= 6e^(2J\\beta)+2e^(-2J\\beta)\nD)Z= 2 e^(3J\\beta)+6e^(-J\\beta)\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "Z= 2e^(2J\\beta)+6e^(-2J\\beta)",
+    "Z= 2 e^(-3J\\beta)+6e^(J\\beta)",
+    "Z= 6e^(2J\\beta)+2e^(-2J\\beta)",
+    "Z= 2 e^(3J\\beta)+6e^(-J\\beta)"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

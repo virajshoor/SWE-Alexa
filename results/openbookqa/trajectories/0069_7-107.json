@@ -1,0 +1,23 @@
+{
+  "idx": 69,
+  "record_id": "7-107",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Australia",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Summertime happens during June in all but which location? A)in Canada B)Europe C)Australia D)United States ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Summertime happens during June in all but which location?\nA)in Canada\nB)Europe\nC)Australia\nD)United States\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "in Canada",
+    "Europe",
+    "Australia",
+    "United States"
+  ]
+}

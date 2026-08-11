@@ -1,0 +1,23 @@
+{
+  "idx": 57,
+  "record_id": "mmlu_pro_10417",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Dynamically allocated objects on the heap",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In systems with support for automatic memory management, a garbage collector typically has the responsibility for reclaiming allocated memory objects whose contents cannot affect any future legal computation. Such objects are identified by determining that they cannot be reached from a root set. Which of the following is NOT part of the root set in a typical garbage\u2026 A)Static vari\u2026 B)Temporary v\u2026 C)Objects sto\u2026 D)Dynamically\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In systems with support for automatic memory management, a garbage collector typically has the responsibility for reclaiming allocated memory objects whose contents cannot affect any future legal computation. Such objects are identified by determining that they cannot be reached from a root set. Which of the following is NOT part of the root set in a typical garbage\u2026\nA)Static vari\u2026\nB)Temporary v\u2026\nC)Objects sto\u2026\nD)Dynamically\u2026\nANSWER:",
+  "domain": "computer science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Static variables in the program",
+    "Temporary variables in the active procedures",
+    "Objects stored in registers",
+    "Dynamically allocated objects on the heap"
+  ]
+}

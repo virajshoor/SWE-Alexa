@@ -1,0 +1,20 @@
+{
+  "idx": 123,
+  "record_id": "recmkvk6EFAmqyMxR",
+  "correct_letter": "C",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Particles are collided at the center of a spherical detector producing new type of particles that travel uninterrupted at ultra-relativistic velocities highly centered around Lorentz factor of ~20. On average, one third of these fast-decaying particles reaches the detector inner walls. The radius of the detector is 30 meters. What Lorentz factor is needed in order to have about two thirds of these particl\u2026 A)28 B)40 C)54 D)68 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Particles are collided at the center of a spherical detector producing new type of particles that travel uninterrupted at ultra-relativistic velocities highly centered around Lorentz factor of ~20. On average, one third of these fast-decaying particles reaches the detector inner walls. The radius of the detector is 30 meters. What Lorentz factor is needed in order to have about two thirds of these particl\u2026\nA)28\nB)40\nC)54\nD)68\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "28",
+    "40",
+    "54",
+    "68"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

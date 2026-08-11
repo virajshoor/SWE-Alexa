@@ -1,0 +1,23 @@
+{
+  "idx": 26,
+  "record_id": "shop_36",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Discover alternatives and price options",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Comparing 'similar items' widgets helps you: A)Delete order history forever B)Change your legal name C)Discover alternatives and price options D)Reset your password ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Comparing 'similar items' widgets helps you:\nA)Delete order history forever\nB)Change your legal name\nC)Discover alternatives and price options\nD)Reset your password\nANSWER:",
+  "domain": "compare",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Delete order history forever",
+    "Change your legal name",
+    "Discover alternatives and price options",
+    "Reset your password"
+  ]
+}

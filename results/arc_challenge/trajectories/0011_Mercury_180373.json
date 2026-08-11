@@ -1,0 +1,23 @@
+{
+  "idx": 11,
+  "record_id": "Mercury_180373",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Materials are pressed together.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How are sedimentary rocks made? A)Chemical reactions change minerals. B)Magma or lava is cooled. C)Materials are pressed together. D)Earthquakes cause small pieces to fall. ANSWER:\nRESPONSE:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How are sedimentary rocks made?\nA)Chemical reactions change minerals.\nB)Magma or lava is cooled.\nC)Materials are pressed together.\nD)Earthquakes cause small pieces to fall.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Chemical reactions change minerals.",
+    "Magma or lava is cooled.",
+    "Materials are pressed together.",
+    "Earthquakes cause small pieces to fall."
+  ]
+}

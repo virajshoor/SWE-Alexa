@@ -1,0 +1,18 @@
+{
+  "idx": 32,
+  "record_id": "simpleqa_85",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "3",
+  "predicted_answer": "I can find stats for the first leg (April 18, 2006, in Milan), where Barcelona took 1 corner kick. However, I don't have reliable statistics specifically for a match on April 27, 2006 (the second leg in Barcelona), so I can't confirm that figure with confidence.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:How many corners did Barcelona take in the Champions League semi-final match between Barcelona and Milan on April 27, 2006? ANSWER:\nI can find stats for the first leg (April 18, 2006, in Milan), where Barcelona took 1 corner kick. However, I don't have reliable statistics specifically for a match on April 27, 2006 (the second leg in Barcelona), so I can't confirm that figure with confidence.\nInformed by ESPN, UEFA.com, fcbarcelona.com, sportingnews.com, sportingnews.com\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:How many corners did Barcelona take in the Champions League semi-final match between Barcelona and Milan on April 27, 2006?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

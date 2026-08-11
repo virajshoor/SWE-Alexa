@@ -1,0 +1,23 @@
+{
+  "idx": 20,
+  "record_id": "shop_8",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "It is available to purchase now",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If an item shows 'In Stock', it usually means: A)It is discontinued forever B)It requires a prescription always C)It is available to purchase now D)It can only be rented ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If an item shows 'In Stock', it usually means:\nA)It is discontinued forever\nB)It requires a prescription always\nC)It is available to purchase now\nD)It can only be rented\nANSWER:",
+  "domain": "stock",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "It is discontinued forever",
+    "It requires a prescription always",
+    "It is available to purchase now",
+    "It can only be rented"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 50,
+  "record_id": "mmlu_pro_5573",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Politics",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In recent years social media has had a major impact on the practice of public relations. In which of the following areas has the impact been greatest and experienced most immediately? A)Healthcare B)Sports marketing C)Automotive sales D)Politics ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In recent years social media has had a major impact on the practice of public relations. In which of the following areas has the impact been greatest and experienced most immediately?\nA)Healthcare\nB)Sports marketing\nC)Automotive sales\nD)Politics\nANSWER:",
+  "domain": "other",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Healthcare",
+    "Sports marketing",
+    "Automotive sales",
+    "Politics"
+  ]
+}

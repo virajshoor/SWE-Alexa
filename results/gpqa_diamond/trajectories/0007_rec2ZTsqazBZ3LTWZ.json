@@ -1,0 +1,20 @@
+{
+  "idx": 7,
+  "record_id": "rec2ZTsqazBZ3LTWZ",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You perform a high-throughput experiment on white lupine to find genes contributing to resistance to the fungal disease anthracnose. As a result, you receive three candidate genes of unknown function \u2013 G1, G2, and G3. You create three knock-out mutants, g1, g2, and g3, and a set of double-mutants, g1g2, g1g3, and g2g3. You know that at least one of these genes is a \u2026 A)G2 is a tra\u2026 B)G2 is a tra\u2026 C)G2 is a tra\u2026 D)G1 is a tra\u2026 ANSWER:\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You perform a high-throughput experiment on white lupine to find genes contributing to resistance to the fungal disease anthracnose. As a result, you receive three candidate genes of unknown function \u2013 G1, G2, and G3. You create three knock-out mutants, g1, g2, and g3, and a set of double-mutants, g1g2, g1g3, and g2g3. You know that at least one of these genes is a \u2026\nA)G2 is a tra\u2026\nB)G2 is a tra\u2026\nC)G2 is a tra\u2026\nD)G1 is a tra\u2026\nANSWER:",
+  "subdomain": "Genetics",
+  "domain": "Biology",
+  "choices": [
+    "G2 is a transcription factor, G1 and G3 has the same promoter, G3 is epistatic towards G1",
+    "G2 is a transcription factor, G1 and G3 show gene redundancy, G1 is epistatic towards G3",
+    "G2 is a transcription factor, G1 and G3 show pleiotropy, G1 is epistatic towards G3",
+    "G1 is a transcription factor, G2 and G3 show pleiotropy, G2 is epistatic towards G1"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

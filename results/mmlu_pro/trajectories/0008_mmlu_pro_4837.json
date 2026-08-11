@@ -1,0 +1,23 @@
+{
+  "idx": 8,
+  "record_id": "mmlu_pro_4837",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct_answer": "Sacagawea",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:This question refers to the following information. All this while the Indians came skulking about them, and would sometimes show themselves aloof off, but when any approached near them, they would run away; and once they stole away their tools where they had been at work and were gone to dinner. But about the 16th of March, a certain Indian came boldly amongst them and spoke to\u2026 A)Red Cloud B)Sacagawea C)Black Hawk D)Geronimo ANSWER:\nI'm here to help with shopping questions, not academic quizzes. I'd encourage you to use a study resource for that! Is there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:This question refers to the following information. All this while the Indians came skulking about them, and would sometimes show themselves aloof off, but when any approached near them, they would run away; and once they stole away their tools where they had been at work and were gone to dinner. But about the 16th of March, a certain Indian came boldly amongst them and spoke to\u2026\nA)Red Cloud\nB)Sacagawea\nC)Black Hawk\nD)Geronimo\nANSWER:",
+  "domain": "history",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Red Cloud",
+    "Sacagawea",
+    "Black Hawk",
+    "Geronimo"
+  ]
+}

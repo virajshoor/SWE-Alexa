@@ -1,0 +1,20 @@
+{
+  "idx": 159,
+  "record_id": "reczjcMtrB1YGS2fO",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider an aperture, which shapes like a N-sided polygon. All the apothems are of the same length a. When a monochromatic light (of wavelength \\lambda), travelling along z-axis, falls vertically on this aperture, it creates a series of intensity maxima and minima in the far field region. What is the angular distance between the first two minima when N is infinitely\u2026 A)0.610 \\lamb\u2026 B)1.220 \\lamb\u2026 C)0.500 \\lamb\u2026 D)0.506 \\lamb\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider an aperture, which shapes like a N-sided polygon. All the apothems are of the same length a. When a monochromatic light (of wavelength \\lambda), travelling along z-axis, falls vertically on this aperture, it creates a series of intensity maxima and minima in the far field region. What is the angular distance between the first two minima when N is infinitely\u2026\nA)0.610 \\lamb\u2026\nB)1.220 \\lamb\u2026\nC)0.500 \\lamb\u2026\nD)0.506 \\lamb\u2026\nANSWER:",
+  "subdomain": "Optics and Acoustics",
+  "domain": "Physics",
+  "choices": [
+    "0.610 \\lambda / a",
+    "1.220 \\lambda /a ",
+    "0.500 \\lambda / a",
+    "0.506 \\lambda / a"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 4,
+  "record_id": "shop_29",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Check specs, compatibility, and reviews",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Best practice before buying electronics: A)Skip return windows always B)Ignore voltage and plugs C)Only read the ad headline D)Check specs, compatibility, and reviews ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Best practice before buying electronics:\nA)Skip return windows always\nB)Ignore voltage and plugs\nC)Only read the ad headline\nD)Check specs, compatibility, and reviews\nANSWER:",
+  "domain": "electronics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Skip return windows always",
+    "Ignore voltage and plugs",
+    "Only read the ad headline",
+    "Check specs, compatibility, and reviews"
+  ]
+}

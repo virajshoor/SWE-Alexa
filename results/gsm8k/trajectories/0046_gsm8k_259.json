@@ -1,0 +1,18 @@
+{
+  "idx": 46,
+  "record_id": "gsm8k_259",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "168",
+  "predicted_answer": "168",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than apples. How many fruits are there if Andrea has 52 apples? ANSWER:\nLet's work through it:\n\u2022\nAndrea's apples = 52, so Jamal's apples = 52 \u2212 8 = 44\n\u2022\nJamal's bananas = 44 + 4 = 48\n\u2022\nAndrea's bananas = 48 \u00f7 2 = 24\nTotal = 52 + 44 + 48 + 24 = 168\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than apples. How many fruits are there if Andrea has 52 apples?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

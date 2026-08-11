@@ -1,0 +1,23 @@
+{
+  "idx": 5,
+  "record_id": "mmlu_pro_7763",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "36",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What value of $N$ satisfies $\\frac{4^{(3^3)}}{(4^3)^3} = 2^N$? A)36 B)34 C)9 D)72 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What value of $N$ satisfies $\\frac{4^{(3^3)}}{(4^3)^3} = 2^N$?\nA)36\nB)34\nC)9\nD)72\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "36",
+    "34",
+    "9",
+    "72"
+  ]
+}

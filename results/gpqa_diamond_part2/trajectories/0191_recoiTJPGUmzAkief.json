@@ -1,0 +1,20 @@
+{
+  "idx": 191,
+  "record_id": "recoiTJPGUmzAkief",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Imagine an uncharged spherical conductor of radius $R$ having a small spherical cavity inside. The centre of the cavity is separated by a distance $s$ from the centre of the spherical conductor. The radius of the cavity is $r$, and $r<R$. Now consider a small amount of positive charge $+q$ is somehow placed somewhere inside the cavity. What is the magnitude of the e\u2026 A)$E = \\dfrac\u2026 B)$E = \\dfrac\u2026 C)$E = \\dfrac\u2026 D)$E = \\dfrac\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Imagine an uncharged spherical conductor of radius $R$ having a small spherical cavity inside. The centre of the cavity is separated by a distance $s$ from the centre of the spherical conductor. The radius of the cavity is $r$, and $r<R$. Now consider a small amount of positive charge $+q$ is somehow placed somewhere inside the cavity. What is the magnitude of the e\u2026\nA)$E = \\dfrac\u2026\nB)$E = \\dfrac\u2026\nC)$E = \\dfrac\u2026\nD)$E = \\dfrac\u2026\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "$E = \\dfrac{1}{4 \\pi \\epsilon_o} \\dfrac{q}{L^2}$\n",
+    "$E = \\dfrac{1}{4 \\pi \\epsilon_o} \\dfrac{q}{l^2}$\n",
+    "$E = \\dfrac{1}{4 \\pi \\epsilon_o} \\dfrac{q}{(l+s \\cos\\theta)^2}$\n",
+    "$E = \\dfrac{1}{4 \\pi \\epsilon_o} \\dfrac{q}{(l-s \\cos\\theta)^2}$\n"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

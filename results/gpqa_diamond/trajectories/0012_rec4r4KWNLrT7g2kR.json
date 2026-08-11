@@ -1,0 +1,20 @@
+{
+  "idx": 12,
+  "record_id": "rec4r4KWNLrT7g2kR",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A methanol solution of (R)-(+)-Limonene is stirred with Pd/C under a Hydrogen atmosphere. After 1 equivalent of hydrogen is consumed, product 1 is isolated as the major product. 1 is treated with 3-chloroperbenzoic acid, forming product 2. Product 2 is treated with sodium methoxide, forming product 3. Product 3 is treated with propanoic acid, dicyclohexylcarbodiimid\u2026 A)1-methoxy-2\u2026 B)(1S,2S,4R)-\u2026 C)(1S,2S,5R)-\u2026 D)(1S,2R,4R)-\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A methanol solution of (R)-(+)-Limonene is stirred with Pd/C under a Hydrogen atmosphere. After 1 equivalent of hydrogen is consumed, product 1 is isolated as the major product. 1 is treated with 3-chloroperbenzoic acid, forming product 2. Product 2 is treated with sodium methoxide, forming product 3. Product 3 is treated with propanoic acid, dicyclohexylcarbodiimid\u2026\nA)1-methoxy-2\u2026\nB)(1S,2S,4R)-\u2026\nC)(1S,2S,5R)-\u2026\nD)(1S,2R,4R)-\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "1-methoxy-2-((S)-4-methylcyclohex-3-en-1-yl)propan-2-yl propionate",
+    "(1S,2S,4R)-4-isopropyl-2-methoxy-1-methylcyclohexyl propionate",
+    "(1S,2S,5R)-5-isopropyl-2-methoxy-2-methylcyclohexyl propionate",
+    "(1S,2R,4R)-4-isopropyl-2-methoxy-1-methylcyclohexyl propionate"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

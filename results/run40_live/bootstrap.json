@@ -1,0 +1,9 @@
+{
+  "logged_in": true,
+  "alexa_opened": true,
+  "probe_ok": true,
+  "probe_text": "Design merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nReply with exactly: PONG\nPONG\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "probe_error": "",
+  "storage_state": "artifacts/amazon_storage.json",
+  "has_email": true
+}

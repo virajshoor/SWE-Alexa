@@ -1,0 +1,23 @@
+{
+  "idx": 56,
+  "record_id": "mmlu_pro_4387",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct_answer": "1.61 $10^{-23} \\mathrm{~J} / \\mathrm{T}$",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Calculate the magnitude of the spin magnetic moment of an electron. A)2.01 $10^{-23} \\mathrm{~J} / \\mathrm{T}$ B)1.80 $10^{-23} \\mathrm{~J} / \\mathrm{T}$ C)1.00 $10^{-23} \\mathrm{~J} / \\mathrm{T}$ D)1.61 $10^{-23} \\mathrm{~J} / \\mathrm{T}$ ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Calculate the magnitude of the spin magnetic moment of an electron.\nA)2.01 $10^{-23} \\mathrm{~J} / \\mathrm{T}$\nB)1.80 $10^{-23} \\mathrm{~J} / \\mathrm{T}$\nC)1.00 $10^{-23} \\mathrm{~J} / \\mathrm{T}$\nD)1.61 $10^{-23} \\mathrm{~J} / \\mathrm{T}$\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "2.01 $10^{-23} \\mathrm{~J} / \\mathrm{T}$",
+    "1.80 $10^{-23} \\mathrm{~J} / \\mathrm{T}$",
+    "1.00 $10^{-23} \\mathrm{~J} / \\mathrm{T}$",
+    "1.61 $10^{-23} \\mathrm{~J} / \\mathrm{T}$"
+  ]
+}

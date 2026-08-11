@@ -1,0 +1,23 @@
+{
+  "idx": 46,
+  "record_id": "Mercury_7213343",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "prevents sediment from flowing downstream.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A potential negative impact of building a dam on a river is that the dam A)prevents seasonal downstream flooding. B)increases the amount of water available to farms. C)increases the rate of water loss from a lake. D)prevents sediment from flowing downstream. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A potential negative impact of building a dam on a river is that the dam\nA)prevents seasonal downstream flooding.\nB)increases the amount of water available to farms.\nC)increases the rate of water loss from a lake.\nD)prevents sediment from flowing downstream.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "prevents seasonal downstream flooding.",
+    "increases the amount of water available to farms.",
+    "increases the rate of water loss from a lake.",
+    "prevents sediment from flowing downstream."
+  ]
+}

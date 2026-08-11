@@ -1,0 +1,23 @@
+{
+  "idx": 0,
+  "record_id": "Mercury_SC_401162",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "degrees",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What unit of measurement would be used to describe the melting point of a substance? A)degrees B)liters C)grams D)centimeters ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What unit of measurement would be used to describe the melting point of a substance?\nA)degrees\nB)liters\nC)grams\nD)centimeters\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "degrees",
+    "liters",
+    "grams",
+    "centimeters"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 53,
+  "record_id": "simpleqa_1456",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "June 26, 1958",
+  "predicted_answer": "26 June 1958.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:On what day, month, and year did Florence Farmer, a pioneer of women in politics in Stoke-on-Trent, Staffordshire, England, die? ANSWER:\n26 June 1958.\nInformed by wikipedia.org, Newspapers.com, wikipedia.org, wikipedia.org, wikipedia.org\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:On what day, month, and year did Florence Farmer, a pioneer of women in politics in Stoke-on-Trent, Staffordshire, England, die?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

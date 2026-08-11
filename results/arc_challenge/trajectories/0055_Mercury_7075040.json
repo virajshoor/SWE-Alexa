@@ -1,0 +1,23 @@
+{
+  "idx": 55,
+  "record_id": "Mercury_7075040",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "scientists may interpret data differently.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Although the scientific method states that conclusions should be based on evidence, scientists do not always agree on the conclusions because A)scientists believe experiments should be repeated. B)scientific investigations are generally flawed. C)scientists may interpret data differently. D)scientific laws change often. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Although the scientific method states that conclusions should be based on evidence, scientists do not always agree on the conclusions because\nA)scientists believe experiments should be repeated.\nB)scientific investigations are generally flawed.\nC)scientists may interpret data differently.\nD)scientific laws change often.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "scientists believe experiments should be repeated.",
+    "scientific investigations are generally flawed.",
+    "scientists may interpret data differently.",
+    "scientific laws change often."
+  ]
+}

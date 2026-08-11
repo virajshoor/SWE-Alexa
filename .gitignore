@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+artifacts/amazon_storage.json
+artifacts/amazon_storage*.json
+artifacts/probe/*.html
+results/**/screenshots/
+*.png
+!docs/*.png
+!docs/*.jpg
+.DS_Store
+.dotenv
+.env

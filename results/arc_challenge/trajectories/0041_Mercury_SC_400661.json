@@ -1,0 +1,23 @@
+{
+  "idx": 41,
+  "record_id": "Mercury_SC_400661",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "to collect acorns and bury them in the soil.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In a forest ecosystem, the niche of a squirrel population is A)to recycle nutrients in the soil. B)to pollinate flowers. C)to decompose. D)to collect acorns and bury them in the soil. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In a forest ecosystem, the niche of a squirrel population is\nA)to recycle nutrients in the soil.\nB)to pollinate flowers.\nC)to decompose.\nD)to collect acorns and bury them in the soil.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "to recycle nutrients in the soil.",
+    "to pollinate flowers.",
+    "to decompose.",
+    "to collect acorns and bury them in the soil."
+  ]
+}

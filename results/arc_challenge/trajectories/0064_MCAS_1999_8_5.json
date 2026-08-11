@@ -1,0 +1,23 @@
+{
+  "idx": 64,
+  "record_id": "MCAS_1999_8_5",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "wheels and axles.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The suspension system of a truck includes the A)brakes and muffler. B)engine and carburetor. C)wheels and axles. D)steering wheel and speedometer. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The suspension system of a truck includes the\nA)brakes and muffler.\nB)engine and carburetor.\nC)wheels and axles.\nD)steering wheel and speedometer.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "brakes and muffler.",
+    "engine and carburetor.",
+    "wheels and axles.",
+    "steering wheel and speedometer."
+  ]
+}

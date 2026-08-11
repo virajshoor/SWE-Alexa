@@ -1,0 +1,20 @@
+{
+  "idx": 30,
+  "record_id": "recDj2Y2BbtV02Wv5",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:toluene is treated with nitric acid and sulfuric acid, forming product 1. 1 is treated with MnO2 and H2SO4, forming product 2. 2 is treated with acetone and aqueous sodium hydroxide, forming product 3. what is the molecular symmetry group of 3? A)d2h B)cs C)c3 D)c2h ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:toluene is treated with nitric acid and sulfuric acid, forming product 1. 1 is treated with MnO2 and H2SO4, forming product 2. 2 is treated with acetone and aqueous sodium hydroxide, forming product 3. what is the molecular symmetry group of 3?\nA)d2h\nB)cs\nC)c3\nD)c2h\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "d2h",
+    "cs",
+    "c3",
+    "c2h"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

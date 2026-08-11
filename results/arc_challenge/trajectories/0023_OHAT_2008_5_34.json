@@ -1,0 +1,23 @@
+{
+  "idx": 23,
+  "record_id": "OHAT_2008_5_34",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Decomposers break down dead plants and animals.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the role of decomposers in a food web? A)Decomposers are a food source for plants. B)Decomposers break down dead plants and animals. C)Decomposers use sunlight to make food. D)Decomposers only eat plants that grow underground. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the role of decomposers in a food web?\nA)Decomposers are a food source for plants.\nB)Decomposers break down dead plants and animals.\nC)Decomposers use sunlight to make food.\nD)Decomposers only eat plants that grow underground.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Decomposers are a food source for plants.",
+    "Decomposers break down dead plants and animals.",
+    "Decomposers use sunlight to make food.",
+    "Decomposers only eat plants that grow underground."
+  ]
+}

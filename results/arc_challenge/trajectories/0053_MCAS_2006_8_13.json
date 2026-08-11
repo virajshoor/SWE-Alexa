@@ -1,0 +1,23 @@
+{
+  "idx": 53,
+  "record_id": "MCAS_2006_8_13",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "It interrupts the life cycles of pests.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:From year to year, farmers rotate different crops in the fields to improve soil nutrients. Why is crop rotation also an effective pest management method? A)It interrupts the life cycles of pests. B)It allows pests to overpopulate. C)It creates crops that are pest-resistant. D)It allows chemicals to kill more pests. ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:From year to year, farmers rotate different crops in the fields to improve soil nutrients. Why is crop rotation also an effective pest management method?\nA)It interrupts the life cycles of pests.\nB)It allows pests to overpopulate.\nC)It creates crops that are pest-resistant.\nD)It allows chemicals to kill more pests.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "It interrupts the life cycles of pests.",
+    "It allows pests to overpopulate.",
+    "It creates crops that are pest-resistant.",
+    "It allows chemicals to kill more pests."
+  ]
+}

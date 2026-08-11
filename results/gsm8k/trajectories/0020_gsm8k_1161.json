@@ -1,0 +1,18 @@
+{
+  "idx": 20,
+  "record_id": "gsm8k_1161",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "170",
+  "predicted_answer": "140",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Abraham owns 80 square meters of unused land. He sold half of the land for $50, and after a month, he sold another 1/4 of his land for $30. He then sold the remaining land for $3 per square meter. How much money will he be able to earn after selling all his unused land? ANSWER:\n$140\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Abraham owns 80 square meters of unused land. He sold half of the land for $50, and after a month, he sold another 1/4 of his land for $30. He then sold the remaining land for $3 per square meter. How much money will he be able to earn after selling all his unused land?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

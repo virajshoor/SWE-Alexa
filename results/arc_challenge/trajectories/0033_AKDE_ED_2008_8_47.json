@@ -1,0 +1,23 @@
+{
+  "idx": 33,
+  "record_id": "AKDE&ED_2008_8_47",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "deposition of material in the stream",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:As stream velocity decreases, which factor will likely increase? A)size of the particles carried downstream B)amount of material carried downstream C)deposition of material in the stream D)erosion of the stream bank ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:As stream velocity decreases, which factor will likely increase?\nA)size of the particles carried downstream\nB)amount of material carried downstream\nC)deposition of material in the stream\nD)erosion of the stream bank\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "size of the particles carried downstream",
+    "amount of material carried downstream",
+    "deposition of material in the stream",
+    "erosion of the stream bank"
+  ]
+}

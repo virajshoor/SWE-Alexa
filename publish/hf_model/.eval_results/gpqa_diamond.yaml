@@ -1,0 +1,16 @@
+- dataset:
+    id: Idavidrein/gpqa
+    task_id: gpqa_diamond_webui_alexa_rufus_1
+  value: 38.38
+  measure: accuracy
+  sampled_n: 198
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    interface: amazon.com Alexa for Shopping (Rufus) web UI
+    notes: Full GPQA Diamond (198). Unofficial third-party web-UI eval; not Amazon official.
+    n_correct: 76
+    n_ok_replies: 198

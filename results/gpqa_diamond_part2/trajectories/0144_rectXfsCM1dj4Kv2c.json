@@ -1,0 +1,20 @@
+{
+  "idx": 144,
+  "record_id": "rectXfsCM1dj4Kv2c",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How many stereoisomers are there for the compound 6-chloro-9-ethyl-2-methylundeca-3,7-dien-5-ol? A)32 B)16 C)8 D)4 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How many stereoisomers are there for the compound 6-chloro-9-ethyl-2-methylundeca-3,7-dien-5-ol?\nA)32\nB)16\nC)8\nD)4\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "32",
+    "16",
+    "8",
+    "4"
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}

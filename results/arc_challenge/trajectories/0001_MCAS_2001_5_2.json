@@ -1,0 +1,23 @@
+{
+  "idx": 1,
+  "record_id": "MCAS_2001_5_2",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "what the bird inherited from its parents",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Birds come in a variety of colors, shapes, and sizes. Which usually determines the color, shape, and size of a bird? A)the type of food the bird eats B)the bird's migratory patterns C)the time of year it was born D)what the bird inherited from its parents ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Birds come in a variety of colors, shapes, and sizes. Which usually determines the color, shape, and size of a bird?\nA)the type of food the bird eats\nB)the bird's migratory patterns\nC)the time of year it was born\nD)what the bird inherited from its parents\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the type of food the bird eats",
+    "the bird's migratory patterns",
+    "the time of year it was born",
+    "what the bird inherited from its parents"
+  ]
+}

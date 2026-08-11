@@ -1,0 +1,23 @@
+{
+  "idx": 3,
+  "record_id": "shop_21",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Shelf-stable household groceries",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Amazon Pantry-style grocery boxes historically focused on: A)Only airline miles B)Shelf-stable household groceries C)Only live animals D)Only real estate listings ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Amazon Pantry-style grocery boxes historically focused on:\nA)Only airline miles\nB)Shelf-stable household groceries\nC)Only live animals\nD)Only real estate listings\nANSWER:",
+  "domain": "grocery",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Only airline miles",
+    "Shelf-stable household groceries",
+    "Only live animals",
+    "Only real estate listings"
+  ]
+}

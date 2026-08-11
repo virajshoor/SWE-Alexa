@@ -1,0 +1,18 @@
+{
+  "idx": 19,
+  "record_id": "simpleqa_672",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "10,423",
+  "predicted_answer": "10,423",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:As of the 2020 census, what was the population of the city of Fort Oglethorpe, which is in the U.S. state of Georgia? ANSWER:\n10,423\nInformed by Census Bureau QuickFacts, Census Bureau QuickFacts, wikipedia.org, Census Bureau QuickFacts, Census Bureau QuickFacts\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:As of the 2020 census, what was the population of the city of Fort Oglethorpe, which is in the U.S. state of Georgia?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

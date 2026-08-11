@@ -1,0 +1,20 @@
+{
+  "idx": 10,
+  "record_id": "rec4L69T0Y1AS4AFS",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:All the following statements about the molecular biology of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS\u2011CoV\u20112) are correct except A)The rate of frameshifting in vitro is linearly correlated with the \u2026 B)SARS-CoV-2 ORF3a has the ability to trigger caspase-8 activation/cl\u2026 C)Programmed ribosomal frameshifting creates two polyproteins near to\u2026 D)SARS-CoV-2 nsp10/nsp14-ExoN operates as heterodimers in a mismatch \u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:All the following statements about the molecular biology of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS\u2011CoV\u20112) are correct except\nA)The rate of frameshifting in vitro is linearly correlated with the \u2026\nB)SARS-CoV-2 ORF3a has the ability to trigger caspase-8 activation/cl\u2026\nC)Programmed ribosomal frameshifting creates two polyproteins near to\u2026\nD)SARS-CoV-2 nsp10/nsp14-ExoN operates as heterodimers in a mismatch \u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "The rate of frameshifting in vitro is linearly correlated with the number of conformations that a pseudoknot can adopt. Both SARS-CoV and SARS-CoV-2 Programmed -1 Frameshift Signals show two conformations when under tension, similar to other pseudoknots that induce comparable frameshifting rates. ",
+    "SARS-CoV-2 ORF3a has the ability to trigger caspase-8 activation/cleavage, without affecting the expression levels of Bcl-2. Caspase-8 activation is recognized as a characteristic feature of the extrinsic apoptotic pathway via death receptors, while Bcl-2 plays a crucial role in initiating the mitochondrial pathway. This suggests that the mechanism through which SARS-CoV-2 ORF3a induces apoptosis is via the extrinsic apoptotic pathway.\n",
+    "Programmed ribosomal frameshifting creates two polyproteins near to 5` end of the genome by moving back by 1 nucleotide with the help of slippery nucleotides, and pseudoknot. The SARS-CoV-2 programmed ribosomal frameshifting mostly has the same conformation as the SARS-CoV programmed ribosomal frameshifting.",
+    "SARS-CoV-2 nsp10/nsp14-ExoN operates as heterodimers in a mismatch repair mechanism. The N-terminal ExoN domain of nsp14 could bind to nsp10 making an active exonuclease complex that prevents the breakdown of dsRNA. "
+  ],
+  "model_name_or_path": "Alexa-Rufus-1"
+}
