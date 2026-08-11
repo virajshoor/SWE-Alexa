@@ -1,0 +1,23 @@
+{
+  "idx": 25,
+  "record_id": "MCAS_2000_4_34",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "The trees would reduce the force of the wind.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A wind farm contains a large number of windmills to generate electricity. Which is the BEST reason wind farms are not located near forests? A)The trees would reduce the force of the wind. B)The windmills would destroy the forests. C)Forest animals would destroy the windmills. D)The electricity generated would be too far away from cities to be useful. ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A wind farm contains a large number of windmills to generate electricity. Which is the BEST reason wind farms are not located near forests?\nA)The trees would reduce the force of the wind.\nB)The windmills would destroy the forests.\nC)Forest animals would destroy the windmills.\nD)The electricity generated would be too far away from cities to be useful.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The trees would reduce the force of the wind.",
+    "The windmills would destroy the forests.",
+    "Forest animals would destroy the windmills.",
+    "The electricity generated would be too far away from cities to be useful."
+  ]
+}

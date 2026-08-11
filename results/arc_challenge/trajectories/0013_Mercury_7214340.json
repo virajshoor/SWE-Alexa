@@ -1,0 +1,23 @@
+{
+  "idx": 13,
+  "record_id": "Mercury_7214340",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "elevation",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two cities are located only 50 kilometers apart and yet the cities have different climates. Which of these factors is the most likely cause of this difference in climate? A)elevation B)latitude C)population D)longitude ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two cities are located only 50 kilometers apart and yet the cities have different climates. Which of these factors is the most likely cause of this difference in climate?\nA)elevation\nB)latitude\nC)population\nD)longitude\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "elevation",
+    "latitude",
+    "population",
+    "longitude"
+  ]
+}

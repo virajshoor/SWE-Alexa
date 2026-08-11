@@ -8,6 +8,13 @@
       "accuracy": 0.8125,
       "n_ok_replies": 80,
       "out": "results/mmlu_pro"
+    },
+    "arc_challenge": {
+      "n_instances": 80,
+      "n_correct": 76,
+      "accuracy": 0.95,
+      "n_ok_replies": 80,
+      "out": "results/arc_challenge"
     }
   },
   "order": [

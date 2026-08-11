@@ -1,0 +1,23 @@
+{
+  "idx": 54,
+  "record_id": "Mercury_7027720",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "attach small weights to it.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student has built a model in which sheets of cork floating in a tub of water represent tectonic plates. To make the sheet representing an ocean plate more accurate in the model system, the student should A)cut it into a smaller shape. B)replace it with a thin sheet of copper. C)cut several holes in it. D)attach small weights to it. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student has built a model in which sheets of cork floating in a tub of water represent tectonic plates. To make the sheet representing an ocean plate more accurate in the model system, the student should\nA)cut it into a smaller shape.\nB)replace it with a thin sheet of copper.\nC)cut several holes in it.\nD)attach small weights to it.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "cut it into a smaller shape.",
+    "replace it with a thin sheet of copper.",
+    "cut several holes in it.",
+    "attach small weights to it."
+  ]
+}

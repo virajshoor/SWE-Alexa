@@ -1,0 +1,23 @@
+{
+  "idx": 17,
+  "record_id": "Mercury_SC_LBS10392",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "a bird building its nest in a water tower",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following is most likely an adaptation that resulted from habitat destruction? A)a lizard shedding its skin B)a rabbit's fur turning white in the winter C)a bird building its nest in a water tower D)a salmon swimming upstream ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following is most likely an adaptation that resulted from habitat destruction?\nA)a lizard shedding its skin\nB)a rabbit's fur turning white in the winter\nC)a bird building its nest in a water tower\nD)a salmon swimming upstream\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a lizard shedding its skin",
+    "a rabbit's fur turning white in the winter",
+    "a bird building its nest in a water tower",
+    "a salmon swimming upstream"
+  ]
+}

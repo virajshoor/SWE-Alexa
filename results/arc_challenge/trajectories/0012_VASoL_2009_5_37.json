@@ -1,0 +1,23 @@
+{
+  "idx": 12,
+  "record_id": "VASoL_2009_5_37",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Record daily information in a data table.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A group of students tested the effects of different amounts of water on ivy plant growth. Afterwards, they could not remember how much each plant grew per day. What should they have done to practice good science? A)Discuss their observations with other groups in their class. B)Make up explanations for the results. C)Record daily information in a data table. D)Conduct the experiment with more than one type of plant. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A group of students tested the effects of different amounts of water on ivy plant growth. Afterwards, they could not remember how much each plant grew per day. What should they have done to practice good science?\nA)Discuss their observations with other groups in their class.\nB)Make up explanations for the results.\nC)Record daily information in a data table.\nD)Conduct the experiment with more than one type of plant.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Discuss their observations with other groups in their class.",
+    "Make up explanations for the results.",
+    "Record daily information in a data table.",
+    "Conduct the experiment with more than one type of plant."
+  ]
+}

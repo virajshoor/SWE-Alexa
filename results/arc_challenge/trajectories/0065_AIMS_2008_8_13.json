@@ -1,0 +1,23 @@
+{
+  "idx": 65,
+  "record_id": "AIMS_2008_8_13",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "baking soda (pH 8-9)",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which substance would most neutralize an acidic food? A)baking soda (pH 8-9) B)dairy(pH 5-7) C)citrus fruit (pH 2-3) D)water (pH 6-7) ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which substance would most neutralize an acidic food?\nA)baking soda (pH 8-9)\nB)dairy(pH 5-7)\nC)citrus fruit (pH 2-3)\nD)water (pH 6-7)\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "baking soda (pH 8-9)",
+    "dairy(pH 5-7)",
+    "citrus fruit (pH 2-3)",
+    "water (pH 6-7)"
+  ]
+}

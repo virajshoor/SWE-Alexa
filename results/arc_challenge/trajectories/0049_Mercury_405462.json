@@ -1,0 +1,23 @@
+{
+  "idx": 49,
+  "record_id": "Mercury_405462",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "accurate records that show that the data are consistent",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A scientist claims that he made a discovery in the lab. What does the scientist need to have in order to prove that the discovery is valid? A)accurate records that show that the data are consistent B)diagrams showing the steps used in the discovery C)documents showing that the scientist is well known D)proof that the equipment used in the discovery is of high quality ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A scientist claims that he made a discovery in the lab. What does the scientist need to have in order to prove that the discovery is valid?\nA)accurate records that show that the data are consistent\nB)diagrams showing the steps used in the discovery\nC)documents showing that the scientist is well known\nD)proof that the equipment used in the discovery is of high quality\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "accurate records that show that the data are consistent",
+    "diagrams showing the steps used in the discovery",
+    "documents showing that the scientist is well known",
+    "proof that the equipment used in the discovery is of high quality"
+  ]
+}

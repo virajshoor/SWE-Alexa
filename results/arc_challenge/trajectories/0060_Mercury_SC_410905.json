@@ -1,0 +1,23 @@
+{
+  "idx": 60,
+  "record_id": "Mercury_SC_410905",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "to make sure the results are valid",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Derek hypothesizes that a potted fern in a closed container will stay healthier than the same type of plant on an open windowsill. At the conclusion of his investigation, Derek finds that his results support his hypothesis. Which best explains why Derek should repeat the investigation? A)to prove the investigation is \u2026 B)to be able to start another in\u2026 C)to make sure the results are v\u2026 D)to learn why the hypothesis is\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Derek hypothesizes that a potted fern in a closed container will stay healthier than the same type of plant on an open windowsill. At the conclusion of his investigation, Derek finds that his results support his hypothesis. Which best explains why Derek should repeat the investigation?\nA)to prove the investigation is \u2026\nB)to be able to start another in\u2026\nC)to make sure the results are v\u2026\nD)to learn why the hypothesis is\u2026\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "to prove the investigation is important",
+    "to be able to start another investigation",
+    "to make sure the results are valid",
+    "to learn why the hypothesis is correct"
+  ]
+}

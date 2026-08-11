@@ -1,0 +1,23 @@
+{
+  "idx": 26,
+  "record_id": "Mercury_7154315",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "using compost as a fertilizer for lawns and gardens",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The waters off the Florida Keys are being polluted. This pollution affects the numerous marine ecosystems found in the Keys. Which action could most likely reduce water pollution? A)using compost as a fertilizer for lawns and gardens B)using water from washing machines to water lawns C)using cars that are designed to use petroleum products D)using more plastic bottles and disposing them in landfills ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The waters off the Florida Keys are being polluted. This pollution affects the numerous marine ecosystems found in the Keys. Which action could most likely reduce water pollution?\nA)using compost as a fertilizer for lawns and gardens\nB)using water from washing machines to water lawns\nC)using cars that are designed to use petroleum products\nD)using more plastic bottles and disposing them in landfills\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "using compost as a fertilizer for lawns and gardens",
+    "using water from washing machines to water lawns",
+    "using cars that are designed to use petroleum products",
+    "using more plastic bottles and disposing them in landfills"
+  ]
+}

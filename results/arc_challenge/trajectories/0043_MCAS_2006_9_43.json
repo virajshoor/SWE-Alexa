@@ -1,0 +1,23 @@
+{
+  "idx": 43,
+  "record_id": "MCAS_2006_9_43",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "6.0 kg x m/s",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A pitcher throws a 0.15 kg baseball at 43 40 m/s towards the catcher. What is the momentum of the baseball while moving at 40 m/s? A)270 kg x m/s B)3.8 kg x m/s C)6.0 kg x m/s D)0.025 kg x m/s ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A pitcher throws a 0.15 kg baseball at 43 40 m/s towards the catcher. What is the momentum of the baseball while moving at 40 m/s?\nA)270 kg x m/s\nB)3.8 kg x m/s\nC)6.0 kg x m/s\nD)0.025 kg x m/s\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "270 kg x m/s",
+    "3.8 kg x m/s",
+    "6.0 kg x m/s",
+    "0.025 kg x m/s"
+  ]
+}

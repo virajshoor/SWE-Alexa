@@ -1,0 +1,23 @@
+{
+  "idx": 35,
+  "record_id": "Mercury_401684",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "begging for food",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which characteristic of a dog is most likely learned from its environment? A)keen eyesight B)ability to run fast C)swimming in water D)begging for food ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which characteristic of a dog is most likely learned from its environment?\nA)keen eyesight\nB)ability to run fast\nC)swimming in water\nD)begging for food\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "keen eyesight",
+    "ability to run fast",
+    "swimming in water",
+    "begging for food"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 15,
+  "record_id": "OHAT_2010_5_18",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "the color of light bulb they use",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A group of students does an experiment to see if different colors of light affect the number of flowers a plant produces. Their teacher gives them seeds, pots, soil, water, and three light bulbs of different colors. The students decide to divide the materials equally. What should be different for each group of plants? A)the color of light bul\u2026 B)the color of the pots \u2026 C)the amount of water th\u2026 D)the type of soil they \u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A group of students does an experiment to see if different colors of light affect the number of flowers a plant produces. Their teacher gives them seeds, pots, soil, water, and three light bulbs of different colors. The students decide to divide the materials equally. What should be different for each group of plants?\nA)the color of light bul\u2026\nB)the color of the pots \u2026\nC)the amount of water th\u2026\nD)the type of soil they \u2026\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the color of light bulb they use",
+    "the color of the pots they use",
+    "the amount of water they use",
+    "the type of soil they use"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 51,
+  "record_id": "NYSEDREGENTS_2008_4_28",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "A white dog has a puppy with white fur.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which statement is an example of an inherited trait in a living thing? A)A child learns to ride a bicycle. B)A white dog has a puppy with white fur. C)A cat has a kitten with a broken leg. D)A person has a scar from a burn. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which statement is an example of an inherited trait in a living thing?\nA)A child learns to ride a bicycle.\nB)A white dog has a puppy with white fur.\nC)A cat has a kitten with a broken leg.\nD)A person has a scar from a burn.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "A child learns to ride a bicycle.",
+    "A white dog has a puppy with white fur.",
+    "A cat has a kitten with a broken leg.",
+    "A person has a scar from a burn."
+  ]
+}

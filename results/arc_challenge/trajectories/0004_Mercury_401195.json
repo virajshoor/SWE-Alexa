@@ -1,0 +1,23 @@
+{
+  "idx": 4,
+  "record_id": "Mercury_401195",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "survival rate",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which characteristic is a trait that is not passed from parent plants to their offspring? A)survival rate B)leaf shape C)flower color D)plant height ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which characteristic is a trait that is not passed from parent plants to their offspring?\nA)survival rate\nB)leaf shape\nC)flower color\nD)plant height\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "survival rate",
+    "leaf shape",
+    "flower color",
+    "plant height"
+  ]
+}

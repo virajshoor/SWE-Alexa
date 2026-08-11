@@ -1,0 +1,23 @@
+{
+  "idx": 76,
+  "record_id": "MCAS_2014_5_13",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "The lungs develop and the tail becomes shorter.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In the life cycle of a frog, which of the following best describes what happens after the tadpole stage? A)The gills develop and the front legs appear. B)The tail grows and the gills disappear. C)The lungs develop and the tail becomes shorter. D)The rear legs grow and the lungs disappear. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In the life cycle of a frog, which of the following best describes what happens after the tadpole stage?\nA)The gills develop and the front legs appear.\nB)The tail grows and the gills disappear.\nC)The lungs develop and the tail becomes shorter.\nD)The rear legs grow and the lungs disappear.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The gills develop and the front legs appear.",
+    "The tail grows and the gills disappear.",
+    "The lungs develop and the tail becomes shorter.",
+    "The rear legs grow and the lungs disappear."
+  ]
+}

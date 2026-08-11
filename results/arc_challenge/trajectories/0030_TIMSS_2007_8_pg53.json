@@ -1,0 +1,23 @@
+{
+  "idx": 30,
+  "record_id": "TIMSS_2007_8_pg53",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "an observation",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Sally placed electrodes into a beaker containing a solution and connected the electrodes to a batter. Part of Sally's report stated \"Bubbles were given off at one of the electrodes.\" The statement is A)a prediction B)a conclusion C)an observation D)a theory ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Sally placed electrodes into a beaker containing a solution and connected the electrodes to a batter. Part of Sally's report stated \"Bubbles were given off at one of the electrodes.\" The statement is\nA)a prediction\nB)a conclusion\nC)an observation\nD)a theory\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a prediction",
+    "a conclusion",
+    "an observation",
+    "a theory"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 19,
+  "record_id": "Mercury_SC_402638",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "folded rock.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The following mountain ranges: the Alps, Appalachians, and Himalayas are formed from A)earthquakes. B)plate tectonics. C)folded rock. D)glacier deposition. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The following mountain ranges: the Alps, Appalachians, and Himalayas are formed from\nA)earthquakes.\nB)plate tectonics.\nC)folded rock.\nD)glacier deposition.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "earthquakes.",
+    "plate tectonics.",
+    "folded rock.",
+    "glacier deposition."
+  ]
+}

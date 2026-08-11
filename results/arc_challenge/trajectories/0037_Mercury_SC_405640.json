@@ -1,0 +1,23 @@
+{
+  "idx": 37,
+  "record_id": "Mercury_SC_405640",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "It ate more food.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Six puppies were born at the same time. After 6 months, one of the puppies was much heavier than the others. Which of the following is the most likely explanation for difference in size of that puppy? A)It drank more water. B)It received more sunlight. C)It ate more food. D)It was more active. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Six puppies were born at the same time. After 6 months, one of the puppies was much heavier than the others. Which of the following is the most likely explanation for difference in size of that puppy?\nA)It drank more water.\nB)It received more sunlight.\nC)It ate more food.\nD)It was more active.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "It drank more water.",
+    "It received more sunlight.",
+    "It ate more food.",
+    "It was more active."
+  ]
+}

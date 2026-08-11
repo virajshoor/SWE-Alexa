@@ -1,0 +1,23 @@
+{
+  "idx": 40,
+  "record_id": "Mercury_7171728",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "16 N",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The weight of an object changes at different locations on Earth. Which is a measurement of weight? A)90\u00b0C B)20 mL C)16 N D)45 m ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The weight of an object changes at different locations on Earth. Which is a measurement of weight?\nA)90\u00b0C\nB)20 mL\nC)16 N\nD)45 m\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "90\u00b0C",
+    "20 mL",
+    "16 N",
+    "45 m"
+  ]
+}

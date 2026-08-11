@@ -1,0 +1,23 @@
+{
+  "idx": 24,
+  "record_id": "Mercury_SC_415457",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct_answer": "biofuel energy",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which alternative energy resource is used most like coal? A)nuclear energy B)geothermal energy C)hydropower D)biofuel energy ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which alternative energy resource is used most like coal?\nA)nuclear energy\nB)geothermal energy\nC)hydropower\nD)biofuel energy\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "nuclear energy",
+    "geothermal energy",
+    "hydropower",
+    "biofuel energy"
+  ]
+}

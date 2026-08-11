@@ -1,0 +1,23 @@
+{
+  "idx": 39,
+  "record_id": "Mercury_SC_LBS10337",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Earth constantly takes in more heat from the Sun.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Since Earth radiates heat into outer space, why is Earth's surface not becoming colder? A)Earth absorbs extra heat from molten lava. B)Earth has forests that provide heat through photosynthesis. C)Earth has oceans that store heat. D)Earth constantly takes in more heat from the Sun. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Since Earth radiates heat into outer space, why is Earth's surface not becoming colder?\nA)Earth absorbs extra heat from molten lava.\nB)Earth has forests that provide heat through photosynthesis.\nC)Earth has oceans that store heat.\nD)Earth constantly takes in more heat from the Sun.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Earth absorbs extra heat from molten lava.",
+    "Earth has forests that provide heat through photosynthesis.",
+    "Earth has oceans that store heat.",
+    "Earth constantly takes in more heat from the Sun."
+  ]
+}

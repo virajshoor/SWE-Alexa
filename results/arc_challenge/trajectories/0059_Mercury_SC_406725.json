@@ -1,0 +1,23 @@
+{
+  "idx": 59,
+  "record_id": "Mercury_SC_406725",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Check the bread each day.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student wants to know how long it takes mold to form on bread. After preparing the bread for the investigation, what should the student most likely do next? A)Measure the weight of the bread. B)Check the bread each day. C)Give the bread different amounts of light. D)Record the temperature of the bread. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student wants to know how long it takes mold to form on bread. After preparing the bread for the investigation, what should the student most likely do next?\nA)Measure the weight of the bread.\nB)Check the bread each day.\nC)Give the bread different amounts of light.\nD)Record the temperature of the bread.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Measure the weight of the bread.",
+    "Check the bread each day.",
+    "Give the bread different amounts of light.",
+    "Record the temperature of the bread."
+  ]
+}

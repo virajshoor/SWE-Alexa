@@ -1,0 +1,23 @@
+{
+  "idx": 3,
+  "record_id": "MCAS_2004_8_7",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "C",
+  "correct_answer": "place D-cell batteries at the center of each bridge until it collapses",
+  "predicted_answer": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Several students are entering a bridge building contest that requires using ice cream sticks and glue to construct the strongest bridge possible. The bridges must be 5 in. wide and span a length of 18 in. Which of the following tests is the most accurate way to determine the strongest span design for these bridges? A)place D-cell batteries\u2026 B)roll toy cars across e\u2026 C)place concrete constru\u2026 D)stack coins on both en\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Several students are entering a bridge building contest that requires using ice cream sticks and glue to construct the strongest bridge possible. The bridges must be 5 in. wide and span a length of 18 in. Which of the following tests is the most accurate way to determine the strongest span design for these bridges?\nA)place D-cell batteries\u2026\nB)roll toy cars across e\u2026\nC)place concrete constru\u2026\nD)stack coins on both en\u2026\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "place D-cell batteries at the center of each bridge until it collapses",
+    "roll toy cars across each bridge until it collapses",
+    "place concrete construction blocks on top of each bridge until it collapses",
+    "stack coins on both ends of each bridge until it collapses"
+  ]
+}

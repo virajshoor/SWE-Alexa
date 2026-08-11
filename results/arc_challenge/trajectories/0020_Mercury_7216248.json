@@ -1,0 +1,23 @@
+{
+  "idx": 20,
+  "record_id": "Mercury_7216248",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "cell membrane, nucleus, mitochondrion",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which structures are common to both plant and animal cells? A)mitochondrion, vacuole, cell wall B)vacuole, chloroplast, nucleus C)cell membrane, nucleus, mitochondrion D)nucleus, cell wall, cell membrane ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which structures are common to both plant and animal cells?\nA)mitochondrion, vacuole, cell wall\nB)vacuole, chloroplast, nucleus\nC)cell membrane, nucleus, mitochondrion\nD)nucleus, cell wall, cell membrane\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "mitochondrion, vacuole, cell wall",
+    "vacuole, chloroplast, nucleus",
+    "cell membrane, nucleus, mitochondrion",
+    "nucleus, cell wall, cell membrane"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 10,
+  "record_id": "Mercury_415081",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "0.5 m/s",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In a rubber duck race, the winning duck traveled 300 meters in 10 minutes. What was the duck's average speed? A)0.5 m/s B)1.0 m/s C)7.5 m/s D)30 m/s ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In a rubber duck race, the winning duck traveled 300 meters in 10 minutes. What was the duck's average speed?\nA)0.5 m/s\nB)1.0 m/s\nC)7.5 m/s\nD)30 m/s\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "0.5 m/s",
+    "1.0 m/s",
+    "7.5 m/s",
+    "30 m/s"
+  ]
+}

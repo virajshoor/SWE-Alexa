@@ -1,0 +1,23 @@
+{
+  "idx": 31,
+  "record_id": "Mercury_417593",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "A mutation caused a beneficial change in the fish.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A fish in a pond has longer protective spines than any other fish of its species. The spines keep the fish safe from predators. The fish has many offspring, which also have long spines. Which statement best describes what happened? A)Longer spines caused a genetic change in the\u2026 B)Longer spines caused a temporary change in t\u2026 C)A mutation caused a harmful change in the fi\u2026 D)A mutation caused a beneficial change in the\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A fish in a pond has longer protective spines than any other fish of its species. The spines keep the fish safe from predators. The fish has many offspring, which also have long spines. Which statement best describes what happened?\nA)Longer spines caused a genetic change in the\u2026\nB)Longer spines caused a temporary change in t\u2026\nC)A mutation caused a harmful change in the fi\u2026\nD)A mutation caused a beneficial change in the\u2026\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Longer spines caused a genetic change in the fish.",
+    "Longer spines caused a temporary change in the fish.",
+    "A mutation caused a harmful change in the fish.",
+    "A mutation caused a beneficial change in the fish."
+  ]
+}

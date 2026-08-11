@@ -1,0 +1,23 @@
+{
+  "idx": 75,
+  "record_id": "Mercury_184730",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "The parents are of a different species, but of the same genus.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two organisms mate and produce offspring. Which of the following statements best explains why the offspring are unable to reproduce? A)The parents are of the same genus and of the same species. B)The parents are of the same species, but of a different genus. C)The parents are of a different genus and a different species. D)The parents are of a different species, but of the same genus. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two organisms mate and produce offspring. Which of the following statements best explains why the offspring are unable to reproduce?\nA)The parents are of the same genus and of the same species.\nB)The parents are of the same species, but of a different genus.\nC)The parents are of a different genus and a different species.\nD)The parents are of a different species, but of the same genus.\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The parents are of the same genus and of the same species.",
+    "The parents are of the same species, but of a different genus.",
+    "The parents are of a different genus and a different species.",
+    "The parents are of a different species, but of the same genus."
+  ]
+}

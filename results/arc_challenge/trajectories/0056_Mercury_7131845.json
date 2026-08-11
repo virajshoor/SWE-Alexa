@@ -1,0 +1,23 @@
+{
+  "idx": 56,
+  "record_id": "Mercury_7131845",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "increase in number of homes built",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Miami Blue butterfly is an endangered species in South Florida. Which factor has most likely caused the population decline of this butterfly? A)decline in the amount of seawater B)increase in number of homes built C)increase in the number of parks D)decline in the amount of predators ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Miami Blue butterfly is an endangered species in South Florida. Which factor has most likely caused the population decline of this butterfly?\nA)decline in the amount of seawater\nB)increase in number of homes built\nC)increase in the number of parks\nD)decline in the amount of predators\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "decline in the amount of seawater",
+    "increase in number of homes built",
+    "increase in the number of parks",
+    "decline in the amount of predators"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 8,
+  "record_id": "ACTAAP_2008_7_4",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "4 times",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student is investigating Newton's second law of motion by changing the force acting on an object and observing its resulting acceleration. If the force on the object were increased four times, by how much would the acceleration increase? A)2 times B)8 times C)4 times D)16 times ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student is investigating Newton's second law of motion by changing the force acting on an object and observing its resulting acceleration. If the force on the object were increased four times, by how much would the acceleration increase?\nA)2 times\nB)8 times\nC)4 times\nD)16 times\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "2 times",
+    "8 times",
+    "4 times",
+    "16 times"
+  ]
+}

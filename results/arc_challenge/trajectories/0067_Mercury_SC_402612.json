@@ -1,0 +1,23 @@
+{
+  "idx": 67,
+  "record_id": "Mercury_SC_402612",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "sort the materials by plastics, papers, and cans",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is most likely the first step for students to do for a recycling project? A)take the materials to a landfill B)dump the materials in a trash bin C)sort the materials by plastics, papers, and cans D)burn the materials in a bonfire ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is most likely the first step for students to do for a recycling project?\nA)take the materials to a landfill\nB)dump the materials in a trash bin\nC)sort the materials by plastics, papers, and cans\nD)burn the materials in a bonfire\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "take the materials to a landfill",
+    "dump the materials in a trash bin",
+    "sort the materials by plastics, papers, and cans",
+    "burn the materials in a bonfire"
+  ]
+}

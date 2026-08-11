@@ -1,0 +1,23 @@
+{
+  "idx": 79,
+  "record_id": "Mercury_7033845",
+  "benchmark": "arc_challenge",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "wind produces less pollution than fossil fuels",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which is the most likely reason that using energy generated from wind is better for air quality than burning fossil fuels? A)the equipment for harnessing wind is inexpensive B)wind produces less pollution than fossil fuels C)energy from wind power is easy to store D)wind is more efficient than fossil fuels ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which is the most likely reason that using energy generated from wind is better for air quality than burning fossil fuels?\nA)the equipment for harnessing wind is inexpensive\nB)wind produces less pollution than fossil fuels\nC)energy from wind power is easy to store\nD)wind is more efficient than fossil fuels\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the equipment for harnessing wind is inexpensive",
+    "wind produces less pollution than fossil fuels",
+    "energy from wind power is easy to store",
+    "wind is more efficient than fossil fuels"
+  ]
+}
