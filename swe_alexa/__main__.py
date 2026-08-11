@@ -14,6 +14,8 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from swe_alexa import SYSTEM_NAME
+from swe_alexa.bench import run_benchmark, run_suite
+from swe_alexa.bench_data import DEFAULT_LIMITS, SUITE_ORDER
 from swe_alexa.evaluate import grade
 from swe_alexa.gpqa import run_gpqa
 from swe_alexa.runner import bootstrap_session, run_parallel
@@ -56,6 +58,17 @@ def main() -> None:
     q.add_argument("--seed", type=int, default=0)
     q.add_argument("--headed", action="store_true")
 
+    nb = sub.add_parser("bench", help="Run a non-code benchmark (MMLU-Pro, ARC, ...)")
+    nb.add_argument("name", nargs="?", default=None, help="Benchmark name or 'suite'")
+    nb.add_argument("--limit", type=int, default=None)
+    nb.add_argument("--workers", type=int, default=2)
+    nb.add_argument("--wait", type=float, default=50.0)
+    nb.add_argument("--out", default=None)
+    nb.add_argument("--storage", default="artifacts/amazon_storage.json")
+    nb.add_argument("--seed", type=int, default=0)
+    nb.add_argument("--headed", action="store_true")
+    nb.add_argument("--list", action="store_true")
+
     args = p.parse_args()
     if args.cmd == "bootstrap":
         info = bootstrap_session(args.storage, headless=not args.headed)
@@ -92,6 +105,35 @@ def main() -> None:
             storage_state=args.storage,
             seed=args.seed,
         )
+        print(json.dumps(summary, indent=2))
+        return
+    if args.cmd == "bench":
+        if args.list or args.name is None:
+            print(json.dumps({"order": SUITE_ORDER, "limits": DEFAULT_LIMITS}, indent=2))
+            if args.name is None and not args.list:
+                return
+            if args.list:
+                return
+        if args.name == "suite":
+            summary = run_suite(
+                workers=args.workers,
+                wait_s=args.wait,
+                headless=not args.headed,
+                storage_state=args.storage,
+                seed=args.seed,
+                out_root="results",
+            )
+        else:
+            summary = run_benchmark(
+                args.name,
+                limit=args.limit,
+                workers=args.workers,
+                headless=not args.headed,
+                wait_s=args.wait,
+                out_dir=args.out or f"results/{args.name}",
+                storage_state=args.storage,
+                seed=args.seed,
+            )
         print(json.dumps(summary, indent=2))
         return
 

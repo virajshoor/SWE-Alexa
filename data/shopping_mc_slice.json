@@ -1,0 +1,642 @@
+[
+  {
+    "record_id": "shop_0",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What does Amazon Prime typically include for eligible items in the US?",
+    "choices": [
+      "Free gasoline",
+      "Fast free shipping and Prime Video access",
+      "Only bookstore discounts",
+      "Unlimited grocery robots"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Fast free shipping and Prime Video access",
+    "domain": "prime",
+    "idx": 0
+  },
+  {
+    "record_id": "shop_27",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Two-day delivery estimates depend most on:",
+    "choices": [
+      "Address, stock, and membership/fulfillment",
+      "Your browser theme color",
+      "Desktop wallpaper",
+      "Phone case pattern"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Address, stock, and membership/fulfillment",
+    "domain": "delivery",
+    "idx": 1
+  },
+  {
+    "record_id": "shop_12",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is 'Buy Now' intended to do?",
+    "choices": [
+      "Erase your cart history",
+      "Open a bank account",
+      "Start checkout quickly for that item",
+      "Create a storefront"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Start checkout quickly for that item",
+    "domain": "buynow",
+    "idx": 2
+  },
+  {
+    "record_id": "shop_21",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Amazon Pantry-style grocery boxes historically focused on:",
+    "choices": [
+      "Only airline miles",
+      "Shelf-stable household groceries",
+      "Only live animals",
+      "Only real estate listings"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Shelf-stable household groceries",
+    "domain": "grocery",
+    "idx": 3
+  },
+  {
+    "record_id": "shop_29",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Best practice before buying electronics:",
+    "choices": [
+      "Skip return windows always",
+      "Ignore voltage and plugs",
+      "Only read the ad headline",
+      "Check specs, compatibility, and reviews"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Check specs, compatibility, and reviews",
+    "domain": "electronics",
+    "idx": 4
+  },
+  {
+    "record_id": "shop_15",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Amazon Fresh is mainly about:",
+    "choices": [
+      "Only used textbooks",
+      "Only concert tickets",
+      "Grocery and perishable delivery",
+      "Only industrial steel"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Grocery and perishable delivery",
+    "domain": "fresh",
+    "idx": 5
+  },
+  {
+    "record_id": "shop_38",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is the main purpose of product photos?",
+    "choices": [
+      "Show appearance and details to shoppers",
+      "Replace customer service chats",
+      "Set income tax brackets",
+      "Train delivery drones only"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Show appearance and details to shoppers",
+    "domain": "photos",
+    "idx": 6
+  },
+  {
+    "record_id": "shop_34",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "If you need a last-minute birthday gift under $25, you should prioritize:",
+    "choices": [
+      "Untrackable freight pallets",
+      "Items with 3-month shipping only",
+      "Out-of-stock collectibles only",
+      "In-stock items with fast delivery"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "In-stock items with fast delivery",
+    "domain": "gifting",
+    "idx": 7
+  },
+  {
+    "record_id": "shop_1",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "On Amazon product pages, what do customer star ratings mainly reflect?",
+    "choices": [
+      "Warehouse employee scores",
+      "Shipping truck speed only",
+      "Buyer reviews of the product",
+      "Seller credit scores"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Buyer reviews of the product",
+    "domain": "reviews",
+    "idx": 8
+  },
+  {
+    "record_id": "shop_20",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What should you check before buying apparel online?",
+    "choices": [
+      "Size chart and return policy",
+      "Only the warehouse ZIP",
+      "Driver license barcode",
+      "Seller shoe size"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Size chart and return policy",
+    "domain": "apparel",
+    "idx": 9
+  },
+  {
+    "record_id": "shop_7",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is a wishlist on Amazon for?",
+    "choices": [
+      "Booking airline seats",
+      "Saving items you may want later or share",
+      "Filing tax returns",
+      "Deleting seller accounts"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Saving items you may want later or share",
+    "domain": "wishlist",
+    "idx": 10
+  },
+  {
+    "record_id": "shop_5",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What does 'Fulfilled by Amazon' often indicate?",
+    "choices": [
+      "Item is a digital NFT",
+      "Product is free forever",
+      "Amazon stores and ships the item",
+      "Seller must hand-deliver same hour"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Amazon stores and ships the item",
+    "domain": "fba",
+    "idx": 11
+  },
+  {
+    "record_id": "shop_10",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which is the best first step to track a package?",
+    "choices": [
+      "Buy a new router always",
+      "Check Order Details / tracking link",
+      "Ignore delivery emails",
+      "Reinstall the OS"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Check Order Details / tracking link",
+    "domain": "tracking",
+    "idx": 12
+  },
+  {
+    "record_id": "shop_13",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "ASIN on Amazon refers to:",
+    "choices": [
+      "A shipping truck model",
+      "A unique product identifier",
+      "A warehouse city code only",
+      "A Prime movie genre"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "A unique product identifier",
+    "domain": "asin",
+    "idx": 13
+  },
+  {
+    "record_id": "shop_14",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which item is most likely a consumable for Subscribe & Save?",
+    "choices": [
+      "A single house deed",
+      "A one-of-a-kind painting always",
+      "Coffee pods or paper towels",
+      "A live concert ticket only"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Coffee pods or paper towels",
+    "domain": "consumable",
+    "idx": 14
+  },
+  {
+    "record_id": "shop_37",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A high return rate on apparel often relates to:",
+    "choices": [
+      "Sizing and fit uncertainty",
+      "ASIN being too short",
+      "Cart button color",
+      "Wishlist icons"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Sizing and fit uncertainty",
+    "domain": "apparel",
+    "idx": 15
+  },
+  {
+    "record_id": "shop_22",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A 'climate pledge friendly' badge relates to:",
+    "choices": [
+      "Sustainability / climate certifications",
+      "Larger pizza toppings",
+      "Faster GPU clocks",
+      "Free concert tickets"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Sustainability / climate certifications",
+    "domain": "sustainability",
+    "idx": 16
+  },
+  {
+    "record_id": "shop_39",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "If Alexa helps while shopping, a typical useful ask is:",
+    "choices": [
+      "Rewrite a GitHub PR diff",
+      "Compile a Linux kernel patch",
+      "Prove P=NP",
+      "Compare options or find gifts in a budget"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Compare options or find gifts in a budget",
+    "domain": "rufus",
+    "idx": 17
+  },
+  {
+    "record_id": "shop_23",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "If a listing says 'Used - Like New', condition is:",
+    "choices": [
+      "Digital download only",
+      "Pre-owned but described as nearly new",
+      "Broken for parts only",
+      "Brand-new sealed factory only"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Pre-owned but described as nearly new",
+    "domain": "condition",
+    "idx": 18
+  },
+  {
+    "record_id": "shop_17",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A 'Lightning Deal' is typically:",
+    "choices": [
+      "A permanent list price forever",
+      "A tax form",
+      "A time-limited discounted offer",
+      "A return label only"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "A time-limited discounted offer",
+    "domain": "deals",
+    "idx": 19
+  },
+  {
+    "record_id": "shop_8",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "If an item shows 'In Stock', it usually means:",
+    "choices": [
+      "It is discontinued forever",
+      "It requires a prescription always",
+      "It is available to purchase now",
+      "It can only be rented"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "It is available to purchase now",
+    "domain": "stock",
+    "idx": 20
+  },
+  {
+    "record_id": "shop_35",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Amazon Pharmacy is related to:",
+    "choices": [
+      "Only video games",
+      "Only lawn tractors",
+      "Prescription and health-care products",
+      "Only concert venues"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Prescription and health-care products",
+    "domain": "pharmacy",
+    "idx": 21
+  },
+  {
+    "record_id": "shop_3",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is Amazon's 'Subscribe & Save' mainly for?",
+    "choices": [
+      "One-time flash auctions",
+      "Selling used cars only",
+      "Canceling Prime forever",
+      "Recurring deliveries of consumable items"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Recurring deliveries of consumable items",
+    "domain": "subscribe",
+    "idx": 22
+  },
+  {
+    "record_id": "shop_33",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A 'bundle' listing usually means:",
+    "choices": [
+      "A single broken spare part",
+      "A canceled order only",
+      "An empty category",
+      "Multiple items sold together"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Multiple items sold together",
+    "domain": "bundle",
+    "idx": 23
+  },
+  {
+    "record_id": "shop_9",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Amazon Returns typically start from:",
+    "choices": [
+      "Calling a radio station",
+      "Your orders page / returns center",
+      "Postal lottery",
+      "Social media comments only"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Your orders page / returns center",
+    "domain": "returns",
+    "idx": 24
+  },
+  {
+    "record_id": "shop_4",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which category is most related to buying a laptop?",
+    "choices": [
+      "Electronics / Computers",
+      "Fresh produce only",
+      "Pet grooming only",
+      "Lawn soil only"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Electronics / Computers",
+    "domain": "category",
+    "idx": 25
+  },
+  {
+    "record_id": "shop_36",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Comparing 'similar items' widgets helps you:",
+    "choices": [
+      "Delete order history forever",
+      "Change your legal name",
+      "Discover alternatives and price options",
+      "Reset your password"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Discover alternatives and price options",
+    "domain": "compare",
+    "idx": 26
+  },
+  {
+    "record_id": "shop_6",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A gift card for Amazon is primarily used to:",
+    "choices": [
+      "Pay for eligible Amazon purchases",
+      "Pay property taxes",
+      "Replace a passport",
+      "Unlock phone SIM cards"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Pay for eligible Amazon purchases",
+    "domain": "giftcard",
+    "idx": 27
+  },
+  {
+    "record_id": "shop_28",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A product 'variation' (size/color) means:",
+    "choices": [
+      "Different options of the same parent item",
+      "A tax category only",
+      "A different website domain",
+      "A returned empty box"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Different options of the same parent item",
+    "domain": "variation",
+    "idx": 28
+  },
+  {
+    "record_id": "shop_18",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Customer Q&A on a product page is mainly for:",
+    "choices": [
+      "Changing warehouse robots",
+      "Shopper questions about the product",
+      "Filing lawsuits",
+      "Setting national interest rates"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Shopper questions about the product",
+    "domain": "qa",
+    "idx": 29
+  },
+  {
+    "record_id": "shop_11",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "A product filter for '4 Stars & Up' mainly keeps:",
+    "choices": [
+      "Only damaged goods",
+      "Higher-rated items",
+      "Only free samples",
+      "Only books from 1800"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Higher-rated items",
+    "domain": "filters",
+    "idx": 30
+  },
+  {
+    "record_id": "shop_30",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is a seller 'feedback' score mainly about?",
+    "choices": [
+      "Buyer ratings of seller transactions",
+      "UPS truck paint color",
+      "Warehouse temperature",
+      "Prime Video ratings only"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Buyer ratings of seller transactions",
+    "domain": "seller",
+    "idx": 31
+  },
+  {
+    "record_id": "shop_19",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which accessory commonly pairs with a DSLR camera purchase?",
+    "choices": [
+      "Garden hose nozzle",
+      "Oven mitt set only",
+      "Memory card / extra battery",
+      "Cat litter only"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Memory card / extra battery",
+    "domain": "attach",
+    "idx": 32
+  },
+  {
+    "record_id": "shop_25",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which is a sensible gift for a new coffee drinker?",
+    "choices": [
+      "A snowmobile track only",
+      "A coffee maker or bean grinder",
+      "A single unlabeled key",
+      "Industrial rebar"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "A coffee maker or bean grinder",
+    "domain": "gifting",
+    "idx": 33
+  },
+  {
+    "record_id": "shop_31",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "An extended warranty offer at checkout is:",
+    "choices": [
+      "Optional protection plan for some items",
+      "Mandatory for all bananas",
+      "A replacement for Prime",
+      "A shipping label format"
+    ],
+    "correct_letter": "A",
+    "correct_answer": "Optional protection plan for some items",
+    "domain": "warranty",
+    "idx": 34
+  },
+  {
+    "record_id": "shop_32",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Which filter helps find vegan grocery options?",
+    "choices": [
+      "GPU VRAM filters",
+      "Lens aperture only",
+      "Dietary / vegan attribute filters",
+      "Tire tread filters"
+    ],
+    "correct_letter": "C",
+    "correct_answer": "Dietary / vegan attribute filters",
+    "domain": "dietary",
+    "idx": 35
+  },
+  {
+    "record_id": "shop_16",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "If two sellers offer the same item, price and shipping may differ because:",
+    "choices": [
+      "ASIN changes every minute",
+      "Different sellers set offers and fulfillment",
+      "Reviews delete pricing",
+      "Cart ignores sellers"
+    ],
+    "correct_letter": "B",
+    "correct_answer": "Different sellers set offers and fulfillment",
+    "domain": "offers",
+    "idx": 36
+  },
+  {
+    "record_id": "shop_2",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "What is a common meaning of 'Add to Cart' on Amazon?",
+    "choices": [
+      "Subscribe permanently",
+      "Message the CEO",
+      "Delete the listing",
+      "Save the item to buy later in checkout"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Save the item to buy later in checkout",
+    "domain": "cart",
+    "idx": 37
+  },
+  {
+    "record_id": "shop_26",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Amazon Basics typically refers to:",
+    "choices": [
+      "Airline cockpit parts",
+      "Only luxury jewelry",
+      "Government bonds",
+      "Amazon\u2019s private-label everyday products"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Amazon\u2019s private-label everyday products",
+    "domain": "basics",
+    "idx": 38
+  },
+  {
+    "record_id": "shop_24",
+    "benchmark": "shopping_mc",
+    "format": "mc",
+    "question": "Price drop alerts / watchlists help you:",
+    "choices": [
+      "Delete your profile",
+      "Hack seller accounts",
+      "Change tax residency",
+      "Notice when an item gets cheaper"
+    ],
+    "correct_letter": "D",
+    "correct_answer": "Notice when an item gets cheaper",
+    "domain": "price",
+    "idx": 39
+  }
+]
