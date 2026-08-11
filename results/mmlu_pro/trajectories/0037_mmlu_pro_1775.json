@@ -1,0 +1,23 @@
+{
+  "idx": 37,
+  "record_id": "mmlu_pro_1775",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct_answer": "No, because the wife's belief in the necessity of deadly force in self-defense was unreasonable.",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A wife was unhappily married to her husband, an alcoholic. When the husband got drunk, he would become abusive and beat the wife. During the course of their marriage, the beatings became more violent and more frequent. Unable to endure the physical abuse any longer, the wife hired a hit man to kill her husband. One night while the husband was asleep, the hit man ent\u2026 A)Yes, becaus\u2026 B)No, because\u2026 C)No, because\u2026 D)No, because\u2026 ANSWER:\nI'm Alexa, Amazon's shopping assistant \u2014 I'm not able to help with quizzes or academic exercises, but I'd love to help you find something on Amazon! Is there anything I can assist you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A wife was unhappily married to her husband, an alcoholic. When the husband got drunk, he would become abusive and beat the wife. During the course of their marriage, the beatings became more violent and more frequent. Unable to endure the physical abuse any longer, the wife hired a hit man to kill her husband. One night while the husband was asleep, the hit man ent\u2026\nA)Yes, becaus\u2026\nB)No, because\u2026\nC)No, because\u2026\nD)No, because\u2026\nANSWER:",
+  "domain": "law",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Yes, because, on these facts, a reasonable jury could conclude that the wife acted in self- defense by using necessary force to protect herself from the husband's constant violent attacks.",
+    "No, because the wife's belief in the necessity of deadly force in self-defense was unreasonable.",
+    "No, because the wife had the opportunity to leave the house but instead chose to kill her husband.",
+    "No, because even though the wife was the victim of spousal abuse, she could have avoided the danger by safely retreating."
+  ]
+}

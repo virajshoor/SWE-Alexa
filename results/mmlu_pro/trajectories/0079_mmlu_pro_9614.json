@@ -1,0 +1,23 @@
+{
+  "idx": 79,
+  "record_id": "mmlu_pro_9614",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "4.8 eV",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How much energy in electron volts must be expended to separate the atoms in the potassium iodide molecule, 39_k 127_I, if the ions are originally separated by a distance R = 3.04 \u00d7 10^\\rule{1em}{1pt}10 m? The potential energy for coulomb's law of force is, E_P = \\rule{1em}{1pt}ke^2 / d where e is the electric charge of each ion and d is the distance between the charges. K = 9 \u00d7 10^9 N \\tex\u2026 A)7.1 eV B)6.4 eV C)2.5 eV D)4.8 eV ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How much energy in electron volts must be expended to separate the atoms in the potassium iodide molecule, 39_k 127_I, if the ions are originally separated by a distance R = 3.04 \u00d7 10^\\rule{1em}{1pt}10 m? The potential energy for coulomb's law of force is, E_P = \\rule{1em}{1pt}ke^2 / d where e is the electric charge of each ion and d is the distance between the charges. K = 9 \u00d7 10^9 N \\tex\u2026\nA)7.1 eV\nB)6.4 eV\nC)2.5 eV\nD)4.8 eV\nANSWER:",
+  "domain": "physics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "7.1 eV",
+    "6.4 eV",
+    "2.5 eV",
+    "4.8 eV"
+  ]
+}

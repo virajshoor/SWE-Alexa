@@ -1,0 +1,23 @@
+{
+  "idx": 44,
+  "record_id": "mmlu_pro_2649",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "conjunctive",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A group's performance on a(n) __________ task is limited by the performance of the least skilled or knowledgeable member of the group. A)conjunctive B)compensatory C)divisible D)additive ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A group's performance on a(n) __________ task is limited by the performance of the least skilled or knowledgeable member of the group.\nA)conjunctive\nB)compensatory\nC)divisible\nD)additive\nANSWER:",
+  "domain": "psychology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "conjunctive",
+    "compensatory",
+    "divisible",
+    "additive"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 71,
+  "record_id": "mmlu_pro_8683",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "0.36",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Suppose that $A, B$, and $C$ are mutually independent events and that $P(A)=0.5, P(B)=0.8$, and $P(C)=$ 0.9 . Find the probabilities that all three events occur? A)0.58 B)0.3 C)0.5 D)0.36 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Suppose that $A, B$, and $C$ are mutually independent events and that $P(A)=0.5, P(B)=0.8$, and $P(C)=$ 0.9 . Find the probabilities that all three events occur?\nA)0.58\nB)0.3\nC)0.5\nD)0.36\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "0.58",
+    "0.3",
+    "0.5",
+    "0.36"
+  ]
+}

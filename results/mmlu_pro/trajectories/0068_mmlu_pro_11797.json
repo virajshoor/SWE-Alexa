@@ -1,0 +1,23 @@
+{
+  "idx": 68,
+  "record_id": "mmlu_pro_11797",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "62,500 psi",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Compute the stresses in a saw as it goes over the driving pulley. The saw is made up of alloy steel, E = 30 \u00d7 10^6 psi, thickness = (1 / 32\"). The pulley has a diameter of 15 in. A)15,000 psi B)62,500 psi C)30,000 psi D)12,000 psi ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Compute the stresses in a saw as it goes over the driving pulley. The saw is made up of alloy steel, E = 30 \u00d7 10^6 psi, thickness = (1 / 32\"). The pulley has a diameter of 15 in.\nA)15,000 psi\nB)62,500 psi\nC)30,000 psi\nD)12,000 psi\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "15,000 psi",
+    "62,500 psi",
+    "30,000 psi",
+    "12,000 psi"
+  ]
+}

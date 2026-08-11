@@ -1,0 +1,23 @@
+{
+  "idx": 41,
+  "record_id": "mmlu_pro_7809",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "0.0182",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:5.3-1. Let $X_1$ and $X_2$ be independent Poisson random variables with respective means $\\lambda_1=2$ and $\\lambda_2=3$. Find (a) $P\\left(X_1=3, X_2=5\\right)$. HINT. Note that this event can occur if and only if $\\left\\{X_1=1, X_2=0\\right\\}$ or $\\left\\{X_1=0, X_2=1\\right\\}$. A)0.0182 B)0.0213 C)0.0226 D)0.0245 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:5.3-1. Let $X_1$ and $X_2$ be independent Poisson random variables with respective means $\\lambda_1=2$ and $\\lambda_2=3$. Find (a) $P\\left(X_1=3, X_2=5\\right)$. HINT. Note that this event can occur if and only if $\\left\\{X_1=1, X_2=0\\right\\}$ or $\\left\\{X_1=0, X_2=1\\right\\}$.\nA)0.0182\nB)0.0213\nC)0.0226\nD)0.0245\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "0.0182",
+    "0.0213",
+    "0.0226",
+    "0.0245"
+  ]
+}

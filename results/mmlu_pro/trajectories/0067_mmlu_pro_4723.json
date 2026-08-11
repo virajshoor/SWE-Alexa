@@ -1,0 +1,23 @@
+{
+  "idx": 67,
+  "record_id": "mmlu_pro_4723",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct_answer": "20,000\u201325,000 years ago",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:When did Aborigines occupy the harsh interior of Australia? A)70,000\u201375,000 years ago B)20,000\u201325,000 years ago C)50,000\u201355,000 years ago D)30,000\u201335,000 years ago ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:When did Aborigines occupy the harsh interior of Australia?\nA)70,000\u201375,000 years ago\nB)20,000\u201325,000 years ago\nC)50,000\u201355,000 years ago\nD)30,000\u201335,000 years ago\nANSWER:",
+  "domain": "history",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "70,000\u201375,000 years ago",
+    "20,000\u201325,000 years ago",
+    "50,000\u201355,000 years ago",
+    "30,000\u201335,000 years ago"
+  ]
+}

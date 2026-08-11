@@ -1,0 +1,23 @@
+{
+  "idx": 23,
+  "record_id": "mmlu_pro_11056",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "There is no good reason to think that doing one action will inevitably lead to another undesirable action",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A slippery-slope pattern of argument is fallacious when... A)There is good reason to think that doing one action will inevitably lead to another undesirable action B)There is no good reason to think that doing one action will inevitably lead to another undesirable action C)It is hypothetical D)There are only two possible results ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A slippery-slope pattern of argument is fallacious when...\nA)There is good reason to think that doing one action will inevitably lead to another undesirable action\nB)There is no good reason to think that doing one action will inevitably lead to another undesirable action\nC)It is hypothetical\nD)There are only two possible results\nANSWER:",
+  "domain": "philosophy",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "There is good reason to think that doing one action will inevitably lead to another undesirable action",
+    "There is no good reason to think that doing one action will inevitably lead to another undesirable action",
+    "It is hypothetical",
+    "There are only two possible results"
+  ]
+}

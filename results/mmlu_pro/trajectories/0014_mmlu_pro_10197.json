@@ -1,0 +1,23 @@
+{
+  "idx": 14,
+  "record_id": "mmlu_pro_10197",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "500",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:For the signal f(t)=3sin(200\u03c0t)+ 6sin(400\u03c0t) + sin(500\u03c0t), determine the minimum sampling requency (in \u03c0Hz) satisfying the Nyquist criterion. A)550 B)450 C)500 D)250 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:For the signal f(t)=3sin(200\u03c0t)+ 6sin(400\u03c0t) + sin(500\u03c0t), determine the minimum sampling requency (in \u03c0Hz) satisfying the Nyquist criterion.\nA)550\nB)450\nC)500\nD)250\nANSWER:",
+  "domain": "computer science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "550",
+    "450",
+    "500",
+    "250"
+  ]
+}

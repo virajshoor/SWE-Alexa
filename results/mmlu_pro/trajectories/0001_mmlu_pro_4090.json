@@ -1,0 +1,23 @@
+{
+  "idx": 1,
+  "record_id": "mmlu_pro_4090",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "2.5 \u00d710^-3",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Calculate the ratio of energy loss when a 4Mevalpha particle travelling through carbon collides with nuclei (scattering) to the energy loss when it collides with bound electrons. A)2.5 \u00d710^-3 B)2.8 \u00d7 10^-3 C)4.0 \u00d7 10^-3 D)3.5 \u00d710^-3 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Calculate the ratio of energy loss when a 4Mevalpha particle travelling through carbon collides with nuclei (scattering) to the energy loss when it collides with bound electrons.\nA)2.5 \u00d710^-3\nB)2.8 \u00d7 10^-3\nC)4.0 \u00d7 10^-3\nD)3.5 \u00d710^-3\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "2.5 \u00d710^-3",
+    "2.8 \u00d7 10^-3",
+    "4.0 \u00d7 10^-3",
+    "3.5 \u00d710^-3"
+  ]
+}

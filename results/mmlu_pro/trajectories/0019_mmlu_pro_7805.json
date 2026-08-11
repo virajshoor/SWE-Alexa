@@ -1,0 +1,23 @@
+{
+  "idx": 19,
+  "record_id": "mmlu_pro_7805",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "5.4 $\\mathrm{cm^2}$",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The length and width of a rectangle are measured as $30 \\mathrm{~cm}$ and $24 \\mathrm{~cm}$, respectively, with an error in measurement of at most $0.1 \\mathrm{~cm}$ in each. Use differentials to estimate the maximum error in the calculated area of the rectangle. A)5.4 $\\mathrm{cm^2}$ B)3.0 $\\mathrm{cm^2}$ C)6.2 $\\mathrm{cm^2}$ D)7.5 $\\mathrm{cm^2}$ ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The length and width of a rectangle are measured as $30 \\mathrm{~cm}$ and $24 \\mathrm{~cm}$, respectively, with an error in measurement of at most $0.1 \\mathrm{~cm}$ in each. Use differentials to estimate the maximum error in the calculated area of the rectangle.\nA)5.4 $\\mathrm{cm^2}$\nB)3.0 $\\mathrm{cm^2}$\nC)6.2 $\\mathrm{cm^2}$\nD)7.5 $\\mathrm{cm^2}$\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "5.4 $\\mathrm{cm^2}$",
+    "3.0 $\\mathrm{cm^2}$",
+    "6.2 $\\mathrm{cm^2}$",
+    "7.5 $\\mathrm{cm^2}$"
+  ]
+}

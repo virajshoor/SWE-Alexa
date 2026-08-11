@@ -1,0 +1,23 @@
+{
+  "idx": 61,
+  "record_id": "mmlu_pro_6990",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "depository institutions decide to hold more excess reserves.",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The potential amount of money created after the Fed increases bank reserves will be diminished if A)the Fed decreases the money supply. B)depository institutions decide to hold more excess reserves. C)the velocity of money increases. D)depository institutions decide to hold less excess reserves. ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The potential amount of money created after the Fed increases bank reserves will be diminished if\nA)the Fed decreases the money supply.\nB)depository institutions decide to hold more excess reserves.\nC)the velocity of money increases.\nD)depository institutions decide to hold less excess reserves.\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the Fed decreases the money supply.",
+    "depository institutions decide to hold more excess reserves.",
+    "the velocity of money increases.",
+    "depository institutions decide to hold less excess reserves."
+  ]
+}

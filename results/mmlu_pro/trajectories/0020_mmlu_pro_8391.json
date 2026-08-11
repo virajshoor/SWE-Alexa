@@ -1,0 +1,23 @@
+{
+  "idx": 20,
+  "record_id": "mmlu_pro_8391",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "f is continuous.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Let S be a compact topological space, let T be a topological space, and let f be a function from S onto T. Of the following conditions on f, which is the weakest condition sufficient to ensure the compactness of T? A)f is a homeomorphism. B)f is a continuous bijection. C)f is continuous and one-to-one D)f is continuous. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Let S be a compact topological space, let T be a topological space, and let f be a function from S onto T. Of the following conditions on f, which is the weakest condition sufficient to ensure the compactness of T?\nA)f is a homeomorphism.\nB)f is a continuous bijection.\nC)f is continuous and one-to-one\nD)f is continuous.\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "f is a homeomorphism.",
+    "f is a continuous bijection.",
+    "f is continuous and one-to-one",
+    "f is continuous."
+  ]
+}

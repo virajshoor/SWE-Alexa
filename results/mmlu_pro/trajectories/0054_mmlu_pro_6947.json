@@ -1,0 +1,23 @@
+{
+  "idx": 54,
+  "record_id": "mmlu_pro_6947",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "is making exactly what she would make in her next best alternative job",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The owner of a competitive firm making zero economic profit A)should consider shutting down because she could make more elsewhere B)is making exactly what she would make in her next best alternative job C)should consider expanding her business for more profit D)will most likely make more profits in the long run ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The owner of a competitive firm making zero economic profit\nA)should consider shutting down because she could make more elsewhere\nB)is making exactly what she would make in her next best alternative job\nC)should consider expanding her business for more profit\nD)will most likely make more profits in the long run\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "should consider shutting down because she could make more elsewhere",
+    "is making exactly what she would make in her next best alternative job",
+    "should consider expanding her business for more profit",
+    "will most likely make more profits in the long run"
+  ]
+}

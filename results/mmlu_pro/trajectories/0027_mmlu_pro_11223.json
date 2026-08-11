@@ -1,0 +1,23 @@
+{
+  "idx": 27,
+  "record_id": "mmlu_pro_11223",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct_answer": "12.186 cal / deg / g-atom",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Using the following data for cadmium, determine the absoluteis entropy ofCdat 298\u00b0K. Assume that T^3 law isvalid below 12\u00b0C and also, there is no difference between C_p andC_vat these low temperatures. Data C_p, cal / deg / g-atom C_p, cal / deg / g-atom \u00b0^T_K, cadmium \u00b0^T_K, cadmium 12 0.392 130 5.608 14 .592 140 5.684 16 .804 150 5.746 18 1.020 160 5.799 20 1.240 \u2026 A)20.186 cal \u2026 B)18.186 cal \u2026 C)12.186 cal \u2026 D)8.186 cal /\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Using the following data for cadmium, determine the absoluteis entropy ofCdat 298\u00b0K. Assume that T^3 law isvalid below 12\u00b0C and also, there is no difference between C_p andC_vat these low temperatures. Data C_p, cal / deg / g-atom C_p, cal / deg / g-atom \u00b0^T_K, cadmium \u00b0^T_K, cadmium 12 0.392 130 5.608 14 .592 140 5.684 16 .804 150 5.746 18 1.020 160 5.799 20 1.240 \u2026\nA)20.186 cal \u2026\nB)18.186 cal \u2026\nC)12.186 cal \u2026\nD)8.186 cal /\u2026\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "20.186 cal / deg / g-atom",
+    "18.186 cal / deg / g-atom",
+    "12.186 cal / deg / g-atom",
+    "8.186 cal / deg / g-atom"
+  ]
+}

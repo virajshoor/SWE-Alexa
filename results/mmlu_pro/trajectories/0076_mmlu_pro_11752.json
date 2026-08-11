@@ -1,0 +1,23 @@
+{
+  "idx": 76,
+  "record_id": "mmlu_pro_11752",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "- 25,570 cal",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:3H_2 + N_2 \\rightharpoonup 2NH_3 Determine the standard heat for the above reaction at a temperatureof 500\u00b0C, using the following data. \\DeltaH_reaction@ 25\u00b0C is equal to - 22.08 kcal \\alpha \\beta \\gamma NH_3 6.086 8.812 10^-3 - 1.506 10^-6 N_2 6.524 1.250 10^-3 - 0.001 10^-6 H_2 6.947 = 0.200 10^-3 0.481 10^-6 A)- 25,570 cal B)- 22,080 cal C)- 17,500 cal D)18,000 cal ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:3H_2 + N_2 \\rightharpoonup 2NH_3 Determine the standard heat for the above reaction at a temperatureof 500\u00b0C, using the following data. \\DeltaH_reaction@ 25\u00b0C is equal to - 22.08 kcal \\alpha \\beta \\gamma NH_3 6.086 8.812 10^-3 - 1.506 10^-6 N_2 6.524 1.250 10^-3 - 0.001 10^-6 H_2 6.947 = 0.200 10^-3 0.481 10^-6\nA)- 25,570 cal\nB)- 22,080 cal\nC)- 17,500 cal\nD)18,000 cal\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "- 25,570 cal",
+    "- 22,080 cal",
+    "- 17,500 cal",
+    "18,000 cal"
+  ]
+}

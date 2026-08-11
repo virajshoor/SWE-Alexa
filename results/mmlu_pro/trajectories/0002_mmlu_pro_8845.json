@@ -1,0 +1,23 @@
+{
+  "idx": 2,
+  "record_id": "mmlu_pro_8845",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "200 $\\mathrm{m}/\\mathrm{s}$",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A projectile is fired with an initial speed of $200 \\mathrm{~m} / \\mathrm{s}$ and angle of elevation $60^{\\circ}$. Find the speed at impact. A)150 $\\mathrm{m}/\\mathrm{s}$ B)225 $\\mathrm{m}/\\mathrm{s}$ C)200 $\\mathrm{m}/\\mathrm{s}$ D)180 $\\mathrm{m}/\\mathrm{s}$ ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A projectile is fired with an initial speed of $200 \\mathrm{~m} / \\mathrm{s}$ and angle of elevation $60^{\\circ}$. Find the speed at impact.\nA)150 $\\mathrm{m}/\\mathrm{s}$\nB)225 $\\mathrm{m}/\\mathrm{s}$\nC)200 $\\mathrm{m}/\\mathrm{s}$\nD)180 $\\mathrm{m}/\\mathrm{s}$\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "150 $\\mathrm{m}/\\mathrm{s}$",
+    "225 $\\mathrm{m}/\\mathrm{s}$",
+    "200 $\\mathrm{m}/\\mathrm{s}$",
+    "180 $\\mathrm{m}/\\mathrm{s}$"
+  ]
+}

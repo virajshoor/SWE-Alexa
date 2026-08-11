@@ -1,0 +1,22 @@
+{
+  "system_name": "Alexa-Rufus-1",
+  "model_name": "Alexa-Rufus-1",
+  "benchmarks": {
+    "mmlu_pro": {
+      "n_instances": 80,
+      "n_correct": 65,
+      "accuracy": 0.8125,
+      "n_ok_replies": 80,
+      "out": "results/mmlu_pro"
+    }
+  },
+  "order": [
+    "mmlu_pro",
+    "arc_challenge",
+    "openbookqa",
+    "gsm8k",
+    "truthfulqa_mc",
+    "simpleqa",
+    "shopping_mc"
+  ]
+}

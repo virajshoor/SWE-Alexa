@@ -1,0 +1,23 @@
+{
+  "idx": 13,
+  "record_id": "mmlu_pro_4144",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct_answer": "41.40$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. The constant-volume heat capacity of a gas can be measured by observing the decrease in temperature when it expands adiabatically and reversibly. If the decrease in pressure is also measured, we can use it to infer the \u2026 A)29.80$\\math\u2026 B)47.80$\\math\u2026 C)41.40$\\math\u2026 D)38.70$\\math\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. The constant-volume heat capacity of a gas can be measured by observing the decrease in temperature when it expands adiabatically and reversibly. If the decrease in pressure is also measured, we can use it to infer the \u2026\nA)29.80$\\math\u2026\nB)47.80$\\math\u2026\nC)41.40$\\math\u2026\nD)38.70$\\math\u2026\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "29.80$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+    "47.80$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+    "41.40$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+    "38.70$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$"
+  ]
+}

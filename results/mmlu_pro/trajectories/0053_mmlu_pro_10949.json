@@ -1,0 +1,23 @@
+{
+  "idx": 53,
+  "record_id": "mmlu_pro_10949",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct_answer": "Islamic identity",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the foremost reason for wearing the hijab in the present day? A)Islamic identity B)Islamic fashion C)Islamic seclusion D)Islamic tradition ANSWER:\nThis is a nuanced topic with no single universally agreed-upon answer, as reasons for wearing the hijab vary widely among individuals and communities. That said, I'm here as a shopping assistant and not designed to answer quiz questions \u2014 especially on culturally and religiously sensitive topics where providing a single \"correct\" answer could be misleading or reductive.\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the foremost reason for wearing the hijab in the present day?\nA)Islamic identity\nB)Islamic fashion\nC)Islamic seclusion\nD)Islamic tradition\nANSWER:",
+  "domain": "philosophy",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Islamic identity",
+    "Islamic fashion",
+    "Islamic seclusion",
+    "Islamic tradition"
+  ]
+}

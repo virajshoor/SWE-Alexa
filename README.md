@@ -32,6 +32,22 @@ Use this string as `model_name` / `model_name_or_path` / `system_name` in preds 
 | Correct | **76** |
 | Accuracy | **38.4%** |
 
+## Non-code suite (Alexa-Rufus-1)
+
+Balanced slices run in order via `python3 -m swe_alexa bench suite` / `scripts/run_noncode_suite.py`:
+
+| Benchmark | n | Notes |
+| --- | --- | --- |
+| MMLU-Pro | 80 | 4-option MC |
+| ARC-Challenge | 80 | science MC |
+| OpenBookQA | 80 | science MC |
+| GSM8K | 80 | numeric short answer |
+| TruthfulQA-MC | 80 | truthfulness MC |
+| SimpleQA | 60 | short factual |
+| Shopping-MC | 40 | Amazon/shopping knowledge |
+
+Aggregate: `results/noncode_suite_summary.json`. Per-bench dirs under `results/<name>/`.
+
 See [RESULTS_DETAILED.md](RESULTS_DETAILED.md) for methodology, probe notes, and per-instance IDs.
 
 ## Setup
@@ -57,6 +73,11 @@ PYTHONPATH=. python3 -m swe_alexa bootstrap --storage artifacts/amazon_storage.j
 # Run ≥40 Verified instances in parallel (reuses cookie jar; avoids re-login)
 PYTHONPATH=. python3 -m swe_alexa run --limit 40 --workers 2 --wait 55 \
   --out results/run40_live --storage artifacts/amazon_storage.json
+
+# Non-code suite (MMLU-Pro → … → Shopping-MC)
+PYTHONPATH=. python3 scripts/run_noncode_suite.py --workers 2 --wait 45
+# Or one benchmark:
+PYTHONPATH=. python3 -m swe_alexa bench mmlu_pro --limit 80 --workers 2
 ```
 
 ## Repo layout

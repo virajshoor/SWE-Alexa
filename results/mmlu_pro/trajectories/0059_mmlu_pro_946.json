@@ -1,0 +1,23 @@
+{
+  "idx": 59,
+  "record_id": "mmlu_pro_946",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct_answer": "No, because the company's duty to use reasonable care in hiring a competent driver extended only to actions taken by the worker in the scope of his employment.",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A plumbing company hired a worker to work at various construction sites. The worker used his own truck to travel between the company's warehouse and the construction sites, but the company fitted the truck with a rack for carrying plumbing pipes. The company paid the worker for traveling between the warehouse and the construction sites, but not for his drive to and \u2026 A)No, because\u2026 B)No, because\u2026 C)No, because\u2026 D)Yes, becaus\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A plumbing company hired a worker to work at various construction sites. The worker used his own truck to travel between the company's warehouse and the construction sites, but the company fitted the truck with a rack for carrying plumbing pipes. The company paid the worker for traveling between the warehouse and the construction sites, but not for his drive to and \u2026\nA)No, because\u2026\nB)No, because\u2026\nC)No, because\u2026\nD)Yes, becaus\u2026\nANSWER:",
+  "domain": "law",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "No, because the worker was responsible for his own actions outside of work hours.",
+    "No, because the company's duty to use reasonable care in hiring a competent driver extended only to actions taken by the worker in the scope of his employment.",
+    "No, because the company was not aware of the worker's suspended license.",
+    "Yes, because the company should have taken more care in verifying the worker's credentials."
+  ]
+}

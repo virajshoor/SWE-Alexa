@@ -1,0 +1,23 @@
+{
+  "idx": 55,
+  "record_id": "mmlu_pro_3508",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "no two electrons can have the same four quantum numbers",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Pauli exclusion principle states that A)two electrons can share the same quantum number if they have opposite spins B)no two electrons can have the same four quantum numbers C)all electrons in an atom must have the same spin D)no two protons can have the same four quantum numbers ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Pauli exclusion principle states that\nA)two electrons can share the same quantum number if they have opposite spins\nB)no two electrons can have the same four quantum numbers\nC)all electrons in an atom must have the same spin\nD)no two protons can have the same four quantum numbers\nANSWER:",
+  "domain": "chemistry",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "two electrons can share the same quantum number if they have opposite spins",
+    "no two electrons can have the same four quantum numbers",
+    "all electrons in an atom must have the same spin",
+    "no two protons can have the same four quantum numbers"
+  ]
+}

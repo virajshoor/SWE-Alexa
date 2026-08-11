@@ -1,0 +1,23 @@
+{
+  "idx": 22,
+  "record_id": "mmlu_pro_2577",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "1. The relative lack of emotion when dealing with people. 2. Lack of conventional morality. 3. No strong ideological commitments. 4. Relative psychological balance.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What are the characteristics of a good manipulator according to the work of Richard Christie? A)1. Strong emotional attachments. 2. High moral standards. 3. Strong ideologica\u2026 B)1. High degree of empathy. 2. Strict adherence to societal expectations. 3. Pr\u2026 C)1. The relative lack of emotion when dealing with people. 2. Lack of conventio\u2026 D)1. Overwhelming compassion for others. 2. Unquestioning obedience to authority\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What are the characteristics of a good manipulator according to the work of Richard Christie?\nA)1. Strong emotional attachments. 2. High moral standards. 3. Strong ideologica\u2026\nB)1. High degree of empathy. 2. Strict adherence to societal expectations. 3. Pr\u2026\nC)1. The relative lack of emotion when dealing with people. 2. Lack of conventio\u2026\nD)1. Overwhelming compassion for others. 2. Unquestioning obedience to authority\u2026\nANSWER:",
+  "domain": "psychology",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "1. Strong emotional attachments. 2. High moral standards. 3. Strong ideological commitments. 4. Psychological instability.",
+    "1. High degree of empathy. 2. Strict adherence to societal expectations. 3. Predominant ideological dogmatism. 4. Low self-esteem.",
+    "1. The relative lack of emotion when dealing with people. 2. Lack of conventional morality. 3. No strong ideological commitments. 4. Relative psychological balance.",
+    "1. Overwhelming compassion for others. 2. Unquestioning obedience to authority. 3. Firm dedication to altruistic values. 4. Tendency towards self-sacrifice."
+  ]
+}

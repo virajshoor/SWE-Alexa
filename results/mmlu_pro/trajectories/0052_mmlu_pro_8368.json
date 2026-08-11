@@ -1,0 +1,23 @@
+{
+  "idx": 52,
+  "record_id": "mmlu_pro_8368",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "The mean of the residuals is always zero.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:For the regression line, which of the following statements about residuals is true? A)The larger the residuals, the better the linear model. B)If the correlation is 1, there will be a distinct pattern in the residual plot. C)The mean of the residuals is always zero. D)The residual plot will always be a straight line. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:For the regression line, which of the following statements about residuals is true?\nA)The larger the residuals, the better the linear model.\nB)If the correlation is 1, there will be a distinct pattern in the residual plot.\nC)The mean of the residuals is always zero.\nD)The residual plot will always be a straight line.\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "The larger the residuals, the better the linear model.",
+    "If the correlation is 1, there will be a distinct pattern in the residual plot.",
+    "The mean of the residuals is always zero.",
+    "The residual plot will always be a straight line."
+  ]
+}

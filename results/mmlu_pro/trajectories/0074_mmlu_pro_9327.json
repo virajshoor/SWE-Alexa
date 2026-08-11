@@ -1,0 +1,23 @@
+{
+  "idx": 74,
+  "record_id": "mmlu_pro_9327",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "13.6eV",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Calculate the binding energy of the hydrogen atom in its ground state. A)11.2 eV B)13.6eV C)14.1 eV D)10.6eV ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Calculate the binding energy of the hydrogen atom in its ground state.\nA)11.2 eV\nB)13.6eV\nC)14.1 eV\nD)10.6eV\nANSWER:",
+  "domain": "physics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "11.2 eV",
+    "13.6eV",
+    "14.1 eV",
+    "10.6eV"
+  ]
+}

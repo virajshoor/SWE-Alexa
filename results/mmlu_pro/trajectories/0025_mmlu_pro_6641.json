@@ -1,0 +1,23 @@
+{
+  "idx": 25,
+  "record_id": "mmlu_pro_6641",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Transaminases require a coenzyme derived from vitamin B6.",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following statements concerning transamination is correct? A)Transamination is a process by which proteins are synthesized. B)Transamination does not involve enzymes. C)Transaminases require a coenzyme derived from vitamin B6. D)Transaminases require a coenzyme derived from vitamin D. ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following statements concerning transamination is correct?\nA)Transamination is a process by which proteins are synthesized.\nB)Transamination does not involve enzymes.\nC)Transaminases require a coenzyme derived from vitamin B6.\nD)Transaminases require a coenzyme derived from vitamin D.\nANSWER:",
+  "domain": "health",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Transamination is a process by which proteins are synthesized.",
+    "Transamination does not involve enzymes.",
+    "Transaminases require a coenzyme derived from vitamin B6.",
+    "Transaminases require a coenzyme derived from vitamin D."
+  ]
+}

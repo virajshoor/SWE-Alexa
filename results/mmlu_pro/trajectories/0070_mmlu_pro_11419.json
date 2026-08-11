@@ -1,0 +1,23 @@
+{
+  "idx": 70,
+  "record_id": "mmlu_pro_11419",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "B",
+  "correct_answer": "Exit pressure: 375kPaabs, Exit temperature: 291.7K, Flowrate: 0.735 kg/sec",
+  "predicted_answer": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Air is in a reservoir at 710kPaabs and 45\u00b0C. It leaves the reservoir through a converging nozzle which has an exit area of 5.1 \u00d7 10^-4 m^2. If the air enters at a pressure of 525kPa abs, determine the exit pressure, exit temperature and flowrate. A)Exit pressure: 405kPaabs, Exit temperatu\u2026 B)Exit pressure: 390kPaabs, Exit temperatu\u2026 C)Exit pressure: 350kPaabs, Exit temperatu\u2026 D)Exit pressure: 375kPaabs, Exit temperatu\u2026 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Air is in a reservoir at 710kPaabs and 45\u00b0C. It leaves the reservoir through a converging nozzle which has an exit area of 5.1 \u00d7 10^-4 m^2. If the air enters at a pressure of 525kPa abs, determine the exit pressure, exit temperature and flowrate.\nA)Exit pressure: 405kPaabs, Exit temperatu\u2026\nB)Exit pressure: 390kPaabs, Exit temperatu\u2026\nC)Exit pressure: 350kPaabs, Exit temperatu\u2026\nD)Exit pressure: 375kPaabs, Exit temperatu\u2026\nANSWER:",
+  "domain": "engineering",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Exit pressure: 405kPaabs, Exit temperature: 312K, Flowrate: 0.720 kg/sec",
+    "Exit pressure: 390kPaabs, Exit temperature: 305.7K, Flowrate: 0.755 kg/sec",
+    "Exit pressure: 350kPaabs, Exit temperature: 280.3K, Flowrate: 0.680 kg/sec",
+    "Exit pressure: 375kPaabs, Exit temperature: 291.7K, Flowrate: 0.735 kg/sec"
+  ]
+}

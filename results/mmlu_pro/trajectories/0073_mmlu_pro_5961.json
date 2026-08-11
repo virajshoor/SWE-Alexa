@@ -1,0 +1,23 @@
+{
+  "idx": 73,
+  "record_id": "mmlu_pro_5961",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Living on a working farm will help reducing the development of atopic diseases",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that A)Particular care must be taken during breast feeding in high\u2026 B)Using antibiotics frequently will reduce allergies C)Staying in highly sanitized environments will reduce the de\u2026 D)Living on a working farm will help reducing the development\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that\nA)Particular care must be taken during breast feeding in high\u2026\nB)Using antibiotics frequently will reduce allergies\nC)Staying in highly sanitized environments will reduce the de\u2026\nD)Living on a working farm will help reducing the development\u2026\nANSWER:",
+  "domain": "health",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Particular care must be taken during breast feeding in high risk infants",
+    "Using antibiotics frequently will reduce allergies",
+    "Staying in highly sanitized environments will reduce the development of atopic diseases",
+    "Living on a working farm will help reducing the development of atopic diseases"
+  ]
+}

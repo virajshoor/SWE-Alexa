@@ -1,0 +1,23 @@
+{
+  "idx": 11,
+  "record_id": "mmlu_pro_6999",
+  "benchmark": "mmlu_pro",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "An upward shift in MC.",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If the per unit price of labor, a variable resource, increases, it causes which of the following? A)A downward shift in MPL. B)An upward shift in TFC. C)An upward shift in ATC. D)An upward shift in MC. ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If the per unit price of labor, a variable resource, increases, it causes which of the following?\nA)A downward shift in MPL.\nB)An upward shift in TFC.\nC)An upward shift in ATC.\nD)An upward shift in MC.\nANSWER:",
+  "domain": "economics",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "A downward shift in MPL.",
+    "An upward shift in TFC.",
+    "An upward shift in ATC.",
+    "An upward shift in MC."
+  ]
+}
