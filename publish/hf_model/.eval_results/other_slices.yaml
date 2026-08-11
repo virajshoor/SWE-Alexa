@@ -1,0 +1,74 @@
+- dataset:
+    id: allenai/ai2_arc
+    task_id: arc_challenge_slice80_webui_alexa_rufus_1
+  value: 95.0
+  measure: accuracy
+  sampled_n: 80
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    notes: Unofficial 80-item ARC-Challenge slice via Rufus web UI.
+    n_correct: 76
+
+- dataset:
+    id: allenai/openbookqa
+    task_id: openbookqa_slice80_webui_alexa_rufus_1
+  value: 87.5
+  measure: accuracy
+  sampled_n: 80
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    notes: Unofficial 80-item OpenBookQA slice via Rufus web UI.
+    n_correct: 70
+
+- dataset:
+    id: openai/gsm8k
+    task_id: gsm8k_slice80_webui_alexa_rufus_1
+  value: 62.5
+  measure: accuracy
+  sampled_n: 80
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    notes: Unofficial 80-item GSM8K numeric slice via Rufus web UI.
+    n_correct: 50
+
+- dataset:
+    id: truthfulqa/truthful_qa
+    task_id: truthfulqa_mc_slice80_webui_alexa_rufus_1
+  value: 88.75
+  measure: accuracy
+  sampled_n: 80
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    notes: Unofficial 80-item TruthfulQA MC1 slice via Rufus web UI.
+    n_correct: 71
+
+- dataset:
+    id: basicv8vc/SimpleQA
+    task_id: simpleqa_slice60_webui_alexa_rufus_1
+  value: 38.33
+  measure: accuracy
+  sampled_n: 60
+  date: "2026-08-11"
+  source:
+    url: https://github.com/virajshoor/SWE-Alexa
+    name: SWE-Alexa Playwright harness
+  details:
+    system_name: Alexa-Rufus-1
+    notes: Unofficial 60-item SimpleQA slice; graded with normalized string match (not LLM judge).
+    n_correct: 23

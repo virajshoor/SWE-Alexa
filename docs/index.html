@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alexa-Rufus-1 — Unofficial LLM Benchmark Results</title>
+  <meta name="description" content="Unofficial web-UI evaluation of Alexa-Rufus-1 (Amazon Alexa for Shopping / Rufus) on GPQA, MMLU-Pro slice, ARC, GSM8K, and more." />
+  <meta property="og:title" content="Alexa-Rufus-1 Benchmark Results" />
+  <meta property="og:description" content="Unofficial Playwright evaluation of Amazon Alexa for Shopping on common LLM benchmarks." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a2421;
+      --muted: #4d5c57;
+      --paper: #f3f0e8;
+      --card: rgba(255,255,255,0.72);
+      --accent: #0f6b5c;
+      --accent-2: #c45c26;
+      --line: rgba(26,36,33,0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Source Sans 3", system-ui, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d9ebe4 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f0dcc8 0%, transparent 50%),
+        linear-gradient(180deg, #efece3, var(--paper));
+      min-height: 100vh;
+    }
+    main { width: min(980px, calc(100% - 2rem)); margin: 0 auto; padding: 3rem 0 4rem; }
+    h1, h2 { font-family: Fraunces, Georgia, serif; letter-spacing: -0.02em; }
+    h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); margin: 0 0 0.4rem; }
+    .brand { color: var(--accent); }
+    .lede { font-size: 1.15rem; color: var(--muted); max-width: 42rem; line-height: 1.5; }
+    .meta { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.4rem 0 2rem; }
+    .chip {
+      border: 1px solid var(--line);
+      background: var(--card);
+      backdrop-filter: blur(8px);
+      border-radius: 999px;
+      padding: 0.35rem 0.8rem;
+      font-size: 0.9rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      backdrop-filter: blur(10px);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+    th, td { padding: 0.85rem 1rem; text-align: left; border-bottom: 1px solid var(--line); }
+    th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+    tr:last-child td { border-bottom: 0; }
+    td.score { font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; }
+    .note {
+      margin-top: 1.5rem;
+      padding: 1rem 1.1rem;
+      border-left: 3px solid var(--accent-2);
+      background: rgba(255,255,255,0.55);
+      color: var(--muted);
+      line-height: 1.45;
+    }
+    a { color: var(--accent); }
+    footer { margin-top: 2.5rem; color: var(--muted); font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1><span class="brand">Alexa-Rufus-1</span> benchmark board</h1>
+    <p class="lede">
+      Unofficial third-party evaluation of Amazon.com <strong>Alexa for Shopping (Rufus)</strong>
+      via Playwright. System name used in artifacts: <strong>Alexa-Rufus-1</strong>.
+    </p>
+    <div class="meta">
+      <span class="chip">Web UI · amazon.com</span>
+      <span class="chip">Composer ≤500 chars</span>
+      <span class="chip">Repo: virajshoor/SWE-Alexa</span>
+    </div>
+
+    <h2>Leaderboard</h2>
+    <table>
+      <thead>
+        <tr><th>Benchmark</th><th>n</th><th>Correct</th><th>Accuracy</th><th>Notes</th></tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+
+    <div class="note">
+      These are <strong>not</strong> official Open LLM Leaderboard / Artificial Analysis runs.
+      Official boards require open weights or their own harnesses; Alexa-Rufus-1 is a closed shopping assistant.
+      Non-code numbers (except full GPQA Diamond) are <em>balanced sample slices</em> for time/accuracy tradeoff.
+      SWE-bench Verified: live coding refusals → 0 patches.
+    </div>
+
+    <footer>
+      Source &amp; trajectories:
+      <a href="https://github.com/virajshoor/SWE-Alexa">github.com/virajshoor/SWE-Alexa</a>
+      · PR
+      <a href="https://github.com/virajshoor/SWE-Alexa/pull/1">#1</a>
+      · Scores JSON
+      <a href="./alexa_rufus_1_scores.json">alexa_rufus_1_scores.json</a>
+    </footer>
+  </main>
+  <script>
+    const order = [
+      "swe_bench_verified","gpqa_diamond","mmlu_pro","arc_challenge","openbookqa",
+      "gsm8k","truthfulqa_mc","simpleqa","shopping_mc"
+    ];
+    const notes = {
+      swe_bench_verified: "0 patches / coding refusal",
+      gpqa_diamond: "full Diamond set",
+      mmlu_pro: "80-item slice, 4-option compact",
+      arc_challenge: "80-item slice",
+      openbookqa: "80-item slice",
+      gsm8k: "80-item slice, numeric",
+      truthfulqa_mc: "80-item slice",
+      simpleqa: "60-item slice, normalized match",
+      shopping_mc: "custom Amazon/shopping MC"
+    };
+    fetch("./alexa_rufus_1_scores.json")
+      .then(r => r.json())
+      .then(data => {
+        const tb = document.getElementById("rows");
+        for (const key of order) {
+          const s = data.scores[key];
+          if (!s) continue;
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${s.name}</td><td>${s.n}</td><td>${s.correct}</td>` +
+            `<td class="score">${(100*s.accuracy).toFixed(1)}%</td>` +
+            `<td>${notes[key]||""}</td>`;
+          tb.appendChild(tr);
+        }
+      });
+  </script>
+</body>
+</html>

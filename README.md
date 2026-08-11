@@ -86,8 +86,20 @@ PYTHONPATH=. python3 -m swe_alexa bench mmlu_pro --limit 80 --workers 2
 | `scripts/` | Probes + OTP helpers |
 | `results/run40_live/` | Live SWE-bench 40-instance preds/trajectories (Alexa-Rufus-1) |
 | `results/gpqa_diamond_merged/` | Full GPQA Diamond preds/summary (Alexa-Rufus-1) |
+| `results/noncode_suite_summary.json` | Aggregate non-code suite scores |
+| `results/{mmlu_pro,arc_challenge,...}/` | Per-benchmark preds/trajectories |
 | `RESULTS_DETAILED.md` | Full write-up |
 | `PROBE_REPORT.md` | amazon.com discovery notes |
+
+## Online leaderboard
+
+Official Open LLM Leaderboard / Artificial Analysis cannot host Alexa-Rufus-1 (closed shopping UI, no open weights).
+
+Public board artifacts in this repo:
+
+- GitHub Pages source: [`docs/`](docs/) — enable via **Settings → Pages → GitHub Actions** (workflow `.github/workflows/pages.yml`)
+- Hugging Face publish script: `HF_TOKEN=... python3 scripts/publish_to_hf.py` → model + Gradio Space
+- Details: [`publish/ONLINE_PUBLISH.md`](publish/ONLINE_PUBLISH.md)
 
 ## Limitations
 
