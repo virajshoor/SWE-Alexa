@@ -181,108 +181,201 @@ class AlexaShoppingClient:
             self.page.keyboard.press("Enter")
         self.page.wait_for_timeout(3000)
         self._shot("login_after_password")
-        # OTP
+        # OTP / email verification code
         otp_box = self.page.locator("#auth-mfa-otpcode, input[name='otpCode'], #input-box-otp")
         if otp_box.count() and otp_box.first.is_visible():
-            if not otp_secret or pyotp is None:
-                raise RuntimeError("Amazon MFA required but AMAZON_OTP_SECRET / pyotp missing")
-            code = pyotp.TOTP(otp_secret).now()
+            otp_code = os.environ.get("AMAZON_OTP_CODE")
+            if otp_code:
+                code = re.sub(r"\D", "", otp_code.strip())
+            elif otp_secret and pyotp is not None:
+                code = pyotp.TOTP(otp_secret).now()
+            else:
+                raise RuntimeError(
+                    "Amazon MFA/email OTP required. Set AMAZON_OTP_CODE (one-time email code) "
+                    "or AMAZON_OTP_SECRET (TOTP)."
+                )
             otp_box.first.fill(code)
             try:
-                self.page.click("#auth-signin-button, #cvf-submit-otp-button, button[type=submit]")
+                self.page.locator(
+                    "#auth-signin-button, #cvf-submit-otp-button, "
+                    "input[type=submit], button[type=submit]"
+                ).first.click(timeout=5000)
             except Exception:
                 self.page.keyboard.press("Enter")
-            self.page.wait_for_timeout(3000)
+            self.page.wait_for_timeout(4000)
             self._shot("login_after_otp")
+            # Clear one-time code so it is not reused
+            if "AMAZON_OTP_CODE" in os.environ:
+                os.environ.pop("AMAZON_OTP_CODE", None)
         self.page.goto("https://www.amazon.com/", wait_until="domcontentloaded")
         self.dismiss_gates()
         return True
 
-    def open_alexa_chat(self) -> bool:
-        """Open Alexa for Shopping chat panel on amazon.com."""
-        self.page.goto("https://www.amazon.com/", wait_until="domcontentloaded")
-        self.dismiss_gates()
-        self._shot("before_open_alexa")
-        selectors = [
-            '[aria-label*="Alexa" i]',
-            '[aria-label*="Rufus" i]',
-            'a[href*="rufus" i]',
-            'button:has-text("Alexa")',
-            '[data-testid*="rufus" i]',
-            '[data-testid*="alexa" i]',
-            "#nav-rufus",
-            "#nav-link-alexa",
-            'span:has-text("Alexa")',
-            ".ucc-v2-widget__rufus-pills-trigger",
-            '[class*="rufus-pills" i]',
-            'a:has-text("Ask Alexa")',
-            'button:has-text("Ask Alexa")',
-            'a:has-text("Chat with Alexa")',
-        ]
-        for sel in selectors:
+    # Official Alexa for Shopping promotional landing (US).
+    ALEXA_LANDING = "https://www.amazon.com/b?ie=UTF8&node=216450446011"
+
+    def _dismiss_rufus_chrome(self) -> None:
+        # Close Amazon popovers/modals that intercept clicks on the composer.
+        for _ in range(3):
+            try:
+                self.page.keyboard.press("Escape")
+            except Exception:
+                pass
+            try:
+                self.page.locator('[data-action="a-popover-floating-close"]').first.click(
+                    timeout=500, force=True
+                )
+            except Exception:
+                pass
+            try:
+                self.page.locator(".a-button-close").first.click(timeout=500, force=True)
+            except Exception:
+                pass
+        for sel in (
+            ".rufus-panel-tooltip-close",
+            'button[aria-label="close"]',
+            "#rufus-panel-tooltip .rufus-panel-tooltip-close",
+        ):
             try:
                 loc = self.page.locator(sel)
-                n = loc.count()
-                for i in range(min(n, 5)):
-                    el = loc.nth(i)
-                    if el.is_visible():
-                        el.click(timeout=2000)
-                        self.page.wait_for_timeout(2500)
-                        if self._chat_input() is not None:
-                            self._shot("alexa_open")
-                            return True
+                if loc.count() and loc.first.is_visible():
+                    loc.first.click(timeout=1000, force=True)
             except Exception:
-                continue
-        # Fallback: natural-language search may route into Alexa chat when signed in
+                pass
+        # Profile picker: choose first visible profile card/button if present
         try:
-            box = self.page.locator("#twotabsearchtextbox")
-            if box.count():
-                box.fill("What are good running headphones under $50?")
-                self.page.locator("#nav-search-submit-button").click()
-                self.page.wait_for_timeout(5000)
-                self._shot("nlq_fallback")
-                if self._chat_input() is not None:
-                    return True
-                # try clicking any Alexa/Rufus ingress on results
-                for text in ("Alexa", "Ask Alexa", "Chat with Alexa", "Rufus"):
-                    try:
-                        t = self.page.get_by_text(text, exact=False)
-                        if t.count():
-                            t.first.click(timeout=2000)
-                            self.page.wait_for_timeout(2500)
-                            if self._chat_input() is not None:
-                                return True
-                    except Exception:
-                        pass
+            panel = self.page.locator("#nav-flyout-rufus")
+            if panel.count() and "select your profile" in (panel.inner_text(timeout=1000) or "").lower():
+                for sel in (
+                    "#nav-flyout-rufus button",
+                    "#nav-flyout-rufus [role=button]",
+                    "#nav-flyout-rufus a",
+                ):
+                    loc = self.page.locator(sel)
+                    for i in range(min(loc.count(), 8)):
+                        el = loc.nth(i)
+                        try:
+                            t = (el.inner_text(timeout=500) or "").strip().lower()
+                            if not el.is_visible():
+                                continue
+                            if t in {"new chat", "chat history", "get started", "×", "x", ""}:
+                                continue
+                            if "profile" in t or len(t) > 0:
+                                el.click(timeout=1500, force=True)
+                                self.page.wait_for_timeout(1500)
+                                return
+                        except Exception:
+                            continue
         except Exception:
             pass
-        self._shot("alexa_open_failed")
-        return False
 
     def _chat_input(self):
-        candidates = [
+        # Prefer the real Alexa/Rufus composer. Docked panel may sit off-screen
+        # (negative x) so Playwright is_visible() can be false even when usable.
+        preferred = [
+            "#rufus-text-area",
+            "#nav-flyout-rufus textarea",
+            'textarea[placeholder*="Ask a shopping question" i]',
             'textarea[placeholder*="Ask" i]',
-            'textarea[aria-label*="Ask" i]',
-            'textarea[aria-label*="Alexa" i]',
-            'textarea[aria-label*="Rufus" i]',
-            '[role="textbox"]',
-            "textarea",
-            'input[placeholder*="Ask" i]',
         ]
-        for sel in candidates:
+        for sel in preferred:
             try:
                 loc = self.page.locator(sel)
-                for i in range(min(loc.count(), 6)):
-                    el = loc.nth(i)
-                    if el.is_visible():
-                        # Prefer assistants over the main Amazon search box
-                        el_id = el.get_attribute("id") or ""
-                        if el_id == "twotabsearchtextbox":
-                            continue
+                if not loc.count():
+                    continue
+                el = loc.first
+                el_id = el.get_attribute("id") or ""
+                if el_id == "twotabsearchtextbox":
+                    continue
+                # Accept if attached in DOM; JS send path works even when clipped.
+                try:
+                    if el.count():
                         return el
+                except Exception:
+                    return el
             except Exception:
                 continue
         return None
+
+    def _ensure_panel_ready(self) -> None:
+        self._dismiss_rufus_chrome()
+        # Profile gate
+        try:
+            btn = self.page.get_by_role("button", name=re.compile("Select your profile", re.I))
+            if btn.count() and btn.first.is_visible():
+                btn.first.click(force=True, timeout=3000)
+                self.page.wait_for_timeout(2000)
+                # click first profile option if a chooser appears
+                for sel in (
+                    "#nav-flyout-rufus [data-action*='profile' i]",
+                    "#nav-flyout-rufus button",
+                    "#nav-flyout-rufus li",
+                ):
+                    loc = self.page.locator(sel)
+                    for i in range(min(loc.count(), 6)):
+                        t = (loc.nth(i).inner_text(timeout=500) or "").strip().lower()
+                        if t and t not in {"select your profile", "new chat", "chat history", "get started"}:
+                            try:
+                                loc.nth(i).click(force=True, timeout=1500)
+                                self.page.wait_for_timeout(1500)
+                                break
+                            except Exception:
+                                pass
+        except Exception:
+            pass
+        # Keep docked-left so composer exists
+        try:
+            self.page.evaluate(
+                """() => {
+                  document.body.classList.add('rufus-docked-left','rufus-docked-adjustable');
+                  const fly=document.querySelector('#nav-flyout-rufus');
+                  if (fly) {
+                    fly.classList.add('rufus-panel-closed-to-docked-left');
+                    fly.style.display='flex'; fly.style.visibility='visible'; fly.style.opacity='1';
+                  }
+                }"""
+            )
+        except Exception:
+            pass
+        try:
+            disco = self.page.locator("#nav-rufus-disco")
+            if disco.count():
+                # If panel text empty, click disco to open
+                fly = self.page.locator("#nav-flyout-rufus")
+                txt = ""
+                try:
+                    txt = fly.inner_text(timeout=1000) if fly.count() else ""
+                except Exception:
+                    txt = ""
+                if len(txt.strip()) < 20:
+                    disco.first.click(force=True, timeout=3000)
+                    self.page.wait_for_timeout(2000)
+        except Exception:
+            pass
+
+    def open_alexa_chat(self) -> bool:
+        """Open Alexa for Shopping (Rufus) docked chat on amazon.com."""
+        for start in (self.ALEXA_LANDING, "https://www.amazon.com/"):
+            try:
+                self.page.goto(start, wait_until="domcontentloaded")
+                self.dismiss_gates()
+                self.page.wait_for_timeout(2000)
+            except Exception:
+                continue
+            self._shot("before_open_alexa")
+            try:
+                disco = self.page.locator("#nav-rufus-disco, button[aria-label='Open Alexa panel']")
+                if disco.count():
+                    disco.first.click(force=True, timeout=3000)
+                    self.page.wait_for_timeout(2500)
+            except Exception:
+                pass
+            self._ensure_panel_ready()
+            if self._chat_input() is not None:
+                self._shot("alexa_open")
+                return True
+        self._shot("alexa_open_failed")
+        return False
 
     def ask(self, prompt: str, *, wait_s: float = 45.0, tag: str = "ask") -> AlexaReply:
         if self._chat_input() is None:
@@ -295,6 +388,7 @@ class AlexaShoppingClient:
                     url=self.page.url,
                     screenshot=self._shot(f"{tag}_no_ui"),
                 )
+        self._ensure_panel_ready()
         inp = self._chat_input()
         if inp is None:
             return AlexaReply(
@@ -305,14 +399,48 @@ class AlexaShoppingClient:
                 screenshot=self._shot(f"{tag}_no_input"),
             )
         before = self._assistant_text_snapshot()
+        max_len = 500
         try:
-            inp.click()
-            inp.fill("")
-            # Fill large prompts in chunks to avoid UI truncation
-            chunk = 1500
-            for i in range(0, len(prompt), chunk):
-                inp.type(prompt[i : i + chunk], delay=0)
-            inp.press("Enter")
+            ml = inp.get_attribute("maxlength")
+            if ml and str(ml).isdigit():
+                max_len = max(50, int(ml))
+        except Exception:
+            pass
+        send_prompt = prompt if len(prompt) <= max_len else prompt[: max_len - 15] + "\n[truncated]"
+        try:
+            # JS path is reliable when the docked composer is clipped off-screen.
+            ok = self.page.evaluate(
+                """(text) => {
+                  const el = document.querySelector('#rufus-text-area');
+                  if (!el) return false;
+                  el.focus();
+                  el.value = text;
+                  el.dispatchEvent(new Event('input', {bubbles:true}));
+                  el.dispatchEvent(new Event('change', {bubbles:true}));
+                  const enter = new KeyboardEvent('keydown', {key:'Enter', code:'Enter', which:13, keyCode:13, bubbles:true});
+                  el.dispatchEvent(enter);
+                  const form = el.closest('form');
+                  if (form) {
+                    const btn = form.querySelector('button[type=submit], input[type=submit], [aria-label*=send i]');
+                    if (btn) btn.click();
+                  }
+                  // Also click common send controls inside the panel
+                  const panel = document.querySelector('#nav-flyout-rufus');
+                  if (panel) {
+                    const send = panel.querySelector('button[aria-label*=send i], button[type=submit], .rufus-send-button, [data-action*=send i]');
+                    if (send) send.click();
+                  }
+                  return true;
+                }""",
+                send_prompt,
+            )
+            if not ok:
+                raise RuntimeError("rufus-text-area missing")
+            # Fallback Enter via locator
+            try:
+                inp.press("Enter")
+            except Exception:
+                pass
         except Exception as e:
             return AlexaReply(
                 ok=False,
@@ -327,19 +455,33 @@ class AlexaShoppingClient:
         while time.time() < deadline:
             self.page.wait_for_timeout(1500)
             latest = self._assistant_text_snapshot()
-            if latest and latest != before and len(latest) > len(before) + 20:
-                # wait a bit more for streaming to settle
+            if latest and latest != before and len(latest) > len(before) + 15:
                 self.page.wait_for_timeout(2500)
                 latest2 = self._assistant_text_snapshot()
                 if latest2 == latest:
                     break
                 latest = latest2
-        # Prefer delta
         reply = latest
         if before and latest.startswith(before):
             reply = latest[len(before) :].strip()
         elif before and before in latest:
             reply = latest.replace(before, "", 1).strip()
+        # Strip leading UI chrome lines if present
+        if reply:
+            lines = [ln for ln in reply.splitlines() if ln.strip()]
+            drop_prefixes = (
+                "chat history",
+                "new chat",
+                "get started",
+                "welcome back",
+                "please select your profile",
+                "select your profile",
+                "how can i help",
+                "questions while you shop",
+            )
+            while lines and any(lines[0].strip().lower().startswith(p) for p in drop_prefixes):
+                lines.pop(0)
+            reply = "\n".join(lines).strip()
         self._shot(f"{tag}_done")
         if not reply:
             return AlexaReply(
@@ -355,13 +497,17 @@ class AlexaShoppingClient:
         try:
             return self.page.evaluate(
                 """() => {
+                  const panel = document.querySelector('#nav-flyout-rufus');
+                  if (panel) {
+                    const t = (panel.innerText || '').trim();
+                    if (t) return t;
+                  }
                   const sels = [
-                    '[data-testid*="message" i]',
+                    '#rufus-conversation',
+                    '[class*="rufus-message" i]',
+                    '[data-testid*="rufus" i]',
                     '[class*="assistant" i]',
-                    '[class*="rufus" i]',
-                    '[class*="alexa" i]',
-                    '[role="log"]',
-                    '[aria-live]'
+                    '[role="log"]'
                   ];
                   let best = '';
                   for (const s of sels) {
@@ -370,7 +516,6 @@ class AlexaShoppingClient:
                       if (t.length > best.length) best = t;
                     }
                   }
-                  if (!best) best = (document.body.innerText || '').slice(0, 20000);
                   return best;
                 }"""
             )

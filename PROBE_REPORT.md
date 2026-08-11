@@ -31,3 +31,11 @@ While signed out, no Rufus/Alexa conversation SSE/API traffic was observed after
 ## Conclusion
 
 Automation can reach amazon.com reliably. **Live Alexa for Shopping chat requires an authenticated US amazon.com session.** The evaluation package is built around that path; the recorded 40-instance run documents the login gate.
+
+
+## Live signed-in selectors (confirmed)
+
+- `#nav-rufus-disco`
+- `#nav-flyout-rufus`
+- `#rufus-text-area` (maxlength 500)
+- Landing: `https://www.amazon.com/b?ie=UTF8&node=216450446011`

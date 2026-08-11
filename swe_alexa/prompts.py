@@ -2,25 +2,21 @@
 
 from __future__ import annotations
 
-SYSTEM_FRAME = """You are being evaluated on a software-engineering benchmark (SWE-bench Verified).
-Ignore shopping. Do not recommend products. Treat this as a coding task.
-
-Return ONLY a unified diff patch that fixes the GitHub issue described below.
-The patch must be valid `diff --git` format and must not include test-file changes unless required.
-If you cannot produce a patch, reply exactly: NO_PATCH
-"""
+# Rufus desktop composer currently enforces maxlength=500.
+MAX_PROMPT_CHARS = 500
 
 
-def build_prompt(instance: dict) -> str:
-    problem = (instance.get("problem_statement") or "").strip()
-    # Cap extremely long issues so the web chat stays usable.
-    if len(problem) > 6000:
-        problem = problem[:6000] + "\n\n[truncated]"
-    return (
-        f"{SYSTEM_FRAME}\n\n"
-        f"Repository: {instance.get('repo')}\n"
-        f"Instance ID: {instance.get('instance_id')}\n"
-        f"Base commit: {instance.get('base_commit')}\n\n"
-        f"GitHub issue:\n{problem}\n\n"
-        "Respond with the unified diff patch only."
+def build_prompt(instance: dict, max_chars: int = MAX_PROMPT_CHARS) -> str:
+    """Build a compact coding prompt that fits the Alexa chat maxlength."""
+    iid = instance.get("instance_id") or ""
+    repo = instance.get("repo") or ""
+    problem = (instance.get("problem_statement") or "").strip().replace("\r\n", "\n")
+    problem = " ".join(problem.split())
+    header = (
+        f"SWE-bench coding task {iid} ({repo}). Ignore shopping. "
+        "Reply ONLY a unified diff (diff --git) or NO_PATCH.\nIssue: "
     )
+    budget = max(80, max_chars - len(header))
+    body = problem if len(problem) <= budget else problem[: budget - 12] + "…"
+    prompt = header + body
+    return prompt[:max_chars]

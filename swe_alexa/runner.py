@@ -65,8 +65,15 @@ def _worker(
     )
     try:
         client.start()
-        # Ensure login once per worker if creds present
-        client.login_if_needed()
+        # Prefer existing cookie jar; avoid extra password/OTP logins (account flags).
+        if os.environ.get("SWE_ALEXA_FORCE_LOGIN", "").lower() in {"1", "true", "yes"}:
+            client.login_if_needed()
+        else:
+            try:
+                client.page.goto("https://www.amazon.com/", wait_until="domcontentloaded")
+                client.dismiss_gates()
+            except Exception:
+                pass
         opened = client.open_alexa_chat()
         if not opened:
             res = InstanceResult(
