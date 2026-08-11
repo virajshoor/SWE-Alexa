@@ -14,11 +14,14 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from swe_alexa.evaluate import grade
+from swe_alexa.gpqa import run_gpqa
 from swe_alexa.runner import bootstrap_session, run_parallel
 
 
 def main() -> None:
-    p = argparse.ArgumentParser(description="SWE-bench Verified via Amazon Alexa for Shopping web UI")
+    p = argparse.ArgumentParser(
+        description="Evaluate Amazon Alexa for Shopping web UI on SWE-bench / GPQA"
+    )
     sub = p.add_subparsers(dest="cmd", required=True)
 
     b = sub.add_parser("bootstrap", help="Login + open Alexa chat once")
@@ -36,10 +39,21 @@ def main() -> None:
     r.add_argument("--headed", action="store_true")
     r.add_argument("--model-name", default="amazon-alexa-for-shopping-web")
 
-    g = sub.add_parser("grade", help="Grade preds.jsonl")
+    g = sub.add_parser("grade", help="Grade SWE-bench preds.jsonl")
     g.add_argument("--preds", required=True)
     g.add_argument("--out", default="results/grade")
     g.add_argument("--run-id", default="swe-alexa")
+
+    q = sub.add_parser("gpqa", help="Run GPQA Diamond via Alexa for Shopping web chat")
+    q.add_argument("--limit", type=int, default=None, help="Max questions (default: all)")
+    q.add_argument("--offset", type=int, default=0)
+    q.add_argument("--workers", type=int, default=2)
+    q.add_argument("--wait", type=float, default=55.0)
+    q.add_argument("--out", default="results/gpqa_diamond")
+    q.add_argument("--csv", default="data/gpqa_diamond.csv")
+    q.add_argument("--storage", default="artifacts/amazon_storage.json")
+    q.add_argument("--seed", type=int, default=0)
+    q.add_argument("--headed", action="store_true")
 
     args = p.parse_args()
     if args.cmd == "bootstrap":
@@ -64,6 +78,21 @@ def main() -> None:
     if args.cmd == "grade":
         report = grade(args.preds, args.out, run_id=args.run_id)
         print(json.dumps(report, indent=2))
+        return
+    if args.cmd == "gpqa":
+        summary = run_gpqa(
+            limit=args.limit,
+            offset=args.offset,
+            workers=args.workers,
+            headless=not args.headed,
+            wait_s=args.wait,
+            out_dir=args.out,
+            csv_path=args.csv,
+            storage_state=args.storage,
+            seed=args.seed,
+        )
+        print(json.dumps(summary, indent=2))
+        return
 
 
 if __name__ == "__main__":
