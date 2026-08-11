@@ -1,0 +1,11 @@
+# SWE-Alexa evaluation config
+dataset: princeton-nlp/SWE-bench_Verified
+split: test
+limit: 40
+workers: 4
+wait_seconds: 45
+model_name: amazon-alexa-for-shopping-web
+amazon_home: https://www.amazon.com/
+notes: |
+  Alexa for Shopping is only available on amazon.com for signed-in US customers.
+  This harness drives the web chat UI with Playwright and collects unified diffs.

@@ -1,0 +1,6 @@
+{
+  "grader": "swebench.harness",
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "/usr/bin/python3: Error while finding module specification for 'swebench.harness.run_evaluation' (ModuleNotFoundError: No module named 'swebench')\n"
+}
