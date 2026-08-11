@@ -2,6 +2,12 @@
 
 Official boards (**Open LLM Leaderboard**, **Artificial Analysis**, full **MMLU-Pro** Space) require open weights and/or *their* evaluation harness. Alexa-Rufus-1 is a closed shopping assistant evaluated via amazon.com web UI, so those hosts will not auto-list it.
 
+## Blockers for public web visibility
+
+1. **Repo is currently private** (`virajshoor/SWE-Alexa`). Public Pages / raw / htmlpreview / HF mirroring of GitHub links require making it **Public**.
+2. **`HF_TOKEN`** is required to create `Alexa-Rufus-1` model + Space on Hugging Face.
+3. Official LLM leaderboards still will not auto-accept closed Rufus web-UI scores.
+
 ## What this repo publishes
 
 1. **GitHub Pages board** — `docs/index.html` (enable Pages: Settings → Pages → GitHub Actions).
