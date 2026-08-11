@@ -1,7 +1,7 @@
 {
   "prompt": "You are being evaluated on a software-engineering benchmark (SWE-bench Verified).\nIgnore shopping. Do not recommend products. Treat this as a coding task.\n\nReturn ONLY a unified diff patch that fixes the GitHub issue described below.\nThe patch must be valid `diff --git` format and must not include test-file changes unless required.\nIf you cannot produce a patch, reply exactly: NO_PATCH\n\n\nRepository: astropy/astropy\nInstance ID: astropy__astropy-7166\nBase commit: 26d147868f8a891a6009a25cd6a8576d2e1bd747\n\nGitHub issue:\nInheritDocstrings metaclass doesn't work for properties\nInside the InheritDocstrings metaclass it uses `inspect.isfunction` which returns `False` for properties.\n\nRespond with the unified diff patch only.",
   "instance_id": "astropy__astropy-7166",
-  "model_name_or_path": "amazon-alexa-for-shopping-web",
+  "model_name_or_path": "Alexa-Rufus-1",
   "model_patch": "",
   "raw_response": "",
   "ok": false,

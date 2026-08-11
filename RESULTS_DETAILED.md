@@ -27,7 +27,7 @@ Run **at least 40** SWE-bench Verified instances against **Alexa for Shopping** 
 ```text
 PYTHONPATH=. python3 -m swe_alexa run --limit 40 --workers 2 --wait 55 \
   --out results/run40_live --storage artifacts/amazon_storage.json
-model_name_or_path: amazon-alexa-for-shopping-web
+model_name_or_path: Alexa-Rufus-1
 ```
 
 Bootstrap probe replied `PONG` to a ping, confirming the chat path before the batch.

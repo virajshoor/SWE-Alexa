@@ -1,0 +1,19 @@
+{
+  "idx": 140,
+  "record_id": "recrNbtgTNoabJJi6",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:1-bromobenzene-2-d is treated with NaNH2 in condensed ammonia solvent. How many possible organic products are there in this reaction? A)4 B)3 C)2 D)1 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:1-bromobenzene-2-d is treated with NaNH2 in condensed ammonia solvent. How many possible organic products are there in this reaction?\nA)4\nB)3\nC)2\nD)1\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "4",
+    "3",
+    "2",
+    "1"
+  ]
+}

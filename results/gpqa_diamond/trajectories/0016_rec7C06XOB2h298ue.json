@@ -1,0 +1,19 @@
+{
+  "idx": 16,
+  "record_id": "rec7C06XOB2h298ue",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is the concentration of calcium ions in a solution containing 0.02 M stochiometric Ca-EDTA complex (we assume that the pH is ideal, T = 25 \u00b0C). KCa-EDTA = 5x10^10. A)5.0x10^-3 M B)2.0x10^-2 M C)6.3x10^-7 M D)1.0x10^-2 M ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is the concentration of calcium ions in a solution containing 0.02 M stochiometric Ca-EDTA complex (we assume that the pH is ideal, T = 25 \u00b0C). KCa-EDTA = 5x10^10.\nA)5.0x10^-3 M\nB)2.0x10^-2 M\nC)6.3x10^-7 M\nD)1.0x10^-2 M\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "5.0x10^-3 M",
+    "2.0x10^-2 M ",
+    "6.3x10^-7 M",
+    "1.0x10^-2 M "
+  ]
+}

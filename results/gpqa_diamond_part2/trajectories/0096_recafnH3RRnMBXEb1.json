@@ -1,0 +1,19 @@
+{
+  "idx": 96,
+  "record_id": "recafnH3RRnMBXEb1",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In gametogenesis, the germline undergoes two cycles of meiosis to give rise to haploid gametes. The goal of meiosis, unlike mitosis, is to separate not only the replicated sister chromatids but also the homologous chromosome pairs to form haploid cells. Fertilized gametes enter embryogenesis and ultimately develop into an organism. Meiosis is not always perfectly ex\u2026 A)chiasmata r\u2026 B)progression\u2026 C)chromatin m\u2026 D)attachment \u2026 ANSWER:\nI'm here to help with shopping questions \u2014 I'm not able to assist with quizzes or academic content. Is there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In gametogenesis, the germline undergoes two cycles of meiosis to give rise to haploid gametes. The goal of meiosis, unlike mitosis, is to separate not only the replicated sister chromatids but also the homologous chromosome pairs to form haploid cells. Fertilized gametes enter embryogenesis and ultimately develop into an organism. Meiosis is not always perfectly ex\u2026\nA)chiasmata r\u2026\nB)progression\u2026\nC)chromatin m\u2026\nD)attachment \u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "chiasmata resolution by separase in diakinesis",
+    "progression of the polymerase alpha in the morula/blastocyst",
+    "chromatin methylation by histone methyltransferases in the post-zygote",
+    "attachment of spindle to kinetochores in the metaphase I"
+  ]
+}

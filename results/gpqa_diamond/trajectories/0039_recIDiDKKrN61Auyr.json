@@ -1,0 +1,19 @@
+{
+  "idx": 39,
+  "record_id": "recIDiDKKrN61Auyr",
+  "correct_letter": "A",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Your overhear two chemists talking to each other as they leave a synthetic organic chemistry lab. One asks the other \"So, how did it go?\" The second chemist replies, \"Not well - my compounds are on top of each other.\" What is the second chemist most likely referring to? A)The compounds they are working wit\u2026 B)The compounds they are working wit\u2026 C)The compounds they are working wit\u2026 D)The compounds they are working wit\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Your overhear two chemists talking to each other as they leave a synthetic organic chemistry lab. One asks the other \"So, how did it go?\" The second chemist replies, \"Not well - my compounds are on top of each other.\" What is the second chemist most likely referring to?\nA)The compounds they are working wit\u2026\nB)The compounds they are working wit\u2026\nC)The compounds they are working wit\u2026\nD)The compounds they are working wit\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "The compounds they are working with have similar polarities.",
+    "The compounds they are working with have similar boiling points.",
+    "The compounds they are working with have similar optical rotations.",
+    "The compounds they are working with are bonding to each other through non-covalent/van der Waals interactions."
+  ]
+}

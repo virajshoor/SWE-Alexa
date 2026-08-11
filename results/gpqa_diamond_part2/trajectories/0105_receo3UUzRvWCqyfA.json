@@ -1,0 +1,19 @@
+{
+  "idx": 105,
+  "record_id": "receo3UUzRvWCqyfA",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The reaction between cyclohexanone and piperidine can result in the formation of a cyclic imine, also known as a Schiff base. This type of reaction is a classic example of imine formation, which involves the condensation of a ketone (cyclohexanone in this case) with a primary amine (piperidine) in the presence of an acid catalyst. What will be the favorable acid use\u2026 A)A = HCl, B \u2026 B)A = TsOH, B\u2026 C)A = HCl, B \u2026 D)A = TsOH, B\u2026 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant \u2014 I'm here to help you find products, answer Amazon-related questions, and more.\nIs there anything shopping-related I can help you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The reaction between cyclohexanone and piperidine can result in the formation of a cyclic imine, also known as a Schiff base. This type of reaction is a classic example of imine formation, which involves the condensation of a ketone (cyclohexanone in this case) with a primary amine (piperidine) in the presence of an acid catalyst. What will be the favorable acid use\u2026\nA)A = HCl, B \u2026\nB)A = TsOH, B\u2026\nC)A = HCl, B \u2026\nD)A = TsOH, B\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = HCl, B = 3-(2-oxocyclohexyl)propanal",
+    "A = TsOH, B = 3-(2-oxocyclohexyl)propanal",
+    "A = HCl, B = 1-(2-(3-oxopropyl)cyclohexylidene)piperidin-1-ium",
+    "A = TsOH, B = 1-(2-(3-oxopropyl)cyclohexylidene)piperidin-1-ium"
+  ]
+}

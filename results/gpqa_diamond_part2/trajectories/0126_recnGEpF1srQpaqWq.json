@@ -1,0 +1,19 @@
+{
+  "idx": 126,
+  "record_id": "recnGEpF1srQpaqWq",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following molecules is formed when 5-butylnona-2,6-diene is heated? A)5-ethylundeca-2,6-diene B)4-ethyl-3-methyldeca-1,5-diene C)5-ethyl-4-methyldeca-2,6-diene D)5-ethyl-4-methyldeca-2,6-diene ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following molecules is formed when 5-butylnona-2,6-diene is heated?\nA)5-ethylundeca-2,6-diene\nB)4-ethyl-3-methyldeca-1,5-diene\nC)5-ethyl-4-methyldeca-2,6-diene\nD)5-ethyl-4-methyldeca-2,6-diene\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "5-ethylundeca-2,6-diene",
+    "4-ethyl-3-methyldeca-1,5-diene",
+    "5-ethyl-4-methyldeca-2,6-diene",
+    "5-ethyl-4-methyldeca-2,6-diene"
+  ]
+}

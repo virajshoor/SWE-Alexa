@@ -1,0 +1,19 @@
+{
+  "idx": 49,
+  "record_id": "recKcjTwONILZqHAX",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Your colleague has devised a new quantum field theory on four-dimensional spacetime, and is exploring the regularization of certain higher-order loop diagrams in that theory. On their desk you spy a scribbled note: a Feynman diagram, and next to it, the words \"size estimate\" followed by a string of physical constants, numbers, and ratios between what appear to be energy scales. The symbols read: alpha^3 * g^2\u2026 A)2 B)1 C)3 D)6 ANSWER:\nI'm here to help with Amazon shopping questions, general knowledge, and more \u2014 but I'm not able to assist with practice quizzes or academic test questions. I'd be happy to help you find books or resources on quantum field theory on Amazon if you're interested!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Your colleague has devised a new quantum field theory on four-dimensional spacetime, and is exploring the regularization of certain higher-order loop diagrams in that theory. On their desk you spy a scribbled note: a Feynman diagram, and next to it, the words \"size estimate\" followed by a string of physical constants, numbers, and ratios between what appear to be energy scales. The symbols read: alpha^3 * g^2\u2026\nA)2\nB)1\nC)3\nD)6\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "2",
+    "1",
+    "3",
+    "6"
+  ]
+}

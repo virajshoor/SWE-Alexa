@@ -1,0 +1,19 @@
+{
+  "idx": 135,
+  "record_id": "recqFDvYKKRmbnoUb",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A vector field f(r) falls off radially as 1/r^2 from the origin, i.e. the magnitude of the field is f(r) = 1/r^2. The field has non-zero component only along the radial direction in spherical coordinates. Evaluate the volume integral of the divergence of the field, \u2207.f inside the volume of a sphere of radius R centred at the origin. Here, \u2207 and f both are implied as vectors. Which answer below is the \u2026 A)1 B)4/3 \u03c0 R C)0 D)4 \u03c0 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A vector field f(r) falls off radially as 1/r^2 from the origin, i.e. the magnitude of the field is f(r) = 1/r^2. The field has non-zero component only along the radial direction in spherical coordinates. Evaluate the volume integral of the divergence of the field, \u2207.f inside the volume of a sphere of radius R centred at the origin. Here, \u2207 and f both are implied as vectors. Which answer below is the \u2026\nA)1\nB)4/3 \u03c0 R\nC)0\nD)4 \u03c0\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "1",
+    "4/3 \u03c0 R ",
+    "0",
+    "4 \u03c0"
+  ]
+}

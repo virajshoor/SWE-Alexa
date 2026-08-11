@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/swe_alexa/__main__.py", line 70, in <module>
+    main()
+  File "/workspace/swe_alexa/__main__.py", line 46, in main
+    info = bootstrap_session(args.storage, headless=not args.headed)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/swe_alexa/runner.py", line 123, in bootstrap_session
+    ok = client.login_if_needed()
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/swe_alexa/alexa_client.py", line 188, in login_if_needed
+    raise RuntimeError("Amazon MFA required but AMAZON_OTP_SECRET / pyotp missing")
+RuntimeError: Amazon MFA required but AMAZON_OTP_SECRET / pyotp missing

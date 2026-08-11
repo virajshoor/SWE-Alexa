@@ -1,0 +1,19 @@
+{
+  "idx": 25,
+  "record_id": "recBXlqrZUCR897It",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Dienes are organic compounds with two adjacent double bonds in their structure, and they exhibit unique reactivity due to their conjugated pi-electron system. They play a significant role in organic chemistry and are involved in various chemical reactions and natural processes. Among the given options which one is the possible reactant (A) for the given reaction als\u2026 A)A = 4,4-dii\u2026 B)A = 2,2-dii\u2026 C)A = 2,2-dii\u2026 D)A = 4,4-dii\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, general knowledge, and more \u2014 but I'm not able to answer quiz or academic homework questions. I'd encourage you to review your course materials for this one!\nIs there anything else I can help you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Dienes are organic compounds with two adjacent double bonds in their structure, and they exhibit unique reactivity due to their conjugated pi-electron system. They play a significant role in organic chemistry and are involved in various chemical reactions and natural processes. Among the given options which one is the possible reactant (A) for the given reaction als\u2026\nA)A = 4,4-dii\u2026\nB)A = 2,2-dii\u2026\nC)A = 2,2-dii\u2026\nD)A = 4,4-dii\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = 4,4-diiodocyclobut-2-en-1-one, B = 4, 2, 1, 3",
+    "A = 2,2-diiodoethen-1-one, B = 3, 1, 2, 4",
+    "A = 2,2-diiodoethen-1-one, B = 4, 2, 1, 3",
+    "A = 4,4-diiodocyclobut-2-en-1-one, B = 3, 1, 2, 4"
+  ]
+}

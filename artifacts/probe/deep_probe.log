@@ -1,0 +1,25 @@
+https://www.amazon.com/dp/B0D1XD1ZV3 -> https://www.amazon.com/dp/B0D1XD1ZV3 labels 0
+https://www.amazon.com/s?k=best+noise+cancelling+headphones -> https://www.amazon.com/s?k=best+noise+cancelling+headphones labels 12
+  {'tag': 'DIV', 'id': 'navbar', 'aria': 'Primary', 'text': 'Delivering to Ashburn 20149\nUpdate location\nAll\nAll Departments\nAlexa Skills\nAmazon Autos\nAmazon Devices\nAmazon Global S', 'class': 'nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layout2 nav-flex layout3 layout3-alt nav-packard-glo'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': ' Alexa Built-in', 'class': 'a-link-normal s-no-underline s-pc-badge s-align-children-center aok-block'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': ' Alexa Built-in', 'class': 'a-link-normal s-no-underline s-pc-badge s-align-children-center aok-block'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': 'Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones with Mic for Phone-Call and Alexa Voice Control, Bl', 'class': 'a-link-normal s-line-clamp-2 puis-line-clamp-3-for-col-4-and-8 s-link-style a-text-normal'}
+  {'tag': 'H2', 'id': '', 'aria': 'Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones with Mic for Phone-Call and Alexa Voice Control, Black WH1000XM4', 'text': 'Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones with Mic for Phone-Call and Alexa Voice Control, Bl', 'class': 'a-size-medium a-spacing-none a-color-base a-text-normal'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': ' Alexa Built-in', 'class': 'a-link-normal s-no-underline s-pc-badge s-align-children-center aok-block'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': 'Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-in Microphone for Clear Calls an', 'class': 'a-link-normal s-line-clamp-2 puis-line-clamp-3-for-col-4-and-8 s-link-style a-text-normal'}
+  {'tag': 'H2', 'id': '', 'aria': 'Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-in Microphone for Clear Calls and Alexa Voice Control, Black | Built-in Microphone for Calls, Alexa Voice Control', 'text': 'Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-in Microphone for Clear Calls an', 'class': 'a-size-medium a-spacing-none a-color-base a-text-normal'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': ' Alexa Built-in', 'class': 'a-link-normal s-no-underline s-pc-badge s-align-children-center aok-block'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': ' Alexa Built-in', 'class': 'a-link-normal s-no-underline s-pc-badge s-align-children-center aok-block'}
+click fail Locator.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for get_by_text("Primary").first
+
+https://www.amazon.com/gp/css/homepage.html -> https://www.amazon.com/gp/css/homepage.html labels 3
+  {'tag': 'DIV', 'id': 'navbar', 'aria': 'Primary', 'text': 'Delivering to Ashburn 20149\nUpdate location\nAll\nAll Departments\nAlexa Skills\nAmazon Autos\nAmazon Devices\nAmazon Global S', 'class': 'nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layout2 nav-flex layout3 layout3-alt nav-packard-glo'}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': 'All things Alexa', 'class': ''}
+  {'tag': 'A', 'id': '', 'aria': None, 'text': 'Alexa shopping notifications', 'class': ''}
+click fail Locator.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for get_by_text("Primary").first
+
+network hits 0

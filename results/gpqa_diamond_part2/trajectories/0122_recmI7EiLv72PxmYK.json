@@ -1,0 +1,19 @@
+{
+  "idx": 122,
+  "record_id": "recmI7EiLv72PxmYK",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A supernova occurred in our Galaxy. Part of the supernova ejecta is moving directly towards the center of the Galaxy. Both the ejecta part and the Galaxy are inertial frames of reference. From the reference frame of the ejecta, the center of the Galaxy is moving at 60 000 km/s (sixty thousand kilometers per second) towards it. What distance the ejecta travels in the\u2026 A)2 880 000 k\u2026 B)3 060 000 k\u2026 C)3 000 000 k\u2026 D)2 940 000 k\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A supernova occurred in our Galaxy. Part of the supernova ejecta is moving directly towards the center of the Galaxy. Both the ejecta part and the Galaxy are inertial frames of reference. From the reference frame of the ejecta, the center of the Galaxy is moving at 60 000 km/s (sixty thousand kilometers per second) towards it. What distance the ejecta travels in the\u2026\nA)2 880 000 k\u2026\nB)3 060 000 k\u2026\nC)3 000 000 k\u2026\nD)2 940 000 k\u2026\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "2 880 000 km.",
+    "3 060 000 km.",
+    "3 000 000 km.",
+    "2 940 000 km."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 73,
+  "record_id": "recSBcGLPatKb3Ygu",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:We want to observe a decay of a single atom (atomic nucleus). It is possible to obtain this atom (e.g., from a beta decay of another atom) and start monitoring right away. We know from previous experiments that the decay probability of this atom is 32% within 100 minutes. So far, 50 minutes have passed and the atom has not decayed. What is the probability it will decay in the next 150 minutes? A)52% B)44% C)40% D)48% ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:We want to observe a decay of a single atom (atomic nucleus). It is possible to obtain this atom (e.g., from a beta decay of another atom) and start monitoring right away. We know from previous experiments that the decay probability of this atom is 32% within 100 minutes. So far, 50 minutes have passed and the atom has not decayed. What is the probability it will decay in the next 150 minutes?\nA)52%\nB)44%\nC)40%\nD)48%\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "52%",
+    "44%",
+    "40%",
+    "48%"
+  ]
+}

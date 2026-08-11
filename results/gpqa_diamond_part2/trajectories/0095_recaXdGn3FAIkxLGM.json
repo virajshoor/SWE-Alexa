@@ -1,0 +1,19 @@
+{
+  "idx": 95,
+  "record_id": "recaXdGn3FAIkxLGM",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The angular size of the event horizon of a supermassive black hole in the centre of a galaxy at a distance of d=10^10 parsecs is measured to be \u03b8=10^-17 degrees. Find the order of magnitude of the entropy of the blackhole. A)10^66 J/K B)10^65 J/K C)10^59 J/K D)10^62 J/K ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The angular size of the event horizon of a supermassive black hole in the centre of a galaxy at a distance of d=10^10 parsecs is measured to be \u03b8=10^-17 degrees. Find the order of magnitude of the entropy of the blackhole.\nA)10^66 J/K\nB)10^65 J/K\nC)10^59 J/K\nD)10^62 J/K\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "10^66 J/K",
+    "10^65 J/K",
+    "10^59 J/K",
+    "10^62 J/K"
+  ]
+}

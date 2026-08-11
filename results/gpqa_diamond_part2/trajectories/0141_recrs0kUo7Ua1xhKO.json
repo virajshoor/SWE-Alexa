@@ -1,0 +1,19 @@
+{
+  "idx": 141,
+  "record_id": "recrs0kUo7Ua1xhKO",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider this density matrix $\\rho=\\frac{1}{2}\\left(\\left|0\\right\\rangle \\left\\langle 0\\right|+\\left|1\\right\\rangle \\left\\langle 1\\right|\\right)$ What is its geometrical position in the qubits space? A)r=(0,0,0) B)r=(0,0,1) C)r=(1,1,0) D)r=(1,1,1) ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider this density matrix $\\rho=\\frac{1}{2}\\left(\\left|0\\right\\rangle \\left\\langle 0\\right|+\\left|1\\right\\rangle \\left\\langle 1\\right|\\right)$ What is its geometrical position in the qubits space?\nA)r=(0,0,0)\nB)r=(0,0,1)\nC)r=(1,1,0)\nD)r=(1,1,1)\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "r=(0,0,0)",
+    "r=(0,0,1)",
+    "r=(1,1,0)",
+    "r=(1,1,1)"
+  ]
+}

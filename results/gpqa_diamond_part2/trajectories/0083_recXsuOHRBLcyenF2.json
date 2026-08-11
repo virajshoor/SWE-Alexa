@@ -1,0 +1,19 @@
+{
+  "idx": 83,
+  "record_id": "recXsuOHRBLcyenF2",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:While solving higher dimensional heat equations subject to suitable initial and boundary conditions through higher order finite difference approximations and parallel splitting, the matrix exponential function is approximated by a fractional approximation. The key factor of converting sequential algorithm into parallel algorithm is A)Linear partial fra\u2026 B)Existence of nonlo\u2026 C)Stability analysis D)Complex roots of f\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:While solving higher dimensional heat equations subject to suitable initial and boundary conditions through higher order finite difference approximations and parallel splitting, the matrix exponential function is approximated by a fractional approximation. The key factor of converting sequential algorithm into parallel algorithm is\nA)Linear partial fra\u2026\nB)Existence of nonlo\u2026\nC)Stability analysis\nD)Complex roots of f\u2026\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "Linear partial fraction of fractional approximation",
+    "Existence of nonlocal boundary conditions",
+    "Stability analysis",
+    "Complex roots of fractional approximation"
+  ]
+}

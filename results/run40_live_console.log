@@ -1,0 +1,103 @@
+
+SWE-Alexa:   0%|          | 0/40 [00:00<?, ?it/s]
+SWE-Alexa:   2%|▎         | 1/40 [00:22<14:29, 22.28s/it]
+SWE-Alexa:   5%|▌         | 2/40 [00:22<05:51,  9.25s/it]
+SWE-Alexa:   8%|▊         | 3/40 [00:44<09:20, 15.16s/it]
+SWE-Alexa:  10%|█         | 4/40 [00:48<06:28, 10.80s/it]
+SWE-Alexa:  12%|█▎        | 5/40 [01:06<07:48, 13.38s/it]
+SWE-Alexa:  15%|█▌        | 6/40 [01:10<05:48, 10.25s/it]
+SWE-Alexa:  18%|█▊        | 7/40 [01:28<07:02, 12.80s/it]
+SWE-Alexa:  20%|██        | 8/40 [01:32<05:20, 10.02s/it]
+SWE-Alexa:  22%|██▎       | 9/40 [01:51<06:30, 12.61s/it]
+SWE-Alexa:  25%|██▌       | 10/40 [01:55<04:57,  9.90s/it]
+SWE-Alexa:  28%|██▊       | 11/40 [02:13<06:02, 12.49s/it]
+SWE-Alexa:  30%|███       | 12/40 [02:17<04:36,  9.89s/it]
+SWE-Alexa:  32%|███▎      | 13/40 [02:35<05:35, 12.43s/it]
+SWE-Alexa:  35%|███▌      | 14/40 [02:39<04:15,  9.84s/it]
+SWE-Alexa:  38%|███▊      | 15/40 [02:58<05:13, 12.55s/it]
+SWE-Alexa:  40%|████      | 16/40 [03:01<03:54,  9.78s/it]
+SWE-Alexa:  42%|████▎     | 17/40 [03:16<04:19, 11.27s/it]
+SWE-Alexa:  45%|████▌     | 18/40 [03:24<03:44, 10.19s/it]
+SWE-Alexa:  48%|████▊     | 19/40 [03:38<04:00, 11.45s/it]
+SWE-Alexa:  50%|█████     | 20/40 [03:46<03:26, 10.34s/it]
+SWE-Alexa:  52%|█████▎    | 21/40 [04:00<03:40, 11.58s/it]
+SWE-Alexa:  55%|█████▌    | 22/40 [04:08<03:07, 10.44s/it]
+SWE-Alexa:  57%|█████▊    | 23/40 [04:22<03:17, 11.63s/it]
+SWE-Alexa:  60%|██████    | 24/40 [04:30<02:47, 10.48s/it]
+SWE-Alexa:  62%|██████▎   | 25/40 [04:49<03:12, 12.83s/it]
+SWE-Alexa:  65%|██████▌   | 26/40 [04:52<02:21, 10.13s/it]
+SWE-Alexa:  68%|██████▊   | 27/40 [05:11<02:44, 12.65s/it]
+SWE-Alexa:  70%|███████   | 28/40 [05:15<02:00, 10.00s/it]
+SWE-Alexa:  72%|███████▎  | 29/40 [05:33<02:17, 12.52s/it]
+SWE-Alexa:  75%|███████▌  | 30/40 [05:37<01:39,  9.97s/it]
+SWE-Alexa:  78%|███████▊  | 31/40 [05:55<01:51, 12.42s/it]
+SWE-Alexa:  80%|████████  | 32/40 [05:59<01:19,  9.95s/it]
+SWE-Alexa:  82%|████████▎ | 33/40 [06:17<01:26, 12.35s/it]
+SWE-Alexa:  85%|████████▌ | 34/40 [06:22<00:59,  9.92s/it]
+SWE-Alexa:  88%|████████▊ | 35/40 [06:40<01:01, 12.31s/it]
+SWE-Alexa:  90%|█████████ | 36/40 [06:44<00:39,  9.91s/it]
+SWE-Alexa:  92%|█████████▎| 37/40 [07:02<00:36, 12.31s/it]
+SWE-Alexa:  95%|█████████▌| 38/40 [07:07<00:20, 10.17s/it]
+SWE-Alexa:  98%|█████████▊| 39/40 [07:20<00:11, 11.02s/it]
+SWE-Alexa: 100%|██████████| 40/40 [07:29<00:00, 10.46s/it]
+SWE-Alexa: 100%|██████████| 40/40 [07:29<00:00, 11.24s/it]
+{
+  "n_instances": 40,
+  "n_ok_replies": 40,
+  "n_nonempty_patches": 0,
+  "n_errors": 0,
+  "bootstrap": {
+    "logged_in": true,
+    "alexa_opened": true,
+    "probe_ok": true,
+    "probe_text": "Design merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nReply with exactly: PONG\nPONG\nScheduled actions\nAutomate shopping, discovery, and savings",
+    "probe_error": "",
+    "storage_state": "artifacts/amazon_storage.json",
+    "has_email": true
+  },
+  "preds_path": "results/run40_live/preds.jsonl",
+  "model_name": "Alexa-Rufus-1",
+  "workers": 2,
+  "instance_ids": [
+    "astropy__astropy-12907",
+    "astropy__astropy-13033",
+    "astropy__astropy-13236",
+    "astropy__astropy-13398",
+    "astropy__astropy-13453",
+    "astropy__astropy-13579",
+    "astropy__astropy-13977",
+    "astropy__astropy-14096",
+    "astropy__astropy-14182",
+    "astropy__astropy-14309",
+    "astropy__astropy-14365",
+    "astropy__astropy-14369",
+    "astropy__astropy-14508",
+    "astropy__astropy-14539",
+    "astropy__astropy-14598",
+    "astropy__astropy-14995",
+    "astropy__astropy-7166",
+    "astropy__astropy-7336",
+    "astropy__astropy-7606",
+    "astropy__astropy-7671",
+    "astropy__astropy-8707",
+    "astropy__astropy-8872",
+    "django__django-10097",
+    "django__django-10554",
+    "django__django-10880",
+    "django__django-10914",
+    "django__django-10973",
+    "django__django-10999",
+    "django__django-11066",
+    "django__django-11087",
+    "django__django-11095",
+    "django__django-11099",
+    "django__django-11119",
+    "django__django-11133",
+    "django__django-11138",
+    "django__django-11141",
+    "django__django-11149",
+    "django__django-11163",
+    "django__django-11179",
+    "django__django-11206"
+  ]
+}

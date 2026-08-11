@@ -155,7 +155,7 @@ def run_parallel(
     headless: bool = True,
     wait_s: float = 45.0,
     out_dir: str = "results",
-    model_name: str = "amazon-alexa-for-shopping-web",
+    model_name: str = "Alexa-Rufus-1",
     local_json: str | None = "data/verified_50.json",
     storage_state: str = "artifacts/amazon_storage.json",
 ) -> dict[str, Any]:

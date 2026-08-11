@@ -1,0 +1,19 @@
+{
+  "idx": 108,
+  "record_id": "recgM7o1tcc7tP778",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a bound system of two nucleons (NN) in a 1S0 state which emit a particle X of intrinsic parity -1. Pauli statistics require that the isospin, angular momentum, and spin quantum numbers of the final NN state satisfy T(NN) = S(NN) + L(NN) + 1 (mod 2). Suppose the final NN state has T(NN) = 0. Which of the following partial waves is not permitted, where the lo\u2026 A)1S0 -> 3S1 \u2026 B)1S0 -> 7D1 \u2026 C)1S0 -> 3P0 \u2026 D)1S0 -> 3D3 \u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a bound system of two nucleons (NN) in a 1S0 state which emit a particle X of intrinsic parity -1. Pauli statistics require that the isospin, angular momentum, and spin quantum numbers of the final NN state satisfy T(NN) = S(NN) + L(NN) + 1 (mod 2). Suppose the final NN state has T(NN) = 0. Which of the following partial waves is not permitted, where the lo\u2026\nA)1S0 -> 3S1 \u2026\nB)1S0 -> 7D1 \u2026\nC)1S0 -> 3P0 \u2026\nD)1S0 -> 3D3 \u2026\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "1S0 -> 3S1 + p",
+    "1S0 -> 7D1 + p",
+    "1S0 -> 3P0 + s",
+    "1S0 -> 3D3 + f"
+  ]
+}

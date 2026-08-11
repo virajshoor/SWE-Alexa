@@ -1,0 +1,19 @@
+{
+  "idx": 106,
+  "record_id": "recf6ayQmL1SxKbvW",
+  "correct_letter": "D",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Imagine a situation where a novel natural molecule, Xantheraquin, is discovered and is being investigated for in silico testing against a bacterial pathogen that is multidrug resistant. Preliminary studies indicate that Xantheraquin has multiple chiral centers and can exist in various tautomeric forms. Which of the following steps would be the MOST crucial before pr\u2026 A)Focus on Xa\u2026 B)Use the mos\u2026 C)Analyze all\u2026 D)Combine in \u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Imagine a situation where a novel natural molecule, Xantheraquin, is discovered and is being investigated for in silico testing against a bacterial pathogen that is multidrug resistant. Preliminary studies indicate that Xantheraquin has multiple chiral centers and can exist in various tautomeric forms. Which of the following steps would be the MOST crucial before pr\u2026\nA)Focus on Xa\u2026\nB)Use the mos\u2026\nC)Analyze all\u2026\nD)Combine in \u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "Focus on Xantheraquin's pharmacokinetics and ADME (Absorption, Distribution, Metabolism, Excretion) properties, using molecular dynamics simulations to predict its behavior in a biological system.",
+    "Use the most stable chiral form of Xantheraquin, relying on quantum mechanical calculations to predict its interaction with the bacterial target.",
+    "Analyze all tautomeric and chiral forms, but prioritize those forms that are most likely to be biologically active based on physicochemical properties.",
+    "Combine in silico predictions with preliminary in vitro binding affinity assays to validate the most promising forms of Xantheraquin before extensive docking studies."
+  ]
+}

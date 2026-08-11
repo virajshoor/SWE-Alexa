@@ -1,0 +1,19 @@
+{
+  "idx": 90,
+  "record_id": "recZWeueB7lSPR6wN",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:cyclohexanone is treated with LDA at low temperature, followed by benzaldehyde. the reaction mixture is then acidified, forming product 1. 1 is then treated with an excess of diethylaminosulfur trifluoride, forming product 2. what is the structure of prodcut 2? A)((R)-((R)-2,2-difluorocyclohexyl)flu\u2026 B)(2R)-1-fluoro-2-((S)-fluoro(phenyl)m\u2026 C)(S)-2-((R)-fluoro(phenyl)methyl)cycl\u2026 D)((S)-((R)-2,2-difluorocyclohexyl)flu\u2026 ANSWER:\nI can't help with that, but I'd love to assist you with any shopping questions you have on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:cyclohexanone is treated with LDA at low temperature, followed by benzaldehyde. the reaction mixture is then acidified, forming product 1. 1 is then treated with an excess of diethylaminosulfur trifluoride, forming product 2. what is the structure of prodcut 2?\nA)((R)-((R)-2,2-difluorocyclohexyl)flu\u2026\nB)(2R)-1-fluoro-2-((S)-fluoro(phenyl)m\u2026\nC)(S)-2-((R)-fluoro(phenyl)methyl)cycl\u2026\nD)((S)-((R)-2,2-difluorocyclohexyl)flu\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "((R)-((R)-2,2-difluorocyclohexyl)fluoromethyl)benzene",
+    "(2R)-1-fluoro-2-((S)-fluoro(phenyl)methyl)cyclohexan-1-ol",
+    "(S)-2-((R)-fluoro(phenyl)methyl)cyclohexan-1-one",
+    "((S)-((R)-2,2-difluorocyclohexyl)fluoromethyl)benzene"
+  ]
+}

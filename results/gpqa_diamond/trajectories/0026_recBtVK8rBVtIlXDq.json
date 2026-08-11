@@ -1,0 +1,19 @@
+{
+  "idx": 26,
+  "record_id": "recBtVK8rBVtIlXDq",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:\"Oh, I know you,\" the ribonucleoprotein particle says to the nascent chain as they meet. \"Pause there for a minute. Let me show you in; you really need some sugar.\" \"It seems somewhat rough. I guess this is goodbye; I need to be on my way\", the chain replies. Where did they meet, and where is the chain heading? A)membrane to the nucleus B)Golgi to the mitochondr\u2026 C)ribosome to the proteas\u2026 D)cytosol to the extracel\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:\"Oh, I know you,\" the ribonucleoprotein particle says to the nascent chain as they meet. \"Pause there for a minute. Let me show you in; you really need some sugar.\" \"It seems somewhat rough. I guess this is goodbye; I need to be on my way\", the chain replies. Where did they meet, and where is the chain heading?\nA)membrane to the nucleus\nB)Golgi to the mitochondr\u2026\nC)ribosome to the proteas\u2026\nD)cytosol to the extracel\u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "membrane to the nucleus",
+    "Golgi to the mitochondrion",
+    "ribosome to the proteasome",
+    "cytosol to the extracellular space"
+  ]
+}

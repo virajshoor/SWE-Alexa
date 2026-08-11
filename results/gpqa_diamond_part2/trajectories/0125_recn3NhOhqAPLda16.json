@@ -1,0 +1,19 @@
+{
+  "idx": 125,
+  "record_id": "recn3NhOhqAPLda16",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An organic chemist performs two reactions. Reaction I: (S)-5-methoxyhexan-3-one is treated with LAH followed by an acidic workup. Reaction II: Pentane-2,4-dione is treated with excess NaBH4 followed by an acidic workup. The progress of the reactions is monitored using TLC. After the reactions are 100% completed, the products from both reactions are combined, and run\u2026 A)3 Peaks in \u2026 B)3 peaks in \u2026 C)5 Peaks in \u2026 D)4 Peaks in \u2026 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant \u2014 I'm here to help with product questions, Amazon services, and general knowledge, but I can't answer chemistry exam or quiz questions.\nIs there anything shopping-related I can help you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An organic chemist performs two reactions. Reaction I: (S)-5-methoxyhexan-3-one is treated with LAH followed by an acidic workup. Reaction II: Pentane-2,4-dione is treated with excess NaBH4 followed by an acidic workup. The progress of the reactions is monitored using TLC. After the reactions are 100% completed, the products from both reactions are combined, and run\u2026\nA)3 Peaks in \u2026\nB)3 peaks in \u2026\nC)5 Peaks in \u2026\nD)4 Peaks in \u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "3 Peaks in chiral HPLC and 2 peaks in normal-phase HPLC",
+    "3 peaks in both chiral HPLC and normal-phase HPLC",
+    "5 Peaks in chiral HPLC and 4 peaks in normal-phase HPLC",
+    "4 Peaks in chiral HPLC and 2 peaks in normal-phase HPLC"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 27,
+  "record_id": "recCJJOeBGERaHYax",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:S)-4-hydroxycyclohex-2-en-1-one is treated with tert-Butyldimethylsilyl chloride and triethylamine, forming product 1. 1 is treated with Ph2CuLi at low temperature, followed by benzyl bromide, forming product 2. 2 is treated with LDA and iodomethane at low temperature, forming product 3. Product 3 is treatd with aqueous HCl, forming final product 4. what is the stru\u2026 A)(1S,2S,4S)-\u2026 B)(2R,3R,4S)-\u2026 C)(2S,3R,4S,6\u2026 D)(2S,3S,4S)-\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:S)-4-hydroxycyclohex-2-en-1-one is treated with tert-Butyldimethylsilyl chloride and triethylamine, forming product 1. 1 is treated with Ph2CuLi at low temperature, followed by benzyl bromide, forming product 2. 2 is treated with LDA and iodomethane at low temperature, forming product 3. Product 3 is treatd with aqueous HCl, forming final product 4. what is the stru\u2026\nA)(1S,2S,4S)-\u2026\nB)(2R,3R,4S)-\u2026\nC)(2S,3R,4S,6\u2026\nD)(2S,3S,4S)-\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "(1S,2S,4S)-1-(benzyloxy)-2-methyl-1,2,3,4-tetrahydro-[1,1'-biphenyl]-4-ol",
+    "(2R,3R,4S)-2-benzyl-4-hydroxy-2-methyl-3-phenylcyclohexan-1-one",
+    "(2S,3R,4S,6S)-2-benzyl-4-hydroxy-6-methyl-3-phenylcyclohexan-1-one",
+    "(2S,3S,4S)-2-benzyl-4-hydroxy-2-methyl-3-phenylcyclohexan-1-one"
+  ]
+}

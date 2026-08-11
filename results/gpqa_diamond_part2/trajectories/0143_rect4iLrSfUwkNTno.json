@@ -1,0 +1,19 @@
+{
+  "idx": 143,
+  "record_id": "rect4iLrSfUwkNTno",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:X is a meson resonance. What is the mean decay distance? Knowing that the production energy is $E_{X}=8GeV$, the mass $m_{X}=1.2GeV$, and the width $\\Gamma_{X}=320MeV$. A)5.0223 * 10^-15 m B)5.0223 * 10^-16 m C)4.0655 * 10^-16 m D)4.0655 * 10^-15 m ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:X is a meson resonance. What is the mean decay distance? Knowing that the production energy is $E_{X}=8GeV$, the mass $m_{X}=1.2GeV$, and the width $\\Gamma_{X}=320MeV$.\nA)5.0223 * 10^-15 m\nB)5.0223 * 10^-16 m\nC)4.0655 * 10^-16 m\nD)4.0655 * 10^-15 m\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "5.0223 * 10^-15 m",
+    "5.0223 * 10^-16 m",
+    "4.0655 * 10^-16 m",
+    "4.0655 * 10^-15 m"
+  ]
+}

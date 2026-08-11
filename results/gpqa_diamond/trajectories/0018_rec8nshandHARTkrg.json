@@ -1,0 +1,19 @@
+{
+  "idx": 18,
+  "record_id": "rec8nshandHARTkrg",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Michael reaction is a chemical process in organic chemistry where a nucleophile adds to a molecule containing a specific carbon-carbon double bond (C=C) adjacent to a carbonyl group (C=O). This reaction forms a new carbon-carbon bond, resulting in the addition of the nucleophile to the molecule. It's widely used for building complex organic compounds with specif\u2026 A)A = methyl \u2026 B)A = methyl \u2026 C)A = methyl \u2026 D)A = methyl \u2026 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant \u2014 I'm here to help with product searches, Amazon account questions, and general knowledge, but I can't complete quiz questions or academic exercises.\nIs there anything shopping-related I can help you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Michael reaction is a chemical process in organic chemistry where a nucleophile adds to a molecule containing a specific carbon-carbon double bond (C=C) adjacent to a carbonyl group (C=O). This reaction forms a new carbon-carbon bond, resulting in the addition of the nucleophile to the molecule. It's widely used for building complex organic compounds with specif\u2026\nA)A = methyl \u2026\nB)A = methyl \u2026\nC)A = methyl \u2026\nD)A = methyl \u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = methyl 3-(2-((2,4-dimethylphenyl)sulfinyl)ethyl)-2-oxocyclohexane-1-carboxylate, B = ethyl 2-ethyl-2-(1-(2-methoxy-2-oxo-1-phenylethyl)cyclopentyl)butanoate",
+    "A = methyl 3-(2-((2,4-dimethylphenyl)sulfinyl)ethyl)-2-oxocyclohexane-1-carboxylate, B = 4-ethyl 1-methyl 2-cyclopentyl-3,3-diethyl-2-phenylsuccinate",
+    "A = methyl 1-(2-((2,4-dimethylphenyl)sulfinyl)ethyl)-2-oxocyclohexane-1-carboxylate, B = ethyl 2-ethyl-2-(1-(2-methoxy-2-oxo-1-phenylethyl)cyclopentyl)butanoate",
+    "A = methyl 1-(2-((2,4-dimethylphenyl)sulfinyl)ethyl)-2-oxocyclohexane-1-carboxylate, B = 4-ethyl 1-methyl 2-cyclopentyl-3,3-diethyl-2-phenylsuccinate"
+  ]
+}

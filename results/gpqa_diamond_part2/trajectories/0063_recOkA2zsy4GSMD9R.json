@@ -1,0 +1,19 @@
+{
+  "idx": 63,
+  "record_id": "recOkA2zsy4GSMD9R",
+  "correct_letter": "A",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An equimolar mixture of salts A and B weighing 7.20 g was heated to 200\u00b0C without air. In this case, only a mixture of gases was formed, which, without cooling, was passed successively through tubes filled with anhydrous Mg(ClO4)2 (\u21161), Ca(OH)2 (\u21162) solution, and red-hot copper (\u21163). Results: the weights of tubes \u21161 and \u21163 increased by 3.60 g and 0.80 g, respectively (CuO formed in tube \u21163). The weight of\u2026 A)17 B)13 C)15 D)19 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An equimolar mixture of salts A and B weighing 7.20 g was heated to 200\u00b0C without air. In this case, only a mixture of gases was formed, which, without cooling, was passed successively through tubes filled with anhydrous Mg(ClO4)2 (\u21161), Ca(OH)2 (\u21162) solution, and red-hot copper (\u21163). Results: the weights of tubes \u21161 and \u21163 increased by 3.60 g and 0.80 g, respectively (CuO formed in tube \u21163). The weight of\u2026\nA)17\nB)13\nC)15\nD)19\nANSWER:",
+  "subdomain": "Inorganic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "17",
+    "13",
+    "15",
+    "19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 103,
+  "record_id": "recdya6FuYraBU5Rh",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are searching for exoplanets around two stars with exactly the same masses. Using the RV method, they detected one planet around each star, both with masses similar to that of Neptune. The stars themselves have masses similar to that of our Sun. Both planets were found to be in circular orbits. Planet #1 was detected from the up to 5 miliangstrom periodic shift of a spectral li\u2026 A)~ 0.36 B)~ 1.96 C)~ 0.85 D)~ 1.40 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are searching for exoplanets around two stars with exactly the same masses. Using the RV method, they detected one planet around each star, both with masses similar to that of Neptune. The stars themselves have masses similar to that of our Sun. Both planets were found to be in circular orbits. Planet #1 was detected from the up to 5 miliangstrom periodic shift of a spectral li\u2026\nA)~ 0.36\nB)~ 1.96\nC)~ 0.85\nD)~ 1.40\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "~ 0.36",
+    "~ 1.96",
+    "~ 0.85",
+    "~ 1.40"
+  ]
+}

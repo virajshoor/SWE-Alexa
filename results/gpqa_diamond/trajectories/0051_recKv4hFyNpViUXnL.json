@@ -1,0 +1,19 @@
+{
+  "idx": 51,
+  "record_id": "recKv4hFyNpViUXnL",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are studying a star with a 1.5 solar radius and 1.1 solar masses. When the star's surface is not covered by dark spots, its Teff is 6000K. However, when 40% of its surface is covered by spots, the overall photospheric effective temperature decreases to 5500 K. In the stellar photosphere, when examining the ratio of the number of neutral atoms of Ti in two energetic levels (level 1 and \u2026 A)~1.1 B)~2.9 C)~7.8 D)~4.5 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are studying a star with a 1.5 solar radius and 1.1 solar masses. When the star's surface is not covered by dark spots, its Teff is 6000K. However, when 40% of its surface is covered by spots, the overall photospheric effective temperature decreases to 5500 K. In the stellar photosphere, when examining the ratio of the number of neutral atoms of Ti in two energetic levels (level 1 and \u2026\nA)~1.1\nB)~2.9\nC)~7.8\nD)~4.5\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "~1.1",
+    "~2.9",
+    "~7.8",
+    "~4.5"
+  ]
+}

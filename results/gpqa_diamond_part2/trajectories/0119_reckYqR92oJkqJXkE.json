@@ -1,0 +1,19 @@
+{
+  "idx": 119,
+  "record_id": "reckYqR92oJkqJXkE",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Let us assume stars are uniformly distributed in the sky. In this scenario, how the number of stars per unit range of parallax (plx) changes with plx? A)~ 1/plx^3 B)~ 1/plx^2 C)~ 1/plx^1 D)~ 1/plx^4 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Let us assume stars are uniformly distributed in the sky. In this scenario, how the number of stars per unit range of parallax (plx) changes with plx?\nA)~ 1/plx^3\nB)~ 1/plx^2\nC)~ 1/plx^1\nD)~ 1/plx^4\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "~ 1/plx^3",
+    "~ 1/plx^2",
+    "~ 1/plx^1",
+    "~ 1/plx^4"
+  ]
+}

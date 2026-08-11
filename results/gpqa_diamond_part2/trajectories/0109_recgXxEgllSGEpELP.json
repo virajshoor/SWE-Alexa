@@ -1,0 +1,19 @@
+{
+  "idx": 109,
+  "record_id": "recgXxEgllSGEpELP",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which of the following stars can be detected with both the ESPRESSO spectrograph at the Paranal Observatory and the HIRES spectrograph at the Keck Observatory? Please refer to the links below for more information about the observatories. It should be noted that with ESPRESSO, stars with apparent V magnitudes brighter than 17 mag can be observed, while with HIRES, st\u2026 A)Star1 and S\u2026 B)Star2 and S\u2026 C)Star4 and S\u2026 D)Star3 and S\u2026 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant, and I'm not designed to answer quiz or academic questions \u2014 especially ones with incomplete information (the question and answer choices appear to be cut off).\nIs there anything I can help you with on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which of the following stars can be detected with both the ESPRESSO spectrograph at the Paranal Observatory and the HIRES spectrograph at the Keck Observatory? Please refer to the links below for more information about the observatories. It should be noted that with ESPRESSO, stars with apparent V magnitudes brighter than 17 mag can be observed, while with HIRES, st\u2026\nA)Star1 and S\u2026\nB)Star2 and S\u2026\nC)Star4 and S\u2026\nD)Star3 and S\u2026\nANSWER:",
+  "subdomain": "Astrophysics",
+  "domain": "Physics",
+  "choices": [
+    "Star1 and Star4",
+    "Star2 and Star3",
+    "Star4 and Star5",
+    "Star3 and Star5"
+  ]
+}

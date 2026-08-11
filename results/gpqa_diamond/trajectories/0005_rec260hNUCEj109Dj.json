@@ -1,0 +1,19 @@
+{
+  "idx": 5,
+  "record_id": "rec260hNUCEj109Dj",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A quantum mechanical particle of mass m moves in two dimensions in the following potential, as a function of (r,\u03b8): V (r, \u03b8) = 1/2 kr^2 + 3/2 kr^2 cos^2(\u03b8) Find the energy spectrum. A)E = (n_x+3*n_y+3/2) \u210f*sqrt(k/m)) B)E = (2n_x+3n_y+1/2) \u210f*sqrt(k/m)) C)E = (2n_x+n_y+3/2)\u210f*sqrt(k/m) D)E = (3n_x+2n_y+1/2) \u210f*sqrt(k/m)) ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A quantum mechanical particle of mass m moves in two dimensions in the following potential, as a function of (r,\u03b8): V (r, \u03b8) = 1/2 kr^2 + 3/2 kr^2 cos^2(\u03b8) Find the energy spectrum.\nA)E = (n_x+3*n_y+3/2) \u210f*sqrt(k/m))\nB)E = (2n_x+3n_y+1/2) \u210f*sqrt(k/m))\nC)E = (2n_x+n_y+3/2)\u210f*sqrt(k/m)\nD)E = (3n_x+2n_y+1/2) \u210f*sqrt(k/m))\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "E = (n_x+3*n_y+3/2) \u210f*sqrt(k/m))",
+    "E = (2n_x+3n_y+1/2) \u210f*sqrt(k/m))",
+    "E = (2n_x+n_y+3/2)\u210f*sqrt(k/m)",
+    "E = (3n_x+2n_y+1/2) \u210f*sqrt(k/m))"
+  ]
+}

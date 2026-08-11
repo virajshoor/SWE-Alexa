@@ -1,0 +1,19 @@
+{
+  "idx": 133,
+  "record_id": "recpJmTOXx6T48nDJ",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Calculate the enthalpy of neutralization when 500 mL 0.2 M HCl, 300 mL 0.3 M H2SO4 and 200 mL 0.5 M Ba(OH)2 are mixed. A)-16.0 kJ B)-11.42 kcal C)-2.72 kcal D)-3.80 kcal ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Calculate the enthalpy of neutralization when 500 mL 0.2 M HCl, 300 mL 0.3 M H2SO4 and 200 mL 0.5 M Ba(OH)2 are mixed.\nA)-16.0 kJ\nB)-11.42 kcal\nC)-2.72 kcal\nD)-3.80 kcal\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "-16.0 kJ",
+    "-11.42 kcal",
+    "-2.72 kcal",
+    "-3.80 kcal"
+  ]
+}

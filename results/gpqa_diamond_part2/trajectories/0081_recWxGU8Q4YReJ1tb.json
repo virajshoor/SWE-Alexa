@@ -1,0 +1,19 @@
+{
+  "idx": 81,
+  "record_id": "recWxGU8Q4YReJ1tb",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:cyclooctatetraene was heated with maleic anhydride in a 1:1 ratio, forming product 1. 1 was heated with methnol and a small amount of sulfuric acid, forming product 2. 2 was heated with cyclopentadiene, forming final product 3. what is the structure of the major isomer of product 3? A)name: dimethyl (1R,4S,4aR,4bR,5\u2026 B)name: dimethyl (1R,4S,4aS,4bR,5\u2026 C)name: dimethyl (1R,4S,4aS,4bR,5\u2026 D)name: dimethyl (1S,4R,4aR,4bR,5\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:cyclooctatetraene was heated with maleic anhydride in a 1:1 ratio, forming product 1. 1 was heated with methnol and a small amount of sulfuric acid, forming product 2. 2 was heated with cyclopentadiene, forming final product 3. what is the structure of the major isomer of product 3?\nA)name: dimethyl (1R,4S,4aR,4bR,5\u2026\nB)name: dimethyl (1R,4S,4aS,4bR,5\u2026\nC)name: dimethyl (1R,4S,4aS,4bR,5\u2026\nD)name: dimethyl (1S,4R,4aR,4bR,5\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "name: dimethyl (1R,4S,4aR,4bR,5R,8S,8aS,8bS,10S,11R)-1,4,4a,4b,5,8,8a,8b-octahydro-1,4-ethano-5,8-methanobiphenylene-10,11-dicarboxylate\n\nSMILES: O=C(OC)[C@@H]1[C@H](C=C2)[C@@H]3[C@@H]([C@H]4[C@@H]3[C@@H]5C=C[C@H]4C5)[C@H]2[C@@H]1C(OC)=O",
+    "name: dimethyl (1R,4S,4aS,4bR,5R,8S,8aS,8bR,10R,11R)-1,4,4a,4b,5,8,8a,8b-octahydro-1,4-ethano-5,8-methanobiphenylene-10,11-dicarboxylate\n\nSMILES: O=C(OC)[C@@H]1[C@@H](C=C2)[C@@H]3[C@@H]([C@@H]4[C@H]3[C@H]5C=C[C@@H]4C5)[C@@H]2[C@H]1C(OC)=O",
+    "name: dimethyl (1R,4S,4aS,4bR,5S,8R,8aS,8bR,10S,11R)-1,4,4a,4b,5,8,8a,8b-octahydro-1,4-ethano-5,8-methanobiphenylene-10,11-dicarboxylate\n\nSMILES: O=C(OC)[C@H]1[C@@H](C=C2)[C@@H]3[C@@H]([C@@H]4[C@H]3[C@@H]5C=C[C@H]4C5)[C@@H]2[C@H]1C(OC)=O",
+    "name: dimethyl (1S,4R,4aR,4bR,5S,8R,8aS,8bS,10S,11R)-1,4,4a,4b,5,8,8a,8b-octahydro-1,4-ethano-5,8-methanobiphenylene-10,11-dicarboxylate\n\nSMILES: O=C(OC)[C@@H]1[C@@H](C=C2)[C@@H]3[C@@H]([C@H]4[C@@H]3[C@H]5C=C[C@@H]4C5)[C@@H]2[C@@H]1C(OC)=O"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 46,
+  "record_id": "recJJcOHhFeSaRpl4",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Identify the compound C9H11NO2 using the given data. IR: medium to strong intensity bands at 3420 cm-1, 3325 cm-1 strong band at 1720 cm-1 1H NMR: 1.20 ppm (t, 3H); 4.0 ppm (bs, 2H); 4.5 ppm (q, 2H); 7.0 ppm (d, 2H), 8.0 ppm (d, 2H). A)ethyl 4-aminobenzoate B)4-aminophenyl propionate C)N-(4-ethoxyphenyl)formamide D)3-ethoxybenzamide ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Identify the compound C9H11NO2 using the given data. IR: medium to strong intensity bands at 3420 cm-1, 3325 cm-1 strong band at 1720 cm-1 1H NMR: 1.20 ppm (t, 3H); 4.0 ppm (bs, 2H); 4.5 ppm (q, 2H); 7.0 ppm (d, 2H), 8.0 ppm (d, 2H).\nA)ethyl 4-aminobenzoate\nB)4-aminophenyl propionate\nC)N-(4-ethoxyphenyl)formamide\nD)3-ethoxybenzamide\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "ethyl 4-aminobenzoate",
+    "4-aminophenyl propionate",
+    "N-(4-ethoxyphenyl)formamide",
+    "3-ethoxybenzamide"
+  ]
+}

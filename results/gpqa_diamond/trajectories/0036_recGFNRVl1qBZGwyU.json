@@ -1,0 +1,19 @@
+{
+  "idx": 36,
+  "record_id": "recGFNRVl1qBZGwyU",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Identify the number of 13C-NMR signals produced by the final product, denoted as E, resulting from the series of reactions shown below. Propionaldehyde + EDT / BF3 ---> A A + BuLi ---> B B + Bromoethane ---> C C + HgCl2 / H2O / H+ ---> D D + PPh3 / 3-bromopentane / BuLi ---> E A)8 B)3 C)11 D)6 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Identify the number of 13C-NMR signals produced by the final product, denoted as E, resulting from the series of reactions shown below. Propionaldehyde + EDT / BF3 ---> A A + BuLi ---> B B + Bromoethane ---> C C + HgCl2 / H2O / H+ ---> D D + PPh3 / 3-bromopentane / BuLi ---> E\nA)8\nB)3\nC)11\nD)6\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "8",
+    "3",
+    "11",
+    "6"
+  ]
+}

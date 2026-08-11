@@ -1,0 +1,19 @@
+{
+  "idx": 72,
+  "record_id": "recS48OsU6kVadBPW",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two astronauts of masses 2m and 3m travel at relativistic speeds of 0.6 c and 0.5 c, respectively, in the positive x-direction. Here, c is the speed of light. What will be the relative speed and the total energy of the system? A)v_rel = 0.14c , E= 5.96 mc^2 B)v_rel=0.14c, E=5mc^2 C)v_rel =0.1c , E= 4.96 mc^2 D)v_rel = 1.1c , E= mc^2 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two astronauts of masses 2m and 3m travel at relativistic speeds of 0.6 c and 0.5 c, respectively, in the positive x-direction. Here, c is the speed of light. What will be the relative speed and the total energy of the system?\nA)v_rel = 0.14c , E= 5.96 mc^2\nB)v_rel=0.14c, E=5mc^2\nC)v_rel =0.1c , E= 4.96 mc^2\nD)v_rel = 1.1c , E= mc^2\nANSWER:",
+  "subdomain": "Relativistic Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "v_rel = 0.14c , E= 5.96 mc^2",
+    "v_rel=0.14c, E=5mc^2",
+    "v_rel =0.1c , E= 4.96 mc^2",
+    "v_rel = 1.1c , E= mc^2"
+  ]
+}

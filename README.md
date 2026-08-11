@@ -2,6 +2,8 @@
 
 Evaluate **Alexa for Shopping** (Amazon.com web UI only) on **SWE-bench Verified** by driving the chat interface with Playwright, collecting patches in parallel, then grading.
 
+## System name: **Alexa-Rufus-1**
+
 ## Summary of live run (`results/run40_live`)
 
 | Metric | Value |

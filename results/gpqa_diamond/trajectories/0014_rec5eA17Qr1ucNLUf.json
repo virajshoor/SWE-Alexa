@@ -1,0 +1,19 @@
+{
+  "idx": 14,
+  "record_id": "rec5eA17Qr1ucNLUf",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Researchers are attempting to detect transits of two Earth-like planets: Planet_1 and Planet_2. They have limited observing time and want to observe the one that has the highest probability of transiting. Both of these planets have already been detected via the RV method, allowing us to know their minimum masses and orbital periods. Although both planets share the s\u2026 A)Planet_2 is\u2026 B)Planet_1 is\u2026 C)Planet_1 is\u2026 D)Planet_2 is\u2026 ANSWER:\nI'm not able to help with that \u2014 I'm Alexa, Amazon's shopping assistant, so I'm not able to answer quiz questions or academic exercises. I'd be happy to help you with shopping, product questions, or anything Amazon-related!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Researchers are attempting to detect transits of two Earth-like planets: Planet_1 and Planet_2. They have limited observing time and want to observe the one that has the highest probability of transiting. Both of these planets have already been detected via the RV method, allowing us to know their minimum masses and orbital periods. Although both planets share the s\u2026\nA)Planet_2 is\u2026\nB)Planet_1 is\u2026\nC)Planet_1 is\u2026\nD)Planet_2 is\u2026\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "Planet_2 is preferred due to its ~2.25 times higher probability to transit.\n",
+    "Planet_1 is preferred due to its ~1.65 times higher probability to transit.\n",
+    "Planet_1 is preferred due to its ~2.7 times higher probability to transit.\n",
+    "Planet_2 is preferred due to its ~1.5 times higher probability to transit.\n"
+  ]
+}

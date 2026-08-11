@@ -1,0 +1,19 @@
+{
+  "idx": 74,
+  "record_id": "recTs7qzfJs6kfLUK",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You want to study the role of the GADD45G protein in a mouse model. You are highly interested in whether the IL-2-induced protein has a role in the SARS-CoV-2 infection. You decide to create a transgenic mouse model with the inducible overexpression of the coding sequence for the GADD45G gene. You can use it to affinity-purify the protein and identify the protein pa\u2026 A)The tRNA fo\u2026 B)The lack of\u2026 C)The sequenc\u2026 D)The ribosom\u2026 ANSWER:\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You want to study the role of the GADD45G protein in a mouse model. You are highly interested in whether the IL-2-induced protein has a role in the SARS-CoV-2 infection. You decide to create a transgenic mouse model with the inducible overexpression of the coding sequence for the GADD45G gene. You can use it to affinity-purify the protein and identify the protein pa\u2026\nA)The tRNA fo\u2026\nB)The lack of\u2026\nC)The sequenc\u2026\nD)The ribosom\u2026\nANSWER:",
+  "subdomain": "Molecular Biology",
+  "domain": "Biology",
+  "choices": [
+    "The tRNA for the UAA codon does not exist in the mouse",
+    "The lack of the linker sequence is triggering proteolysis of the nascent chain",
+    "The sequence for the antigenic determinant has a missense mutation",
+    "The ribosome terminated the translation early"
+  ]
+}

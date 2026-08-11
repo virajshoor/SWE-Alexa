@@ -1,0 +1,19 @@
+{
+  "idx": 134,
+  "record_id": "recpki12iG9RUGrz9",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Interaction between the bosonic field X and fermions is given by \\mathcal{L}\\left(y\\right)=-\\lambda{f}\\bar{\\psi}{f}\\left(y\\right)\\left(\\upsilon+X\\left(y\\right)\\right)\\psi_{f}\\left(y\\right) The mass of the boson X is 6 GeV. What are the kinematically allowed decays of the boson X at the lowest order? PS: for the maths use a LaTeX editor. A)X\\rightarrow b\\b\u2026 B)X\\rightarrow c\\b\u2026 C)X\\rightarrow c\\b\u2026 D)X\\rightarrow b\\b\u2026 ANSWER:\nI'm here to help with shopping questions and Amazon-related topics, so I'm not able to assist with physics quiz questions. I'd encourage you to use a dedicated academic resource for that!\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Interaction between the bosonic field X and fermions is given by \\mathcal{L}\\left(y\\right)=-\\lambda{f}\\bar{\\psi}{f}\\left(y\\right)\\left(\\upsilon+X\\left(y\\right)\\right)\\psi_{f}\\left(y\\right) The mass of the boson X is 6 GeV. What are the kinematically allowed decays of the boson X at the lowest order? PS: for the maths use a LaTeX editor.\nA)X\\rightarrow b\\b\u2026\nB)X\\rightarrow c\\b\u2026\nC)X\\rightarrow c\\b\u2026\nD)X\\rightarrow b\\b\u2026\nANSWER:",
+  "subdomain": "High-energy particle physics",
+  "domain": "Physics",
+  "choices": [
+    "X\\rightarrow b\\bar{b},s\\bar{s},u\\bar{u},d\\bar{d},\\tau^{+}\\tau^{-},e^{+}e^{-}",
+    "X\\rightarrow c\\bar{c},s\\bar{s},u\\bar{u},d\\bar{d},\\tau^{+}\\tau^{-},\\mu^{+}\\mu^{-},e^{+}e^{-}",
+    "X\\rightarrow c\\bar{c},s\\bar{s},u\\bar{u},d\\bar{d},t\\bar{t},\\tau^{+}\\tau^{-},\\mu^{+}\\mu^{-},e^{+}e^{-}",
+    "X\\rightarrow b\\bar{b},s\\bar{s},u\\bar{u},d\\bar{d},\\tau^{+}\\tau^{-},\\mu^{+}\\mu^{-},e^{+}e^{-}"
+  ]
+}

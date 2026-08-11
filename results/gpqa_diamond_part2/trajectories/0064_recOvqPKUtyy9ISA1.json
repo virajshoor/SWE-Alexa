@@ -1,0 +1,19 @@
+{
+  "idx": 64,
+  "record_id": "recOvqPKUtyy9ISA1",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:By considering different factors like heat, acidic and basic medium, etc., select a suitable mechanism and point out the major products from the following reactions. 1-vinylspiro[3.5]non-5-en-1-ol + (THF, KH, H+) ---> A (E)-pent-2-en-1-ol + acetyl bromide (Base = LDA) ---> B A)A = decahydro-7H-benzo[7]annulen-\u2026 B)A = decahydro-7H-benzo[7]annulen-\u2026 C)A = (E)-bicyclo[5.3.1]undec-1(11)\u2026 D)A = (E)-bicyclo[5.3.1]undec-1(11)\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:By considering different factors like heat, acidic and basic medium, etc., select a suitable mechanism and point out the major products from the following reactions. 1-vinylspiro[3.5]non-5-en-1-ol + (THF, KH, H+) ---> A (E)-pent-2-en-1-ol + acetyl bromide (Base = LDA) ---> B\nA)A = decahydro-7H-benzo[7]annulen-\u2026\nB)A = decahydro-7H-benzo[7]annulen-\u2026\nC)A = (E)-bicyclo[5.3.1]undec-1(11)\u2026\nD)A = (E)-bicyclo[5.3.1]undec-1(11)\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = decahydro-7H-benzo[7]annulen-7-one, B = lithium 3-ethylpent-4-enoate",
+    "A = decahydro-7H-benzo[7]annulen-7-one, B = 3-ethylpent-4-enoic acid",
+    "A = (E)-bicyclo[5.3.1]undec-1(11)-en-4-one, B = 3-ethylpent-4-enoic acid",
+    "A = (E)-bicyclo[5.3.1]undec-1(11)-en-4-one, B = lithium 3-ethylpent-4-enoate"
+  ]
+}

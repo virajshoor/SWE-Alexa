@@ -1,0 +1,19 @@
+{
+  "idx": 70,
+  "record_id": "recRTiyaRymerDJ4y",
+  "correct_letter": "C",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Astronomers are studying a system of five exoplanets with circular orbits, discovered through the TTV method. The planets (designated as Planet_1 through Planet_5), which are in orbital resonance, have orbital periods in a ratio of 1:2:2.5:3.5:5. Assuming these planets possess the same albedo, what is the ratio of the equilibrium temperatures between Planet_4 and Planet_2? A)~0.69 B)~0.57 C)~0.83 D)~0.75 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Astronomers are studying a system of five exoplanets with circular orbits, discovered through the TTV method. The planets (designated as Planet_1 through Planet_5), which are in orbital resonance, have orbital periods in a ratio of 1:2:2.5:3.5:5. Assuming these planets possess the same albedo, what is the ratio of the equilibrium temperatures between Planet_4 and Planet_2?\nA)~0.69\nB)~0.57\nC)~0.83\nD)~0.75\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "~0.69",
+    "~0.57",
+    "~0.83",
+    "~0.75"
+  ]
+}

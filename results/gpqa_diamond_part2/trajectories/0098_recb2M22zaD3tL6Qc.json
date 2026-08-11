@@ -1,0 +1,19 @@
+{
+  "idx": 98,
+  "record_id": "recb2M22zaD3tL6Qc",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You have prepared an unknown compound. To identify the product, you have used the following characterisation techniques: FTIR and 1H NMR. The FTIR spectrum shows a very broad absorption peak at 3000 wavenumbers. A strong absorption peak is also observed at 1700 wavenumbers. Several peaks were observed in the 1H NMR spectrum, none of which are correspond to vinyl-hyd\u2026 A)CH3CH2C(H)(\u2026 B)CH3C(H)(C2H\u2026 C)CH3CH2C(H)(\u2026 D)CH3C(H)(CH3\u2026 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You have prepared an unknown compound. To identify the product, you have used the following characterisation techniques: FTIR and 1H NMR. The FTIR spectrum shows a very broad absorption peak at 3000 wavenumbers. A strong absorption peak is also observed at 1700 wavenumbers. Several peaks were observed in the 1H NMR spectrum, none of which are correspond to vinyl-hyd\u2026\nA)CH3CH2C(H)(\u2026\nB)CH3C(H)(C2H\u2026\nC)CH3CH2C(H)(\u2026\nD)CH3C(H)(CH3\u2026\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "CH3CH2C(H)(CH3)C(H)(CH3)COOH",
+    "CH3C(H)(C2H5)C(H)(C2H5)CH2COOH",
+    "CH3CH2C(H)(C2H5)C(H)(C2H5)COOH",
+    "CH3C(H)(CH3)C(H)(CH3)CH2COOH"
+  ]
+}

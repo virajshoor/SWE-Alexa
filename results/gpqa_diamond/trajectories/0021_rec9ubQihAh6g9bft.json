@@ -1,0 +1,19 @@
+{
+  "idx": 21,
+  "record_id": "rec9ubQihAh6g9bft",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A student regrets that he fell asleep during a lecture in electrochemistry, facing the following incomplete statement in a test: Thermodynamically, oxygen is a \u2026\u2026 oxidant in basic solutions. Kinetically, oxygen reacts \u2026\u2026 in acidic solutions. Which combination of weaker/stronger and faster/slower is correct? A)stronger \u2013 slower B)stronger \u2013 faster C)weaker - slower D)weaker \u2013 faster ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A student regrets that he fell asleep during a lecture in electrochemistry, facing the following incomplete statement in a test: Thermodynamically, oxygen is a \u2026\u2026 oxidant in basic solutions. Kinetically, oxygen reacts \u2026\u2026 in acidic solutions. Which combination of weaker/stronger and faster/slower is correct?\nA)stronger \u2013 slower\nB)stronger \u2013 faster\nC)weaker - slower\nD)weaker \u2013 faster\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "stronger \u2013 slower",
+    "stronger \u2013 faster",
+    "weaker - slower",
+    "weaker \u2013 faster"
+  ]
+}

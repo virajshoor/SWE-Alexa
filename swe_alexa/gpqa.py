@@ -135,6 +135,7 @@ class GPQAResult:
     prompt: str
     subdomain: str
     domain: str
+    model_name: str = "Alexa-Rufus-1"
 
 
 def _worker(
@@ -327,6 +328,8 @@ def run_gpqa(
     n_pred = sum(1 for r in results if r.predicted_letter)
     summary = {
         "benchmark": "GPQA-Diamond",
+        "system_name": "Alexa-Rufus-1",
+        "model_name": "Alexa-Rufus-1",
         "n_instances": n,
         "n_ok_replies": sum(1 for r in results if r.ok),
         "n_parsed_letters": n_pred,

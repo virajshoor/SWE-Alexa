@@ -1,0 +1,19 @@
+{
+  "idx": 128,
+  "record_id": "recnawZPumSCLMVgp",
+  "correct_letter": "C",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Identify compound E in the following reaction scheme. Compound A, when reacted with HCN, produces compound B. Compound B, upon reduction with H2 in the presence of Pd, forms compound C. Compound C, upon reaction with HNO2, forms compound D. Compound D, upon elimination of an inert gas, forms compound E. Hints: a) Compound A, when reacted with an unknown phosphorous \u2026 A)2,3,4-trime\u2026 B)2,2,3,4-tet\u2026 C)3,4-dimethy\u2026 D)4-methylcyc\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, but I'm not able to assist with academic quizzes or chemistry problems. I'd suggest checking a study resource or asking a tutor for help with that one!\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Identify compound E in the following reaction scheme. Compound A, when reacted with HCN, produces compound B. Compound B, upon reduction with H2 in the presence of Pd, forms compound C. Compound C, upon reaction with HNO2, forms compound D. Compound D, upon elimination of an inert gas, forms compound E. Hints: a) Compound A, when reacted with an unknown phosphorous \u2026\nA)2,3,4-trime\u2026\nB)2,2,3,4-tet\u2026\nC)3,4-dimethy\u2026\nD)4-methylcyc\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "2,3,4-trimethylcyclopentan-1-one",
+    "2,2,3,4-tetramethylcyclobutan-1-one",
+    "3,4-dimethylcyclohexan-1-one",
+    "4-methylcycloheptan-1-one"
+  ]
+}

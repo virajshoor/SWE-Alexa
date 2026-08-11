@@ -13,7 +13,7 @@
     "has_email": false
   },
   "preds_path": "results/run40/preds.jsonl",
-  "model_name": "amazon-alexa-for-shopping-web",
+  "model_name": "Alexa-Rufus-1",
   "workers": 4,
   "instance_ids": [
     "astropy__astropy-12907",

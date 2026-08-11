@@ -4,7 +4,7 @@ split: test
 limit: 40
 workers: 4
 wait_seconds: 45
-model_name: amazon-alexa-for-shopping-web
+model_name: Alexa-Rufus-1
 amazon_home: https://www.amazon.com/
 notes: |
   Alexa for Shopping is only available on amazon.com for signed-in US customers.

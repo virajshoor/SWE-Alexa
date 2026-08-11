@@ -1,0 +1,19 @@
+{
+  "idx": 54,
+  "record_id": "recLSzwBUS3olCjhl",
+  "correct_letter": "C",
+  "predicted_letter": "B",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You have prepared an unknown organic compound. The following 1H NMR data was obtained: 1H NMR: chemical reference (ppm): 7.0 (1H, d, J = 16.0 Hz), 5.5 (1H, dq), 2.1 (3H, s), 1.6 (3H, d) Identify the unknown compound as either Cis-propenyl acetate, Trans-propenyl acetate, Cis-butenyl acetate, or Trans-butenyl acetate. A)Cis-butenyl acetate B)Trans-butenyl acetate C)Trans-propenyl acetate D)Cis-propenyl acetate ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You have prepared an unknown organic compound. The following 1H NMR data was obtained: 1H NMR: chemical reference (ppm): 7.0 (1H, d, J = 16.0 Hz), 5.5 (1H, dq), 2.1 (3H, s), 1.6 (3H, d) Identify the unknown compound as either Cis-propenyl acetate, Trans-propenyl acetate, Cis-butenyl acetate, or Trans-butenyl acetate.\nA)Cis-butenyl acetate\nB)Trans-butenyl acetate\nC)Trans-propenyl acetate\nD)Cis-propenyl acetate\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "Cis-butenyl acetate",
+    "Trans-butenyl acetate",
+    "Trans-propenyl acetate",
+    "Cis-propenyl acetate"
+  ]
+}

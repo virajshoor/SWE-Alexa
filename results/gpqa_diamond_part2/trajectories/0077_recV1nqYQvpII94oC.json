@@ -1,0 +1,19 @@
+{
+  "idx": 77,
+  "record_id": "recV1nqYQvpII94oC",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Imagine a point charge q is moving with a trajectory $\\vec{s}(t)$, where t is time, with respect to the origin. Let $\\vec{r}$ be the field point, where the field is observed, with respect to the origin of the same reference frame, and $\\vec{d}$ be the vector from the point where the electromagnetic field was generated at some earlier time $tr$ to the observation poi\u2026 A)V(\\vec{r},t\u2026 B)V(\\vec{r},t\u2026 C)V(\\vec{r},t\u2026 D)V(\\vec{r},t\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, not academic quizzes. For physics help, I'd suggest a resource like Khan Academy or your course materials.\nIs there anything I can help you find on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Imagine a point charge q is moving with a trajectory $\\vec{s}(t)$, where t is time, with respect to the origin. Let $\\vec{r}$ be the field point, where the field is observed, with respect to the origin of the same reference frame, and $\\vec{d}$ be the vector from the point where the electromagnetic field was generated at some earlier time $tr$ to the observation poi\u2026\nA)V(\\vec{r},t\u2026\nB)V(\\vec{r},t\u2026\nC)V(\\vec{r},t\u2026\nD)V(\\vec{r},t\u2026\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "V(\\vec{r},t) = \\dfrac{qc}{4\\pi\\epsilon_o (d c + \\vec{d}. \\vec{v})},  \\vec{A(\\vec{r},t)} = \\dfrac{\\mu qc \\vec{v}}{4\\pi (d c + \\vec{d}. \\vec{v})}\n",
+    "V(\\vec{r},t) = \\dfrac{q}{4\\pi\\epsilon_o r}, \\vec{A(\\vec{r},t)} = \\dfrac{\\vec{v}}{c^2} V(\\vec{r},t)\n",
+    "V(\\vec{r},t) = \\dfrac{q}{4\\pi\\epsilon_o r},  \\vec{A(\\vec{r},t)} = \\dfrac{\\vec{v^2}}{c^2} V(\\vec{r},t)\n",
+    "V(\\vec{r},t) = \\dfrac{qc}{4\\pi\\epsilon_o (d c - \\vec{d}. \\vec{v})},  \\vec{A(\\vec{r},t)} = \\dfrac{\\mu_o qc \\vec{v}}{4\\pi (d c - \\vec{d}. \\vec{v})}"
+  ]
+}

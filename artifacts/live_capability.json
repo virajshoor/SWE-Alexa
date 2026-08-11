@@ -1,0 +1,7 @@
+{
+  "opened": true,
+  "ok": false,
+  "error": "Failed to send prompt: Locator.click: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator(\"#rufus-text-area\").first\n    - locator resolved to <textarea maxlength=\"500\" id=\"rufus-text-area\" placeholder=\"Ask a shopping question\"></textarea>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"a-modal-scroller a-declarative\" data-action=\"a-popover-floating-close\">\u2026</div> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"a-modal-scroller a-declarative\" data-action=\"a-popover-floating-close\">\u2026</div> intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    112 \u00d7 waiting for element to be visible, enabled and stable\n        - element is visible, enabled and stable\n        - scrolling into view if needed\n        - done scrolling\n        - <div class=\"a-modal-scroller a-declarative\" data-action=\"a-popover-floating-close\">\u2026</div> intercepts pointer events\n      - retrying click action\n        - waiting 500ms\n",
+  "text": "",
+  "url": "https://www.amazon.com/"
+}

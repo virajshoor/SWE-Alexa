@@ -1,0 +1,19 @@
+{
+  "idx": 148,
+  "record_id": "recv7GsQg3f0fvB1f",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You are analyzing a small peptidic compound that has been chemically synthesized. The 1H NMR spectrum of the crude compound appears consistent with the expected molecule, with the exception of two peaks that both correspond to the same alpha-proton. These two peaks have similar chemical shifts and roughly equal integrals (together they integrate to 1H - the expected\u2026 A)The crude c\u2026 B)The compoun\u2026 C)'Double cou\u2026 D)The crude c\u2026 ANSWER:\nI'm not able to help with that, but I'd be happy to assist you with any shopping questions on Amazon!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You are analyzing a small peptidic compound that has been chemically synthesized. The 1H NMR spectrum of the crude compound appears consistent with the expected molecule, with the exception of two peaks that both correspond to the same alpha-proton. These two peaks have similar chemical shifts and roughly equal integrals (together they integrate to 1H - the expected\u2026\nA)The crude c\u2026\nB)The compoun\u2026\nC)'Double cou\u2026\nD)The crude c\u2026\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "The crude compound exists as a mixture of enantiomers",
+    "The compound is contaminated with a precursor",
+    "'Double coupling' has occurred during an amide-bond forming reaction",
+    "The crude compound exists as a mixture of diastereoisomers"
+  ]
+}

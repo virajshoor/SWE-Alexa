@@ -1,0 +1,19 @@
+{
+  "idx": 147,
+  "record_id": "recuyeuT5rQ6qDt8F",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Five binary compounds of fluorine with element Y are known. The bright-red substance A1 decomposes at 293 K into A2 (\u0277F=31,96%) and fluorine. A1 oxidizes xenon under normal conditions. A3 can also interact with xenon. A3 is obtained by fluorination of element Y with fluorine. By adding Y in a 1:1 molar ratio to a hot colorless concentrated solution of A4, A5 can be obtained. In water, \u2026 A)160-180 B)220-240 C)110-130 D)140-160 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Five binary compounds of fluorine with element Y are known. The bright-red substance A1 decomposes at 293 K into A2 (\u0277F=31,96%) and fluorine. A1 oxidizes xenon under normal conditions. A3 can also interact with xenon. A3 is obtained by fluorination of element Y with fluorine. By adding Y in a 1:1 molar ratio to a hot colorless concentrated solution of A4, A5 can be obtained. In water, \u2026\nA)160-180\nB)220-240\nC)110-130\nD)140-160\nANSWER:",
+  "subdomain": "Chemistry (general)",
+  "domain": "Chemistry",
+  "choices": [
+    "160-180",
+    "220-240",
+    "110-130",
+    "140-160"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 114,
+  "record_id": "reciuppdQde4FGX1z",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:An electron is moving along the horizontal axis from the left with a Lorentz factor of 4. A positron is also moving along the horizontal axis, but from the right with a Lorentz factor of 2. After colliding, both annihilate producing 2 photons. The energies of both photons were measured and they have the same value. The directions were also measured. One of the photons was moving in the upper-right direc\u2026 A)96 B)74 C)138 D)172 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:An electron is moving along the horizontal axis from the left with a Lorentz factor of 4. A positron is also moving along the horizontal axis, but from the right with a Lorentz factor of 2. After colliding, both annihilate producing 2 photons. The energies of both photons were measured and they have the same value. The directions were also measured. One of the photons was moving in the upper-right direc\u2026\nA)96\nB)74\nC)138\nD)172\nANSWER:",
+  "subdomain": "Physics (general)",
+  "domain": "Physics",
+  "choices": [
+    "96",
+    "74",
+    "138",
+    "172"
+  ]
+}

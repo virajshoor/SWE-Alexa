@@ -1,0 +1,19 @@
+{
+  "idx": 139,
+  "record_id": "recrHBEJJoDTV05JR",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Substance X, known for incorporating a heavier isotope of one of its constituent elements, reacts violently with liquid Y with the release of a gas W whose molecule contains the same number of neutrons and protons, and a precipitate G forms, which, when heated, releases B. The melting point of B (under normal conditions) is very close to 277 K. The product of the reaction of a certain keto acid with the s\u2026 A)31 B)35 C)25 D)29 ANSWER:\nI'm not able to help with that. I'm Alexa, Amazon's shopping assistant \u2014 I'm here to help with product searches, Amazon account questions, and general knowledge queries, but I'm not designed to answer quiz or exam questions.\nIs there anything shopping-related I can help you with today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Substance X, known for incorporating a heavier isotope of one of its constituent elements, reacts violently with liquid Y with the release of a gas W whose molecule contains the same number of neutrons and protons, and a precipitate G forms, which, when heated, releases B. The melting point of B (under normal conditions) is very close to 277 K. The product of the reaction of a certain keto acid with the s\u2026\nA)31\nB)35\nC)25\nD)29\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "31",
+    "35",
+    "25",
+    "29"
+  ]
+}

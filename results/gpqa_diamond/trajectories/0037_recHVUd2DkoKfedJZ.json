@@ -1,0 +1,19 @@
+{
+  "idx": 37,
+  "record_id": "recHVUd2DkoKfedJZ",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Enamine reactions include nucleophilic substitutions, electrophilic additions, and the condensation of secondary amines with carbonyl compounds to generate enamines. Enamine reactions are useful techniques for creating complex compounds with specified functional groups and stereochemistry. Mention the product of the following reaction (B) and select the correct sequ\u2026 A)A = (i) LDA\u2026 B)(i) LDA, DM\u2026 C)(i) LDA (ii\u2026 D)(i) LDA (ii\u2026 ANSWER:\nI'm here to help with Amazon shopping questions, general knowledge, and more \u2014 but answering academic quiz questions isn't something I'm able to assist with. I'd be happy to help you find chemistry textbooks or study guides on Amazon if that would be useful!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Enamine reactions include nucleophilic substitutions, electrophilic additions, and the condensation of secondary amines with carbonyl compounds to generate enamines. Enamine reactions are useful techniques for creating complex compounds with specified functional groups and stereochemistry. Mention the product of the following reaction (B) and select the correct sequ\u2026\nA)A = (i) LDA\u2026\nB)(i) LDA, DM\u2026\nC)(i) LDA (ii\u2026\nD)(i) LDA (ii\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = (i) LDA, DME (ii) CH3CH2I (iii) H3O+ B = heptan-4-one",
+    "(i) LDA, DME (ii) CH3CH2I (iii) H3O+ B = pentan-2-one + N,N-dimethylethanamine",
+    "(i) LDA (ii) DME, CH3CH2I, H3O+, B = pentan-2-one + N,N-dimethylethanamine",
+    "(i) LDA (ii) DME, CH3CH2I, H3O+, B = heptan-4-one"
+  ]
+}

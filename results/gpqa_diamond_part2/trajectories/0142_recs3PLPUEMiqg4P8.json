@@ -1,0 +1,19 @@
+{
+  "idx": 142,
+  "record_id": "recs3PLPUEMiqg4P8",
+  "correct_letter": "D",
+  "predicted_letter": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Pinacol-Pinacolone rearrangement is a chemical reaction involving the conversion of a pinacol molecule, containing two adjacent alcohol groups, into a pinacolone under acidic conditions. It proceeds through the protonation of one alcohol group, followed by a 1,2-hydride shift, leading to the formation of a ketone (pinacolone) and the rearrangement of the molecul\u2026 A)A = 1-(hydr\u2026 B)A = 1-(hydr\u2026 C)A = 1-(hydr\u2026 D)A = 1-(hydr\u2026 ANSWER:\nI'm not able to answer quiz questions, but I'd be happy to help you find chemistry textbooks, study guides, or organic chemistry resources on Amazon if you're studying this topic!\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Pinacol-Pinacolone rearrangement is a chemical reaction involving the conversion of a pinacol molecule, containing two adjacent alcohol groups, into a pinacolone under acidic conditions. It proceeds through the protonation of one alcohol group, followed by a 1,2-hydride shift, leading to the formation of a ketone (pinacolone) and the rearrangement of the molecul\u2026\nA)A = 1-(hydr\u2026\nB)A = 1-(hydr\u2026\nC)A = 1-(hydr\u2026\nD)A = 1-(hydr\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "A = 1-(hydroxydi-p-tolylmethyl)cyclopentan-1-ol, B = methyl 2-methyl-3-oxo-2-(p-tolyl)propanoate",
+    "A = 1-(hydroxydi-p-tolylmethyl)cyclohexan-1-ol, B = methyl 3-oxo-2-(p-tolyl)butanoate",
+    "A = 1-(hydroxydi-p-tolylmethyl)cyclohexan-1-ol, B = methyl 2-methyl-3-oxo-2-(p-tolyl)propanoate",
+    "A = 1-(hydroxydi-p-tolylmethyl)cyclopentan-1-ol, B = methyl 3-oxo-2-(p-tolyl)butanoate"
+  ]
+}

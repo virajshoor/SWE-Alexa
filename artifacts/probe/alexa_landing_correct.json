@@ -1,0 +1,144 @@
+{
+  "info": {
+    "title": "Amazon.com: : All Departments",
+    "url": "https://www.amazon.com/b?ie=UTF8&node=216450446011",
+    "body": "Skip to\nMain content\nKeyboard shortcuts\nSearch\nalt\n+\n/\nCart\nshift\n+\nalt\n+\nC\nHome\nshift\n+\nalt\n+\nH\nOrders\nshift\n+\nalt\n+\nO\nShow/Hide shortcuts\nshift\n+\nalt\n+\nZ\nTo move between items, use your keyboard's up or down arrows.\nDelivering to Ashburn 20149\nUpdate location\nAll\nAll Departments\nAlexa Skills\nAmazon Autos\nAmazon Devices\nAmazon Global Store\nAmazon Haul\nAmazon One Medical\nAmazon Pharmacy\nAmazon Resale\nAppliances\nApps & Games\nArts, Crafts & Sewing\nAudible Books & Originals\nAutomotive Parts & Accessories\nBaby\nBeauty & Personal Care\nBooks\nCDs & Vinyl\nCell Phones & Accessories\nClothing, Shoes & Jewelry\nWomen's Clothing, Shoes & Jewelry\nMen's Clothing, Shoes & Jewelry\nGirl's Clothing, Shoes & Jewelry\nBoy's Clothing, Shoes & Jewelry\nBaby Clothing, Shoes & Jewelry\nCollectibles & Fine Art\nComputers\nCredit and Payment Cards\nDigital Music\nElectronics\nGarden & Outdoor\nGift Cards\nGrocery & Gourmet Food\nHandmade\nHealth, Household & Baby Care\nHome & Business Services\nHome & Kitchen\nIndustrial & Scientific\nJust for Prime\nKindle Store\nLuggage & Travel Gear\nLuxury Stores\nMagazine Subscriptions\nMovies & TV\nMusical Instruments\nOffice Products\nPet Supplies\nPremium Beauty\nPrime Video\nSmart Home\nSoftware\nSports & Outdoors\nSubscribe & Save\nSubscription Boxes\nTools & Home Improvement\nToys & Games\nUnder $10\nVideo Games\nWhole Foods Market\nEN\nHello, sign in\nAccount & Lists\nReturns\n& Orders\n0\nCart\nSign in\nNew customer? Start here.\nAll\nHealth AI\nAmazon Haul\nMedical Care\nAmazon Basics\nBest Sellers\nPrime\nNew Releases\nToday's Deals\nBooks\nGroceries\nWhole Foods\nGift Cards\nSell\nFashion\nRegistry\nMusic\nAmazon Home\nToys & Games\nAutomotive\nBaby\nHome Improvement\nSports & Outdoors\nSmart Home\nShop By Interest\nPharmacy\nEveryday\nFAQs\nHow can Alexa help me shop in the Amazon Store?\n\nYou can ask Alexa all kinds of shopping questions in the Amazon Shopping app, and on Amazon.com on your desktop and mobile website. Some ideas to get you started:\n\nGet help with something you're not yet an expert on: \"What do I need for a weekend camping trip?\"\nFind out more about a topic that interests you: \"What are different types of coffee makers?\"\nGet product info that matters to you: \"What's the battery life of this laptop?\"\nCheck the status of an order: \"Where's my shampoo order?\"\nHow do I start chatting?\n\nAlexa for Shopping is available to US customers in the Amazon Shopping app, and on Amazon.com on your desktop and mobile website. To access Alexa while in the Amazon store, simply update your Amazon Shopping app and tap the Alexa icon in the navigation bar. On Amazon.com, desktop users can find the Alexa for Shopping icon at the top left of their screen, and mobile website users can find it in the top right corner of the screen, next to the search bar.\n\nHow is this different from Rufus?\n\nAmazon is bringing Rufus and Alexa together to create one AI assistant with shared memory. In the Amazon store, this appears as Alexa for Shopping.\n\nAre preferences and information that I share in the Alexa app or on Ale",
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "id": "unifiedLocation1ClickAddress",
+        "name": "dropdown-selection",
+        "ph": null,
+        "aria": null,
+        "cls": "nav-progressive-attribute",
+        "visible": false,
+        "w": 0,
+        "h": 0,
+        "y": 0
+      },
+      {
+        "tag": "INPUT",
+        "id": "ubbShipTo",
+        "name": "dropdown-selection-ubb",
+        "ph": null,
+        "aria": null,
+        "cls": "nav-progressive-attribute",
+        "visible": false,
+        "w": 0,
+        "h": 0,
+        "y": 0
+      },
+      {
+        "tag": "INPUT",
+        "id": "glowValidationToken",
+        "name": "glow-validation-token",
+        "ph": null,
+        "aria": null,
+        "cls": "nav-progressive-attribute",
+        "visible": false,
+        "w": 0,
+        "h": 0,
+        "y": 0
+      },
+      {
+        "tag": "INPUT",
+        "id": "glowDestinationType",
+        "name": "glow-destination-type",
+        "ph": null,
+        "aria": null,
+        "cls": "nav-progressive-attribute",
+        "visible": false,
+        "w": 0,
+        "h": 0,
+        "y": 0
+      },
+      {
+        "tag": "INPUT",
+        "id": "twotabsearchtextbox",
+        "name": "field-keywords",
+        "ph": "Search Amazon",
+        "aria": "Search Amazon",
+        "cls": "nav-input nav-progressive-attribute",
+        "visible": true,
+        "w": 610.25,
+        "h": 38,
+        "y": 11
+      },
+      {
+        "tag": "INPUT",
+        "id": "nav-search-submit-button",
+        "name": null,
+        "ph": null,
+        "aria": null,
+        "cls": "nav-input nav-progressive-attribute",
+        "visible": true,
+        "w": 45,
+        "h": 40,
+        "y": 10
+      },
+      {
+        "tag": "INPUT",
+        "id": "",
+        "name": "ue_back",
+        "ph": null,
+        "aria": null,
+        "cls": "",
+        "visible": false,
+        "w": 0,
+        "h": 0,
+        "y": 0
+      }
+    ],
+    "hasAskPlaceholder": false
+  },
+  "net": [
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/51waPb-h-9L._RC%7C71M-boLUTYL.css,41WcY5PbsbL.css,61p+Jc2B9kL.css,51G4QqYV3kL.css,41z1jkezPCL.css,01FcI3FsaiL.css,21y6uRBcF9L.css,01-Mnqi69mL.css,31YZpDCYJPL.css,21DwGGPS1eL.css,41vWFCvFunL.css,21CB9R4dxNL.css,111B"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/21ApIf-vN4L.css?AUIClients/OctopusBrowsePageAssets"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/0152SLDk8CL.js?AUIClients/OctopusBrowsePageAssets"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/G/01/Rufus/LP_Desktop_Hero_test.jpg"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/G/01/Rufus/BlueHeron/2026_BlueHeron_GettingStarted_LP_Desktop_Details.png"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/G/01/Rufus/BlueHeron/2026_BlueHeron_GettingStarted_LP_Desktop_Ingress_v2.png"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/51rG04VN8cL._RC%7C71SQlPx3FQL.js,41InaEL-ZPL.js,01QvReFeJyL.js,01kC46b9vjL.js,81p2R-qXJWL.js,01m0EuyLqIL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,31WkIJjh9AL.js,51D+BomCJLL.js,41GvVRH6GqL.js,31yCF4ftzxL.js,1"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/41UqG0Va6AL.js?AUIClients/BotCXMetricsCollectionJSAsset"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/417KocFVlOL.js?AUIClients/LatencyInteractiveAsset"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/31GtEQnCWeL.js?AUIClients/LoadMonitoringAsset"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/518dRCZrPeL.js?AUIClients/AmazonLightsaberPageAssets"
+    },
+    {
+      "m": "GET",
+      "u": "https://m.media-amazon.com/images/I/81kCF8wuZEL.js?AUIClients/FWCIMAssets"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "idx": 102,
+  "record_id": "recclFbsjbaiVVnnV",
+  "correct_letter": "A",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which sequence of reactions from the following options would lead to the high-yield synthesis of 1-(3-bromo-5-nitrophenyl)ethan-1-one, beginning with benzene? A)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) CH3COCl/AlCl3 ; iv) Br2/FeBr\u2026 B)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) NaNO2/HCl iv) H3PO2; v) Br2/\u2026 C)i) Br2/FeBr3 ; ii) HNO3/H2SO4 ; iii) CH3COCl/AlCl3 ; iv) HNO3/\u2026 D)i) CH3COCl/AlCl3 ; ii) Br2/FeBr3 ; iii) HNO3/H2SO4 ; iv) Fe/HC\u2026 ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which sequence of reactions from the following options would lead to the high-yield synthesis of 1-(3-bromo-5-nitrophenyl)ethan-1-one, beginning with benzene?\nA)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) CH3COCl/AlCl3 ; iv) Br2/FeBr\u2026\nB)i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) NaNO2/HCl iv) H3PO2; v) Br2/\u2026\nC)i) Br2/FeBr3 ; ii) HNO3/H2SO4 ; iii) CH3COCl/AlCl3 ; iv) HNO3/\u2026\nD)i) CH3COCl/AlCl3 ; ii) Br2/FeBr3 ; iii) HNO3/H2SO4 ; iv) Fe/HC\u2026\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) CH3COCl/AlCl3 ; iv) Br2/FeBr3 ; v) HNO3/H2SO4 ; vi) NaNO2/HCl ; vii) H3PO2",
+    "i) HNO3/H2SO4 ; ii) Fe/HCl ; iii) NaNO2/HCl iv) H3PO2; v) Br2/FeBr3 ; vi) CH3COCl/AlCl3 ; vii) HNO3/H2SO4",
+    "i) Br2/FeBr3 ; ii) HNO3/H2SO4 ; iii) CH3COCl/AlCl3 ; iv) HNO3/H2SO4 ; v) Fe/HCl ; vi) NaNO2/HCl ; vii) H3PO2",
+    "i) CH3COCl/AlCl3 ; ii) Br2/FeBr3 ; iii) HNO3/H2SO4 ; iv) Fe/HCl ; v) HNO3/H2SO4 ; vi) NaNO2/HCl ; vii) H3PO2"
+  ]
+}

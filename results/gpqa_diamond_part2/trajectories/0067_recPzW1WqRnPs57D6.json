@@ -1,0 +1,19 @@
+{
+  "idx": 67,
+  "record_id": "recPzW1WqRnPs57D6",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:There is a spin 1/2 particle with magnetic moment mu (= gamma*Sz), aligned with a magnetic field pointing in the +Z direction. Suddenly, the magnetic field is turned off, and another one is turned on along the +Y direction; both fields have the same magnitude, B. The average of the z-component of the particle\u2019s moment starts oscillating. What is its oscillation frequency? A)gamma*B B)gamma*B/2 C)sqrt(2)*gam\u2026 D)gamma*B/sqr\u2026 ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:There is a spin 1/2 particle with magnetic moment mu (= gamma*Sz), aligned with a magnetic field pointing in the +Z direction. Suddenly, the magnetic field is turned off, and another one is turned on along the +Y direction; both fields have the same magnitude, B. The average of the z-component of the particle\u2019s moment starts oscillating. What is its oscillation frequency?\nA)gamma*B\nB)gamma*B/2\nC)sqrt(2)*gam\u2026\nD)gamma*B/sqr\u2026\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "gamma*B",
+    "gamma*B/2",
+    "sqrt(2)*gamma*B",
+    "gamma*B/sqrt(2)"
+  ]
+}

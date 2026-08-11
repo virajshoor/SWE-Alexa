@@ -37,7 +37,7 @@ def main() -> None:
     r.add_argument("--storage", default="artifacts/amazon_storage.json")
     r.add_argument("--local-json", default="data/verified_50.json")
     r.add_argument("--headed", action="store_true")
-    r.add_argument("--model-name", default="amazon-alexa-for-shopping-web")
+    r.add_argument("--model-name", default="Alexa-Rufus-1")
 
     g = sub.add_parser("grade", help="Grade SWE-bench preds.jsonl")
     g.add_argument("--preds", required=True)

@@ -1,0 +1,19 @@
+{
+  "idx": 124,
+  "record_id": "recmwwQJnx7ll7bqL",
+  "correct_letter": "B",
+  "predicted_letter": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Consider a quantum mechanical system containing a particle of mass $m$ moving in an istropic three dimensional potential of the form $V(r) = 1/2 m \\omega^2 r^2$ corresponding to the acted force obeying Hooke\u2019s law. Here, $\\omega$ is the angular frequency of oscillation and $r$ is the radial distance of the particle from the origin in spherical polar coordinate. What\u2026 A)11 \\pi^2 \\h\u2026 B)(9/2) \\hbar\u2026 C)11 \\pi^2 \\h\u2026 D)(9/2) \\hbar\u2026 ANSWER:\nI'm here to help with Amazon shopping questions and general knowledge, but I'm not able to serve as a quiz answer tool. The question also appears to be incomplete \u2014 the answer choices are truncated, so I can't fully evaluate them.\nIs there anything I can help you find or shop for on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Consider a quantum mechanical system containing a particle of mass $m$ moving in an istropic three dimensional potential of the form $V(r) = 1/2 m \\omega^2 r^2$ corresponding to the acted force obeying Hooke\u2019s law. Here, $\\omega$ is the angular frequency of oscillation and $r$ is the radial distance of the particle from the origin in spherical polar coordinate. What\u2026\nA)11 \\pi^2 \\h\u2026\nB)(9/2) \\hbar\u2026\nC)11 \\pi^2 \\h\u2026\nD)(9/2) \\hbar\u2026\nANSWER:",
+  "subdomain": "Quantum Mechanics",
+  "domain": "Physics",
+  "choices": [
+    "11 \\pi^2 \\hbar^2 / (2m r^2), 10",
+    "(9/2) \\hbar \\omega , 10",
+    "11 \\pi^2 \\hbar^2 / (2m r^2), 3",
+    "(9/2) \\hbar \\omega, 3"
+  ]
+}

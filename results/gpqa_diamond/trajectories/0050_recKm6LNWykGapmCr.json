@@ -1,0 +1,19 @@
+{
+  "idx": 50,
+  "record_id": "recKm6LNWykGapmCr",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If a charge q is placed d distance away from the center of a grounded conducting sphere of radius R. Calculate the net potential energy of this system. A)U=- (1/2) kq^2 d/(d^2 +R^2) B)U=-(1/2) kq^2 R^2/(d^2 -R^2) C)U=- (1/2) *kq^2 R/(d^2 -R^2) D)U=- kq^2 d/(d^2 -R^2) ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If a charge q is placed d distance away from the center of a grounded conducting sphere of radius R. Calculate the net potential energy of this system.\nA)U=- (1/2) kq^2 d/(d^2 +R^2)\nB)U=-(1/2) kq^2 R^2/(d^2 -R^2)\nC)U=- (1/2) *kq^2 R/(d^2 -R^2)\nD)U=- kq^2 d/(d^2 -R^2)\nANSWER:",
+  "subdomain": "Electromagnetism and Photonics",
+  "domain": "Physics",
+  "choices": [
+    "U=- (1/2) kq^2 d/(d^2 +R^2)",
+    "U=-(1/2) kq^2 R^2/(d^2 -R^2)",
+    "U=- (1/2) *kq^2 R/(d^2 -R^2)",
+    "U=- kq^2 d/(d^2 -R^2)"
+  ]
+}

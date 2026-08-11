@@ -1,0 +1,19 @@
+{
+  "idx": 149,
+  "record_id": "recvZlMbpPz0yLDle",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A compound with the molecular formula C8H9NO and the given NMR data is reacted with the following set of reagents: 1. NaNO2 + HCl 2. H2O 3. aq. KOH, Heat 1H-NMR (ppm): 9.72 (t, 1H), 6.98 (d, 2H), 6.51 (d, 2H), 6.27 (bs, 2H), 3.66 (d, 2H). Identify the final product. A)2,4-bis(4-hydroxyphenyl)but-2-enal B)2,4-diphenylbut-3-enal C)4-(4-hydroxyphenyl)but-3-enal D)3-hydroxy-2,4-bis(4-hydroxyphenyl)butanal ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A compound with the molecular formula C8H9NO and the given NMR data is reacted with the following set of reagents: 1. NaNO2 + HCl 2. H2O 3. aq. KOH, Heat 1H-NMR (ppm): 9.72 (t, 1H), 6.98 (d, 2H), 6.51 (d, 2H), 6.27 (bs, 2H), 3.66 (d, 2H). Identify the final product.\nA)2,4-bis(4-hydroxyphenyl)but-2-enal\nB)2,4-diphenylbut-3-enal\nC)4-(4-hydroxyphenyl)but-3-enal\nD)3-hydroxy-2,4-bis(4-hydroxyphenyl)butanal\nANSWER:",
+  "subdomain": "Organic Chemistry",
+  "domain": "Chemistry",
+  "choices": [
+    "2,4-bis(4-hydroxyphenyl)but-2-enal",
+    "2,4-diphenylbut-3-enal",
+    "4-(4-hydroxyphenyl)but-3-enal",
+    "3-hydroxy-2,4-bis(4-hydroxyphenyl)butanal"
+  ]
+}
