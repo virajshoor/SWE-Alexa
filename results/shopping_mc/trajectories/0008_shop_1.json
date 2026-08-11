@@ -1,0 +1,23 @@
+{
+  "idx": 8,
+  "record_id": "shop_1",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Buyer reviews of the product",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:On Amazon product pages, what do customer star ratings mainly reflect? A)Warehouse employee scores B)Shipping truck speed only C)Buyer reviews of the product D)Seller credit scores ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:On Amazon product pages, what do customer star ratings mainly reflect?\nA)Warehouse employee scores\nB)Shipping truck speed only\nC)Buyer reviews of the product\nD)Seller credit scores\nANSWER:",
+  "domain": "reviews",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Warehouse employee scores",
+    "Shipping truck speed only",
+    "Buyer reviews of the product",
+    "Seller credit scores"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 30,
+  "record_id": "shop_11",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Higher-rated items",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A product filter for '4 Stars & Up' mainly keeps: A)Only damaged goods B)Higher-rated items C)Only free samples D)Only books from 1800 ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A product filter for '4 Stars & Up' mainly keeps:\nA)Only damaged goods\nB)Higher-rated items\nC)Only free samples\nD)Only books from 1800\nANSWER:",
+  "domain": "filters",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Only damaged goods",
+    "Higher-rated items",
+    "Only free samples",
+    "Only books from 1800"
+  ]
+}

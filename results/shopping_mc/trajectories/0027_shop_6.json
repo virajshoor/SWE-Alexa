@@ -1,0 +1,23 @@
+{
+  "idx": 27,
+  "record_id": "shop_6",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Pay for eligible Amazon purchases",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A gift card for Amazon is primarily used to: A)Pay for eligible Amazon purchases B)Pay property taxes C)Replace a passport D)Unlock phone SIM cards ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A gift card for Amazon is primarily used to:\nA)Pay for eligible Amazon purchases\nB)Pay property taxes\nC)Replace a passport\nD)Unlock phone SIM cards\nANSWER:",
+  "domain": "giftcard",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Pay for eligible Amazon purchases",
+    "Pay property taxes",
+    "Replace a passport",
+    "Unlock phone SIM cards"
+  ]
+}

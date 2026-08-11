@@ -1,0 +1,23 @@
+{
+  "idx": 25,
+  "record_id": "shop_4",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Electronics / Computers",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which category is most related to buying a laptop? A)Electronics / Computers B)Fresh produce only C)Pet grooming only D)Lawn soil only ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which category is most related to buying a laptop?\nA)Electronics / Computers\nB)Fresh produce only\nC)Pet grooming only\nD)Lawn soil only\nANSWER:",
+  "domain": "category",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Electronics / Computers",
+    "Fresh produce only",
+    "Pet grooming only",
+    "Lawn soil only"
+  ]
+}

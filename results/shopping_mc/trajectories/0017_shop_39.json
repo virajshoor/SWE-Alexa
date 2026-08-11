@@ -1,0 +1,23 @@
+{
+  "idx": 17,
+  "record_id": "shop_39",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Compare options or find gifts in a budget",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If Alexa helps while shopping, a typical useful ask is: A)Rewrite a GitHub PR diff B)Compile a Linux kernel patch C)Prove P=NP D)Compare options or find gifts in a budget ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If Alexa helps while shopping, a typical useful ask is:\nA)Rewrite a GitHub PR diff\nB)Compile a Linux kernel patch\nC)Prove P=NP\nD)Compare options or find gifts in a budget\nANSWER:",
+  "domain": "rufus",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Rewrite a GitHub PR diff",
+    "Compile a Linux kernel patch",
+    "Prove P=NP",
+    "Compare options or find gifts in a budget"
+  ]
+}

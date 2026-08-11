@@ -1,0 +1,23 @@
+{
+  "idx": 23,
+  "record_id": "shop_33",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Multiple items sold together",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A 'bundle' listing usually means: A)A single broken spare part B)A canceled order only C)An empty category D)Multiple items sold together ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A 'bundle' listing usually means:\nA)A single broken spare part\nB)A canceled order only\nC)An empty category\nD)Multiple items sold together\nANSWER:",
+  "domain": "bundle",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "A single broken spare part",
+    "A canceled order only",
+    "An empty category",
+    "Multiple items sold together"
+  ]
+}

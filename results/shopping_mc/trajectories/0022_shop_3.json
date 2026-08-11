@@ -1,0 +1,23 @@
+{
+  "idx": 22,
+  "record_id": "shop_3",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "Recurring deliveries of consumable items",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What is Amazon's 'Subscribe & Save' mainly for? A)One-time flash auctions B)Selling used cars only C)Canceling Prime forever D)Recurring deliveries of consumable items ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What is Amazon's 'Subscribe & Save' mainly for?\nA)One-time flash auctions\nB)Selling used cars only\nC)Canceling Prime forever\nD)Recurring deliveries of consumable items\nANSWER:",
+  "domain": "subscribe",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "One-time flash auctions",
+    "Selling used cars only",
+    "Canceling Prime forever",
+    "Recurring deliveries of consumable items"
+  ]
+}

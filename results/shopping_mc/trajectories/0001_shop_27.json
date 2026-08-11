@@ -1,0 +1,23 @@
+{
+  "idx": 1,
+  "record_id": "shop_27",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Address, stock, and membership/fulfillment",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Two-day delivery estimates depend most on: A)Address, stock, and membership/fulfillment B)Your browser theme color C)Desktop wallpaper D)Phone case pattern ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Two-day delivery estimates depend most on:\nA)Address, stock, and membership/fulfillment\nB)Your browser theme color\nC)Desktop wallpaper\nD)Phone case pattern\nANSWER:",
+  "domain": "delivery",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Address, stock, and membership/fulfillment",
+    "Your browser theme color",
+    "Desktop wallpaper",
+    "Phone case pattern"
+  ]
+}

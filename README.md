@@ -34,19 +34,17 @@ Use this string as `model_name` / `model_name_or_path` / `system_name` in preds 
 
 ## Non-code suite (Alexa-Rufus-1)
 
-Balanced slices run in order via `python3 -m swe_alexa bench suite` / `scripts/run_noncode_suite.py`:
+Balanced slices via `scripts/run_noncode_suite.py` (2 workers, quiz-style prompts, ≤500 chars). Aggregate: `results/noncode_suite_summary.json`.
 
-| Benchmark | n | Notes |
-| --- | --- | --- |
-| MMLU-Pro | 80 | 4-option MC |
-| ARC-Challenge | 80 | science MC |
-| OpenBookQA | 80 | science MC |
-| GSM8K | 80 | numeric short answer |
-| TruthfulQA-MC | 80 | truthfulness MC |
-| SimpleQA | 60 | short factual |
-| Shopping-MC | 40 | Amazon/shopping knowledge |
-
-Aggregate: `results/noncode_suite_summary.json`. Per-bench dirs under `results/<name>/`.
+| Benchmark | n | Correct | Accuracy |
+| --- | ---: | ---: | ---: |
+| MMLU-Pro | 80 | 65 | **81.2%** |
+| ARC-Challenge | 80 | 76 | **95.0%** |
+| OpenBookQA | 80 | 70 | **87.5%** |
+| GSM8K | 80 | 50 | **62.5%** |
+| TruthfulQA-MC | 80 | 71 | **88.8%** |
+| SimpleQA | 60 | 23 | **38.3%** |
+| Shopping-MC | 40 | 38 | **95.0%** |
 
 See [RESULTS_DETAILED.md](RESULTS_DETAILED.md) for methodology, probe notes, and per-instance IDs.
 

@@ -1,0 +1,23 @@
+{
+  "idx": 0,
+  "record_id": "shop_0",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Fast free shipping and Prime Video access",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:What does Amazon Prime typically include for eligible items in the US? A)Free gasoline B)Fast free shipping and Prime Video access C)Only bookstore discounts D)Unlimited grocery robots ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:What does Amazon Prime typically include for eligible items in the US?\nA)Free gasoline\nB)Fast free shipping and Prime Video access\nC)Only bookstore discounts\nD)Unlimited grocery robots\nANSWER:",
+  "domain": "prime",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Free gasoline",
+    "Fast free shipping and Prime Video access",
+    "Only bookstore discounts",
+    "Unlimited grocery robots"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 19,
+  "record_id": "shop_17",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "A time-limited discounted offer",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:A 'Lightning Deal' is typically: A)A permanent list price forever B)A tax form C)A time-limited discounted offer D)A return label only ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:A 'Lightning Deal' is typically:\nA)A permanent list price forever\nB)A tax form\nC)A time-limited discounted offer\nD)A return label only\nANSWER:",
+  "domain": "deals",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "A permanent list price forever",
+    "A tax form",
+    "A time-limited discounted offer",
+    "A return label only"
+  ]
+}

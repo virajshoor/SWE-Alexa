@@ -86,3 +86,19 @@ Quiz-style prompts (`Practice quiz (not shopping)… Reply ONLY A/B/C/D`) via th
 | Biology | 6 / 19 (31.6%) |
 
 Artifacts: `results/gpqa_diamond_merged/{summary.json,preds.jsonl,raw_results.json,trajectories/}`.
+
+## Non-code suite (`results/noncode_suite_summary.json`)
+
+Same Alexa-Rufus-1 web chat; balanced sample sizes; prompts compacted to Rufus `maxlength=500`.
+
+| Benchmark | n | Correct | Accuracy | Format |
+| --- | ---: | ---: | ---: | --- |
+| MMLU-Pro | 80 | 65 | 81.2% | MC A–D |
+| ARC-Challenge | 80 | 76 | 95.0% | MC A–D |
+| OpenBookQA | 80 | 70 | 87.5% | MC A–D |
+| GSM8K | 80 | 50 | 62.5% | numeric |
+| TruthfulQA-MC | 80 | 71 | 88.8% | MC A–D |
+| SimpleQA | 60 | 23 | 38.3% | short answer (normalized match) |
+| Shopping-MC | 40 | 38 | 95.0% | MC A–D (Amazon/shopping) |
+
+Artifacts: `results/<benchmark>/{summary.json,preds.jsonl,trajectories/}` and cached slices in `data/*_slice.json`.

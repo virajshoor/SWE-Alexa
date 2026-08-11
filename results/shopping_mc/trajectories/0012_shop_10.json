@@ -1,0 +1,23 @@
+{
+  "idx": 12,
+  "record_id": "shop_10",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Check Order Details / tracking link",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which is the best first step to track a package? A)Buy a new router always B)Check Order Details / tracking link C)Ignore delivery emails D)Reinstall the OS ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which is the best first step to track a package?\nA)Buy a new router always\nB)Check Order Details / tracking link\nC)Ignore delivery emails\nD)Reinstall the OS\nANSWER:",
+  "domain": "tracking",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Buy a new router always",
+    "Check Order Details / tracking link",
+    "Ignore delivery emails",
+    "Reinstall the OS"
+  ]
+}

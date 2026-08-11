@@ -1,0 +1,23 @@
+{
+  "idx": 21,
+  "record_id": "shop_35",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Prescription and health-care products",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Amazon Pharmacy is related to: A)Only video games B)Only lawn tractors C)Prescription and health-care products D)Only concert venues ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Amazon Pharmacy is related to:\nA)Only video games\nB)Only lawn tractors\nC)Prescription and health-care products\nD)Only concert venues\nANSWER:",
+  "domain": "pharmacy",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Only video games",
+    "Only lawn tractors",
+    "Prescription and health-care products",
+    "Only concert venues"
+  ]
+}

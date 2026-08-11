@@ -43,6 +43,13 @@
       "accuracy": 0.38333333333333336,
       "n_ok_replies": 60,
       "out": "results/simpleqa"
+    },
+    "shopping_mc": {
+      "n_instances": 40,
+      "n_correct": 38,
+      "accuracy": 0.95,
+      "n_ok_replies": 40,
+      "out": "results/shopping_mc"
     }
   },
   "order": [

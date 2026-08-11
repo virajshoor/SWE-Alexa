@@ -1,0 +1,23 @@
+{
+  "idx": 29,
+  "record_id": "shop_18",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct_answer": "Shopper questions about the product",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Customer Q&A on a product page is mainly for: A)Changing warehouse robots B)Shopper questions about the product C)Filing lawsuits D)Setting national interest rates ANSWER:\nI don't have specific information about lawsuits or settlements involving Amazon. Amazon Customer Service also doesn't have details about legal proceedings.\nIf you're looking for information about a lawsuit unrelated to Amazon, I'd recommend checking official court documents or the settlement website listed in any official notification you may have received.\nIf you have questions about Amazon legal settlements, visit the following page.\nAmazon Settlement Help\u00a0Page\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Customer Q&A on a product page is mainly for:\nA)Changing warehouse robots\nB)Shopper questions about the product\nC)Filing lawsuits\nD)Setting national interest rates\nANSWER:",
+  "domain": "qa",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Changing warehouse robots",
+    "Shopper questions about the product",
+    "Filing lawsuits",
+    "Setting national interest rates"
+  ]
+}

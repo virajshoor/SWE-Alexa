@@ -1,0 +1,23 @@
+{
+  "idx": 14,
+  "record_id": "shop_14",
+  "benchmark": "shopping_mc",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "Coffee pods or paper towels",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which item is most likely a consumable for Subscribe & Save? A)A single house deed B)A one-of-a-kind painting always C)Coffee pods or paper towels D)A live concert ticket only ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which item is most likely a consumable for Subscribe & Save?\nA)A single house deed\nB)A one-of-a-kind painting always\nC)Coffee pods or paper towels\nD)A live concert ticket only\nANSWER:",
+  "domain": "consumable",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "A single house deed",
+    "A one-of-a-kind painting always",
+    "Coffee pods or paper towels",
+    "A live concert ticket only"
+  ]
+}
