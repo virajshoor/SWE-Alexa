@@ -1,0 +1,23 @@
+{
+  "idx": 50,
+  "record_id": "7-725",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "A",
+  "correct_answer": "stones to weather down to pebbles",
+  "predicted_answer": "A",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Wind can cause A)waterfalls to flow backwards B)stones to weather down to pebbles C)basements to flood due to weather D)small birds to kill large birds ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Wind can cause\nA)waterfalls to flow backwards\nB)stones to weather down to pebbles\nC)basements to flood due to weather\nD)small birds to kill large birds\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "waterfalls to flow backwards",
+    "stones to weather down to pebbles",
+    "basements to flood due to weather",
+    "small birds to kill large birds"
+  ]
+}

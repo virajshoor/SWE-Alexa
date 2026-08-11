@@ -1,0 +1,23 @@
+{
+  "idx": 14,
+  "record_id": "283",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "C",
+  "correct_answer": "a river named after the 38th state to join the union flowing over time",
+  "predicted_answer": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:The Grand Canyon was formed by A)the Great Lakes drying up B)a river named after the 38th state to join the union flowing over time C)a river named after the 20th state to join the union flowing over time D)a volcano erupting in 1782 ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:The Grand Canyon was formed by\nA)the Great Lakes drying up\nB)a river named after the 38th state to join the union flowing over time\nC)a river named after the 20th state to join the union flowing over time\nD)a volcano erupting in 1782\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "the Great Lakes drying up",
+    "a river named after the 38th state to join the union flowing over time",
+    "a river named after the 20th state to join the union flowing over time",
+    "a volcano erupting in 1782"
+  ]
+}

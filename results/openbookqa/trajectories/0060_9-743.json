@@ -1,0 +1,23 @@
+{
+  "idx": 60,
+  "record_id": "9-743",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "a thicket",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:where might a bunny live? A)a sewer system B)a deserted island C)a thicket D)atop palm trees ANSWER:\nRESPONSE:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:where might a bunny live?\nA)a sewer system\nB)a deserted island\nC)a thicket\nD)atop palm trees\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a sewer system",
+    "a deserted island",
+    "a thicket",
+    "atop palm trees"
+  ]
+}

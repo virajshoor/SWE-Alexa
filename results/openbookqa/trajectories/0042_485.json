@@ -1,0 +1,23 @@
+{
+  "idx": 42,
+  "record_id": "485",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "exposed topsoil",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Wind frequently helps transport from one place to another A)exposed topsoil B)subterranean termites C)molten magma D)marble statues ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Wind frequently helps transport from one place to another\nA)exposed topsoil\nB)subterranean termites\nC)molten magma\nD)marble statues\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "exposed topsoil",
+    "subterranean termites",
+    "molten magma",
+    "marble statues"
+  ]
+}

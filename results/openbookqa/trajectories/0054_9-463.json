@@ -1,0 +1,23 @@
+{
+  "idx": 54,
+  "record_id": "9-463",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "C",
+  "correct_answer": "a steak knife",
+  "predicted_answer": "C",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Which is best an letting electricity pass through? A)a steak knife B)hockey stick C)human flesh D)tile flooring ANSWER:\nC\nHuman flesh is a conductor of electricity due to its water and electrolyte content. Is there anything else I can help you with, or are you looking for any products on Amazon today?\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Which is best an letting electricity pass through?\nA)a steak knife\nB)hockey stick\nC)human flesh\nD)tile flooring\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a steak knife",
+    "hockey stick",
+    "human flesh",
+    "tile flooring"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 39,
+  "record_id": "9-1180",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "blood",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Mosquitoes enjoy all the people at a BBQ in the summer for what reason? A)steak B)blood C)taking food D)nice weather ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Mosquitoes enjoy all the people at a BBQ in the summer for what reason?\nA)steak\nB)blood\nC)taking food\nD)nice weather\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "steak",
+    "blood",
+    "taking food",
+    "nice weather"
+  ]
+}

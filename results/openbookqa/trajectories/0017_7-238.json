@@ -1,0 +1,23 @@
+{
+  "idx": 17,
+  "record_id": "7-238",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "summon a brilliant wave of color",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Shining a light through a diamond can A)summon a brilliant wave of color B)make a lot of bright lights shine C)make a lot of money D)heat up a room ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Shining a light through a diamond can\nA)summon a brilliant wave of color\nB)make a lot of bright lights shine\nC)make a lot of money\nD)heat up a room\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "summon a brilliant wave of color",
+    "make a lot of bright lights shine",
+    "make a lot of money",
+    "heat up a room"
+  ]
+}

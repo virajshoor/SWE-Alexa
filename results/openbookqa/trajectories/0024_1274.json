@@ -1,0 +1,23 @@
+{
+  "idx": 24,
+  "record_id": "1274",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "under the ground",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:In which location would a groundhog hide from a wolf? A)in the grass B)under the ground C)on a stump D)beside a tree ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:In which location would a groundhog hide from a wolf?\nA)in the grass\nB)under the ground\nC)on a stump\nD)beside a tree\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "in the grass",
+    "under the ground",
+    "on a stump",
+    "beside a tree"
+  ]
+}

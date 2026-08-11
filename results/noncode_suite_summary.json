@@ -15,6 +15,20 @@
       "accuracy": 0.95,
       "n_ok_replies": 80,
       "out": "results/arc_challenge"
+    },
+    "openbookqa": {
+      "n_instances": 80,
+      "n_correct": 70,
+      "accuracy": 0.875,
+      "n_ok_replies": 80,
+      "out": "results/openbookqa"
+    },
+    "gsm8k": {
+      "n_instances": 80,
+      "n_correct": 50,
+      "accuracy": 0.625,
+      "n_ok_replies": 80,
+      "out": "results/gsm8k"
     }
   },
   "order": [

@@ -1,0 +1,23 @@
+{
+  "idx": 78,
+  "record_id": "9-437",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "B",
+  "predicted_letter": "B",
+  "correct_answer": "Soaring the skies",
+  "predicted_answer": "B",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:You can experience a change of pressure when A)riding a bike B)Soaring the skies C)Going walking D)Yelling really loud ANSWER:\nB\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:You can experience a change of pressure when\nA)riding a bike\nB)Soaring the skies\nC)Going walking\nD)Yelling really loud\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "riding a bike",
+    "Soaring the skies",
+    "Going walking",
+    "Yelling really loud"
+  ]
+}

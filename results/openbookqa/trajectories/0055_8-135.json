@@ -1,0 +1,23 @@
+{
+  "idx": 55,
+  "record_id": "8-135",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "to detect when a traffic light changes",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Eyes allow humans A)detect acrid odors in the air B)detect sour flavors in candy C)hear music at concerts D)to detect when a traffic light changes ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Eyes allow humans\nA)detect acrid odors in the air\nB)detect sour flavors in candy\nC)hear music at concerts\nD)to detect when a traffic light changes\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "detect acrid odors in the air",
+    "detect sour flavors in candy",
+    "hear music at concerts",
+    "to detect when a traffic light changes"
+  ]
+}

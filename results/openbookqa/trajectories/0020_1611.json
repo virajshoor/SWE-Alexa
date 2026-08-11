@@ -1,0 +1,23 @@
+{
+  "idx": 20,
+  "record_id": "1611",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "it may become magnetized",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet? A)it may become magnetized B)it loses its charge C)it loses its magnetization D)it gains a charge ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?\nA)it may become magnetized\nB)it loses its charge\nC)it loses its magnetization\nD)it gains a charge\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "it may become magnetized",
+    "it loses its charge",
+    "it loses its magnetization",
+    "it gains a charge"
+  ]
+}

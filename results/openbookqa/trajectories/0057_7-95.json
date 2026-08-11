@@ -1,0 +1,23 @@
+{
+  "idx": 57,
+  "record_id": "7-95",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "D",
+  "correct_answer": "moisture is pulled upwards",
+  "predicted_answer": "D",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Water levels may decrease on cloudless days because A)water is warmer than the air B)moisture always tries to rise C)moisture is pulled upwards D)air is warmer than water ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Water levels may decrease on cloudless days because\nA)water is warmer than the air\nB)moisture always tries to rise\nC)moisture is pulled upwards\nD)air is warmer than water\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "water is warmer than the air",
+    "moisture always tries to rise",
+    "moisture is pulled upwards",
+    "air is warmer than water"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 5,
+  "record_id": "8-35",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "D",
+  "predicted_letter": "D",
+  "correct_answer": "a wheel with dry brake pads",
+  "predicted_answer": "D",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:which of these would stop a car quicker? A)a wheel with worn brake pads B)a wheel without brake pads C)a wheel with wet brake pads D)a wheel with dry brake pads ANSWER:\nD\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:which of these would stop a car quicker?\nA)a wheel with worn brake pads\nB)a wheel without brake pads\nC)a wheel with wet brake pads\nD)a wheel with dry brake pads\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "a wheel with worn brake pads",
+    "a wheel without brake pads",
+    "a wheel with wet brake pads",
+    "a wheel with dry brake pads"
+  ]
+}

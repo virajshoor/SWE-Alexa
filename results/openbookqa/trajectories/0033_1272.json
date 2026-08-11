@@ -1,0 +1,23 @@
+{
+  "idx": 33,
+  "record_id": "1272",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "C",
+  "predicted_letter": "C",
+  "correct_answer": "bears take a long winter sleep",
+  "predicted_answer": "C",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:Inherited behavior is exhibited when A)rats navigate thru a maze B)seals clap for their trainers C)bears take a long winter sleep D)dogs sit on command ANSWER:\nC\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:Inherited behavior is exhibited when\nA)rats navigate thru a maze\nB)seals clap for their trainers\nC)bears take a long winter sleep\nD)dogs sit on command\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "rats navigate thru a maze",
+    "seals clap for their trainers",
+    "bears take a long winter sleep",
+    "dogs sit on command"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "idx": 12,
+  "record_id": "9-230",
+  "benchmark": "openbookqa",
+  "format": "mc",
+  "correct_letter": "A",
+  "predicted_letter": "A",
+  "correct_answer": "Measure the altitude of the bird using a reference point, such as a tall building.",
+  "predicted_answer": "A",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY one letter A/B/C/D. Q:How could we determine approximately how far a bird is from the ground? A)Measure the altitude of the bird using a reference point, such as a tall building. B)Ask the bird how high it was when it returns back to earth C)Measure the bird's mass D)Identify the species of bird ANSWER:\nA\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY one letter A/B/C/D.\nQ:How could we determine approximately how far a bird is from the ground?\nA)Measure the altitude of the bird using a reference point, such as a tall building.\nB)Ask the bird how high it was when it returns back to earth\nC)Measure the bird's mass\nD)Identify the species of bird\nANSWER:",
+  "domain": "science",
+  "model_name": "Alexa-Rufus-1",
+  "choices": [
+    "Measure the altitude of the bird using a reference point, such as a tall building.",
+    "Ask the bird how high it was when it returns back to earth",
+    "Measure the bird's mass",
+    "Identify the species of bird"
+  ]
+}
