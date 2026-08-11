@@ -1,41 +1,35 @@
-# Publishing Alexa-Rufus-1 results online
+# Publishing Alexa-Rufus-1 results online (Pages-first)
 
-Official boards (**Open LLM Leaderboard**, **Artificial Analysis**, full **MMLU-Pro** Space) require open weights and/or *their* evaluation harness. Alexa-Rufus-1 is a closed shopping assistant evaluated via amazon.com web UI, so those hosts will not auto-list it.
+Primary public surface: **GitHub Pages** at
+[`https://virajshoor.github.io/SWE-Alexa/`](https://virajshoor.github.io/SWE-Alexa/).
 
-## Blockers for public web visibility
+A public Hugging Face **model** repo is optional and **not required** (and may stay private).
+Official Open LLM Leaderboard / Artificial Analysis still cannot auto-list closed Rufus web-UI scores.
 
-1. **Repo is currently private** (`virajshoor/SWE-Alexa`). Public Pages / raw / htmlpreview / HF mirroring of GitHub links require making it **Public**.
-2. **`HF_TOKEN`** is required to create `Alexa-Rufus-1` model + Space on Hugging Face.
-3. Official LLM leaderboards still will not auto-accept closed Rufus web-UI scores.
+## Enable public Pages
 
-## What this repo publishes
+1. Make **https://github.com/virajshoor/SWE-Alexa** public.
+2. **Settings → Pages → Source: GitHub Actions**.
+3. Merge to `main` (or run workflow **Deploy GitHub Pages leaderboard**).
+4. Confirm: `https://virajshoor.github.io/SWE-Alexa/`
 
-1. **GitHub Pages board** — `docs/index.html` (enable Pages: Settings → Pages → GitHub Actions).
-2. **Hugging Face model + Space** — `scripts/publish_to_hf.py` (needs `HF_TOKEN`).
-3. **Structured `.eval_results/` YAML** — Hub-native format with explicit `*_slice*` / `webui` task ids so scores are not mistaken for full official runs.
+## SEO package in `docs/`
 
-## Publish to Hugging Face
+| File | Purpose |
+| --- | --- |
+| `index.html` | Leaderboard with **static** score rows (crawler-friendly), OG/Twitter tags, JSON-LD (`WebSite`, `Dataset`, `ItemList`, `FAQPage`) |
+| `methodology.html` | Indexable methodology / TechArticle |
+| `alexa_rufus_1_scores.json` | Machine-readable scores |
+| `og-cover.jpg` | Social preview image |
+| `sitemap.xml` / `robots.txt` | Crawl hints |
+| `llms.txt` | AI-crawler summary |
 
-```bash
-export HF_TOKEN=hf_...
-# optional:
-# export HF_USERNAME=your-user
-python3 scripts/publish_to_hf.py
-```
+## After go-live (recommended)
 
-Creates/updates:
+- Google Search Console → add property `https://virajshoor.github.io/SWE-Alexa/` → submit `sitemap.xml`
+- Share the canonical URL (OG tags + cover image) when linking from GitHub README / social
 
-- `https://huggingface.co/<user>/Alexa-Rufus-1`
-- `https://huggingface.co/spaces/<user>/Alexa-Rufus-1-benchmarks`
+## Optional HF Space only
 
-## Enable GitHub Pages
-
-After merging to `main` (or running the workflow):
-
-1. Repo **Settings → Pages → Source: GitHub Actions**
-2. Run workflow **Deploy GitHub Pages leaderboard**
-3. Board URL: `https://virajshoor.github.io/SWE-Alexa/`
-
-## Do not submit slice scores as full MMLU-Pro
-
-The MMLU-Pro Space expects the **full** official JSON format and verification that the system is a genuine LM. Our 80-item / 4-option Rufus run is **not** that protocol — do not email it as an official Overall score.
+If you later want a Gradio Space **without** a public model weights repo, you can still run
+`scripts/publish_to_hf.py` for the Space half — but Pages alone is enough for a public benchmark board.

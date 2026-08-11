@@ -9,6 +9,8 @@ artifacts/amazon_storage*.json
 artifacts/probe/*.html
 results/**/screenshots/
 *.png
+!docs/*.png
+!docs/*.jpg
 .DS_Store
 .dotenv
 .env

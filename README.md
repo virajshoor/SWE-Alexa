@@ -91,15 +91,13 @@ PYTHONPATH=. python3 -m swe_alexa bench mmlu_pro --limit 80 --workers 2
 | `RESULTS_DETAILED.md` | Full write-up |
 | `PROBE_REPORT.md` | amazon.com discovery notes |
 
-## Online leaderboard
+## Online leaderboard (GitHub Pages)
 
-Official Open LLM Leaderboard / Artificial Analysis cannot host Alexa-Rufus-1 (closed shopping UI, no open weights).
+Public board (after repo is public + Pages enabled):
+**https://virajshoor.github.io/SWE-Alexa/**
 
-Public board artifacts in this repo:
-
-- GitHub Pages source: [`docs/`](docs/) — enable via **Settings → Pages → GitHub Actions** (workflow `.github/workflows/pages.yml`)
-- Hugging Face publish script: `HF_TOKEN=... python3 scripts/publish_to_hf.py` → model + Gradio Space
-- Details: [`publish/ONLINE_PUBLISH.md`](publish/ONLINE_PUBLISH.md)
+SEO-ready static site in [`docs/`](docs/) (scores in HTML, JSON-LD, sitemap, OG image).
+No public Hugging Face model required. See [`publish/ONLINE_PUBLISH.md`](publish/ONLINE_PUBLISH.md).
 
 ## Limitations
 
