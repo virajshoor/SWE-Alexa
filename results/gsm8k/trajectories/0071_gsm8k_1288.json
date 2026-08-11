@@ -1,0 +1,18 @@
+{
+  "idx": 71,
+  "record_id": "gsm8k_1288",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "34",
+  "predicted_answer": "1960",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Every day Charisma meditates for 15 minutes when she first wakes up and again before she goes to sleep. 5 days a week she practices 1 hour of yoga. in 4 weeks, how much time has she spent on meditation/yoga practice? ANSWER:\n1960 minutes (or 32 hours 40 minutes)\nBreakdown:\n\u2022\nMeditation: 15 min \u00d7 2 \u00d7 28 days = 840 min\n\u2022\nYoga: 60 min \u00d7 5 days/week \u00d7 4 weeks = 1,200 min\n\u2022\nTotal: 840 + 1,200 = 2,040 minutes\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Every day Charisma meditates for 15 minutes when she first wakes up and again before she goes to sleep. 5 days a week she practices 1 hour of yoga. in 4 weeks, how much time has she spent on meditation/yoga practice?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

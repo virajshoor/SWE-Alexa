@@ -29,6 +29,13 @@
       "accuracy": 0.625,
       "n_ok_replies": 80,
       "out": "results/gsm8k"
+    },
+    "truthfulqa_mc": {
+      "n_instances": 80,
+      "n_correct": 71,
+      "accuracy": 0.8875,
+      "n_ok_replies": 80,
+      "out": "results/truthfulqa_mc"
     }
   },
   "order": [

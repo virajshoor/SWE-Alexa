@@ -1,0 +1,18 @@
+{
+  "idx": 50,
+  "record_id": "gsm8k_1011",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "6000",
+  "predicted_answer": "12000",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:A tank has a capacity of 18000 gallons. Wanda and Ms. B decided to pump water from a pond to fill the tank in two days. On the first day, working in shifts, Wanda filled 1/4 of the tank's capacity with water, and Ms. B pumped 3/4 as much water as Wanda pumped into the tank that day. On the second day, Wanda pumped 2/3 of the amount of water she pumped on the previous day, while Ms. B only pumped 1/3 of the number of gallons sh\u2026 ANSWER:\nLet me work through this:\n\u2022\nTank capacity: 18,000 gallons\nDay 1:\n\u2022\nWanda: 1/4 \u00d7 18,000 = 4,500 gal\n\u2022\nMs. B: 3/4 \u00d7 4,500 = 3,375 gal\nDay 2:\n\u2022\nWanda: 2/3 \u00d7 4,500 = 3,000 gal\n\u2022\nMs. B: 1/3 \u00d7 3,375 = 1,125 gal\nTotal: 4,500 + 3,375 + 3,000 + 1,125 = 12,000\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:A tank has a capacity of 18000 gallons. Wanda and Ms. B decided to pump water from a pond to fill the tank in two days. On the first day, working in shifts, Wanda filled 1/4 of the tank's capacity with water, and Ms. B pumped 3/4 as much water as Wanda pumped into the tank that day. On the second day, Wanda pumped 2/3 of the amount of water she pumped on the previous day, while Ms. B only pumped 1/3 of the number of gallons sh\u2026\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 22,
+  "record_id": "gsm8k_605",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "42",
+  "predicted_answer": "42",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:For four hours, Patrick sold 15 cups of lemonade per hour at a price of $0.50 per cup. In the next two hours, he sold 10 cups of lemonade per hour at a price of $0.60 per cup. How much money did Patrick earn, in dollars, from selling lemonade for 6 hours? ANSWER:\n42\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:For four hours, Patrick sold 15 cups of lemonade per hour at a price of $0.50 per cup. In the next two hours, he sold 10 cups of lemonade per hour at a price of $0.60 per cup. How much money did Patrick earn, in dollars, from selling lemonade for 6 hours?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

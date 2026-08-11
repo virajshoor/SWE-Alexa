@@ -1,0 +1,18 @@
+{
+  "idx": 11,
+  "record_id": "gsm8k_1257",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "14",
+  "predicted_answer": "14.00",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Bob thinks he needs 56 popsicle sticks to recreate the Washington Monument for his history project. His favorite popsicles come 8 to a box and cost $2.00 per box. How much will it cost Bob to build his project? ANSWER:\n$14.00\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Bob thinks he needs 56 popsicle sticks to recreate the Washington Monument for his history project. His favorite popsicles come 8 to a box and cost $2.00 per box. How much will it cost Bob to build his project?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

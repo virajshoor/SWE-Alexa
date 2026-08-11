@@ -1,0 +1,18 @@
+{
+  "idx": 54,
+  "record_id": "gsm8k_411",
+  "benchmark": "gsm8k",
+  "format": "numeric",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "1110",
+  "predicted_answer": "1110",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply ONLY the final number. Q:Tim decides to light off some fireworks for the fourth of July. He buys a package of fireworks worth $400 and another pack worth twice that much. He gets a 20% discount on them. He also buys a finale firework that costs $150. How much did he spend in total? ANSWER:\n$1,110\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply ONLY the final number.\nQ:Tim decides to light off some fireworks for the fourth of July. He buys a package of fireworks worth $400 and another pack worth twice that much. He gets a 20% discount on them. He also buys a finale firework that costs $150. How much did he spend in total?\nANSWER:",
+  "domain": "math",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}
