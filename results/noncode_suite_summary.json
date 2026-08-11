@@ -36,6 +36,13 @@
       "accuracy": 0.8875,
       "n_ok_replies": 80,
       "out": "results/truthfulqa_mc"
+    },
+    "simpleqa": {
+      "n_instances": 60,
+      "n_correct": 23,
+      "accuracy": 0.38333333333333336,
+      "n_ok_replies": 60,
+      "out": "results/simpleqa"
     }
   },
   "order": [

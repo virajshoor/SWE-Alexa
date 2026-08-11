@@ -1,0 +1,18 @@
+{
+  "idx": 4,
+  "record_id": "simpleqa_3934",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Wolf's Prairie",
+  "predicted_answer": "Cass (formerly called \"Cass Village\" or \"Cassville\").",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What was the original name of the village of Berrien Springs, Michigan? ANSWER:\nCass (formerly called \"Cass Village\" or \"Cassville\").\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What was the original name of the village of Berrien Springs, Michigan?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 54,
+  "record_id": "simpleqa_3132",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "November 1888",
+  "predicted_answer": "Thinking...",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In which month and year was Sayyid Ghulam Muhiyuddin Ahmed bin Khairuddin Al Hussaini, a famous Indian politician, born? ANSWER:\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In which month and year was Sayyid Ghulam Muhiyuddin Ahmed bin Khairuddin Al Hussaini, a famous Indian politician, born?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

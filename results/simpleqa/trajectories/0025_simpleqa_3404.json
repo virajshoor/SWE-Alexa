@@ -1,0 +1,18 @@
+{
+  "idx": 25,
+  "record_id": "simpleqa_3404",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Eisenhower",
+  "predicted_answer": "Thinking...",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley \"Boots\" Adams, former president of Phillips Petroleum Company? ANSWER:\nThinking...\nRufus is currently generating a response\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley \"Boots\" Adams, former president of Phillips Petroleum Company?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

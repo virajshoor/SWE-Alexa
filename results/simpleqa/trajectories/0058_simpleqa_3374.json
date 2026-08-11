@@ -1,0 +1,18 @@
+{
+  "idx": 58,
+  "record_id": "simpleqa_3374",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Make it hard",
+  "predicted_answer": "\"Make It Hard\"",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:What is the name of Helmut Lang's solo exhibition from 2011 in East Hampton? ANSWER:\n\"Make It Hard\"\nInformed by Suites Culturelles, W Magazine, Dazed, Hyperallergic, nytimes.com\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:What is the name of Helmut Lang's solo exhibition from 2011 in East Hampton?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

@@ -1,0 +1,18 @@
+{
+  "idx": 27,
+  "record_id": "simpleqa_3468",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "January 2008",
+  "predicted_answer": "January 2008",
+  "correct": true,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:On which month and year did the Colombian Cardinal Pedro Rubiano say, \"The only thing left is to kneel down before Chavez!\"? ANSWER:\nJanuary 2008\nInformed by wikipedia.org, catholicnewsagency\u2026, Wikiwand, Religion Wiki, catholic-hierarchy\u2026\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:On which month and year did the Colombian Cardinal Pedro Rubiano say, \"The only thing left is to kneel down before Chavez!\"?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}

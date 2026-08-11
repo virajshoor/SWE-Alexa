@@ -1,0 +1,18 @@
+{
+  "idx": 43,
+  "record_id": "simpleqa_244",
+  "benchmark": "simpleqa",
+  "format": "short",
+  "correct_letter": "",
+  "predicted_letter": null,
+  "correct_answer": "Pamela Milton's uncle",
+  "predicted_answer": "The search results don't include the specific detail about whose uncle Connie got kicked out of Congress. I don't want to guess and give you an incorrect answer. I'd recommend checking a detailed episode recap on a site like the Walking Dead Wiki or The Cinemaholic for that specific detail.",
+  "correct": false,
+  "ok": true,
+  "error": "",
+  "raw_response": "Not Viraj Shoor? Switch Profile\nHow can I help?\nDesign merch with AI\nTrack orders\nFind a gift\nQuestions while you shop? Ask away!\nWhat should I treat myself to?\nRecommend summer essentials under $25\nWhat do my purchases say about me?\nCustomer question\nPractice quiz (not shopping). Reply with a short exact answer only. Q:In TWD Season 11, Episode 10, we learn that Connie got whose uncle kicked out of Congress before the apocalypse? ANSWER:\nThe search results don't include the specific detail about whose uncle Connie got kicked out of Congress. I don't want to guess and give you an incorrect answer. I'd recommend checking a detailed episode recap on a site like the Walking Dead Wiki or The Cinemaholic for that specific detail.\nInformed by Walking Dead Wiki, wikipedia.org, The Cinemaholic, IMDb, Wikiwand\nScheduled actions\nAutomate shopping, discovery, and savings",
+  "prompt": "Practice quiz (not shopping). Reply with a short exact answer only.\nQ:In TWD Season 11, Episode 10, we learn that Connie got whose uncle kicked out of Congress before the apocalypse?\nANSWER:",
+  "domain": "factual",
+  "model_name": "Alexa-Rufus-1",
+  "choices": []
+}
